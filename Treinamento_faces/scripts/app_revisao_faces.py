@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*- 
-#oi tudo bem
 from __future__ import annotations
 
 import os
