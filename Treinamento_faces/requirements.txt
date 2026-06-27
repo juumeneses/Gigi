@@ -1,0 +1,14 @@
+streamlit
+mediapipe==0.10.21
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+pandas
+pillow
+tqdm
+scikit-learn
+matplotlib
+torch
+torchvision
+gdown
+joblib
+requests

@@ -1,0 +1,17 @@
+# Configuração inicial do treinamento de faces
+# Coloque novos anos em: dados_originais/faces/<ANO>/
+# Padrão esperado: ANO_NUMERO_INICIAIS_FFN.jpg/png
+
+project_root: .
+input_faces_dir: dados_originais/faces
+years: [2023]
+filename_pattern: "^(?P<ano>\d{4})_(?P<num>\d+)_(?P<iniciais>[A-Za-z]+)_(?P<tipo>FFN)\.(?P<ext>jpg|jpeg|png)$"
+landmarks:
+  model: mediapipe_face_mesh
+  max_num_faces: 1
+  refine_landmarks: true
+  min_detection_confidence: 0.5
+outputs:
+  checks_dir: resultados/checks
+  landmarks_dir: resultados/landmarks_faces
+  reports_dir: resultados/relatorios
