@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- 
+#oi tudo bem
 from __future__ import annotations
 
 import os
@@ -10,7 +11,7 @@ import html
 import subprocess
 import sys
 import time
-from pathlib import Path
+from pathlib import Path 
 
 import cv2
 import numpy as np
