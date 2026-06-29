@@ -3,6 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 import json, shutil
+import os
 import cv2
 import numpy as np
 import pandas as pd
@@ -46,6 +47,7 @@ def images_dir(root,year): return year_dir(root,year)/'images'
 def marks_dir(root,year): return year_dir(root,year)/'marcacoes_landmarks'
 def previews_dir(root,year): return marks_dir(root,year)/'previews'
 def corrected_dir(root,year): return year_dir(root,year)/'images_melhoradas_nitidez'
+def normalized_images_dir(root,year): return year_dir(root,year)/'images_normalizadas_nitidez'
 def backup_dir(root,year): return year_dir(root,year)/'backup_originais_nitidez'
 def genero_dir(root): return resultados_root(root)/'genero_faces'
 def matching_features_dir(root): return resultados_root(root)/'features_matching_faces'
@@ -80,8 +82,13 @@ def write_image(path,image):
     ok,enc=cv2.imencode(ext,image)
     if not ok: return False
     enc.tofile(str(path)); return True
+def use_normalized_images():
+    return str(os.environ.get('FACES_USE_NORMALIZED','')).strip().upper() in ['1','TRUE','SIM','YES']
+def image_source_dir(root,year):
+    norm=normalized_images_dir(root,year)
+    return norm if use_normalized_images() and norm.exists() else images_dir(root,year)
 def list_images_for_year(root,year):
-    d=images_dir(root,year)
+    d=image_source_dir(root,year)
     if not d.exists(): return []
     return sorted([p for p in d.iterdir() if is_original_face_image(p)])
 def is_generated_image_file(path):

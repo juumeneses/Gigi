@@ -1,0 +1,3 @@
+﻿run_id,timestamp,tipo,parametros_json,modelo,n_individuos,n_silhuetas,accuracy,f1_masculino,comparados,acertos,divergencias,indefinidos,acertos_pct,divergencias_pct,indefinidos_pct
+cranio_genero_sklearn_20260628_234035,2026-06-28T23:40:35.954119,genero_cranio,"{""backend"": ""sklearn"", ""image_size"": 64, ""min_samples"": 20}",sklearn_logistic_silhueta_64_media_vistas,733,2199,0.646739,0.575163,733,666,60,7,90.86,8.19,0.95
+cranio_genero_vgg16_20260629_002108,2026-06-29T00:21:08.658711,genero_cranio,"{""backend"": ""vgg16"", ""batch_size"": 8, ""epochs"": 8, ""image_size"": 128, ""min_samples"": 20, ""weights"": ""imagenet""}",vgg16_imagenet_silhueta_128_head_media_vistas,731,2193,0.743169,0.696774,731,569,118,44,77.84,16.14,6.02

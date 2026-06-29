@@ -8,9 +8,10 @@ As imagens originais e as marcacoes sao armazenadas com Git LFS. Ambientes virtu
 
 ```text
 Gigi/
+  Painel_Geral/
   Treinamento_faces/
-  Treinamento_cranios/  # futuro
-  Matching/             # futuro
+  Treinamento_cranios/
+  Matching_cranio_face/
 ```
 
 ## Primeiro uso em um computador
@@ -33,6 +34,59 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m streamlit run scripts/app_revisao_faces.py
+```
+
+### Painel geral
+
+Na raiz do projeto, abre um painel com Face, Crânio e Matching no topo:
+
+```bash
+cd /Users/giovanni/Documents/GitHub/Gigi
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install --no-compile -r requirements.txt
+python -m streamlit run app.py --server.address 0.0.0.0 --server.port 8500
+```
+
+Depois que a `.venv` da raiz ja existir, basta:
+
+```bash
+cd /Users/giovanni/Documents/GitHub/Gigi
+.venv/bin/python -m streamlit run app.py --server.address 0.0.0.0 --server.port 8500
+```
+
+### Crânios no macOS ou Linux
+
+```bash
+cd Treinamento_cranios
+python -m pip install -r requirements_cranios.txt
+python -m streamlit run scripts/app_revisao_cranios.py
+```
+
+Pipeline de crânios:
+
+```bash
+cd Treinamento_cranios
+python scripts/run_pipeline_cranios.py --root .
+```
+
+Treino de gênero/sexo craniano separado:
+
+```bash
+cd Treinamento_cranios
+python scripts/05_preparar_silhuetas_sexo_cranio.py --root .
+python scripts/06_juntar_genero_faces_cranios.py --root . --faces-root ../Treinamento_faces
+python scripts/07_treinar_sexo_cranio.py --root .
+python scripts/08_exportar_features_cranios_final.py --root .
+```
+
+### Matching crânio-face
+
+```bash
+cd Matching_cranio_face
+python -m pip install -r requirements_matching.txt
+python -m streamlit run scripts/app_matching_cranio_face.py
 ```
 
 ### Faces no Windows PowerShell

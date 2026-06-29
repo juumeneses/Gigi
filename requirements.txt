@@ -1,0 +1,4 @@
+-c constraints.txt
+-r Treinamento_faces/requirements.txt
+-r Treinamento_cranios/requirements_cranios.txt
+-r Matching_cranio_face/requirements_matching.txt

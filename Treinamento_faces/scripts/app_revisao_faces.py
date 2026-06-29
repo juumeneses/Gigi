@@ -47,6 +47,7 @@ st.markdown(
 
 SCRIPTS={
     'pipeline':'run_pipeline_faces.py',
+    'preprocess':'13_preprocess_faces_normalizadas.py',
     'check':'00_checar_dataset_faces.py',
     'landmarks':'01_extrair_landmarks_faces.py',
     'medidas':'02_gerar_medidas_faces.py',
@@ -59,6 +60,7 @@ SCRIPTS={
     'treinar_genero':'09_treinar_modelo_genero_faces.py',
     'comparar_genero':'10_comparar_genero_fairface_modelo.py',
     'exportar_genero':'11_exportar_matching_faces_com_genero.py',
+    'exportar_faces_final':'12_exportar_features_faces_final.py',
 }
 
 
@@ -508,17 +510,27 @@ def page_pipeline(root,years):
     st_df(overview_counts(root,years),240)
     sel=st.multiselect('Anos',years,default=years)
     yrs=sel if sel and len(sel)!=len(years) else None
+    use_norm=st.checkbox('Usar imagens normalizadas no pipeline', value=False, help='Quando marcado, a extração de landmarks lê images_normalizadas_nitidez se existir.')
+    st.subheader('Pré-processamento')
+    p1,p2,p3=st.columns([1,1,2])
+    force_norm=p1.checkbox('Refazer normalizadas', key='faces_force_norm')
+    sharpen=p2.slider('Nitidez', 0.0, 1.2, 0.55, 0.05, key='faces_sharpen')
+    if p3.button('Gerar images_normalizadas_nitidez', type='primary'):
+        run_command_live(build_cmd(root,'preprocess',yrs,force_norm,extra=['--sharpen',str(float(sharpen))]),root,'Normalizar faces')
+    norm_log=read_csv_safe(resultados_root(root)/'checks'/'preprocess_faces_normalizadas.csv')
+    if not norm_log.empty:
+        st_df(norm_log.tail(200),220)
     a,b,c=st.columns([1,1,1])
     with a:
         if st.button('Retomar pipeline faltantes', type='primary', help='Não usa force. Continua do que já existe e processa o que falta.'):
-            rc=run_command_live(build_cmd(root,'pipeline',yrs,False),root,'Pipeline retomar')
+            rc=run_command_live(build_cmd(root,'pipeline',yrs,False,extra=['--use-normalized'] if use_norm else None),root,'Pipeline retomar')
             if rc==0:
                 st.subheader('Resumo atualizado')
                 st_df(overview_counts(root,discover_years(root)),240)
                 st_df(load_all_analysis(root,discover_years(root)),420)
     with b:
         if st.button('Refazer pipeline com force', help='Usa --force na extração de landmarks/previews e depois recalcula as etapas seguintes.'):
-            rc=run_command_live(build_cmd(root,'pipeline',yrs,True),root,'Pipeline force')
+            rc=run_command_live(build_cmd(root,'pipeline',yrs,True,extra=['--use-normalized'] if use_norm else None),root,'Pipeline force')
             if rc==0:
                 st.subheader('Resumo atualizado')
                 st_df(overview_counts(root,discover_years(root)),240)
@@ -532,12 +544,14 @@ def page_pipeline(root,years):
     etapa=st.selectbox('Etapa individual',[('check','Checar dataset'),('landmarks','Extrair landmarks'),('medidas','Gerar medidas'),('analise','Analisar padrões'),('html','Gerar relatório HTML')],format_func=lambda x:x[1])
     e1,e2=st.columns(2)
     if e1.button('Rodar etapa selecionada: faltantes'):
-        rc=run_command_live(build_cmd(root,etapa[0],yrs,False),root,etapa[1])
+        extra=['--use-normalized'] if use_norm and etapa[0]=='landmarks' else None
+        rc=run_command_live(build_cmd(root,etapa[0],yrs,False,extra=extra),root,etapa[1])
         if rc==0:
             st.subheader('Resumo atualizado')
             st_df(overview_counts(root,discover_years(root)),240)
     if e2.button('Rodar etapa selecionada: force'):
-        rc=run_command_live(build_cmd(root,etapa[0],yrs,True if etapa[0] in ['landmarks','fairface'] else False),root,f'{etapa[1]} force')
+        extra=['--use-normalized'] if use_norm and etapa[0]=='landmarks' else None
+        rc=run_command_live(build_cmd(root,etapa[0],yrs,True if etapa[0] in ['landmarks','fairface'] else False,extra=extra),root,f'{etapa[1]} force')
         if rc==0:
             st.subheader('Resumo atualizado')
             st_df(overview_counts(root,discover_years(root)),240)

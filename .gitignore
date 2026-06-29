@@ -35,9 +35,10 @@
 **/resultados/relatorios/
 **/images_corrigidas_auto/
 **/images_melhoradas_nitidez/
+**/images_normalizadas_nitidez/
+**/cranios_normalizados_pb/
 **/backup_originais_auto/
 **/backup_originais_nitidez/
 
 # Segredos locais do Streamlit (manter config.toml versionado)
 **/.streamlit/secrets.toml
-

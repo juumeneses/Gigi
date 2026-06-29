@@ -14,7 +14,9 @@ def save_lm(root,y,p,img,lms):
         cx,cy=cran.x_px.mean(),cran.y_px.mean(); scale=max(cran.x_px.max()-cran.x_px.min(),cran.y_px.max()-cran.y_px.min(),1.0); cran['x_norm_centro']=(cran.x_px-cx)/scale; cran['y_norm_centro']=(cran.y_px-cy)/scale
     safe_to_csv(cran,md/'contorno_cranio_like_csv'/f'{stem}_contorno_cranio_like.csv'); write_image(preview_path(root,y,stem),draw_landmarks_preview(img,lms))
 def main():
-    ap=argparse.ArgumentParser(); ap.add_argument('--root',default='.'); ap.add_argument('--years',nargs='*'); ap.add_argument('--force',action='store_true'); args=ap.parse_args(); root=as_root(args.root); ensure_base_dirs(root); fails=[]
+    ap=argparse.ArgumentParser(); ap.add_argument('--root',default='.'); ap.add_argument('--years',nargs='*'); ap.add_argument('--force',action='store_true'); ap.add_argument('--use-normalized',action='store_true'); args=ap.parse_args()
+    if args.use_normalized: os.environ['FACES_USE_NORMALIZED']='1'
+    root=as_root(args.root); ensure_base_dirs(root); fails=[]
     with mp.solutions.face_mesh.FaceMesh(static_image_mode=True,max_num_faces=1,refine_landmarks=True,min_detection_confidence=.5) as fm:
         for y in discover_years(root,args.years):
             prepare_year(root,y); sums=[]; fl=[]
