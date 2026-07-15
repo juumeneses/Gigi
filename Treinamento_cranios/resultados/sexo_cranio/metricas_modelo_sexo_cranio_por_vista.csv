@@ -1,0 +1,4 @@
+﻿run_id,modelo,lado,n_vistas_teste,accuracy,accuracy_pct,f1_masculino,f1_pct
+cranio_genero_article_vgg16_20260630_035739,article_vgg16_imagenet_silhueta_256_aug_flip_rot5_voto_3vistas,CD,183,0.644809,64.48,0.380952,38.1
+cranio_genero_article_vgg16_20260630_035739,article_vgg16_imagenet_silhueta_256_aug_flip_rot5_voto_3vistas,CE,183,0.650273,65.03,0.372549,37.25
+cranio_genero_article_vgg16_20260630_035739,article_vgg16_imagenet_silhueta_256_aug_flip_rot5_voto_3vistas,CF,183,0.677596,67.76,0.253165,25.32

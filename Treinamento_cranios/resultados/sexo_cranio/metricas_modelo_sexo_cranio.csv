@@ -1,0 +1,2 @@
+﻿run_id,modelo,n_individuos,n_silhuetas,n_treino_individuos,n_teste_individuos,n_treino_aug,accuracy,f1_masculino,precision_masculino,recall_masculino,accuracy_pct,f1_pct,precision_pct,recall_pct,melhor_val_accuracy_pct
+cranio_genero_article_vgg16_20260630_035739,article_vgg16_imagenet_silhueta_256_aug_flip_rot5_voto_3vistas,731,2193,548,183,6576,0.661202,0.27907,0.6,0.181818,66.12,27.91,60.0,18.18,67.33
