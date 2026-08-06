@@ -17,6 +17,14 @@ import pandas as pd
 
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff", ".webp"}
 SIDES = ("CF", "CE", "CD")
+NORMALIZATION_ORIGINAL = "original"
+NORMALIZATION_KINDS = (
+    "atual",
+    "monografia_equalizacao",
+    "clahe_suave",
+    "percentile_clip",
+    "crop_pad_percentile",
+)
 
 
 def as_root(root=".") -> Path:
@@ -31,6 +39,10 @@ def normalizados_root(root: Path) -> Path:
     return root / "cranios_normalizados_pb"
 
 
+def normalized_variants_root(root: Path) -> Path:
+    return root / "cranios_normalizados_variantes"
+
+
 def resultados_root(root: Path) -> Path:
     return root / "resultados"
 
@@ -41,6 +53,10 @@ def side_dir(root: Path, year: str, side: str) -> Path:
 
 def normalized_side_dir(root: Path, year: str, side: str) -> Path:
     return normalizados_root(root) / str(year) / side.upper()
+
+
+def normalized_variant_side_dir(root: Path, kind: str, year: str, side: str) -> Path:
+    return normalized_variants_root(root) / str(kind) / str(year) / side.upper()
 
 
 def checks_dir(root: Path) -> Path:
@@ -127,9 +143,29 @@ def use_normalized_images() -> bool:
     return str(os.environ.get("CRANIOS_USE_NORMALIZED", "")).strip().upper() in {"1", "TRUE", "SIM", "YES"}
 
 
+def normalization_kind() -> str:
+    kind = str(os.environ.get("CRANIOS_NORMALIZATION_KIND", "")).strip()
+    if not kind and use_normalized_images():
+        kind = "atual"
+    if not kind:
+        return NORMALIZATION_ORIGINAL
+    if kind == NORMALIZATION_ORIGINAL or kind in NORMALIZATION_KINDS:
+        return kind
+    return NORMALIZATION_ORIGINAL
+
+
+def normalized_kind_dir(root: Path, kind: str, year: str, side: str) -> Path:
+    if kind == "atual":
+        legacy = normalized_side_dir(root, year, side)
+        variant = normalized_variant_side_dir(root, kind, year, side)
+        return variant if variant.exists() else legacy
+    return normalized_variant_side_dir(root, kind, year, side)
+
+
 def image_source_dir(root: Path, year: str, side: str) -> Path:
-    norm = normalized_side_dir(root, year, side)
-    if use_normalized_images() and norm.exists():
+    kind = normalization_kind()
+    norm = normalized_kind_dir(root, kind, year, side)
+    if kind != NORMALIZATION_ORIGINAL and norm.exists():
         return norm
     return side_dir(root, year, side)
 

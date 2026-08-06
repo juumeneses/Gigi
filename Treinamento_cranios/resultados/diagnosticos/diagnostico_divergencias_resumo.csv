@@ -1,0 +1,76 @@
+ano,id_pessoa,normalizacao,genero_face,genero_cranio,prob_masculino_pct,confianca_cranio,ce_direcao,cd_direcao,ce_orient_conf,cd_orient_conf,flags,n_flags
+2021,2021_16_ARRDS,crop_pad_percentile,FEMININO,MASCULINO,44.98,BAIXA,direita,esquerda,0.001,0.04,CF_original_possivel_corte; CF_normalizada_possivel_corte; CF_segmentacao_suspeita; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,7
+2017,2017_4_AC,crop_pad_percentile,FEMININO,MASCULINO,36.68,BAIXA,direita,direita,0.058,0.064,CF_original_borrada; CE_original_borrada; CE_normalizada_possivel_corte; CD_original_borrada; CD_normalizada_possivel_corte; CE_CD_mesma_direcao_visual_direita,6
+2019,2019_121_GLBSB,crop_pad_percentile,FEMININO,MASCULINO,51.51,INDEFINIDO,esquerda,direita,0.04,0.044,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2019,2019_207_RDAM,crop_pad_percentile,FEMININO,MASCULINO,67.37,MEDIA,direita,direita,0.022,0.051,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2019,2019_234_SFLL,crop_pad_percentile,FEMININO,MASCULINO,81.79,ALTA,esquerda,direita,0.044,0.082,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2021,2021_70_MCT,crop_pad_percentile,MASCULINO,FEMININO,29.89,MEDIA,direita,esquerda,0.024,0.036,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CE_segmentacao_suspeita; CD_original_possivel_corte,6
+2022,2022_118_MRAB,crop_pad_percentile,FEMININO,MASCULINO,67.23,MEDIA,direita,esquerda,0.101,0.117,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2022,2022_62_GADMB,crop_pad_percentile,FEMININO,MASCULINO,39.79,BAIXA,direita,esquerda,0.083,0.089,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2023,2023_105_MLR,crop_pad_percentile,MASCULINO,FEMININO,31.17,MEDIA,esquerda,direita,0.104,0.111,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2023,2023_44_DKSDL,crop_pad_percentile,MASCULINO,FEMININO,25.06,MEDIA,esquerda,direita,0.107,0.119,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2023,2023_9_ADJSO,crop_pad_percentile,FEMININO,MASCULINO,41.55,BAIXA,direita,esquerda,0.065,0.143,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2017,2017_33_FD,crop_pad_percentile,FEMININO,MASCULINO,44.29,BAIXA,,direita,0.0,0.043,faltando_original_CF+CE; faltando_normalizada_CF+CE; CD_original_borrada; CD_original_possivel_corte; CD_normalizada_possivel_corte,5
+2021,2021_19_BCLMF,crop_pad_percentile,FEMININO,MASCULINO,37.0,BAIXA,direita,esquerda,0.074,0.085,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,5
+2021,2021_63_LGDM,crop_pad_percentile,FEMININO,MASCULINO,60.81,BAIXA,direita,esquerda,0.013,0.043,CF_original_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,5
+2022,2022_108_MDBR,crop_pad_percentile,FEMININO,MASCULINO,43.75,BAIXA,direita,direita,0.043,0.011,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,5
+2022,2022_135_RACDS,crop_pad_percentile,MASCULINO,FEMININO,26.7,MEDIA,direita,esquerda,0.106,0.059,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte,5
+2017,2017_96_TF,crop_pad_percentile,FEMININO,MASCULINO,62.49,BAIXA,esquerda,direita,0.027,0.04,CF_original_borrada; CF_normalizada_possivel_corte; CE_original_borrada; CD_original_borrada,4
+2019,2019_3_ACCM,crop_pad_percentile,FEMININO,MASCULINO,87.96,ALTA,esquerda,direita,0.035,0.081,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2019,2019_68_FGL,crop_pad_percentile,FEMININO,MASCULINO,50.51,INDEFINIDO,direita,esquerda,0.047,0.063,CF_original_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte,4
+2021,2021_98_TSDA,crop_pad_percentile,FEMININO,MASCULINO,65.1,MEDIA,esquerda,direita,0.043,0.079,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2022,2022_138_RCCA,crop_pad_percentile,MASCULINO,FEMININO,18.12,ALTA,direita,esquerda,0.125,0.081,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2022,2022_144_ROFP,crop_pad_percentile,MASCULINO,FEMININO,17.46,ALTA,direita,esquerda,0.123,0.105,CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_normalizada_possivel_corte,4
+2022,2022_72_INR,crop_pad_percentile,FEMININO,MASCULINO,55.88,BAIXA,direita,esquerda,0.052,0.114,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2023,2023_108_MQL,crop_pad_percentile,FEMININO,MASCULINO,58.25,BAIXA,direita,esquerda,0.127,0.076,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2023,2023_46_DRL,crop_pad_percentile,FEMININO,MASCULINO,57.16,BAIXA,esquerda,direita,0.065,0.074,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2023,2023_55_EVDSL,crop_pad_percentile,FEMININO,MASCULINO,67.46,MEDIA,direita,esquerda,0.025,0.012,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CD_original_possivel_corte,4
+2017,2017_5_AL,crop_pad_percentile,FEMININO,MASCULINO,45.27,INDEFINIDO,direita,direita,0.012,0.062,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2017,2017_70_MLBDA,crop_pad_percentile,FEMININO,MASCULINO,51.25,INDEFINIDO,esquerda,direita,0.051,0.063,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2017,2017_75_MTGP,crop_pad_percentile,FEMININO,MASCULINO,49.94,INDEFINIDO,direita,direita,0.004,0.053,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2017,2017_89_SDSSC,crop_pad_percentile,FEMININO,MASCULINO,45.19,INDEFINIDO,esquerda,direita,0.019,0.076,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2021,2021_14_ARCDC,crop_pad_percentile,FEMININO,MASCULINO,53.58,INDEFINIDO,direita,direita,0.004,0.019,CF_original_possivel_corte; CE_original_possivel_corte; CD_original_possivel_corte,3
+2022,2022_104_MCAS,crop_pad_percentile,MASCULINO,FEMININO,16.6,ALTA,direita,esquerda,0.11,0.1,CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte,3
+2022,2022_11_ANA,crop_pad_percentile,FEMININO,MASCULINO,58.39,BAIXA,direita,esquerda,0.035,0.115,CE_original_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,3
+2022,2022_149_SDOP,crop_pad_percentile,FEMININO,MASCULINO,45.82,INDEFINIDO,direita,esquerda,0.052,0.076,CF_normalizada_possivel_corte; CE_original_possivel_corte; CD_original_possivel_corte,3
+2022,2022_78_JESA,crop_pad_percentile,MASCULINO,FEMININO,4.67,ALTA,direita,esquerda,0.065,0.01,CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte,3
+2023,2023_81_JTDAC,crop_pad_percentile,FEMININO,MASCULINO,45.36,INDEFINIDO,direita,esquerda,0.052,0.137,CF_normalizada_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte,3
+2023,2023_92_MADA,crop_pad_percentile,FEMININO,MASCULINO,71.04,MEDIA,direita,esquerda,0.053,0.133,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_normalizada_possivel_corte,3
+2023,2023_94_MBRB,crop_pad_percentile,FEMININO,MASCULINO,61.53,BAIXA,direita,esquerda,0.015,0.082,CF_original_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte,3
+2023,2023_99_MGDSN,crop_pad_percentile,FEMININO,MASCULINO,61.92,BAIXA,direita,esquerda,0.028,0.186,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte,3
+2019,2019_108_JMPC,crop_pad_percentile,FEMININO,MASCULINO,37.98,BAIXA,esquerda,direita,0.045,0.05,CF_original_possivel_corte; CF_normalizada_possivel_corte,2
+2019,2019_138_LVL,crop_pad_percentile,FEMININO,MASCULINO,49.02,INDEFINIDO,esquerda,direita,0.043,0.063,CE_normalizada_possivel_corte; CD_normalizada_possivel_corte,2
+2019,2019_225_TMT,crop_pad_percentile,FEMININO,MASCULINO,52.64,INDEFINIDO,direita,esquerda,0.096,0.093,CE_original_possivel_corte; CE_normalizada_possivel_corte,2
+2021,2021_21_BRB,crop_pad_percentile,FEMININO,MASCULINO,42.62,BAIXA,direita,esquerda,0.002,0.063,CE_original_possivel_corte; CE_normalizada_possivel_corte,2
+2021,2021_50_HDDSS,crop_pad_percentile,MASCULINO,FEMININO,28.51,MEDIA,direita,esquerda,0.184,0.153,CE_original_possivel_corte; CE_normalizada_possivel_corte,2
+2022,2022_146_RSV,crop_pad_percentile,FEMININO,MASCULINO,39.44,BAIXA,direita,esquerda,0.038,0.033,CF_normalizada_possivel_corte; CE_original_possivel_corte,2
+2022,2022_153_SPS,crop_pad_percentile,FEMININO,MASCULINO,35.46,BAIXA,direita,esquerda,0.056,0.054,CE_original_possivel_corte; CE_normalizada_possivel_corte,2
+2022,2022_27_CMDRDS,crop_pad_percentile,FEMININO,MASCULINO,41.1,BAIXA,direita,esquerda,0.107,0.075,CE_normalizada_possivel_corte; CD_normalizada_possivel_corte,2
+2022,2022_48_EDSF,crop_pad_percentile,FEMININO,MASCULINO,51.14,INDEFINIDO,direita,esquerda,0.016,0.02,CF_original_possivel_corte; CE_normalizada_possivel_corte,2
+2022,2022_64_GOC,crop_pad_percentile,FEMININO,MASCULINO,37.86,BAIXA,direita,esquerda,0.081,0.077,CD_original_possivel_corte; CD_normalizada_possivel_corte,2
+2023,2023_115_PA,crop_pad_percentile,FEMININO,MASCULINO,68.9,MEDIA,,,0.0,0.0,faltando_original_CF+CE+CD; faltando_normalizada_CF+CE+CD,2
+2019,2019_188_PDA,crop_pad_percentile,FEMININO,MASCULINO,37.33,BAIXA,esquerda,direita,0.074,0.098,CF_normalizada_possivel_corte,1
+2019,2019_191_PLB,crop_pad_percentile,FEMININO,MASCULINO,36.81,BAIXA,direita,direita,0.022,0.039,CF_normalizada_possivel_corte,1
+2019,2019_1_AAC,crop_pad_percentile,FEMININO,MASCULINO,67.75,MEDIA,esquerda,esquerda,0.005,0.008,CF_normalizada_possivel_corte,1
+2021,2021_38_FHDM,crop_pad_percentile,MASCULINO,FEMININO,18.31,ALTA,direita,esquerda,0.052,0.084,CF_original_possivel_corte,1
+2022,2022_105_MCB,crop_pad_percentile,MASCULINO,FEMININO,34.9,MEDIA,direita,esquerda,0.034,0.052,CE_normalizada_possivel_corte,1
+2022,2022_115_MJPDB,crop_pad_percentile,FEMININO,MASCULINO,45.76,INDEFINIDO,direita,esquerda,0.052,0.017,CE_original_possivel_corte,1
+2022,2022_16_ASS,crop_pad_percentile,MASCULINO,FEMININO,34.61,MEDIA,direita,esquerda,0.047,0.114,CE_original_possivel_corte,1
+2023,2023_74_JBC,crop_pad_percentile,FEMININO,MASCULINO,47.44,INDEFINIDO,direita,esquerda,0.019,0.071,CF_original_possivel_corte,1
+2019,2019_105_JGM,crop_pad_percentile,FEMININO,MASCULINO,36.96,BAIXA,esquerda,direita,0.078,0.087,sem_alerta_automatico,0
+2019,2019_117_KRMV,crop_pad_percentile,FEMININO,MASCULINO,51.64,INDEFINIDO,esquerda,direita,0.026,0.039,sem_alerta_automatico,0
+2019,2019_11_AHB,crop_pad_percentile,FEMININO,MASCULINO,67.39,MEDIA,esquerda,direita,0.009,0.017,sem_alerta_automatico,0
+2019,2019_124_LGB,crop_pad_percentile,FEMININO,MASCULINO,48.27,INDEFINIDO,esquerda,direita,0.056,0.094,sem_alerta_automatico,0
+2019,2019_143_MAM,crop_pad_percentile,MASCULINO,FEMININO,5.71,ALTA,direita,esquerda,0.145,0.13,sem_alerta_automatico,0
+2019,2019_155_MFCS,crop_pad_percentile,FEMININO,MASCULINO,36.76,BAIXA,direita,esquerda,0.014,0.022,sem_alerta_automatico,0
+2019,2019_160_MJVS,crop_pad_percentile,FEMININO,MASCULINO,40.08,BAIXA,direita,esquerda,0.058,0.06,sem_alerta_automatico,0
+2019,2019_168_MRM,crop_pad_percentile,FEMININO,MASCULINO,38.16,BAIXA,direita,esquerda,0.059,0.072,sem_alerta_automatico,0
+2019,2019_174_NBDR,crop_pad_percentile,FEMININO,MASCULINO,49.95,INDEFINIDO,direita,esquerda,0.033,0.005,sem_alerta_automatico,0
+2019,2019_178_NRM,crop_pad_percentile,FEMININO,MASCULINO,73.38,MEDIA,direita,esquerda,0.095,0.093,sem_alerta_automatico,0
+2019,2019_214_RLGF,crop_pad_percentile,FEMININO,MASCULINO,46.13,INDEFINIDO,direita,esquerda,0.039,0.04,sem_alerta_automatico,0
+2019,2019_261_YGA,crop_pad_percentile,FEMININO,MASCULINO,46.84,INDEFINIDO,direita,direita,0.003,0.021,sem_alerta_automatico,0
+2019,2019_27_BACS,crop_pad_percentile,FEMININO,MASCULINO,49.77,INDEFINIDO,direita,esquerda,0.026,0.023,sem_alerta_automatico,0
+2019,2019_47_DMG,crop_pad_percentile,FEMININO,MASCULINO,69.56,MEDIA,esquerda,direita,0.048,0.055,sem_alerta_automatico,0
+2019,2019_7_ACSF,crop_pad_percentile,FEMININO,MASCULINO,57.16,BAIXA,direita,esquerda,0.075,0.073,sem_alerta_automatico,0
+2022,2022_17_AT,crop_pad_percentile,FEMININO,MASCULINO,58.55,BAIXA,direita,esquerda,0.07,0.114,sem_alerta_automatico,0
+2023,2023_15_ALADS,crop_pad_percentile,FEMININO,MASCULINO,74.38,MEDIA,direita,esquerda,0.176,0.187,sem_alerta_automatico,0

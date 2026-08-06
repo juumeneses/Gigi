@@ -1,4 +1,4 @@
-﻿run_id,modelo,lado,n_vistas_teste,accuracy,accuracy_pct,f1_masculino,f1_pct
-cranio_genero_article_vgg16_20260630_035739,article_vgg16_imagenet_silhueta_256_aug_flip_rot5_voto_3vistas,CD,183,0.644809,64.48,0.380952,38.1
-cranio_genero_article_vgg16_20260630_035739,article_vgg16_imagenet_silhueta_256_aug_flip_rot5_voto_3vistas,CE,183,0.650273,65.03,0.372549,37.25
-cranio_genero_article_vgg16_20260630_035739,article_vgg16_imagenet_silhueta_256_aug_flip_rot5_voto_3vistas,CF,183,0.677596,67.76,0.253165,25.32
+﻿run_id,modelo,lado,n_vistas_teste,accuracy,balanced_accuracy,f1_masculino,precision_masculino,recall_masculino,accuracy_pct,balanced_accuracy_pct,f1_pct,precision_pct,recall_pct
+cranio_genero_vgg16_finetune_20260722_144701,vgg16_finetune_block5_imagenet_silhueta_256_threshold_multivista,CD,183,0.863388,0.856063,0.81203,0.794118,0.830769,86.34,85.61,81.2,79.41,83.08
+cranio_genero_vgg16_finetune_20260722_144701,vgg16_finetune_block5_imagenet_silhueta_256_threshold_multivista,CE,183,0.808743,0.78605,0.724409,0.741935,0.707692,80.87,78.6,72.44,74.19,70.77
+cranio_genero_vgg16_finetune_20260722_144701,vgg16_finetune_block5_imagenet_silhueta_256_threshold_multivista,CF,183,0.868852,0.843025,0.803279,0.859649,0.753846,86.89,84.3,80.33,85.96,75.38

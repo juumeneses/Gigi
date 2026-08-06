@@ -16,9 +16,12 @@ def main() -> None:
     ap.add_argument("--years", nargs="*")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--use-normalized", action="store_true")
+    ap.add_argument("--normalization-kind", default=NORMALIZATION_ORIGINAL, choices=[NORMALIZATION_ORIGINAL, *NORMALIZATION_KINDS])
     args = ap.parse_args()
     if args.use_normalized:
-        os.environ["CRANIOS_USE_NORMALIZED"] = "1"
+        args.normalization_kind = "atual"
+    if args.normalization_kind != NORMALIZATION_ORIGINAL:
+        os.environ["CRANIOS_NORMALIZATION_KIND"] = args.normalization_kind
     root = as_root(args.root)
     ensure_base_dirs(root)
     rows, fails = [], []

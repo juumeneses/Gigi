@@ -7,6 +7,8 @@ os.environ['GLOG_minloglevel']='3'
 os.environ.setdefault('MPLCONFIGDIR','/tmp/treinamento_faces_mpl')
 
 import html
+import select
+import signal
 import subprocess
 import sys
 import time
@@ -116,23 +118,85 @@ def detect_local(img):
     return None if not res.multi_face_landmarks else res.multi_face_landmarks[0].landmark
 
 
+def stop_command_flag(root):
+    return resultados_root(root)/'logs'/'parar_execucao_faces.flag'
+
+
+def current_process_pid_path(root):
+    return resultados_root(root)/'logs'/'processo_atual_faces.pid'
+
+
+def _pid_alive(pid):
+    try:
+        os.kill(pid,0)
+        return True
+    except OSError:
+        return False
+
+
+def force_stop_pid(pid):
+    if pid<=0 or not _pid_alive(pid):
+        return False
+    stopped=False
+    try:
+        os.killpg(os.getpgid(pid),signal.SIGTERM); stopped=True
+    except Exception:
+        try:
+            os.kill(pid,signal.SIGTERM); stopped=True
+        except Exception:
+            pass
+    time.sleep(.7)
+    if _pid_alive(pid):
+        try:
+            os.killpg(os.getpgid(pid),signal.SIGKILL); stopped=True
+        except Exception:
+            try:
+                os.kill(pid,signal.SIGKILL); stopped=True
+            except Exception:
+                pass
+    return stopped
+
+
+def force_stop_current_command(root):
+    stop_command_flag(root).parent.mkdir(parents=True,exist_ok=True)
+    stop_command_flag(root).write_text(pd.Timestamp.now().isoformat(),encoding='utf-8')
+    stopped=[]
+    p=current_process_pid_path(root)
+    try:
+        if p.exists():
+            pid=int(p.read_text(encoding='utf-8',errors='ignore').strip())
+            if force_stop_pid(pid):
+                stopped.append(pid)
+            p.unlink()
+    except Exception:
+        pass
+    return stopped
+
+
 def run_command_live(cmd,cwd,title):
     if not cmd:
         return 1
+    flag=stop_command_flag(cwd)
+    if flag.exists():
+        flag.unlink()
     st.code(' '.join(map(str,cmd)), language='bash')
     follow=st.toggle('Auto-scroll: mostrar sempre o final do log', value=True, key=f'follow_{title}_{time.time()}')
     box=st.empty()
+    status_box=st.empty()
     prog=st.progress(0,text=title)
     logs=[]
     try:
         env=os.environ.copy()
         env.setdefault('MPLCONFIGDIR',str(resultados_root(cwd)/'cache'/'matplotlib'))
         Path(env['MPLCONFIGDIR']).mkdir(parents=True,exist_ok=True)
-        proc=subprocess.Popen(cmd,cwd=str(cwd),env=env,stdout=subprocess.PIPE,stderr=subprocess.STDOUT,text=True,encoding='utf-8',errors='replace',bufsize=1)
+        proc=subprocess.Popen(cmd,cwd=str(cwd),env=env,stdout=subprocess.PIPE,stderr=subprocess.STDOUT,text=True,encoding='utf-8',errors='replace',bufsize=1,start_new_session=True)
+        current_process_pid_path(cwd).parent.mkdir(parents=True,exist_ok=True)
+        current_process_pid_path(cwd).write_text(str(proc.pid),encoding='utf-8')
     except Exception as e:
         st.error(f'Erro ao iniciar: {e}')
         return 1
     start=time.time()
+    stop_requested=False
     def render():
         text='\n'.join(logs[-260:] if follow else logs[-900:])
         if follow:
@@ -154,27 +218,57 @@ def run_command_live(cmd,cwd,title):
         else:
             box.code(text, language='text', height=360)
     while True:
-        line=proc.stdout.readline()
-        if line:
-            logs.append(line.rstrip())
-            prog.progress(min(95,int((time.time()-start)%95)), text=f'{title}: {len(logs)} linhas')
+        if flag.exists() and proc.poll() is None:
+            stop_requested=True
+            logs.append('[AVISO] Parada solicitada pelo painel. Encerrando processo...')
+            status_box.warning('Parada solicitada. Encerrando processo atual...')
+            try:
+                force_stop_pid(proc.pid)
+            except Exception:
+                pass
             render()
+        ready,_,_=select.select([proc.stdout],[],[],0.4)
+        if ready:
+            line=proc.stdout.readline()
+            if line:
+                logs.append(line.rstrip())
+                prog.progress(min(95,int((time.time()-start)%95)), text=f'{title}: {len(logs)} linhas')
+                render()
         if proc.poll() is not None:
             rest=proc.stdout.read()
             if rest:
                 logs.extend(rest.splitlines())
             break
+    if stop_requested and proc.returncode is None:
+        try:
+            proc.wait(timeout=5)
+        except Exception:
+            try:
+                proc.kill()
+                proc.wait(timeout=5)
+            except Exception:
+                pass
     prog.progress(100,text='Finalizado')
     render()
     logdir=resultados_root(cwd)/'logs'
     logdir.mkdir(parents=True,exist_ok=True)
     lp=logdir/f"streamlit_{title.lower().replace(' ','_')}_{int(time.time())}.log"
     lp.write_text('\n'.join(logs),encoding='utf-8',errors='replace')
-    if proc.returncode==0:
+    if flag.exists():
+        flag.unlink()
+    try:
+        p=current_process_pid_path(cwd)
+        if p.exists() and p.read_text(encoding='utf-8').strip()==str(proc.pid):
+            p.unlink()
+    except Exception:
+        pass
+    if stop_requested:
+        st.warning(f'{title} interrompido pelo usuário. Log: {lp}')
+    elif proc.returncode==0:
         st.success(f'{title} finalizado. Log: {lp}')
     else:
         st.error(f'{title} terminou com erro {proc.returncode}. Log: {lp}')
-    return proc.returncode
+    return 130 if stop_requested else proc.returncode
 
 
 def st_df(df,height=360,key=None):
@@ -885,6 +979,15 @@ def main():
         py=project_python(root)
         st.caption(f'Python dos scripts: {py}')
         st.code('.venv/bin/python -m streamlit run scripts/app_revisao_faces.py',language='bash')
+        st.divider()
+        if st.button('Parar execução/treino', use_container_width=True):
+            stopped=force_stop_current_command(root)
+            if stopped:
+                st.error('Execução interrompida imediatamente. PID(s): '+', '.join(map(str,stopped)))
+            else:
+                st.warning('Parada solicitada, mas nenhum processo ativo foi encontrado. Sinal antigo foi limpo.')
+        if stop_command_flag(root).exists():
+            st.warning('Há uma solicitação de parada ativa.')
     if page=='Painel':
         page_painel(root,years)
     elif page=='Pipeline':

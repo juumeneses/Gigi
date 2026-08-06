@@ -1,0 +1,43 @@
+ano,id_pessoa,normalizacao,genero_face,genero_cranio,prob_masculino_pct,confianca_cranio,ce_direcao,cd_direcao,ce_orient_conf,cd_orient_conf,flags,n_flags
+2019,2019_234_SFLL,atual,FEMININO,MASCULINO,92.71,ALTA,esquerda,direita,0.051,0.071,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2021,2021_63_LGDM,atual,FEMININO,MASCULINO,66.0,MEDIA,direita,esquerda,0.009,0.034,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2022,2022_62_GADMB,atual,FEMININO,MASCULINO,57.01,BAIXA,direita,esquerda,0.067,0.075,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2023,2023_119_PTC,atual,FEMININO,MASCULINO,66.46,MEDIA,esquerda,direita,0.16,0.161,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,6
+2017,2017_33_FD,atual,FEMININO,MASCULINO,54.39,INDEFINIDO,,direita,0.0,0.038,faltando_original_CF+CE; faltando_normalizada_CF+CE; CD_original_borrada; CD_original_possivel_corte; CD_normalizada_possivel_corte,5
+2023,2023_44_DKSDL,atual,MASCULINO,FEMININO,12.76,ALTA,esquerda,direita,0.101,0.105,CF_original_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,5
+2023,2023_7_ACSDS,atual,FEMININO,MASCULINO,61.25,BAIXA,direita,esquerda,0.051,0.105,CF_original_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,5
+2019,2019_3_ACCM,atual,FEMININO,MASCULINO,98.95,ALTA,esquerda,direita,0.047,0.077,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2022,2022_138_RCCA,atual,MASCULINO,FEMININO,29.9,MEDIA,direita,esquerda,0.118,0.107,CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte,4
+2022,2022_36_DFBN,atual,MASCULINO,FEMININO,5.19,ALTA,direita,esquerda,0.122,0.115,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte,4
+2022,2022_78_JESA,atual,MASCULINO,FEMININO,2.06,ALTA,direita,direita,0.057,0.011,CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_normalizada_possivel_corte,4
+2023,2023_90_LGSG,atual,FEMININO,MASCULINO,55.48,BAIXA,direita,esquerda,0.077,0.213,CF_original_possivel_corte; CF_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2023,2023_92_MADA,atual,FEMININO,MASCULINO,53.0,INDEFINIDO,direita,esquerda,0.076,0.109,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_normalizada_possivel_corte; CD_normalizada_possivel_corte,4
+2023,2023_99_MGDSN,atual,FEMININO,MASCULINO,77.44,MEDIA,direita,esquerda,0.028,0.143,CE_original_possivel_corte; CE_normalizada_possivel_corte; CD_original_possivel_corte; CD_normalizada_possivel_corte,4
+2017,2017_11_BB,atual,MASCULINO,FEMININO,33.18,MEDIA,esquerda,direita,0.051,0.073,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2017,2017_52_JDRV,atual,MASCULINO,FEMININO,39.23,BAIXA,esquerda,direita,0.049,0.099,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2017,2017_70_MLBDA,atual,FEMININO,MASCULINO,54.43,INDEFINIDO,esquerda,direita,0.062,0.061,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2017,2017_95_TDOES,atual,FEMININO,MASCULINO,85.21,ALTA,esquerda,direita,0.061,0.084,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2017,2017_98_UDSLB,atual,FEMININO,MASCULINO,67.29,MEDIA,esquerda,direita,0.063,0.109,CF_original_borrada; CE_original_borrada; CD_original_borrada,3
+2019,2019_68_FGL,atual,FEMININO,MASCULINO,55.08,BAIXA,direita,esquerda,0.084,0.07,CF_original_possivel_corte; CE_original_possivel_corte; CD_original_possivel_corte,3
+2021,2021_38_FHDM,atual,MASCULINO,FEMININO,30.4,MEDIA,direita,esquerda,0.054,0.105,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_normalizada_possivel_corte,3
+2022,2022_144_ROFP,atual,MASCULINO,FEMININO,26.53,MEDIA,direita,esquerda,0.09,0.101,CF_normalizada_possivel_corte; CE_original_possivel_corte; CE_normalizada_possivel_corte,3
+2023,2023_94_MBRB,atual,FEMININO,MASCULINO,54.14,INDEFINIDO,direita,esquerda,0.021,0.071,CF_original_possivel_corte; CF_normalizada_possivel_corte; CE_original_possivel_corte,3
+2019,2019_108_JMPC,atual,FEMININO,MASCULINO,57.79,BAIXA,esquerda,direita,0.059,0.051,CF_original_possivel_corte; CF_normalizada_possivel_corte,2
+2021,2021_1_AAB,atual,MASCULINO,FEMININO,30.79,MEDIA,direita,esquerda,0.116,0.077,CE_normalizada_possivel_corte; CD_normalizada_possivel_corte,2
+2021,2021_7_ACDSM,atual,MASCULINO,FEMININO,8.4,ALTA,direita,esquerda,0.061,0.068,CE_original_possivel_corte; CE_normalizada_possivel_corte,2
+2022,2022_153_SPS,atual,FEMININO,MASCULINO,59.02,BAIXA,direita,esquerda,0.015,0.047,CF_normalizada_possivel_corte; CE_original_possivel_corte,2
+2022,2022_48_EDSF,atual,FEMININO,MASCULINO,76.52,MEDIA,direita,esquerda,0.007,0.022,CF_original_possivel_corte; CF_normalizada_possivel_corte,2
+2023,2023_115_PA,atual,FEMININO,MASCULINO,90.79,ALTA,,,0.0,0.0,faltando_original_CF+CE+CD; faltando_normalizada_CF+CE+CD,2
+2019,2019_47_DMG,atual,FEMININO,MASCULINO,83.34,ALTA,esquerda,direita,0.061,0.083,CF_normalizada_possivel_corte,1
+2022,2022_27_CMDRDS,atual,FEMININO,MASCULINO,65.62,MEDIA,direita,esquerda,0.099,0.078,CE_normalizada_possivel_corte,1
+2023,2023_65_GCRL,atual,MASCULINO,FEMININO,22.98,MEDIA,direita,esquerda,0.081,0.036,CE_normalizada_possivel_corte,1
+2019,2019_117_KRMV,atual,FEMININO,MASCULINO,79.22,MEDIA,esquerda,direita,0.04,0.04,sem_alerta_automatico,0
+2019,2019_143_MAM,atual,MASCULINO,FEMININO,1.46,ALTA,direita,esquerda,0.139,0.136,sem_alerta_automatico,0
+2019,2019_174_NBDR,atual,FEMININO,MASCULINO,70.78,MEDIA,direita,direita,0.013,0.01,sem_alerta_automatico,0
+2019,2019_178_NRM,atual,FEMININO,MASCULINO,55.81,BAIXA,direita,esquerda,0.075,0.075,sem_alerta_automatico,0
+2019,2019_1_AAC,atual,FEMININO,MASCULINO,67.67,MEDIA,esquerda,direita,0.008,0.005,sem_alerta_automatico,0
+2019,2019_204_RBS,atual,MASCULINO,FEMININO,15.55,ALTA,direita,esquerda,0.074,0.038,sem_alerta_automatico,0
+2019,2019_214_RLGF,atual,FEMININO,MASCULINO,59.24,BAIXA,direita,esquerda,0.035,0.039,sem_alerta_automatico,0
+2019,2019_21_ASB,atual,MASCULINO,FEMININO,31.54,MEDIA,direita,esquerda,0.112,0.085,sem_alerta_automatico,0
+2019,2019_7_ACSF,atual,FEMININO,MASCULINO,54.2,INDEFINIDO,direita,esquerda,0.085,0.075,sem_alerta_automatico,0
+2023,2023_15_ALADS,atual,FEMININO,MASCULINO,59.17,BAIXA,direita,esquerda,0.097,0.091,sem_alerta_automatico,0

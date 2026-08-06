@@ -6,7 +6,7 @@ import os
 import subprocess
 import sys
 
-from common_cranios import as_root, cleanup_generated_outputs, discover_years, ensure_base_dirs
+from common_cranios import NORMALIZATION_KINDS, NORMALIZATION_ORIGINAL, as_root, cleanup_generated_outputs, discover_years, ensure_base_dirs
 
 
 BASE_STEPS = [
@@ -33,9 +33,12 @@ def main() -> None:
     ap.add_argument("--with-sexo", action="store_true")
     ap.add_argument("--faces-root", default="../Treinamento_faces")
     ap.add_argument("--use-normalized", action="store_true")
+    ap.add_argument("--normalization-kind", default=NORMALIZATION_ORIGINAL, choices=[NORMALIZATION_ORIGINAL, *NORMALIZATION_KINDS])
     args = ap.parse_args()
     if args.use_normalized:
-        os.environ["CRANIOS_USE_NORMALIZED"] = "1"
+        args.normalization_kind = "atual"
+    if args.normalization_kind != NORMALIZATION_ORIGINAL:
+        os.environ["CRANIOS_NORMALIZATION_KIND"] = args.normalization_kind
     root = as_root(args.root)
     ensure_base_dirs(root)
     years = discover_years(root, args.years)
@@ -51,8 +54,8 @@ def main() -> None:
             cmd += ["--years"] + [str(y) for y in args.years]
         if args.force and name in ["01_extrair_contorno_cranios.py", "02_gerar_shape_cranios_64pts.py", "05_preparar_silhuetas_sexo_cranio.py"]:
             cmd.append("--force")
-        if args.use_normalized and name in ["01_extrair_contorno_cranios.py", "05_preparar_silhuetas_sexo_cranio.py"]:
-            cmd.append("--use-normalized")
+        if name in ["01_extrair_contorno_cranios.py", "05_preparar_silhuetas_sexo_cranio.py"]:
+            cmd += ["--normalization-kind", args.normalization_kind]
         if name == "06_juntar_genero_faces_cranios.py":
             cmd += ["--faces-root", args.faces_root]
         print("\n[ETAPA]", name)

@@ -1,0 +1,31 @@
+{
+  "comparacao_fonte": "Treinamento_cranios/resultados/sexo_cranio/comparacao_genero_face_cranio.csv",
+  "normalizacao_diagnosticada": "atual",
+  "divergencias": 42,
+  "csv_resumo": "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/diagnostico_divergencias_resumo.csv",
+  "csv_por_lado": "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/diagnostico_imagens_divergentes_por_lado.csv",
+  "pranchas": [
+    "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/prancha_divergentes_atual_01.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/prancha_divergentes_atual_02.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/prancha_divergentes_atual_03.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/prancha_divergentes_atual_04.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/prancha_divergentes_atual_05.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/melhor_run_atual_20260722/prancha_divergentes_atual_06.jpg"
+  ],
+  "flags_counts": {
+    "CE_normalizada_possivel_corte": 18,
+    "CF_normalizada_possivel_corte": 16,
+    "CE_original_possivel_corte": 16,
+    "CF_original_possivel_corte": 14,
+    "CD_normalizada_possivel_corte": 13,
+    "CD_original_possivel_corte": 12,
+    "sem_alerta_automatico": 10,
+    "CD_original_borrada": 6,
+    "CF_original_borrada": 5,
+    "CE_original_borrada": 5,
+    "faltando_original_CF+CE": 1,
+    "faltando_normalizada_CF+CE": 1,
+    "faltando_original_CF+CE+CD": 1,
+    "faltando_normalizada_CF+CE+CD": 1
+  }
+}

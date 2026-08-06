@@ -1,0 +1,38 @@
+{
+  "comparacao_fonte": "Treinamento_cranios/resultados/sexo_cranio/comparacao_genero_face_cranio.csv",
+  "normalizacao_diagnosticada": "crop_pad_percentile",
+  "divergencias": 75,
+  "csv_resumo": "Treinamento_cranios/resultados/diagnosticos/diagnostico_divergencias_resumo.csv",
+  "csv_por_lado": "Treinamento_cranios/resultados/diagnosticos/diagnostico_imagens_divergentes_por_lado.csv",
+  "pranchas": [
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_01.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_02.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_03.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_04.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_05.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_06.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_07.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_08.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_09.jpg",
+    "Treinamento_cranios/resultados/diagnosticos/prancha_divergentes_crop_pad_percentile_10.jpg"
+  ],
+  "flags_counts": {
+    "CE_normalizada_possivel_corte": 36,
+    "CE_original_possivel_corte": 36,
+    "CD_original_possivel_corte": 29,
+    "CF_normalizada_possivel_corte": 26,
+    "CD_normalizada_possivel_corte": 25,
+    "CF_original_possivel_corte": 23,
+    "sem_alerta_automatico": 17,
+    "CD_original_borrada": 7,
+    "CE_original_borrada": 6,
+    "CF_original_borrada": 6,
+    "CE_CD_mesma_direcao_visual_direita": 1,
+    "CE_segmentacao_suspeita": 1,
+    "CF_segmentacao_suspeita": 1,
+    "faltando_normalizada_CF+CE": 1,
+    "faltando_normalizada_CF+CE+CD": 1,
+    "faltando_original_CF+CE": 1,
+    "faltando_original_CF+CE+CD": 1
+  }
+}
