@@ -1,0 +1,38 @@
+seed: 42
+paths:
+  output_dir: Modelo_novo/data
+data:
+  image_size: 224
+  face_mode: original
+  skull_mode: normalized
+  require_triplet: false
+  include_review_skulls: false
+  skull_views: [CF, CE, CD]
+  augmentation: conservative
+  use_domain_normalized: false
+split:
+  train: 0.70
+  val: 0.15
+  test: 0.15
+  stratify_by: [ano, sexo_face]
+model:
+  backbone: resnet18
+  embedding_dim: 64
+  pretrained: true
+  freeze_backbone: true
+  dropout: 0.15
+training:
+  loss: infonce
+  epochs: 20
+  batch_size: 16
+  learning_rate: 0.001
+  backbone_learning_rate: 0.0001
+  temperature: 0.07
+  label_smoothing: 0.05
+  margin: 0.3
+  warmup_epochs: 3
+  unfreeze_last_block: true
+  patience: 7
+ranking:
+  sex_weight: 0.0
+  candidate_sizes: [10, 25, 50, 100, -1]

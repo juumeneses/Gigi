@@ -1,0 +1,4 @@
+holdout_year,seed,variant,best_epoch,n_queries,n_candidates,top_1,top_3,top_5,recall_at_10,mrr,median_rank,mean_rank,run_dir
+VALIDACAO,42,multiview_faces_global_hard_attention,15,108,108,0.09259259259259259,0.2222222222222222,0.37037037037037035,0.5,0.2254979142042027,10.5,18.60185185185185,studies/validation_multiseed/multiview_faces_global_hard_attention/runs/seed_42_20260808T144830581408Z
+VALIDACAO,123,multiview_faces_global_hard_attention,16,108,108,0.1388888888888889,0.26851851851851855,0.3148148148148148,0.4166666666666667,0.24591137146211034,13.0,19.89814814814815,studies/validation_multiseed/multiview_faces_global_hard_attention/runs/seed_123_20260808T145532952827Z
+VALIDACAO,456,multiview_faces_global_hard_attention,19,108,108,0.12962962962962962,0.24074074074074073,0.3055555555555556,0.4074074074074074,0.23434710820454732,14.0,22.37962962962963,studies/validation_multiseed/multiview_faces_global_hard_attention/runs/seed_456_20260808T150809532451Z

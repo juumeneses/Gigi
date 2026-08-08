@@ -1,0 +1,4 @@
+holdout_year,seed,variant,best_epoch,n_queries,n_candidates,top_1,top_3,top_5,recall_at_10,mrr,median_rank,mean_rank,run_dir
+VALIDACAO,42,validation_domain_robust_grayscale,15,108,108,0.08333333333333333,0.18518518518518517,0.2222222222222222,0.39814814814814814,0.18977768086522293,13.0,21.87962962962963,studies/validation_multiseed/validation_domain_robust_grayscale/runs/seed_42_20260807T190355188945Z
+VALIDACAO,123,validation_domain_robust_grayscale,16,108,108,0.09259259259259259,0.16666666666666666,0.24074074074074073,0.39814814814814814,0.18960997721371253,14.0,19.97222222222222,studies/validation_multiseed/validation_domain_robust_grayscale/runs/seed_123_20260807T191053879175Z
+VALIDACAO,456,validation_domain_robust_grayscale,16,108,108,0.1111111111111111,0.16666666666666666,0.2222222222222222,0.4074074074074074,0.1947579445448463,15.0,20.14814814814815,studies/validation_multiseed/validation_domain_robust_grayscale/runs/seed_456_20260807T191815060219Z

@@ -1,0 +1,11 @@
+extends: hard_negatives.yaml
+experiment:
+  variant: validation_domain_robust_grayscale
+data:
+  domain_harmonization: grayscale_equalized
+model:
+  view_fusion: mean
+training:
+  epochs: 24
+  patience: 8
+  global_hard_negative_mining: false

@@ -1,0 +1,14 @@
+extends: research_advanced.yaml
+
+experiment:
+  variant: multiview_faces_global_hard_attention
+
+data:
+  # Banco original: FFN (neutra), FFS (sorrindo) e FL (lateral).
+  face_source_root: /Users/giovanni/Documents/Mestrado/Banco de dados
+  face_views: [FFN, FFS, FL]
+  require_complete_face_views: true
+
+model:
+  face_view_fusion: attention
+  max_face_views: 3

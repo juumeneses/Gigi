@@ -1,0 +1,12 @@
+{
+  "holdout_year": "2023",
+  "seed": 42,
+  "counts": {
+    "train": 493,
+    "test": 143,
+    "val": 87
+  },
+  "test_years": [
+    "2023"
+  ]
+}

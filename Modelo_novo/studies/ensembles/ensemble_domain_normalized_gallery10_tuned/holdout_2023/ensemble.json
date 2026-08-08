@@ -1,0 +1,10 @@
+{
+  "source_variant": "domain_normalized_gallery10_tuned",
+  "aggregation": "raw_score_mean",
+  "seeds": [
+    42,
+    123,
+    456
+  ],
+  "n_models": 3
+}

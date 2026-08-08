@@ -1,0 +1,43 @@
+{
+  "screen_seed": 42,
+  "screen_ranking": [
+    {
+      "trial": "weight_075",
+      "gallery10_mrr": 0.6455566578483245
+    },
+    {
+      "trial": "weight_025",
+      "gallery10_mrr": 0.645517710170488
+    },
+    {
+      "trial": "baseline",
+      "gallery10_mrr": 0.6412965167548501
+    },
+    {
+      "trial": "margin_010",
+      "gallery10_mrr": 0.6400635655496766
+    },
+    {
+      "trial": "margin_030",
+      "gallery10_mrr": 0.6391351410934744
+    },
+    {
+      "trial": "temperature_005",
+      "gallery10_mrr": 0.6317503674309229
+    },
+    {
+      "trial": "temperature_010",
+      "gallery10_mrr": 0.6286122134038801
+    }
+  ],
+  "finalists": [
+    "baseline",
+    "weight_075",
+    "weight_025"
+  ],
+  "confirmation_seeds": [
+    42,
+    123,
+    456
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "study_id": "view_ablation",
+  "combination": "CF_CE_CD",
+  "views": "CF+CE+CD",
+  "best_epoch": 9,
+  "n_queries": 108,
+  "n_candidates": 108,
+  "top_1": 0.1203703703703703,
+  "top_3": 0.2314814814814814,
+  "top_5": 0.3333333333333333,
+  "recall_at_10": 0.4907407407407407,
+  "mrr": 0.2322513862162338,
+  "median_rank": 11.0,
+  "mean_rank": 21.60185185185185,
+  "run_dir": "studies/view_ablation/CF_CE_CD_20260806T155053Z"
+}

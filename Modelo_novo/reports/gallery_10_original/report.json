@@ -1,0 +1,152 @@
+{
+  "gallery_size": 10,
+  "variant": "original",
+  "repeats": 100,
+  "seed": 42,
+  "queries": 723,
+  "ranking_files": [
+    "studies/leave_one_year_out/holdout_2017_20260806T160637Z/ranking_test.csv",
+    "studies/leave_one_year_out/holdout_2019_20260806T162602Z/ranking_test.csv",
+    "studies/leave_one_year_out/holdout_2021_20260806T164728Z/ranking_test.csv",
+    "studies/leave_one_year_out/holdout_2022_20260806T170715Z/ranking_test.csv",
+    "studies/leave_one_year_out/holdout_2023_20260806T180706Z/ranking_test.csv"
+  ],
+  "rejection": {
+    "hard": {
+      "auc_top_score": 0.5015237340954873,
+      "cv_balanced_accuracy": 0.5013888888888889,
+      "cv_sensitivity_present": 0.5376340996168583,
+      "cv_specificity_absent": 0.46514367816091956,
+      "threshold_mean": 0.597826762199402,
+      "threshold_std": 0.11087338641650298,
+      "folds": [
+        {
+          "fold": 1,
+          "threshold": 0.3995131552219391,
+          "sensitivity_present": 0.9724137931034482,
+          "specificity_absent": 0.027586206896551724,
+          "balanced_accuracy": 0.5
+        },
+        {
+          "fold": 2,
+          "threshold": 0.6456130921840668,
+          "sensitivity_present": 0.4896551724137931,
+          "specificity_absent": 0.5103448275862069,
+          "balanced_accuracy": 0.5
+        },
+        {
+          "fold": 3,
+          "threshold": 0.6459942698478699,
+          "sensitivity_present": 0.4413793103448276,
+          "specificity_absent": 0.5586206896551724,
+          "balanced_accuracy": 0.5
+        },
+        {
+          "fold": 4,
+          "threshold": 0.6496926617622376,
+          "sensitivity_present": 0.3680555555555556,
+          "specificity_absent": 0.6388888888888888,
+          "balanced_accuracy": 0.5034722222222222
+        },
+        {
+          "fold": 5,
+          "threshold": 0.6483206319808961,
+          "sensitivity_present": 0.4166666666666667,
+          "specificity_absent": 0.5902777777777778,
+          "balanced_accuracy": 0.5034722222222222
+        }
+      ]
+    },
+    "random": {
+      "auc_top_score": 0.5268308176894719,
+      "cv_balanced_accuracy": 0.5201866379310344,
+      "cv_sensitivity_present": 0.43531360153256704,
+      "cv_specificity_absent": 0.6050596743295019,
+      "threshold_mean": 0.5487374053001404,
+      "threshold_std": 0.0030712926915931033,
+      "folds": [
+        {
+          "fold": 1,
+          "threshold": 0.5452228784561157,
+          "sensitivity_present": 0.4535172413793103,
+          "specificity_absent": 0.597448275862069,
+          "balanced_accuracy": 0.5254827586206896
+        },
+        {
+          "fold": 2,
+          "threshold": 0.5523139238357544,
+          "sensitivity_present": 0.42648275862068963,
+          "specificity_absent": 0.6084137931034482,
+          "balanced_accuracy": 0.5174482758620689
+        },
+        {
+          "fold": 3,
+          "threshold": 0.549466245174408,
+          "sensitivity_present": 0.44420689655172413,
+          "specificity_absent": 0.5911724137931035,
+          "balanced_accuracy": 0.5176896551724138
+        },
+        {
+          "fold": 4,
+          "threshold": 0.5459187626838684,
+          "sensitivity_present": 0.43659722222222225,
+          "specificity_absent": 0.6147222222222222,
+          "balanced_accuracy": 0.5256597222222222
+        },
+        {
+          "fold": 5,
+          "threshold": 0.5507652163505554,
+          "sensitivity_present": 0.4157638888888889,
+          "specificity_absent": 0.6135416666666667,
+          "balanced_accuracy": 0.5146527777777777
+        }
+      ]
+    },
+    "same_sex": {
+      "auc_top_score": 0.5103296430846577,
+      "cv_balanced_accuracy": 0.5063604406130268,
+      "cv_sensitivity_present": 0.5683344827586206,
+      "cv_specificity_absent": 0.444386398467433,
+      "threshold_mean": 0.5299330890178681,
+      "threshold_std": 0.035589990383125394,
+      "folds": [
+        {
+          "fold": 1,
+          "threshold": 0.545345664024353,
+          "sensitivity_present": 0.5256551724137931,
+          "specificity_absent": 0.49331034482758623,
+          "balanced_accuracy": 0.5094827586206897
+        },
+        {
+          "fold": 2,
+          "threshold": 0.4665310680866241,
+          "sensitivity_present": 0.7455862068965518,
+          "specificity_absent": 0.2518620689655172,
+          "balanced_accuracy": 0.4987241379310345
+        },
+        {
+          "fold": 3,
+          "threshold": 0.5416516661643982,
+          "sensitivity_present": 0.5479310344827586,
+          "specificity_absent": 0.45662068965517244,
+          "balanced_accuracy": 0.5022758620689656
+        },
+        {
+          "fold": 4,
+          "threshold": 0.5454121232032776,
+          "sensitivity_present": 0.5302777777777777,
+          "specificity_absent": 0.5022916666666667,
+          "balanced_accuracy": 0.5162847222222222
+        },
+        {
+          "fold": 5,
+          "threshold": 0.5507249236106873,
+          "sensitivity_present": 0.4922222222222222,
+          "specificity_absent": 0.5178472222222222,
+          "balanced_accuracy": 0.5050347222222222
+        }
+      ]
+    }
+  },
+  "warning": "Scores sao relativos; limiares sao experimentais e nao probabilidades periciais."
+}

@@ -1,5 +1,6 @@
 # Ambientes e dependencias locais
 **/.venv/
+.venv-modelo-novo/
 **/venv/
 **/env/
 **/node_modules/

@@ -1,0 +1,10 @@
+extends: hard_negatives.yaml
+experiment:
+  variant: domain_normalized_attention_only
+model:
+  view_fusion: attention
+  max_skull_views: 3
+training:
+  epochs: 24
+  patience: 8
+  global_hard_negative_mining: false

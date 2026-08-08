@@ -1,0 +1,14 @@
+extends: research_advanced.yaml
+
+experiment:
+  variant: multiview_faces_control_ffn
+
+data:
+  # Controle pareado: mantém todo o protocolo avançado e usa apenas a FFN.
+  face_views: [FFN]
+  # O multivista exclui este par porque FL está ausente; o controle faz o mesmo.
+  exclude_pair_keys: ["2019::2019_20_ARRR"]
+
+model:
+  face_view_fusion: mean
+  max_face_views: 1
