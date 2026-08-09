@@ -1,0 +1,21 @@
+{
+  "status": "concluido",
+  "run_id": "20260808T222941Z",
+  "device": "mps",
+  "epoch": 24,
+  "max_epochs": 24,
+  "best_epoch": 18,
+  "elapsed_seconds": 703.2312775,
+  "evaluation_split": "test",
+  "test": {
+    "n_queries": 162,
+    "n_candidates": 162,
+    "top_1": 0.006172839506172839,
+    "top_3": 0.037037037037037035,
+    "top_5": 0.09876543209876543,
+    "recall_at_10": 0.19135802469135801,
+    "mrr": 0.07046188561358946,
+    "median_rank": 31.0,
+    "mean_rank": 41.0
+  }
+}

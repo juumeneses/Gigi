@@ -1,0 +1,86 @@
+{
+  "created_at": "2026-08-08T20:48:16.091435+00:00",
+  "git_commit": "6d4b0d884ab1f34cbc1c89dc622075dcdd5580cb",
+  "python": "3.9.6",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "split_hash": "",
+  "config": {
+    "seed": 123,
+    "experiment": {
+      "variant": "multiview_faces_global_hard_attention"
+    },
+    "paths": {
+      "output_dir": "Modelo_novo/data"
+    },
+    "data": {
+      "image_size": 224,
+      "face_mode": "aligned_masked",
+      "skull_mode": "centered_contrast",
+      "require_triplet": true,
+      "include_review_skulls": false,
+      "skull_views": [
+        "CF",
+        "CE",
+        "CD"
+      ],
+      "augmentation": "conservative",
+      "use_domain_normalized": true,
+      "face_source_root": "/Users/giovanni/Documents/Mestrado/Banco de dados",
+      "face_views": [
+        "FFN",
+        "FFS",
+        "FL"
+      ],
+      "require_complete_face_views": true
+    },
+    "split": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15,
+      "stratify_by": [
+        "ano",
+        "sexo_face"
+      ]
+    },
+    "model": {
+      "backbone": "resnet18",
+      "embedding_dim": 64,
+      "pretrained": true,
+      "freeze_backbone": true,
+      "dropout": 0.15,
+      "view_fusion": "attention",
+      "max_skull_views": 3,
+      "face_view_fusion": "attention",
+      "max_face_views": 3
+    },
+    "training": {
+      "loss": "infonce_hard_negatives",
+      "epochs": 24,
+      "batch_size": 16,
+      "learning_rate": 0.001,
+      "backbone_learning_rate": 0.0001,
+      "temperature": 0.07,
+      "label_smoothing": 0.05,
+      "margin": 0.2,
+      "hard_negative_top_k": 3,
+      "hard_negative_weight": 0.5,
+      "hard_negative_start_epoch": 4,
+      "global_hard_negative_mining": true,
+      "global_hard_top_k": 5,
+      "global_hard_refresh_epochs": 2,
+      "warmup_epochs": 3,
+      "unfreeze_last_block": true,
+      "patience": 8
+    },
+    "ranking": {
+      "sex_weight": 0.0,
+      "candidate_sizes": [
+        10,
+        25,
+        50,
+        100,
+        -1
+      ]
+    }
+  }
+}
