@@ -1,0 +1,66 @@
+{
+  "created_at": "2026-08-19T01:51:37.056171+00:00",
+  "git_commit": "7538211eb5a47230e99389d411c27f15bb1e343b",
+  "python": "3.11.15",
+  "platform": "macOS-26.5.1-arm64-arm-64bit",
+  "split_hash": "",
+  "config": {
+    "seed": 42,
+    "paths": {
+      "output_dir": "Modelo_novo/data"
+    },
+    "data": {
+      "image_size": 224,
+      "face_mode": "original",
+      "skull_mode": "normalized",
+      "require_triplet": false,
+      "include_review_skulls": false,
+      "skull_views": [
+        "CF",
+        "CE",
+        "CD"
+      ],
+      "augmentation": "conservative",
+      "use_domain_normalized": false
+    },
+    "split": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15,
+      "stratify_by": [
+        "ano",
+        "sexo_face"
+      ]
+    },
+    "model": {
+      "backbone": "resnet18",
+      "embedding_dim": 64,
+      "pretrained": true,
+      "freeze_backbone": true,
+      "dropout": 0.15
+    },
+    "training": {
+      "loss": "infonce",
+      "epochs": 20,
+      "batch_size": 16,
+      "learning_rate": 0.001,
+      "backbone_learning_rate": 0.0001,
+      "temperature": 0.07,
+      "label_smoothing": 0.05,
+      "margin": 0.3,
+      "warmup_epochs": 3,
+      "unfreeze_last_block": true,
+      "patience": 7
+    },
+    "ranking": {
+      "sex_weight": 0.0,
+      "candidate_sizes": [
+        10,
+        25,
+        50,
+        100,
+        -1
+      ]
+    }
+  }
+}

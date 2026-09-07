@@ -1,0 +1,22 @@
+{
+  "status": "treinando",
+  "run_id": "20260819T020910Z",
+  "device": "mps",
+  "epoch": 3,
+  "max_epochs": 20,
+  "stage": "projection_only",
+  "train_loss": 2.2666402879883263,
+  "hard_negative_loss": 0.0,
+  "val_mrr": 0.13176554110999147,
+  "val_top_1": 0.0425531914893617,
+  "val_top_5": 0.1595744680851064,
+  "val_recall_at_10": 0.3829787234042553,
+  "selection_metric": "mrr",
+  "selection_score": 0.13176554110999147,
+  "best_selection_score": 0.13176554110999147,
+  "best_epoch": 3,
+  "patience": 0,
+  "epoch_seconds": 136.156328709003,
+  "eta_seconds": 3391.8757434463887,
+  "checkpoint_updated": true
+}

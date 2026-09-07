@@ -58,7 +58,7 @@ def _letterbox(image: Image.Image, size: int, background=(127,127,127), occupanc
     limit=max(1,int(size*occupancy)); image=ImageOps.contain(image,(limit,limit),Image.Resampling.LANCZOS); canvas=Image.new("RGB",(size,size),background); canvas.paste(image,((size-image.width)//2,(size-image.height)//2)); return canvas
 
 
-def normalize_face(path: Path, year: str, image_id: str, size: int=224, masked: bool=True) -> tuple[Image.Image,str]:
+def normalize_face(path: Path, year: str, image_id: str, size: int=224, masked: bool=False) -> tuple[Image.Image,str]:
     with Image.open(path) as raw:
         image=ImageOps.exif_transpose(raw).convert("RGB").copy()
     landmarks=_face_landmarks(year,image_id)
@@ -102,10 +102,7 @@ def normalize_uploaded_face(image: Image.Image, size: int=224) -> Image.Image:
     image=ImageOps.exif_transpose(image).convert("RGB")
     image=ImageOps.autocontrast(image,cutoff=1)
     image=ImageEnhance.Contrast(image).enhance(1.05)
-    output=_letterbox(image,size,background=(127,127,127),occupancy=.88)
-    mask=Image.new("L",(size,size),0)
-    ImageDraw.Draw(mask).ellipse((int(size*.16),int(size*.06),int(size*.84),int(size*.96)),fill=255)
-    return Image.composite(output,Image.new("RGB",(size,size),(127,127,127)),mask)
+    return _letterbox(image,size,background=(127,127,127),occupancy=.88)
 
 
 def _multiview_face_path(source_root: Path, year: str, person_id: str, view: str) -> Path | None:
@@ -143,9 +140,17 @@ def normalize_domains(metadata: pd.DataFrame, size: int=224, force: bool=False, 
         rec={"pair_key":record.pair_key,"ano":str(record.ano),"status":"OK","error":""}
         try:
             face_out=root/"face"/str(record.ano)/f"{record.id_face}.png"
-            if force or not face_out.exists(): image,status=normalize_face(repo_path(record.face_path),str(record.ano),str(record.id_face),size); face_out.parent.mkdir(parents=True,exist_ok=True); image.save(face_out)
+            if force or not face_out.exists(): image,status=normalize_face(repo_path(record.face_path),str(record.ano),str(record.id_face),size,masked=False); face_out.parent.mkdir(parents=True,exist_ok=True); image.save(face_out)
             else: status="ja_existia"
             rec.update(normalized_face_path=relative_repo_path(face_out),face_normalization=status)
+            face_masked_out=root/"face_masked"/str(record.ano)/f"{record.id_face}.png"
+            if force or not face_masked_out.exists():
+                masked_image,masked_status=normalize_face(repo_path(record.face_path),str(record.ano),str(record.id_face),size,masked=True)
+                face_masked_out.parent.mkdir(parents=True,exist_ok=True)
+                masked_image.save(face_masked_out)
+            else:
+                masked_status="ja_existia"
+            rec.update(normalized_face_masked_path=relative_repo_path(face_masked_out),face_masked_normalization=masked_status)
             for view in ("FFS","FL"):
                 if view not in views: continue
                 source=_multiview_face_path(source_root,str(record.ano),str(record.id_pessoa),view)
