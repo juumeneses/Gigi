@@ -1,0 +1,11 @@
+dataset/cranios/
+dataset/faces/
+modelos/*.keras
+modelos/*.h5
+modelos/*.npz
+resultados/cranios/mascaras/
+resultados/cranios/previews/
+resultados/faces/previews/
+logs/*.log
+__pycache__/
+*.pyc

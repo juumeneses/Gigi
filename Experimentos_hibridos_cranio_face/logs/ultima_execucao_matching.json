@@ -1,0 +1,26 @@
+{
+  "stage": "matching",
+  "timestamp": "2026-09-16T16:23:08.902613",
+  "seed": 20260915,
+  "config": "/Users/giovanni/Documents/GitHub/Gigi/Experimentos_hibridos_cranio_face/configs/pipeline.yaml",
+  "pid": 51684,
+  "pares": 1446,
+  "n_queries": 109,
+  "recall_at_1": 0.01834862385321101,
+  "recall_at_5": 0.07339449541284404,
+  "recall_at_10": 0.11009174311926606,
+  "recall_at_20": 0.1926605504587156,
+  "mrr": 0.06321795761785366,
+  "posicao_mediana": 49.0,
+  "hibrido": {
+    "status": "BLOQUEADO_GATE_ANATOMICO",
+    "oficial": false,
+    "motivo": "cobertura das regioes centrais abaixo de 80%",
+    "features_disponiveis": [
+      "score_global_two_tower",
+      "score_anatomico",
+      "score_genero",
+      "score_qualidade"
+    ]
+  }
+}

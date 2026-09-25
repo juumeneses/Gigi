@@ -1,0 +1,41 @@
+<!doctype html><html lang='pt-br'><head><meta charset='utf-8'><title>Comparacao de experimentos</title><style>body{font-family:Arial,sans-serif;margin:24px;background:#f4f6f8;color:#17202a}a{color:#145a9c}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}.card{background:white;border:1px solid #dfe4ea;border-radius:10px;padding:12px}.card img{width:100%;height:260px;object-fit:contain;background:#111}.ok{color:#147a3d}.bad{color:#a72525}table{border-collapse:collapse;background:white}td,th{padding:7px;border:1px solid #ddd}nav a{margin-right:14px}small{color:#5d6d7e}.controls{position:sticky;top:0;z-index:5;background:#fff;padding:14px;border-radius:10px;box-shadow:0 2px 8px #0002;margin-bottom:16px}.controls select,.controls input{padding:8px;margin-right:10px}.candidate.correct{border:3px solid #17823b}.candidate h3{margin:7px 0}.candidate p{margin:5px 0}.triptych{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5px}.triptych img{height:190px}.query{display:flex;gap:16px;align-items:center;background:white;padding:12px;border-radius:10px;margin-bottom:16px}.query img{width:180px;height:180px;object-fit:contain;background:#111}.badge{display:inline-block;padding:3px 7px;border-radius:12px;background:#e8eef5;margin-right:5px}</style></head><body><nav><a href='index.html'>Inicio</a><a href='auditoria.html'>Auditoria</a><a href='cranios.html'>Cranios</a><a href='faces.html'>Faces</a><a href='matching.html'>Matching</a></nav><h1>Comparacao de experimentos</h1><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>experimento</th>
+      <th>estado</th>
+      <th>observacao</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>E0 baseline legado</td>
+      <td>IMPORTADO/PENDENTE DE REPRODUCAO OFICIAL</td>
+      <td>pipeline original preservado</td>
+    </tr>
+    <tr>
+      <td>E1 anatomico</td>
+      <td>EXPLORATORIO</td>
+      <td>Recall@1=0.018; gate=0.357</td>
+    </tr>
+    <tr>
+      <td>E2 two-tower global</td>
+      <td>TREINADO</td>
+      <td>Recall@1=0.018; AUC=0.591</td>
+    </tr>
+    <tr>
+      <td>E3 two-tower por regioes</td>
+      <td>BLOQUEADO</td>
+      <td>depende do gate anatomico</td>
+    </tr>
+    <tr>
+      <td>E4 hibrido</td>
+      <td>BLOQUEADO_GATE_ANATOMICO</td>
+      <td>cobertura das regioes centrais abaixo de 80%</td>
+    </tr>
+    <tr>
+      <td>E5 ablacoes</td>
+      <td>PENDENTE</td>
+      <td>executar apos estabilizar E2/E4</td>
+    </tr>
+  </tbody>
+</table></body></html>

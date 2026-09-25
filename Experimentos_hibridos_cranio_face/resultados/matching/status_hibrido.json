@@ -1,0 +1,11 @@
+{
+  "status": "BLOQUEADO_GATE_ANATOMICO",
+  "oficial": false,
+  "motivo": "cobertura das regioes centrais abaixo de 80%",
+  "features_disponiveis": [
+    "score_global_two_tower",
+    "score_anatomico",
+    "score_genero",
+    "score_qualidade"
+  ]
+}

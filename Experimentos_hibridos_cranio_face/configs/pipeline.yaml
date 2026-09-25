@@ -1,0 +1,9 @@
+{
+  "seed": 20260915,
+  "years": [2017, 2019, 2021, 2022, 2023],
+  "splits": {"treino": 0.70, "validacao": 0.15, "teste": 0.15},
+  "cranios": {"vista_inicial": "CF", "confianca_minima": 0.45, "gate_cobertura": 0.80, "preview_largura": 900},
+  "faces": {"confianca_minima": 0.50},
+  "matching": {"usar_genero_como_feature": true, "genero_como_filtro": false, "negativos_por_positivo": 1, "embedding_dim": 256, "image_size": 224, "batch_size": 16, "epochs": 60, "early_stopping_patience": 10, "train_two_tower_no_all": false},
+  "relatorios": {"max_cards_por_pagina": 250}
+}
