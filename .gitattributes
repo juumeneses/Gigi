@@ -1,3 +1,10 @@
+*.py text eol=lf
+*.sh text eol=lf
+# Preserve exact bytes: manifests/configs/CSVs contain stored SHA-256 values.
+*.json -text
+*.csv -text
+*.yaml -text
+*.yml -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.JPG filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
