@@ -10,10 +10,21 @@ from unittest.mock import patch
 import torch
 
 from Treinamento_DINOv2_face_cranio import portable, core, data, engine, file_lock
+from Treinamento_DINOv2_face_cranio import backbone
 from Treinamento_DINOv2_face_cranio.improvement_pipeline import check_signatures
 
 
 class PortableTest(unittest.TestCase):
+    def test_convnext_preparation_ignores_cuda_build_suffix(self):
+        import torchvision
+        with tempfile.TemporaryDirectory() as tmp:
+            folder=NativePath(tmp)
+            def retrieve(url,target):NativePath(target).write_bytes(b'synthetic-weight-only')
+            with patch.object(backbone,'model_dir',return_value=folder),patch.object(backbone.urllib.request,'urlretrieve',side_effect=retrieve),patch.object(torchvision,'__version__','0.27.1+cu128'):
+                backbone.prepare_variant('convnext_tiny',log=lambda *a,**kw:None)
+                self.assertEqual(core.load(folder/'model.json')['revision'],'0.27.1')
+                backbone.verify_variant('convnext_tiny')
+
     def test_move_preserves_manifest_checkpoint_and_file_hashes(self):
         with tempfile.TemporaryDirectory() as tmp:
             root=NativePath(tmp);registry=root/'portable_roots.json'

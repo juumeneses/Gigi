@@ -47,7 +47,7 @@ def prepare_variant(model, log=print):
     tmp.replace(path)
     import torchvision
     save(folder/'model.json', dict(model=model, dimension=MODELS[model][1], weight_url=url,
-        weight_hash=sha(path), revision=REVISION if model.startswith('dinov2') else torchvision.__version__))
+        weight_hash=sha(path), revision=REVISION if model.startswith('dinov2') else torchvision.__version__.split('+')[0]))
     return folder
 
 
