@@ -1,0 +1,5 @@
+{
+  "backbone": "dinov2_vitb14",
+  "criterion": "mean_seed_recall_10_then_mrr",
+  "screening_seed": 42
+}

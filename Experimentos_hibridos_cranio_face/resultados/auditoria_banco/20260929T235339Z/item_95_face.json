@@ -1,0 +1,21 @@
+{
+  "signature": "fa9418b0baf2fa267ba033e4c90f52fa77746a32f388746864dc0ddfc758e2cc",
+  "metadata": {
+    "id": "2017_98_UDSLB",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_98_UDSLB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_98_UDSLB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 725,
+    "contraste": 70.03441845516176,
+    "nitidez_512": 636.4622379963906,
+    "sha256": "fa9418b0baf2fa267ba033e4c90f52fa77746a32f388746864dc0ddfc758e2cc",
+    "bytes": 45293
+  }
+}

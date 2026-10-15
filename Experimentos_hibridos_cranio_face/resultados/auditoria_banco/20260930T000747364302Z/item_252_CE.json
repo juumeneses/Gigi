@@ -1,0 +1,21 @@
+{
+  "signature": "847efaf7e749d150bfbd29cd8645f07351f3b25b6fb8551dd25da9ee483c6080",
+  "metadata": {
+    "id": "2019_23_ASS",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_23_ASS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_23_ASS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2084,
+    "altura": 1360,
+    "contraste": 87.98481633793158,
+    "nitidez_512": 1125.744011976048,
+    "sha256": "847efaf7e749d150bfbd29cd8645f07351f3b25b6fb8551dd25da9ee483c6080",
+    "bytes": 153042
+  }
+}

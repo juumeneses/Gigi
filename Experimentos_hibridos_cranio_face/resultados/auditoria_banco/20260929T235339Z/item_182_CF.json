@@ -1,0 +1,21 @@
+{
+  "signature": "a047aaf7f4d3d3cd8dc0fa30456dbe115adb812ecc7ca0294d1c1707dbdb4bcb",
+  "metadata": {
+    "id": "2019_177_NRA",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_177_NRA_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_177_NRA_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1684,
+    "altura": 1099,
+    "contraste": 101.71145957921313,
+    "nitidez_512": 926.4991347915003,
+    "sha256": "a047aaf7f4d3d3cd8dc0fa30456dbe115adb812ecc7ca0294d1c1707dbdb4bcb",
+    "bytes": 241299
+  }
+}

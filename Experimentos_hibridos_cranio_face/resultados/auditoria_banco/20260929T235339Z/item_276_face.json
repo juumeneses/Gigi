@@ -1,0 +1,21 @@
+{
+  "signature": "b9b7dfd165b8af572fcaf9043ff69027b90d3578404fc0aed14faf4bbdbc5c5e",
+  "metadata": {
+    "id": "2019_261_YGA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_261_YGA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_261_YGA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 737,
+    "contraste": 70.14538288039726,
+    "nitidez_512": 442.4852841592066,
+    "sha256": "b9b7dfd165b8af572fcaf9043ff69027b90d3578404fc0aed14faf4bbdbc5c5e",
+    "bytes": 35795
+  }
+}

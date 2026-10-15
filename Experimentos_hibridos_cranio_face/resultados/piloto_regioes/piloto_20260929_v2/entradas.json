@@ -1,0 +1,1916 @@
+[
+  {
+    "id": "2017_30_EC",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_30_EC_CF.jpg",
+    "expected_hash": "4cc85b685250c03e7cc38b37dab6775a18d95550c0a3fa1357d6099f28f0b70c",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 1119.0,
+        "y": 699.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 1123.0,
+        "y": 954.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 1053.0,
+        "y": 889.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 1199.0,
+        "y": 895.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 827.0,
+        "y": 789.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1404.0,
+        "y": 777.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 1127.0,
+        "y": 1301.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 768.0,
+        "y": 906.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1476.0,
+        "y": 894.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 1063.0,
+        "y": 789.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 1173.0,
+        "y": 777.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_30_EC",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_30_EC_FFN.jpg",
+    "expected_hash": "57bd20d60e3bb13b991f2e024b56ab74146e98717ce942834882ea07e2baba8f",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 251.0,
+        "y": 322.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 249.0,
+        "y": 467.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 207.0,
+        "y": 447.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 291.0,
+        "y": 445.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 116.0,
+        "y": 364.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 382.0,
+        "y": 350.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 261.0,
+        "y": 644.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 67.0,
+        "y": 405.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 449.0,
+        "y": 399.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 204.0,
+        "y": 363.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 304.0,
+        "y": 356.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_41_GP",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_41_GP_CF.jpg",
+    "expected_hash": "dc8988e7aad9674914d3814169d9b4d0f6920940bbe84e0ea8e54e43b2299c47",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 925.0,
+        "y": 497.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": null,
+        "y": null,
+        "estado": "DUVIDA",
+        "observacao": "Limite inferior nasal artefatual, nao localizado com seguranca."
+      },
+      {
+        "numero": 3,
+        "x": 853.0,
+        "y": 683.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 1010.0,
+        "y": 683.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 651.0,
+        "y": 539.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1224.0,
+        "y": 527.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 964.0,
+        "y": 1150.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 575.0,
+        "y": 709.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1316.0,
+        "y": 691.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 883.0,
+        "y": 539.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 964.0,
+        "y": 527.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_41_GP",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_41_GP_FFN.jpg",
+    "expected_hash": "9bc89669f2c9311386e6e7c5981c217e8a31baac2d041e494ea7d9e0994fe27c",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 250.0,
+        "y": 271.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 260.0,
+        "y": 439.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 235.0,
+        "y": 421.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 289.0,
+        "y": 421.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 120.0,
+        "y": 325.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 385.0,
+        "y": 310.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 260.0,
+        "y": 629.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 60.0,
+        "y": 380.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 454.0,
+        "y": 370.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 196.0,
+        "y": 323.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 310.0,
+        "y": 317.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_73_MMPCC",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_73_MMPCC_CF.jpg",
+    "expected_hash": "c85af94b4935b8a0b24e47a9772eb347c8b8dfee57103c7d27632f489c20ef10",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 907.0,
+        "y": 559.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 907.0,
+        "y": 815.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 828.0,
+        "y": 753.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 995.0,
+        "y": 763.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 643.0,
+        "y": 624.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1203.0,
+        "y": 620.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 917.0,
+        "y": 1180.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 604.0,
+        "y": 775.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1314.0,
+        "y": 775.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 866.0,
+        "y": 624.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 961.0,
+        "y": 620.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_73_MMPCC",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_73_MMPCC_FFN.jpg",
+    "expected_hash": "713225d2a19d0fc9edd0af9be8ba4c2243e46872f54640d86eae8e6135316be0",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 252.0,
+        "y": 276.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 252.0,
+        "y": 413.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 204.0,
+        "y": 395.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 301.0,
+        "y": 395.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 141.0,
+        "y": 313.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 373.0,
+        "y": 311.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 245.0,
+        "y": 600.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 71.0,
+        "y": 375.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 432.0,
+        "y": 373.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 201.0,
+        "y": 313.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 311.0,
+        "y": 312.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_76_MVXP",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_76_MVXP_CF.jpg",
+    "expected_hash": "a7fa75e8986781e5b1c70539dc8bd903327c3f56f8803b9912f5a668ca0f7144",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 998.0,
+        "y": 519.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": null,
+        "y": null,
+        "estado": "DUVIDA",
+        "observacao": "Limite inferior nasal artefatual, nao localizado com seguranca."
+      },
+      {
+        "numero": 3,
+        "x": 926.0,
+        "y": 770.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 1078.0,
+        "y": 772.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 725.0,
+        "y": 594.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1288.0,
+        "y": 586.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 989.0,
+        "y": 1224.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 656.0,
+        "y": 731.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1366.0,
+        "y": 724.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 959.0,
+        "y": 594.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 1043.0,
+        "y": 586.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "validacao"
+  },
+  {
+    "id": "2017_76_MVXP",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_76_MVXP_FFN.jpg",
+    "expected_hash": "60c073f1f67d4173ebd0bfcd01d1e02094f8324ce8f4d3daea790211153f44a3",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 254.0,
+        "y": 300.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 258.0,
+        "y": 461.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 205.0,
+        "y": 441.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 309.0,
+        "y": 440.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 119.0,
+        "y": 339.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 386.0,
+        "y": 324.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": null,
+        "y": null,
+        "estado": "DUVIDA",
+        "observacao": "Limite cutaneo inferior do queixo oculto/ambiguo pela barba."
+      },
+      {
+        "numero": 8,
+        "x": 74.0,
+        "y": 392.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 442.0,
+        "y": 380.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 197.0,
+        "y": 341.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 315.0,
+        "y": 331.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "validacao"
+  },
+  {
+    "id": "2017_92_SRAK",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_92_SRAK_CF.jpg",
+    "expected_hash": "7b9698598f4b943b023d4a33a9d45d0fe34a9dc90c52cca74ad2d561cd814cf9",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 1084.0,
+        "y": 586.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 1080.0,
+        "y": 879.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 1010.0,
+        "y": 804.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 1151.0,
+        "y": 804.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 781.0,
+        "y": 682.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1369.0,
+        "y": 690.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 1074.0,
+        "y": 1261.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 700.0,
+        "y": 787.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1448.0,
+        "y": 789.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 1042.0,
+        "y": 682.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 1129.0,
+        "y": 690.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_92_SRAK",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_92_SRAK_FFN.jpg",
+    "expected_hash": "63946bcd6dbfd8faa9a93e91a0c246c62bd4c9924e6c80491e8ef59a7fb1c698",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 252.0,
+        "y": 353.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 252.0,
+        "y": 488.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 212.0,
+        "y": 468.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 298.0,
+        "y": 466.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 134.0,
+        "y": 372.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 378.0,
+        "y": 371.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 246.0,
+        "y": 651.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 82.0,
+        "y": 426.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 428.0,
+        "y": 416.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 202.0,
+        "y": 375.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 306.0,
+        "y": 375.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_99_VDSR",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_99_VDSR_CF.jpg",
+    "expected_hash": "5f59310d7359395017177f7e0b607c7799eedd444163f3893e51e2b1b9737c67",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 935.0,
+        "y": 507.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": null,
+        "y": null,
+        "estado": "DUVIDA",
+        "observacao": "Limite inferior nasal artefatual, nao localizado com seguranca."
+      },
+      {
+        "numero": 3,
+        "x": 856.0,
+        "y": 710.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 1007.0,
+        "y": 710.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 657.0,
+        "y": 563.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1195.0,
+        "y": 553.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 939.0,
+        "y": 1117.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 561.0,
+        "y": 718.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1284.0,
+        "y": 716.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 880.0,
+        "y": 563.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 983.0,
+        "y": 553.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2017_99_VDSR",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_99_VDSR_FFN.jpg",
+    "expected_hash": "f9ab7e9acd265999b3cf8d4d82a90b8dcd7e380ddbaf057cac3c00ecfe0d2037",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 262.0,
+        "y": 303.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 271.0,
+        "y": 455.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 225.0,
+        "y": 435.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 319.0,
+        "y": 438.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 147.0,
+        "y": 339.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 391.0,
+        "y": 333.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 276.0,
+        "y": 627.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 70.0,
+        "y": 390.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 463.0,
+        "y": 385.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 216.0,
+        "y": 344.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 324.0,
+        "y": 339.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "treino"
+  },
+  {
+    "id": "2019_115_KCCSF",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_115_KCCSF_CF.jpg",
+    "expected_hash": "19360a53adf441894d678a78b7bab8bb9053c1bedebc0ac8c8b2d53c19bd5ce9",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 922.0,
+        "y": 572.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 922.0,
+        "y": 832.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 852.0,
+        "y": 749.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 992.0,
+        "y": 755.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 665.0,
+        "y": 620.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1194.0,
+        "y": 630.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 927.0,
+        "y": 1208.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 616.0,
+        "y": 766.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1264.0,
+        "y": 774.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 885.0,
+        "y": 620.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 964.0,
+        "y": 630.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_115_KCCSF",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_115_KCCSF_FFN.jpg",
+    "expected_hash": "02ebdd0bfc94b4d2bf376a969da88bbbf8265827218a14c7a49835c567162f01",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 265.0,
+        "y": 324.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 276.0,
+        "y": 451.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 235.0,
+        "y": 434.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 308.0,
+        "y": 434.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 168.0,
+        "y": 347.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 376.0,
+        "y": 347.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 273.0,
+        "y": 599.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 117.0,
+        "y": 401.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 416.0,
+        "y": 396.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 230.0,
+        "y": 348.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 310.0,
+        "y": 348.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_156_MFR",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_156_MFR_CF.jpg",
+    "expected_hash": "baa7dd62741c6e4f0f9179fd15170fb1a702798d315c9d06b0726ccf419729df",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 945.0,
+        "y": 641.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 945.0,
+        "y": 891.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 877.0,
+        "y": 818.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 1018.0,
+        "y": 818.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 681.0,
+        "y": 675.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1215.0,
+        "y": 673.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 943.0,
+        "y": 1202.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 616.0,
+        "y": 788.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1276.0,
+        "y": 788.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 903.0,
+        "y": 675.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 1000.0,
+        "y": 673.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_156_MFR",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_156_MFR_FFN.jpg",
+    "expected_hash": "1e1d9df12557698373d238fb4f3ceb7522f3463bf2fde8dc5291803509244c36",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 264.0,
+        "y": 280.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 266.0,
+        "y": 414.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 220.0,
+        "y": 399.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 314.0,
+        "y": 397.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 147.0,
+        "y": 302.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 378.0,
+        "y": 293.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 264.0,
+        "y": 562.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 95.0,
+        "y": 357.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 429.0,
+        "y": 345.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 226.0,
+        "y": 309.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 312.0,
+        "y": 305.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_233_SFG",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_233_SFG_CF.jpg",
+    "expected_hash": "9bc3919436aff143b9b9e7ceacdaae6626afb6f74be5995d864bfeb1f882117b",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 689.0,
+        "y": 302.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 690.0,
+        "y": 564.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 631.0,
+        "y": 502.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 751.0,
+        "y": 498.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 439.0,
+        "y": 355.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 937.0,
+        "y": 353.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 684.0,
+        "y": 904.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 354.0,
+        "y": 480.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1038.0,
+        "y": 469.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 655.0,
+        "y": 355.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 729.0,
+        "y": 353.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_233_SFG",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_233_SFG_FFN.jpg",
+    "expected_hash": "eb744f4e87bc583ca3c6f68698adb47df83bc611ed7a66b27d47029bae6a46e8",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 252.0,
+        "y": 310.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 258.0,
+        "y": 438.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 218.0,
+        "y": 420.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 295.0,
+        "y": 419.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 146.0,
+        "y": 335.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 363.0,
+        "y": 330.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 258.0,
+        "y": 578.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 103.0,
+        "y": 385.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 410.0,
+        "y": 379.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 211.0,
+        "y": 339.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 302.0,
+        "y": 337.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_234_SFLL",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_234_SFLL_CF.jpg",
+    "expected_hash": "5105398d8057862089536bd312b4daf9f93985726547c6f42c141ee1492d5ceb",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 926.0,
+        "y": 489.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 926.0,
+        "y": 734.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 868.0,
+        "y": 658.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 988.0,
+        "y": 661.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 666.0,
+        "y": 545.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 1190.0,
+        "y": 547.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 932.0,
+        "y": 1094.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 584.0,
+        "y": 654.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 1276.0,
+        "y": 648.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 881.0,
+        "y": 545.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 975.0,
+        "y": 547.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_234_SFLL",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_234_SFLL_FFN.jpg",
+    "expected_hash": "bfffd5a071bc999a1b4655fe9e55344eac6be8fdeaeb8b254ee5c8ba12feb388",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 253.0,
+        "y": 283.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 260.0,
+        "y": 421.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 221.0,
+        "y": 400.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 301.0,
+        "y": 400.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 149.0,
+        "y": 313.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 375.0,
+        "y": 311.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 253.0,
+        "y": 587.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 79.0,
+        "y": 368.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 424.0,
+        "y": 362.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 215.0,
+        "y": 319.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 310.0,
+        "y": 319.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_260_WRV",
+    "modalidade": "cranio",
+    "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_260_WRV_CF.jpg",
+    "expected_hash": "99287aec7e06d47c85fa1c51e9d7337314b59f38287b7432bb10ae00329efcbd",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 405.0,
+        "y": 549.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 403.0,
+        "y": 822.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 342.0,
+        "y": 757.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 468.0,
+        "y": 757.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 153.0,
+        "y": 606.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 668.0,
+        "y": 614.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": 399.0,
+        "y": 1184.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+      },
+      {
+        "numero": 8,
+        "x": 81.0,
+        "y": 713.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 755.0,
+        "y": 705.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 361.0,
+        "y": 606.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 449.0,
+        "y": 614.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  },
+  {
+    "id": "2019_260_WRV",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_260_WRV_FFN.jpg",
+    "expected_hash": "f4e39c2eac37c36dc0fdac42c0f4d55830556d7b21c5d66eaefdc2ae12ecc804",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 274.0,
+        "y": 316.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 274.0,
+        "y": 449.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 228.0,
+        "y": 429.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 322.0,
+        "y": 431.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 167.0,
+        "y": 342.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 381.0,
+        "y": 342.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": null,
+        "y": null,
+        "estado": "DUVIDA",
+        "observacao": "Limite cutaneo inferior do queixo oculto/ambiguo pela barba."
+      },
+      {
+        "numero": 8,
+        "x": 110.0,
+        "y": 393.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 432.0,
+        "y": 392.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 235.0,
+        "y": 347.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 314.0,
+        "y": 348.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2019,
+    "split": "treino"
+  }
+]

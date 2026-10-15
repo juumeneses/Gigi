@@ -1,0 +1,21 @@
+{
+  "signature": "69af7fd94e1131195d4bfc7fd397bdd05343f354f42e2ca2be07a3a7321742fa",
+  "metadata": {
+    "id": "2022_12_AOP",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_12_AOP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_12_AOP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1012,
+    "altura": 926,
+    "contraste": 87.122939958788,
+    "nitidez_512": 808.7627700597637,
+    "sha256": "69af7fd94e1131195d4bfc7fd397bdd05343f354f42e2ca2be07a3a7321742fa",
+    "bytes": 259301
+  }
+}

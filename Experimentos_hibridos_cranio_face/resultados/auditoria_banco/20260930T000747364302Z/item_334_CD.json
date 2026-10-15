@@ -1,0 +1,21 @@
+{
+  "signature": "adb65b088004b61ecdf0194fbe797a59e0ab1e41fbb1862b045d2acd1fb9c17a",
+  "metadata": {
+    "id": "2019_64_FAAAO",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_64_FAAAO_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_64_FAAAO_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1635,
+    "altura": 1067,
+    "contraste": 101.11498685948268,
+    "nitidez_512": 1369.3640345852082,
+    "sha256": "adb65b088004b61ecdf0194fbe797a59e0ab1e41fbb1862b045d2acd1fb9c17a",
+    "bytes": 272160
+  }
+}

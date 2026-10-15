@@ -1,0 +1,21 @@
+{
+  "signature": "bb786dd38f136b109b4ea97a2615ca7dabc6c3d3273f4dd912ee5425ce7d0052",
+  "metadata": {
+    "id": "2023_80_JSMS",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_80_JSMS_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_80_JSMS_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 915,
+    "altura": 974,
+    "contraste": 87.50234893023925,
+    "nitidez_512": 800.332637677071,
+    "sha256": "bb786dd38f136b109b4ea97a2615ca7dabc6c3d3273f4dd912ee5425ce7d0052",
+    "bytes": 235497
+  }
+}

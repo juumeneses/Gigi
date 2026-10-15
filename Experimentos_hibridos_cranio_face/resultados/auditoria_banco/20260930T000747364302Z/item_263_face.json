@@ -1,0 +1,21 @@
+{
+  "signature": "b48fc6f7901f78167b1fac6e268d94bf354bddecaad641cd724f9e1bb6c9b463",
+  "metadata": {
+    "id": "2019_24_ASVA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_24_ASVA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_24_ASVA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 749,
+    "contraste": 68.73308430435983,
+    "nitidez_512": 1349.1532167180171,
+    "sha256": "b48fc6f7901f78167b1fac6e268d94bf354bddecaad641cd724f9e1bb6c9b463",
+    "bytes": 44455
+  }
+}

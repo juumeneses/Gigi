@@ -1,0 +1,21 @@
+{
+  "signature": "bc7fb53043764e22d5a0a8c631dbff7d88c57521fcf7126c05b32423dc66684f",
+  "metadata": {
+    "id": "2023_144_TPB",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_144_TPB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_144_TPB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 161,
+    "altura": 225,
+    "contraste": 65.75491705733377,
+    "nitidez_512": 1850.640558425339,
+    "sha256": "bc7fb53043764e22d5a0a8c631dbff7d88c57521fcf7126c05b32423dc66684f",
+    "bytes": 6757
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "status": "ATENCAO",
+  "rows": [
+    {
+      "variante": "original",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "inverse": [
+        [
+          1.0,
+          -0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "regioes_cortadas": {
+        "olho_direito": false,
+        "olho_esquerdo": false,
+        "nariz": false,
+        "central": false,
+        "mandibula_queixo": false
+      },
+      "status": "ATENCAO",
+      "reason": "ESTABILIDADE_SEGMENTACAO_NAO_DETECTOR_DE_PONTOS",
+      "detectado": true,
+      "mediana_px": null,
+      "p95_px": null,
+      "boxes_iou": {},
+      "mask_iou": 1.0,
+      "valid_fraction": 1.0
+    },
+    {
+      "variante": "brilho_090",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "inverse": [
+        [
+          1.0,
+          -0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "regioes_cortadas": {
+        "olho_direito": false,
+        "olho_esquerdo": false,
+        "nariz": false,
+        "central": false,
+        "mandibula_queixo": false
+      },
+      "status": "ATENCAO",
+      "reason": "ESTABILIDADE_SEGMENTACAO_NAO_DETECTOR_DE_PONTOS",
+      "detectado": true,
+      "mediana_px": null,
+      "p95_px": null,
+      "boxes_iou": {},
+      "mask_iou": 0.9996251037283224,
+      "valid_fraction": 1.0
+    },
+    {
+      "variante": "brilho_110",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "inverse": [
+        [
+          1.0,
+          -0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "regioes_cortadas": {
+        "olho_direito": false,
+        "olho_esquerdo": false,
+        "nariz": false,
+        "central": false,
+        "mandibula_queixo": false
+      },
+      "status": "ATENCAO",
+      "reason": "ESTABILIDADE_SEGMENTACAO_NAO_DETECTOR_DE_PONTOS",
+      "detectado": true,
+      "mediana_px": null,
+      "p95_px": null,
+      "boxes_iou": {},
+      "mask_iou": 0.9983276981488138,
+      "valid_fraction": 1.0
+    },
+    {
+      "variante": "escala_090",
+      "matrix": [
+        [
+          0.9,
+          0.0,
+          109.59999999999998
+        ],
+        [
+          -0.0,
+          0.9,
+          71.49999999999999
+        ]
+      ],
+      "inverse": [
+        [
+          1.1111111111111112,
+          -0.0,
+          -121.77777777777776
+        ],
+        [
+          0.0,
+          1.1111111111111112,
+          -79.44444444444443
+        ]
+      ],
+      "regioes_cortadas": {
+        "olho_direito": false,
+        "olho_esquerdo": false,
+        "nariz": false,
+        "central": false,
+        "mandibula_queixo": false
+      },
+      "status": "ATENCAO",
+      "reason": "ESTABILIDADE_SEGMENTACAO_NAO_DETECTOR_DE_PONTOS",
+      "detectado": true,
+      "mediana_px": null,
+      "p95_px": null,
+      "boxes_iou": {},
+      "mask_iou": 0.9966778852895807,
+      "valid_fraction": 1.0
+    },
+    {
+      "variante": "escala_110",
+      "matrix": [
+        [
+          1.1,
+          0.0,
+          -109.6000000000001
+        ],
+        [
+          -0.0,
+          1.1,
+          -71.50000000000006
+        ]
+      ],
+      "inverse": [
+        [
+          0.9090909090909091,
+          -0.0,
+          99.63636363636371
+        ],
+        [
+          0.0,
+          0.9090909090909091,
+          65.00000000000004
+        ]
+      ],
+      "regioes_cortadas": {
+        "olho_direito": false,
+        "olho_esquerdo": false,
+        "nariz": false,
+        "central": false,
+        "mandibula_queixo": true
+      },
+      "status": "ATENCAO",
+      "reason": "ESTABILIDADE_SEGMENTACAO_NAO_DETECTOR_DE_PONTOS;REGIAO_CORTADA_NA_VARIANTE",
+      "detectado": true,
+      "mediana_px": null,
+      "p95_px": null,
+      "boxes_iou": {},
+      "mask_iou": 0.9972549283644311,
+      "valid_fraction": 0.8262402160740785
+    },
+    {
+      "variante": "rotacao_-3",
+      "matrix": [
+        [
+          0.9986295347545738,
+          -0.052335956242943835,
+          38.92223862269192
+        ],
+        [
+          0.052335956242943835,
+          0.9986295347545738,
+          -56.380325391786734
+        ]
+      ],
+      "inverse": [
+        [
+          0.998629534754574,
+          0.05233595624294385,
+          -35.91817880471786
+        ],
+        [
+          -0.05233595624294385,
+          0.998629534754574,
+          58.34009069274611
+        ]
+      ],
+      "regioes_cortadas": {
+        "olho_direito": false,
+        "olho_esquerdo": false,
+        "nariz": false,
+        "central": false,
+        "mandibula_queixo": false
+      },
+      "status": "ATENCAO",
+      "reason": "ESTABILIDADE_SEGMENTACAO_NAO_DETECTOR_DE_PONTOS",
+      "detectado": true,
+      "mediana_px": null,
+      "p95_px": null,
+      "boxes_iou": {},
+      "mask_iou": 0.997145570303832,
+      "valid_fraction": 0.97272593727007
+    },
+    {
+      "variante": "rotacao_3",
+      "matrix": [
+        [
+          0.9986295347545738,
+          0.052335956242943835,
+          -35.91817880471777
+        ],
+        [
+          -0.052335956242943835,
+          0.9986295347545738,
+          58.34009069274615
+        ]
+      ],
+      "inverse": [
+        [
+          0.998629534754574,
+          -0.05233595624294385,
+          38.92223862269185
+        ],
+        [
+          0.05233595624294385,
+          0.998629534754574,
+          -56.380325391786805
+        ]
+      ],
+      "regioes_cortadas": {
+        "olho_direito": false,
+        "olho_esquerdo": false,
+        "nariz": false,
+        "central": false,
+        "mandibula_queixo": false
+      },
+      "status": "ATENCAO",
+      "reason": "ESTABILIDADE_SEGMENTACAO_NAO_DETECTOR_DE_PONTOS",
+      "detectado": true,
+      "mediana_px": null,
+      "p95_px": null,
+      "boxes_iou": {},
+      "mask_iou": 0.9970700974623874,
+      "valid_fraction": 0.9727252999586066
+    }
+  ],
+  "fingerprint": "0bf9e426232113fd62add4a0ed240802a0c3b59739c0a2fadd75bea171815667",
+  "assets": {
+    "original.jpg": "03fa3b2608346f56c30c3dd73827f8acaad0d1c0666cfe6dfd28795554e359bb",
+    "brilho_090.jpg": "935a98572831bd61a7b92cc937e5f1b66b3a622eaf8a20f60e087390f785302f",
+    "brilho_110.jpg": "65788a4f9541c4d18b32721b59770831c00402e0cd028a272d1de512f0da0d7b",
+    "escala_090.jpg": "26191af4a0b8514db41fe2f570ca9fd51eed8db35368c00c1441262d21175126",
+    "escala_110.jpg": "3cc9b28927830bbcf0e60a9adbdfd6fa5efd5c032107ee1ce6078b68ef5127c0",
+    "rotacao_-3.jpg": "8cb9e155179ebf140ad81f45120ccb0fb4d33f0c0236973b685b85167632b1ff",
+    "rotacao_3.jpg": "7e61d82eb3cd8df622c8bac8a14c1c2653b78b76cf0e2d77b01db0bc4a259d0a"
+  },
+  "payload_hash": "0b6c7955edcc65c093d54bc748b82277f553b04eb471184d612bd8970b831266"
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "b0df1b661dacdd22e9a9067abd7f127fcc4b67a5cf566ae262dadb67b94156f1",
+  "metadata": {
+    "id": "2019_38_CMSC",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_38_CMSC_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_38_CMSC_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1741,
+    "altura": 1137,
+    "contraste": 101.60435913612912,
+    "nitidez_512": 980.1853831399701,
+    "sha256": "b0df1b661dacdd22e9a9067abd7f127fcc4b67a5cf566ae262dadb67b94156f1",
+    "bytes": 255380
+  }
+}

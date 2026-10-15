@@ -1,0 +1,21 @@
+{
+  "signature": "60ee8b4dc6e11076a26d26560f6e5d5b53e929e8a1e40a30943be121696fcd56",
+  "metadata": {
+    "id": "2017_90_SMDS",
+    "ano": "2017",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CD/2017_90_SMDS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CD/2017_90_SMDS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1896,
+    "altura": 1238,
+    "contraste": 99.55573449959223,
+    "nitidez_512": 1036.8153579929326,
+    "sha256": "60ee8b4dc6e11076a26d26560f6e5d5b53e929e8a1e40a30943be121696fcd56",
+    "bytes": 181118
+  }
+}

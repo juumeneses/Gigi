@@ -1,0 +1,21 @@
+{
+  "signature": "681abe5dbae8e77fa6dc0d9480d236760707e2811886cd1a58ea8e9f672c21f1",
+  "metadata": {
+    "id": "2019_130_LMMA",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_130_LMMA_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_130_LMMA_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2183,
+    "altura": 1425,
+    "contraste": 96.18531155356739,
+    "nitidez_512": 1291.9246351047905,
+    "sha256": "681abe5dbae8e77fa6dc0d9480d236760707e2811886cd1a58ea8e9f672c21f1",
+    "bytes": 226263
+  }
+}

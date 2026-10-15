@@ -1,0 +1,21 @@
+{
+  "signature": "998717bf7ede86bc9ea07e51a6bb7bb566e4f651744ef50f89fdb81d416e7373",
+  "metadata": {
+    "id": "2023_31_CEFDO",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_31_CEFDO_FFN.png",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_31_CEFDO_FFN.png",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 299,
+    "altura": 420,
+    "contraste": 79.5430099674217,
+    "nitidez_512": 902.7716754031322,
+    "sha256": "998717bf7ede86bc9ea07e51a6bb7bb566e4f651744ef50f89fdb81d416e7373",
+    "bytes": 146154
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "13b2f9bd7b9d1c8ac989809dd0f6cf6aac6fe1eadcc7db6a5789d3ca4d17339f",
+  "metadata": {
+    "id": "2023_85_LAF",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_85_LAF_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_85_LAF_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1106,
+    "altura": 947,
+    "contraste": 90.76830795545895,
+    "nitidez_512": 960.7032557913587,
+    "sha256": "13b2f9bd7b9d1c8ac989809dd0f6cf6aac6fe1eadcc7db6a5789d3ca4d17339f",
+    "bytes": 263672
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "83a79da7b55e6447b97f7bfbb6bf7d45b021639cd8f9c186f48e906c9f0598d0",
+  "metadata": {
+    "id": "2021_23_CASJ",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_23_CASJ_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_23_CASJ_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 879,
+    "altura": 1024,
+    "contraste": 89.52352316269067,
+    "nitidez_512": 693.1655868653226,
+    "sha256": "83a79da7b55e6447b97f7bfbb6bf7d45b021639cd8f9c186f48e906c9f0598d0",
+    "bytes": 214401
+  }
+}

@@ -1,0 +1,248 @@
+[
+  {
+    "person": "2017_11_BB",
+    "view": "CD",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_11_BB/2017_11_BB_CD.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/0.jpg",
+    "mode": "uniform_background",
+    "box": [
+      413,
+      0,
+      1297,
+      1239
+    ],
+    "removed_fraction": 0.5344918378093734,
+    "applied": true,
+    "reason": "bordas_uniformes",
+    "margin": 0.1
+  },
+  {
+    "person": "2017_11_BB",
+    "view": "CF",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_11_BB/2017_11_BB_CF.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/1.jpg",
+    "mode": "uniform_background",
+    "box": [
+      480,
+      0,
+      1413,
+      1239
+    ],
+    "removed_fraction": 0.5086887835703002,
+    "applied": true,
+    "reason": "bordas_uniformes",
+    "margin": 0.1
+  },
+  {
+    "person": "2017_11_BB",
+    "view": "FFN",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_11_BB/2017_11_BB_FFN.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/2.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      520,
+      749
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "sem_bordas_removiveis"
+  },
+  {
+    "person": "2017_11_BB",
+    "view": "FFS",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_11_BB/2017_11_BB_FFS.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/3.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      521,
+      749
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "sem_bordas_removiveis"
+  },
+  {
+    "person": "2017_11_BB",
+    "view": "FL",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_11_BB/2017_11_BB_FL.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/4.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      520,
+      749
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "sem_bordas_removiveis"
+  },
+  {
+    "person": "2017_12_BDSA",
+    "view": "CD",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_12_BDSA/2017_12_BDSA_CD.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/5.jpg",
+    "mode": "uniform_background",
+    "box": [
+      418,
+      0,
+      1285,
+      1235
+    ],
+    "removed_fraction": 0.5419968304278923,
+    "applied": true,
+    "reason": "bordas_uniformes",
+    "margin": 0.1
+  },
+  {
+    "person": "2017_12_BDSA",
+    "view": "CF",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_12_BDSA/2017_12_BDSA_CF.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/6.jpg",
+    "mode": "uniform_background",
+    "box": [
+      491,
+      0,
+      1408,
+      1235
+    ],
+    "removed_fraction": 0.5155837295298469,
+    "applied": true,
+    "reason": "bordas_uniformes",
+    "margin": 0.1
+  },
+  {
+    "person": "2017_12_BDSA",
+    "view": "FFN",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_12_BDSA/2017_12_BDSA_FFN.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/7.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      520,
+      737
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "fundo_nao_uniforme"
+  },
+  {
+    "person": "2017_12_BDSA",
+    "view": "FFS",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_12_BDSA/2017_12_BDSA_FFS.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/8.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      519,
+      737
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "fundo_nao_uniforme"
+  },
+  {
+    "person": "2017_12_BDSA",
+    "view": "FL",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_12_BDSA/2017_12_BDSA_FL.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/9.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      520,
+      737
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "fundo_nao_uniforme"
+  },
+  {
+    "person": "2017_14_CAFM",
+    "view": "CD",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_14_CAFM/2017_14_CAFM_CD.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/10.jpg",
+    "mode": "uniform_background",
+    "box": [
+      457,
+      0,
+      1346,
+      1322
+    ],
+    "removed_fraction": 0.5609876543209876,
+    "applied": true,
+    "reason": "bordas_uniformes",
+    "margin": 0.1
+  },
+  {
+    "person": "2017_14_CAFM",
+    "view": "CF",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_14_CAFM/2017_14_CAFM_CF.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/11.jpg",
+    "mode": "uniform_background",
+    "box": [
+      513,
+      0,
+      1493,
+      1322
+    ],
+    "removed_fraction": 0.5160493827160494,
+    "applied": true,
+    "reason": "bordas_uniformes",
+    "margin": 0.1
+  },
+  {
+    "person": "2017_14_CAFM",
+    "view": "FFN",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_14_CAFM/2017_14_CAFM_FFN.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/12.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      526,
+      743
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "fundo_nao_uniforme"
+  },
+  {
+    "person": "2017_14_CAFM",
+    "view": "FFS",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_14_CAFM/2017_14_CAFM_FFS.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/13.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      527,
+      743
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "fundo_nao_uniforme"
+  },
+  {
+    "person": "2017_14_CAFM",
+    "view": "FL",
+    "source": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_14_CAFM/2017_14_CAFM_FL.jpg",
+    "preview": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/previews/14.jpg",
+    "mode": "uniform_background",
+    "box": [
+      0,
+      0,
+      526,
+      743
+    ],
+    "removed_fraction": 0.0,
+    "applied": false,
+    "reason": "fundo_nao_uniforme"
+  }
+]

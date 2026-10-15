@@ -1,0 +1,21 @@
+{
+  "signature": "ab31adb0df540a53428ff79c2d1da1a15f27041442d982d738002e13cfac9b6e",
+  "metadata": {
+    "id": "2022_96_LMDP",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_96_LMDP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_96_LMDP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 743,
+    "contraste": 70.21221074685306,
+    "nitidez_512": 761.2965659048526,
+    "sha256": "ab31adb0df540a53428ff79c2d1da1a15f27041442d982d738002e13cfac9b6e",
+    "bytes": 42983
+  }
+}

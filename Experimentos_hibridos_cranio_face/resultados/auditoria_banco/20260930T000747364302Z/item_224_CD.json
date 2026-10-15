@@ -1,0 +1,21 @@
+{
+  "signature": "7452a649f9307de0212abc60542e4b1f2eee95bf17dccf62f3ba95c8c2ed3dc6",
+  "metadata": {
+    "id": "2019_214_RLGF",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_214_RLGF_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_214_RLGF_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1684,
+    "altura": 1099,
+    "contraste": 101.82575374678586,
+    "nitidez_512": 1109.4325879491018,
+    "sha256": "7452a649f9307de0212abc60542e4b1f2eee95bf17dccf62f3ba95c8c2ed3dc6",
+    "bytes": 225351
+  }
+}

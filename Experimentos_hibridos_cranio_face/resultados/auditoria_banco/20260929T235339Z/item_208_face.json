@@ -1,0 +1,21 @@
+{
+  "signature": "522160588f116166989b28c856fe8adb754b166be6df2f30303118ca1590ebc3",
+  "metadata": {
+    "id": "2019_1_AAC",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_1_AAC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_1_AAC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 733,
+    "contraste": 73.06341136661779,
+    "nitidez_512": 359.6146663805382,
+    "sha256": "522160588f116166989b28c856fe8adb754b166be6df2f30303118ca1590ebc3",
+    "bytes": 34980
+  }
+}

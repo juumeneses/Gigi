@@ -1,0 +1,21 @@
+{
+  "signature": "d9206dcc46d53ab88c2fe0c02f483b1d9f9d4012c66d2500f37445b1ef0b9f96",
+  "metadata": {
+    "id": "2022_137_RCASP",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_137_RCASP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_137_RCASP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 736,
+    "contraste": 78.28071172827332,
+    "nitidez_512": 522.385391478828,
+    "sha256": "d9206dcc46d53ab88c2fe0c02f483b1d9f9d4012c66d2500f37445b1ef0b9f96",
+    "bytes": 42728
+  }
+}

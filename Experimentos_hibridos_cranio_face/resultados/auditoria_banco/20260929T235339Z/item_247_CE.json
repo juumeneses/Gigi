@@ -1,0 +1,21 @@
+{
+  "signature": "468cc0cc30f1d660b4cd638a44ad38ca0affe66551cf433b1256fbc0973f2ce1",
+  "metadata": {
+    "id": "2019_235_SFSS",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_235_SFSS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_235_SFSS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1670,
+    "altura": 1090,
+    "contraste": 101.71641264893354,
+    "nitidez_512": 1127.6548465568862,
+    "sha256": "468cc0cc30f1d660b4cd638a44ad38ca0affe66551cf433b1256fbc0973f2ce1",
+    "bytes": 205536
+  }
+}

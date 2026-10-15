@@ -1,0 +1,2737 @@
+{
+  "signature": "e9a625b061a9eab9cb3987bba10ff894d5d8c70254cb6894f229895dc32948bd",
+  "rows": [
+    {
+      "Fonte": "Mistura RRF",
+      "Combinacao": "Ranking principal",
+      "Execucao": "20261015T025542080456Z",
+      "Pesos": "[0.65, 0.35]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 0.395,
+      "Posicao do correto": 5,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.2095238095238095
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Configuracao da consulta",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.5, 0, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 1.2796854972839355,
+      "Posicao do correto": 6,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Nao",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.7055855691432953
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Neutra",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.5, 0.0, 0.0]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 1.350077509880066,
+      "Posicao do correto": 6,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Nao",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.6255326867103577
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Sorrindo",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.0, 0.3, 0.0]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 1.4232438802719116,
+      "Posicao do correto": 7,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Nao",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.22228556871414185
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Lateral",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.0, 0.0, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_147_RV",
+      "Score do primeiro": 1.3089935779571533,
+      "Posicao do correto": 5,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.9057178497314453
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Neutra + Sorrindo",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.5, 0.3, 0.0]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 1.377514898777008,
+      "Posicao do correto": 6,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Nao",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.47431498020887375
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Neutra + Lateral",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.5, 0.0, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 1.2796854972839355,
+      "Posicao do correto": 6,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Nao",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.7055855691432953
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Sorrindo + Lateral",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.0, 0.3, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 1.2954284846782684,
+      "Posicao do correto": 5,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.4956584721803665
+    },
+    {
+      "Fonte": "Fonte A",
+      "Combinacao": "Neutra + Sorrindo + Lateral",
+      "Execucao": "20261015T015657235487Z",
+      "Pesos": "[0.5, 0.3, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2023_124_RBKC",
+      "Score do primeiro": 1.3227529972791672,
+      "Posicao do correto": 6,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Nao",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 0.5605955794453621
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Configuracao da consulta",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.5, 0.3, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_165_YTG",
+      "Score do primeiro": 1.3808656632900238,
+      "Posicao do correto": 2,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.1596391201019287
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Neutra",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.5, 0.0, 0.0]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_165_YTG",
+      "Score do primeiro": 1.6223596334457397,
+      "Posicao do correto": 7,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Nao",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.0112348794937134
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Sorrindo",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.0, 0.3, 0.0]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_142_RLM",
+      "Score do primeiro": 1.1136232614517212,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.1136232614517212
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Lateral",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.0, 0.0, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_147_RV",
+      "Score do primeiro": 1.6678012609481812,
+      "Posicao do correto": 2,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.5996733903884888
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Neutra + Sorrindo",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.5, 0.3, 0.0]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_165_YTG",
+      "Score do primeiro": 1.3967634439468384,
+      "Posicao do correto": 2,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.0496305227279663
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Neutra + Lateral",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.5, 0.0, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_165_YTG",
+      "Score do primeiro": 1.5351925492286682,
+      "Posicao do correto": 4,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Nao",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.1793602108955383
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Sorrindo + Lateral",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.0, 0.3, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_142_RLM",
+      "Score do primeiro": 1.308043360710144,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.308043360710144
+    },
+    {
+      "Fonte": "Fonte B",
+      "Combinacao": "Neutra + Sorrindo + Lateral",
+      "Execucao": "20261015T020309305867Z",
+      "Pesos": "[0.5, 0.3, 0.2]",
+      "Pessoa de referencia": "2022_142_RLM",
+      "Ano": "2022",
+      "Primeiro colocado": "2022_165_YTG",
+      "Score do primeiro": 1.3808656632900238,
+      "Posicao do correto": 2,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 20,
+      "Score do correto": 1.1596391201019287
+    }
+  ],
+  "entries": [
+    {
+      "source": "Mistura RRF",
+      "combination": "Ranking principal",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T025542080456Z",
+      "weights": [
+        0.65,
+        0.35
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 0.395,
+          "source_1_rank": 1,
+          "source_1_contribuicao": 0.325,
+          "source_2_rank": 4,
+          "source_2_contribuicao": 0.06999999999999999,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 1
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.305,
+          "source_1_rank": 4,
+          "source_1_contribuicao": 0.13,
+          "source_2_rank": 1,
+          "source_2_contribuicao": 0.175,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 2
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.26666666666666666,
+          "source_1_rank": 2,
+          "source_1_contribuicao": 0.21666666666666667,
+          "source_2_rank": 6,
+          "source_2_contribuicao": 0.049999999999999996,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 3
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.22083333333333333,
+          "source_1_rank": 3,
+          "source_1_contribuicao": 0.1625,
+          "source_2_rank": 5,
+          "source_2_contribuicao": 0.05833333333333333,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 4
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.2095238095238095,
+          "source_1_rank": 6,
+          "source_1_contribuicao": 0.09285714285714286,
+          "source_2_rank": 2,
+          "source_2_contribuicao": 0.11666666666666665,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 5
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.16875,
+          "source_1_rank": 7,
+          "source_1_contribuicao": 0.08125,
+          "source_2_rank": 3,
+          "source_2_contribuicao": 0.0875,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 6
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.15208333333333335,
+          "source_1_rank": 5,
+          "source_1_contribuicao": 0.10833333333333334,
+          "source_2_rank": 7,
+          "source_2_contribuicao": 0.04375,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 7
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.10722222222222222,
+          "source_1_rank": 8,
+          "source_1_contribuicao": 0.07222222222222223,
+          "source_2_rank": 9,
+          "source_2_contribuicao": 0.034999999999999996,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 8
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.10388888888888889,
+          "source_1_rank": 9,
+          "source_1_contribuicao": 0.065,
+          "source_2_rank": 8,
+          "source_2_contribuicao": 0.03888888888888889,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.09090909090909091,
+          "source_1_rank": 10,
+          "source_1_contribuicao": 0.05909090909090909,
+          "source_2_rank": 10,
+          "source_2_contribuicao": 0.031818181818181815,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 10
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": 0.07692307692307693,
+          "source_1_rank": 12,
+          "source_1_contribuicao": 0.05,
+          "source_2_rank": 12,
+          "source_2_contribuicao": 0.02692307692307692,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 11
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": 0.07604166666666667,
+          "source_1_rank": 11,
+          "source_1_contribuicao": 0.05416666666666667,
+          "source_2_rank": 15,
+          "source_2_contribuicao": 0.021875,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 12
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": 0.0725,
+          "source_1_rank": 14,
+          "source_1_contribuicao": 0.043333333333333335,
+          "source_2_rank": 11,
+          "source_2_contribuicao": 0.029166666666666664,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 13
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": 0.06976190476190476,
+          "source_1_rank": 13,
+          "source_1_contribuicao": 0.04642857142857143,
+          "source_2_rank": 14,
+          "source_2_contribuicao": 0.02333333333333333,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 14
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": 0.058823529411764705,
+          "source_1_rank": 16,
+          "source_1_contribuicao": 0.03823529411764706,
+          "source_2_rank": 16,
+          "source_2_contribuicao": 0.020588235294117647,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 15
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": 0.05729166666666667,
+          "source_1_rank": 15,
+          "source_1_contribuicao": 0.040625,
+          "source_2_rank": 20,
+          "source_2_contribuicao": 0.016666666666666666,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 16
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": 0.05595238095238095,
+          "source_1_rank": 20,
+          "source_1_contribuicao": 0.030952380952380953,
+          "source_2_rank": 13,
+          "source_2_contribuicao": 0.024999999999999998,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 17
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": 0.05555555555555556,
+          "source_1_rank": 17,
+          "source_1_contribuicao": 0.036111111111111115,
+          "source_2_rank": 17,
+          "source_2_contribuicao": 0.019444444444444445,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 18
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": 0.05263157894736842,
+          "source_1_rank": 18,
+          "source_1_contribuicao": 0.034210526315789476,
+          "source_2_rank": 18,
+          "source_2_contribuicao": 0.018421052631578946,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 19
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": 0.05,
+          "source_1_rank": 19,
+          "source_1_contribuicao": 0.0325,
+          "source_2_rank": 19,
+          "source_2_contribuicao": 0.017499999999999998,
+          "available_views": [
+            "CD",
+            "CF"
+          ],
+          "frontal": null,
+          "frontal_contribuicao": null,
+          "frontal_vistas": [
+            "CD",
+            "CF"
+          ],
+          "sorriso": null,
+          "sorriso_contribuicao": null,
+          "sorriso_vistas": [
+            "CD",
+            "CF"
+          ],
+          "lateral": null,
+          "lateral_contribuicao": null,
+          "lateral_vistas": [
+            "CD",
+            "CF"
+          ],
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Configuracao da consulta",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.5,
+        0,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.2796854972839355,
+          "rank": 1
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 1.0443537533283234,
+          "rank": 2
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.984601765871048,
+          "rank": 3
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.9418895840644836,
+          "rank": 4
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.8542631044983864,
+          "rank": 5
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.7055855691432953,
+          "rank": 6
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.663322776556015,
+          "rank": 7
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.4689166694879532,
+          "rank": 8
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.28674015402793884,
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.0027494728565216064,
+          "rank": 10
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.7743434831500053,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.8828432746231556,
+          "rank": 12
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.8840589262545109,
+          "rank": 13
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.9589174389839172,
+          "rank": 14
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.4441276788711548,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.5172519385814667,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.7273201644420624,
+          "rank": 17
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.7621542140841484,
+          "rank": 18
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.9813141375780106,
+          "rank": 19
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -1.9990072399377823,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Neutra",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.5,
+        0.0,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.350077509880066,
+          "rank": 1
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 1.2666627168655396,
+          "rank": 2
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 1.1313652992248535,
+          "rank": 3
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 1.1242514848709106,
+          "rank": 4
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.9205483794212341,
+          "rank": 5
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.6255326867103577,
+          "rank": 6
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.5103628635406494,
+          "rank": 7
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.40505439043045044,
+          "rank": 8
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": -0.10222527384757996,
+          "rank": 9
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.10362637042999268,
+          "rank": 10
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.9454689621925354,
+          "rank": 11
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -1.116013765335083,
+          "rank": 12
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -1.2698712348937988,
+          "rank": 13
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -1.2725403308868408,
+          "rank": 14
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.479551911354065,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.7502533197402954,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -2.2423598766326904,
+          "rank": 17
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -2.379667282104492,
+          "rank": 18
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -2.4709908962249756,
+          "rank": 19
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -2.4864697456359863,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Sorrindo",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.0,
+        0.3,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.4232438802719116,
+          "rank": 1
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.6873612999916077,
+          "rank": 2
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.6606740355491638,
+          "rank": 3
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.625018298625946,
+          "rank": 4
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.47775501012802124,
+          "rank": 5
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.28196415305137634,
+          "rank": 6
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.22228556871414185,
+          "rank": 7
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.08004505187273026,
+          "rank": 8
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.04563882201910019,
+          "rank": 9
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.5169664621353149,
+          "rank": 10
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.9379543662071228,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -1.1933743953704834,
+          "rank": 12
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -1.4129966497421265,
+          "rank": 13
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -1.5527446269989014,
+          "rank": 14
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.7231229543685913,
+          "rank": 15
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.8756967782974243,
+          "rank": 16
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -2.5352346897125244,
+          "rank": 17
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -2.6604108810424805,
+          "rank": 18
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -2.7655389308929443,
+          "rank": 19
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -2.780317783355713,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.0,
+        0.0,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2022_147_RV",
+          "score": 1.3089935779571533,
+          "rank": 1
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 1.2626564502716064,
+          "rank": 2
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.1037054061889648,
+          "rank": 3
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.9952423572540283,
+          "rank": 4
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.9057178497314453,
+          "rank": 5
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.8268244862556458,
+          "rank": 6
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.3653012812137604,
+          "rank": 7
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.2794492840766907,
+          "rank": 8
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.2651863396167755,
+          "rank": 9
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.17929202318191528,
+          "rank": 10
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": 0.08714472502470016,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": 0.08472650498151779,
+          "rank": 12
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -0.21837154030799866,
+          "rank": 13
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.3465297222137451,
+          "rank": 14
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -0.4397208094596863,
+          "rank": 15
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.5661765933036804,
+          "rank": 16
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -0.7571220397949219,
+          "rank": 17
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -0.780350387096405,
+          "rank": 18
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -0.9347484111785889,
+          "rank": 19
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.3555670976638794,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Neutra + Sorrindo",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.377514898777008,
+          "rank": 1
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.9708223640918732,
+          "rank": 2
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.9648637771606445,
+          "rank": 3
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.950409933924675,
+          "rank": 4
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.8097245842218399,
+          "rank": 5
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.47431498020887375,
+          "rank": 6
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.3489936552941799,
+          "rank": 7
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.27027357555925846,
+          "rank": 8
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.041845761239528656,
+          "rank": 9
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.25862888991832733,
+          "rank": 10
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.9426509439945221,
+          "rank": 11
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -1.2273823618888855,
+          "rank": 12
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -1.2411849200725555,
+          "rank": 13
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -1.3776169419288635,
+          "rank": 14
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.62810617685318,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.740079402923584,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -2.4440940618515015,
+          "rank": 17
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -2.5047565698623657,
+          "rank": 18
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -2.5243691205978394,
+          "rank": 19
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -2.5420234203338623,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Neutra + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.5,
+        0.0,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.2796854972839355,
+          "rank": 1
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 1.0443537533283234,
+          "rank": 2
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.984601765871048,
+          "rank": 3
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.9418895840644836,
+          "rank": 4
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.8542631044983864,
+          "rank": 5
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.7055855691432953,
+          "rank": 6
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.663322776556015,
+          "rank": 7
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.4689166694879532,
+          "rank": 8
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.28674015402793884,
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.0027494728565216064,
+          "rank": 10
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.7743434831500053,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.8828432746231556,
+          "rank": 12
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.8840589262545109,
+          "rank": 13
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.9589174389839172,
+          "rank": 14
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.4441276788711548,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.5172519385814667,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.7273201644420624,
+          "rank": 17
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.7621542140841484,
+          "rank": 18
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.9813141375780106,
+          "rank": 19
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -1.9990072399377823,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Sorrindo + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.0,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.2954284846782684,
+          "rank": 1
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.7731079459190369,
+          "rank": 2
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.7431466281414032,
+          "rank": 3
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.5509807746857405,
+          "rank": 4
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.4956584721803665,
+          "rank": 5
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.4681212306022644,
+          "rank": 6
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.39843273162841797,
+          "rank": 7
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.2752530425786972,
+          "rank": 8
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.19488272070884705,
+          "rank": 9
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.19414755329489708,
+          "rank": 10
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.682134035974741,
+          "rank": 11
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.7013845145702362,
+          "rank": 12
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.8967889323830605,
+          "rank": 13
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -1.0742686837911606,
+          "rank": 14
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.4077731668949127,
+          "rank": 15
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.6676448583602905,
+          "rank": 16
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.7466720715165138,
+          "rank": 17
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -1.8332810997962952,
+          "rank": 18
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.844079166650772,
+          "rank": 19
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.8990954458713531,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte A",
+      "combination": "Neutra + Sorrindo + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.3227529972791672,
+          "rank": 1
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.9372559636831284,
+          "rank": 2
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 0.8468281626701355,
+          "rank": 3
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.8325477242469788,
+          "rank": 4
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.7961863577365875,
+          "rank": 5
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.5605955794453621,
+          "rank": 6
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.47801758255809546,
+          "rank": 7
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.35225520841777325,
+          "rank": 8
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.08651388436555862,
+          "rank": 9
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.045628175139427185,
+          "rank": 10
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.8234267383813858,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.9760026354342699,
+          "rank": 12
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -1.0846646316349506,
+          "rank": 13
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -1.0951412245631218,
+          "rank": 14
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.5735983848571777,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.579013243317604,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -2.0432195216417313,
+          "rank": 17
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -2.063169676810503,
+          "rank": 18
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -2.1598754227161407,
+          "rank": 19
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -2.1850431710481644,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Configuracao da consulta",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2022_165_YTG",
+          "score": 1.3808656632900238,
+          "rank": 1
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 1.1596391201019287,
+          "rank": 2
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 1.0788401514291763,
+          "rank": 3
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.019747942686081,
+          "rank": 4
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.9894585758447647,
+          "rank": 5
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.9009727090597153,
+          "rank": 6
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.8096280321478844,
+          "rank": 7
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.4400978684425354,
+          "rank": 8
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.43039627373218536,
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": -0.12657837569713593,
+          "rank": 10
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.5112216770648956,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.6219882294535637,
+          "rank": 12
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -0.717403057962656,
+          "rank": 13
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.7999335080385208,
+          "rank": 14
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.9928378611803055,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.0255261361598969,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.074505552649498,
+          "rank": 17
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.1706847790628672,
+          "rank": 18
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.3150377422571182,
+          "rank": 19
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.4158180952072144,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Neutra",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.5,
+        0.0,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2022_165_YTG",
+          "score": 1.6223596334457397,
+          "rank": 1
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 1.3366917371749878,
+          "rank": 2
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.1995247602462769,
+          "rank": 3
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 1.1769388914108276,
+          "rank": 4
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 1.1500588655471802,
+          "rank": 5
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 1.1374846696853638,
+          "rank": 6
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 1.0112348794937134,
+          "rank": 7
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.4770222008228302,
+          "rank": 8
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.3469175398349762,
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.12803387641906738,
+          "rank": 10
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.3659372627735138,
+          "rank": 11
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.7846054434776306,
+          "rank": 12
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.810828447341919,
+          "rank": 13
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.9213690757751465,
+          "rank": 14
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -0.9763349890708923,
+          "rank": 15
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -1.0868219137191772,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.3821353912353516,
+          "rank": 17
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.588300108909607,
+          "rank": 18
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.630372405052185,
+          "rank": 19
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.7349344491958618,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Sorrindo",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.0,
+        0.3,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2022_142_RLM",
+          "score": 1.1136232614517212,
+          "rank": 1
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 1.020769715309143,
+          "rank": 2
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.8134555220603943,
+          "rank": 3
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 0.5322501063346863,
+          "rank": 4
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.4528123140335083,
+          "rank": 5
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.4426378011703491,
+          "rank": 6
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.3294846713542938,
+          "rank": 7
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.2633490562438965,
+          "rank": 8
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.2564467489719391,
+          "rank": 9
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.25858911871910095,
+          "rank": 10
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": -0.5256294012069702,
+          "rank": 11
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -0.7037591934204102,
+          "rank": 12
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.7696601748466492,
+          "rank": 13
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.7812531590461731,
+          "rank": 14
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -0.8765132427215576,
+          "rank": 15
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -0.9427997469902039,
+          "rank": 16
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.1057759523391724,
+          "rank": 17
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.24549400806427,
+          "rank": 18
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.4204412698745728,
+          "rank": 19
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -1.4912751913070679,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.0,
+        0.0,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2022_147_RV",
+          "score": 1.6678012609481812,
+          "rank": 1
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 1.5996733903884888,
+          "rank": 2
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 1.317274570465088,
+          "rank": 3
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.301552653312683,
+          "rank": 4
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 1.2661281824111938,
+          "rank": 5
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.8519623875617981,
+          "rank": 6
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.6539769768714905,
+          "rank": 7
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.611565887928009,
+          "rank": 8
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.29546916484832764,
+          "rank": 9
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": 0.18567834794521332,
+          "rank": 10
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": 0.14257627725601196,
+          "rank": 11
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": -0.16453243792057037,
+          "rank": 12
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.4186347424983978,
+          "rank": 13
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.48677489161491394,
+          "rank": 14
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -0.502989649772644,
+          "rank": 15
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -0.6310165524482727,
+          "rank": 16
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.7002053260803223,
+          "rank": 17
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.8662741184234619,
+          "rank": 18
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -0.977678120136261,
+          "rank": 19
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.3720232248306274,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Neutra + Sorrindo",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2022_165_YTG",
+          "score": 1.3967634439468384,
+          "rank": 1
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 1.0496305227279663,
+          "rank": 2
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 1.0238325893878937,
+          "rank": 3
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 0.949296772480011,
+          "rank": 4
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.931599885225296,
+          "rank": 5
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.8591435700654984,
+          "rank": 6
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.8096837997436523,
+          "rank": 7
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.4641280621290207,
+          "rank": 8
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.38662807643413544,
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": -0.11708985269069672,
+          "rank": 10
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.5173333436250687,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.6728265881538391,
+          "rank": 12
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.7833483517169952,
+          "rank": 13
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -0.93890181183815,
+          "rank": 14
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -0.9431734085083008,
+          "rank": 15
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -1.0659959316253662,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.2173845171928406,
+          "rank": 17
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.4860430359840393,
+          "rank": 18
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.4990000128746033,
+          "rank": 19
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.5253530740737915,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Neutra + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.5,
+        0.0,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2022_165_YTG",
+          "score": 1.5351925492286682,
+          "rank": 1
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 1.4312945306301117,
+          "rank": 2
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.2286756336688995,
+          "rank": 3
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 1.1793602108955383,
+          "rank": 4
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 1.1742400228977203,
+          "rank": 5
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 1.064888447523117,
+          "rank": 6
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 1.015403762459755,
+          "rank": 7
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.4346488267183304,
+          "rank": 8
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.42514992505311966,
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": 0.04444349929690361,
+          "rank": 10
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.4004623144865036,
+          "rank": 11
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -0.7232504263520241,
+          "rank": 12
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.7777307406067848,
+          "rank": 13
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.7792218625545502,
+          "rank": 14
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.8079393953084946,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.0893888175487518,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.130950927734375,
+          "rank": 17
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.1985028982162476,
+          "rank": 18
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.344842180609703,
+          "rank": 19
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.4138367772102356,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Sorrindo + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.0,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2022_142_RLM",
+          "score": 1.308043360710144,
+          "rank": 1
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": 1.1393716931343079,
+          "rank": 2
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 0.839971125125885,
+          "rank": 3
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.8288582861423492,
+          "rank": 4
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 0.8209885656833649,
+          "rank": 5
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.6644607484340668,
+          "rank": 6
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.5332781970500946,
+          "rank": 7
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.4423171728849411,
+          "rank": 8
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.3837703466415405,
+          "rank": 9
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.3226073831319809,
+          "rank": 10
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -0.3479842022061348,
+          "rank": 11
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": -0.38119062781333923,
+          "rank": 12
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -0.6064351089298725,
+          "rank": 13
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.6565060913562775,
+          "rank": 14
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -0.7668757140636444,
+          "rank": 15
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.815261572599411,
+          "rank": 16
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -0.9997030794620514,
+          "rank": 17
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.0747172832489014,
+          "rank": 18
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -1.174847275018692,
+          "rank": 19
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.2433360815048218,
+          "rank": 20
+        }
+      ]
+    },
+    {
+      "source": "Fonte B",
+      "combination": "Neutra + Sorrindo + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2022_165_YTG",
+          "score": 1.3808656632900238,
+          "rank": 1
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 1.1596391201019287,
+          "rank": 2
+        },
+        {
+          "person": "2022_147_RV",
+          "score": 1.0788401514291763,
+          "rank": 3
+        },
+        {
+          "person": "2023_124_RBKC",
+          "score": 1.019747942686081,
+          "rank": 4
+        },
+        {
+          "person": "2023_50_ECS",
+          "score": 0.9894585758447647,
+          "rank": 5
+        },
+        {
+          "person": "2023_14_AGP",
+          "score": 0.9009727090597153,
+          "rank": 6
+        },
+        {
+          "person": "2023_29_CC",
+          "score": 0.8096280321478844,
+          "rank": 7
+        },
+        {
+          "person": "2022_84_JR",
+          "score": 0.4400978684425354,
+          "rank": 8
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": 0.43039627373218536,
+          "rank": 9
+        },
+        {
+          "person": "2023_95_MDG",
+          "score": -0.12657837569713593,
+          "rank": 10
+        },
+        {
+          "person": "2023_137_SLDSV",
+          "score": -0.5112216770648956,
+          "rank": 11
+        },
+        {
+          "person": "2019_109_JPS",
+          "score": -0.6219882294535637,
+          "rank": 12
+        },
+        {
+          "person": "2017_37_GABDJ",
+          "score": -0.717403057962656,
+          "rank": 13
+        },
+        {
+          "person": "2019_161_MMC",
+          "score": -0.7999335080385208,
+          "rank": 14
+        },
+        {
+          "person": "2019_205_RCS",
+          "score": -0.9928378611803055,
+          "rank": 15
+        },
+        {
+          "person": "2019_118_KSR",
+          "score": -1.0255261361598969,
+          "rank": 16
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": -1.074505552649498,
+          "rank": 17
+        },
+        {
+          "person": "2019_6_ACDS",
+          "score": -1.1706847790628672,
+          "rank": 18
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -1.3150377422571182,
+          "rank": 19
+        },
+        {
+          "person": "2019_32_CAC",
+          "score": -1.4158180952072144,
+          "rank": 20
+        }
+      ]
+    }
+  ],
+  "note": "Mesma consulta e candidatos. Diagnostico separado: nao altera o ranking principal. Vistas com peso zero na consulta usam pesos diagnosticos 50/30/20 no respectivo componente."
+}

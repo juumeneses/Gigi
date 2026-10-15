@@ -1,0 +1,21 @@
+{
+  "signature": "64bc09f94723d0c62b5895bb05fee0d0ee078b2950ee03b7eaf0b9a1710a848c",
+  "metadata": {
+    "id": "2019_189_PEOS",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_189_PEOS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_189_PEOS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1677,
+    "altura": 1095,
+    "contraste": 101.64237787317472,
+    "nitidez_512": 1061.8000795284431,
+    "sha256": "64bc09f94723d0c62b5895bb05fee0d0ee078b2950ee03b7eaf0b9a1710a848c",
+    "bytes": 235907
+  }
+}

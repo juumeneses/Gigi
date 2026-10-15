@@ -1,0 +1,21 @@
+{
+  "signature": "b4e960e3f23bc2d0fb656be1b6ad2d4eb9dde8f9fe97e26755b9ff863107fda7",
+  "metadata": {
+    "id": "2017_20_CRAU",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_20_CRAU_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_20_CRAU_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 731,
+    "contraste": 75.63679731567629,
+    "nitidez_512": 630.6329965898631,
+    "sha256": "b4e960e3f23bc2d0fb656be1b6ad2d4eb9dde8f9fe97e26755b9ff863107fda7",
+    "bytes": 52757
+  }
+}

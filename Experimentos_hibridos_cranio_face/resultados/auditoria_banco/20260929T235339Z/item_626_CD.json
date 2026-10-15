@@ -1,0 +1,21 @@
+{
+  "signature": "3c9ecfc2f68a03d0e3354d72ca64c1f5394d81b2be2781ccc358e6da336da35a",
+  "metadata": {
+    "id": "2022_86_KCDAL",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_86_KCDAL_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_86_KCDAL_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1015,
+    "altura": 1081,
+    "contraste": 93.51852072477107,
+    "nitidez_512": 779.6096692315915,
+    "sha256": "3c9ecfc2f68a03d0e3354d72ca64c1f5394d81b2be2781ccc358e6da336da35a",
+    "bytes": 251580
+  }
+}

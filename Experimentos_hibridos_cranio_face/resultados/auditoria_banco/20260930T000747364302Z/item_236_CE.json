@@ -1,0 +1,21 @@
+{
+  "signature": "5fcff3c92e400356ea9c92c2074a1a3e75c92c79c7a4f54cffcb647eba35a5ee",
+  "metadata": {
+    "id": "2019_225_TMT",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_225_TMT_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_225_TMT_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1056,
+    "altura": 986,
+    "contraste": 87.37223401320401,
+    "nitidez_512": 678.1370031105173,
+    "sha256": "5fcff3c92e400356ea9c92c2074a1a3e75c92c79c7a4f54cffcb647eba35a5ee",
+    "bytes": 265453
+  }
+}

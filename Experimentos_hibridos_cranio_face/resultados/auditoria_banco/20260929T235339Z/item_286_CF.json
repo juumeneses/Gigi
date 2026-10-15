@@ -1,0 +1,21 @@
+{
+  "signature": "bda2228f34957e625cdc6870d7c3e9adc303b5c4eaeecd4d094fb0a8193a854c",
+  "metadata": {
+    "id": "2019_270_FARR",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_270_FARR_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_270_FARR_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1919,
+    "altura": 1076,
+    "contraste": 101.12062117404476,
+    "nitidez_512": 3704.5718791718396,
+    "sha256": "bda2228f34957e625cdc6870d7c3e9adc303b5c4eaeecd4d094fb0a8193a854c",
+    "bytes": 279387
+  }
+}

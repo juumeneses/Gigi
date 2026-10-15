@@ -1,0 +1,21 @@
+{
+  "signature": "58ff97fc583f12e757c9d8b744148c8d1ec8b585ae25e72df271ef9b5f2bc311",
+  "metadata": {
+    "id": "2019_167_MRASE",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_167_MRASE_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_167_MRASE_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1983,
+    "altura": 1294,
+    "contraste": 97.06716725842911,
+    "nitidez_512": 1263.6571154565868,
+    "sha256": "58ff97fc583f12e757c9d8b744148c8d1ec8b585ae25e72df271ef9b5f2bc311",
+    "bytes": 208564
+  }
+}

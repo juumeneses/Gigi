@@ -1,0 +1,21 @@
+{
+  "signature": "ac813fc1fbdd84bd3d2420489bed86e3a9163a8b2ad83b4349fbe34023f7f723",
+  "metadata": {
+    "id": "2021_101_VTP",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_101_VTP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_101_VTP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 792,
+    "altura": 850,
+    "contraste": 83.5738080360684,
+    "nitidez_512": 549.9310570734258,
+    "sha256": "ac813fc1fbdd84bd3d2420489bed86e3a9163a8b2ad83b4349fbe34023f7f723",
+    "bytes": 203868
+  }
+}

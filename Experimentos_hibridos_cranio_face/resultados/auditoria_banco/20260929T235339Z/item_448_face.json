@@ -1,0 +1,21 @@
+{
+  "signature": "f84b2b8828f517678994d4d2bdb5a3d06de15351464bc6e5e62603dd34ad2f7e",
+  "metadata": {
+    "id": "2021_74_MLB",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_74_MLB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_74_MLB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 733,
+    "contraste": 71.83641116219013,
+    "nitidez_512": 632.1837872303856,
+    "sha256": "f84b2b8828f517678994d4d2bdb5a3d06de15351464bc6e5e62603dd34ad2f7e",
+    "bytes": 41761
+  }
+}

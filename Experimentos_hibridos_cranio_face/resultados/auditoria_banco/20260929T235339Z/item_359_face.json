@@ -1,0 +1,21 @@
+{
+  "signature": "117468e75dddd3a07f64703149c077dbb3dbf001e2d290aa224d93c2b99130c5",
+  "metadata": {
+    "id": "2019_87_ICSC",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_87_ICSC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_87_ICSC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 741,
+    "contraste": 67.41101575842336,
+    "nitidez_512": 844.3354882215349,
+    "sha256": "117468e75dddd3a07f64703149c077dbb3dbf001e2d290aa224d93c2b99130c5",
+    "bytes": 37905
+  }
+}

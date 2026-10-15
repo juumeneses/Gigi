@@ -1,0 +1,21 @@
+{
+  "signature": "36eaec5644ce6f40597d2b407b9ba6b110812c96a455ba5532beb907b82b547a",
+  "metadata": {
+    "id": "2019_147_MAVL",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_147_MAVL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_147_MAVL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 737,
+    "contraste": 61.25447363850187,
+    "nitidez_512": 326.0059143313465,
+    "sha256": "36eaec5644ce6f40597d2b407b9ba6b110812c96a455ba5532beb907b82b547a",
+    "bytes": 47908
+  }
+}

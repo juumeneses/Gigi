@@ -1,0 +1,21 @@
+{
+  "signature": "743dd00b2e67d57932ab25f3231db4c1b7406a8eca79ef3a4ef4cd9d42baef62",
+  "metadata": {
+    "id": "2022_24_CGAP",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_24_CGAP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_24_CGAP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1106,
+    "altura": 1011,
+    "contraste": 92.15449191788888,
+    "nitidez_512": 745.330397519561,
+    "sha256": "743dd00b2e67d57932ab25f3231db4c1b7406a8eca79ef3a4ef4cd9d42baef62",
+    "bytes": 256154
+  }
+}

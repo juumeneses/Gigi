@@ -1,0 +1,21 @@
+{
+  "signature": "36175900b4b8825e136d3806409c0b28961db2e76f85f5852ee0ae7046bebd3a",
+  "metadata": {
+    "id": "2017_12_BDSA",
+    "ano": "2017",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CD/2017_12_BDSA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CD/2017_12_BDSA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1893,
+    "altura": 1235,
+    "contraste": 99.00196136008108,
+    "nitidez_512": 952.3582675207116,
+    "sha256": "36175900b4b8825e136d3806409c0b28961db2e76f85f5852ee0ae7046bebd3a",
+    "bytes": 168397
+  }
+}

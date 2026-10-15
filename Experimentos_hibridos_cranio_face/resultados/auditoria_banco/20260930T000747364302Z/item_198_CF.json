@@ -1,0 +1,21 @@
+{
+  "signature": "ca3255e55bf61722a85644ebe1554abf373296cabd2a5b8085eb4135f8ba57ef",
+  "metadata": {
+    "id": "2019_191_PLB",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_191_PLB_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_191_PLB_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1896,
+    "altura": 1238,
+    "contraste": 100.89356884551816,
+    "nitidez_512": 685.4491191161845,
+    "sha256": "ca3255e55bf61722a85644ebe1554abf373296cabd2a5b8085eb4135f8ba57ef",
+    "bytes": 212733
+  }
+}

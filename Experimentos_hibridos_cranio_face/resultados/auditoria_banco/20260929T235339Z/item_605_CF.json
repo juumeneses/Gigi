@@ -1,0 +1,21 @@
+{
+  "signature": "b2d1c7d4d069366d406b291a090786fb06382f5413a3b4255d42ec89cd80f23b",
+  "metadata": {
+    "id": "2022_67_HAV",
+    "ano": "2022",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CF/2022_67_HAV_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CF/2022_67_HAV_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 836,
+    "altura": 759,
+    "contraste": 86.05419168807232,
+    "nitidez_512": 808.3942031173889,
+    "sha256": "b2d1c7d4d069366d406b291a090786fb06382f5413a3b4255d42ec89cd80f23b",
+    "bytes": 199638
+  }
+}

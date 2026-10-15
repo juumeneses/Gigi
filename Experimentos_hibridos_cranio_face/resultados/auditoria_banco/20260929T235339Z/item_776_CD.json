@@ -1,0 +1,21 @@
+{
+  "signature": "a018bd374ce77dd9ef55557cf5ebdd93fe268f97d12fc14d0164e1bce49bce89",
+  "metadata": {
+    "id": "2023_83_KGIA",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_83_KGIA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_83_KGIA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1037,
+    "altura": 962,
+    "contraste": 89.9051584741739,
+    "nitidez_512": 805.5259756838475,
+    "sha256": "a018bd374ce77dd9ef55557cf5ebdd93fe268f97d12fc14d0164e1bce49bce89",
+    "bytes": 257379
+  }
+}

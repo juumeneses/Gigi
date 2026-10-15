@@ -1,0 +1,21 @@
+{
+  "signature": "8342dc906412d2c2599e4bec77c27339ed79c253a7e63f5c95c139de410bc87d",
+  "metadata": {
+    "id": "2022_35_DDRQ",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_35_DDRQ_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_35_DDRQ_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 738,
+    "contraste": 74.86152220999426,
+    "nitidez_512": 755.8023533685509,
+    "sha256": "8342dc906412d2c2599e4bec77c27339ed79c253a7e63f5c95c139de410bc87d",
+    "bytes": 35933
+  }
+}

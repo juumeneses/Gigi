@@ -1,0 +1,21 @@
+{
+  "signature": "692c9ff8cb70a923dceb60ea5fd2ec07c47d3f520b1f125e65c406a067ece374",
+  "metadata": {
+    "id": "2017_70_MLBDA",
+    "ano": "2017",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CF/2017_70_MLBDA_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CF/2017_70_MLBDA_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1901,
+    "altura": 1241,
+    "contraste": 99.01309227891296,
+    "nitidez_512": 607.8298793038922,
+    "sha256": "692c9ff8cb70a923dceb60ea5fd2ec07c47d3f520b1f125e65c406a067ece374",
+    "bytes": 168628
+  }
+}

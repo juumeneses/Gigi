@@ -1,0 +1,21 @@
+{
+  "signature": "3b5c6ea163c7d5258c923d325480543a469a69badf4ee7948e5485aad03c7f11",
+  "metadata": {
+    "id": "2022_138_RCCA",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_138_RCCA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_138_RCCA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 746,
+    "contraste": 82.65495700754772,
+    "nitidez_512": 888.7678781810731,
+    "sha256": "3b5c6ea163c7d5258c923d325480543a469a69badf4ee7948e5485aad03c7f11",
+    "bytes": 42733
+  }
+}

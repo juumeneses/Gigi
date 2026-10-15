@@ -1,0 +1,21 @@
+{
+  "signature": "d175f8167ec7756f96037a8e25155664ca96996c4a0c05e5f37b45f4c3b5dbad",
+  "metadata": {
+    "id": "2023_106_MMA",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_106_MMA_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_106_MMA_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 625,
+    "altura": 864,
+    "contraste": 82.81337646606545,
+    "nitidez_512": 801.9178683472795,
+    "sha256": "d175f8167ec7756f96037a8e25155664ca96996c4a0c05e5f37b45f4c3b5dbad",
+    "bytes": 167443
+  }
+}

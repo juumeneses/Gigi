@@ -1,0 +1,21 @@
+{
+  "signature": "5a831db8db3cfde5d9ad0b7c4dc060cf68ed458719b43c18cb47f684caabc303",
+  "metadata": {
+    "id": "2021_61_LCES",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_61_LCES_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_61_LCES_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 747,
+    "contraste": 87.35187464778753,
+    "nitidez_512": 568.920070467102,
+    "sha256": "5a831db8db3cfde5d9ad0b7c4dc060cf68ed458719b43c18cb47f684caabc303",
+    "bytes": 40228
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "1d7e02d4cbe13e324db2c70b359199ebb7c14f1f4170bc0801def84260b3ddc4",
+  "metadata": {
+    "id": "2021_65_LMDOS",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_65_LMDOS_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_65_LMDOS_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 979,
+    "altura": 980,
+    "contraste": 89.92888721942086,
+    "nitidez_512": 597.3470960804475,
+    "sha256": "1d7e02d4cbe13e324db2c70b359199ebb7c14f1f4170bc0801def84260b3ddc4",
+    "bytes": 226408
+  }
+}

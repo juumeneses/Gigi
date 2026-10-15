@@ -1,0 +1,21 @@
+{
+  "signature": "0efd464a4e28cb6aedf78cffb7702c0817c63e2e756ada1539bf427ef5e71d36",
+  "metadata": {
+    "id": "2019_251_TNLM",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_251_TNLM_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_251_TNLM_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2137,
+    "altura": 1395,
+    "contraste": 97.26596589990945,
+    "nitidez_512": 1142.2900449101796,
+    "sha256": "0efd464a4e28cb6aedf78cffb7702c0817c63e2e756ada1539bf427ef5e71d36",
+    "bytes": 222689
+  }
+}

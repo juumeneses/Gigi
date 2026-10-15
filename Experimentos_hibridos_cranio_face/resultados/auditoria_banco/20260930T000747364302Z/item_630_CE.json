@@ -1,0 +1,21 @@
+{
+  "signature": "7c5c2f9b8d340f3299b73a9ce37304bbef81e4fd6210bf406d8c69c73b02701a",
+  "metadata": {
+    "id": "2022_8_AMDALS",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_8_AMDALS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_8_AMDALS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1080,
+    "altura": 981,
+    "contraste": 85.84248707175608,
+    "nitidez_512": 1044.091404618991,
+    "sha256": "7c5c2f9b8d340f3299b73a9ce37304bbef81e4fd6210bf406d8c69c73b02701a",
+    "bytes": 299767
+  }
+}

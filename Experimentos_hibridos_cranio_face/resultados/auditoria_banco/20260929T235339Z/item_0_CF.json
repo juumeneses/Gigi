@@ -1,0 +1,21 @@
+{
+  "signature": "36cf4daa643c15fdae9fe8b94285e96ec7b2f10f01cd668794185f79cb63fa9f",
+  "metadata": {
+    "id": "2017_10_AWS",
+    "ano": "2017",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CF/2017_10_AWS_CF.png",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CF/2017_10_AWS_CF.png",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 529,
+    "altura": 775,
+    "contraste": 95.19526405352913,
+    "nitidez_512": 631.9572551038682,
+    "sha256": "36cf4daa643c15fdae9fe8b94285e96ec7b2f10f01cd668794185f79cb63fa9f",
+    "bytes": 419068
+  }
+}

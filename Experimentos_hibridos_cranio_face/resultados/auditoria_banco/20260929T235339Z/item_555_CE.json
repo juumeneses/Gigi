@@ -1,0 +1,21 @@
+{
+  "signature": "59ba92dcb4dc9d746aef1fe57a42728c99cd2105ed037c15fee9622cc91792e8",
+  "metadata": {
+    "id": "2022_21_CCC",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_21_CCC_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_21_CCC_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1070,
+    "altura": 971,
+    "contraste": 86.93666558060427,
+    "nitidez_512": 661.4268624254275,
+    "sha256": "59ba92dcb4dc9d746aef1fe57a42728c99cd2105ed037c15fee9622cc91792e8",
+    "bytes": 260561
+  }
+}

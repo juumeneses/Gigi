@@ -1,0 +1,21 @@
+{
+  "signature": "06524f7fe993742aa5a0cb49a97f8795b84489ce7b68914330c49257b726c3bb",
+  "metadata": {
+    "id": "2019_17_APASS",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_17_APASS_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_17_APASS_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1896,
+    "altura": 1238,
+    "contraste": 101.00565272035566,
+    "nitidez_512": 766.2635627562474,
+    "sha256": "06524f7fe993742aa5a0cb49a97f8795b84489ce7b68914330c49257b726c3bb",
+    "bytes": 233238
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "de1030b9f42976d4705bdb06d18dbe2830aa2ac6bd6950a36959e2621215e945",
+  "metadata": {
+    "id": "2019_33_CAMR",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_33_CAMR_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_33_CAMR_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 745,
+    "contraste": 66.28787838548035,
+    "nitidez_512": 494.3162201442311,
+    "sha256": "de1030b9f42976d4705bdb06d18dbe2830aa2ac6bd6950a36959e2621215e945",
+    "bytes": 26938
+  }
+}

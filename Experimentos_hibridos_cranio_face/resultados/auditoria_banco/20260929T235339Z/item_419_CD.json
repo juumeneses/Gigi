@@ -1,0 +1,21 @@
+{
+  "signature": "1d5dbe2d616870cfc2d401cf3de67a99f9d4e6040c81fd1353abd4b9a58d248d",
+  "metadata": {
+    "id": "2021_48_GHDOG",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_48_GHDOG_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_48_GHDOG_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1092,
+    "altura": 977,
+    "contraste": 89.79032929600162,
+    "nitidez_512": 919.7285454564513,
+    "sha256": "1d5dbe2d616870cfc2d401cf3de67a99f9d4e6040c81fd1353abd4b9a58d248d",
+    "bytes": 275742
+  }
+}

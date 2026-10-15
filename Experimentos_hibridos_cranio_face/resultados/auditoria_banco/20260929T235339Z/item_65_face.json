@@ -1,0 +1,21 @@
+{
+  "signature": "7b1d88d1b346d8100914f8218fae44128230396119298361137e213913a01a40",
+  "metadata": {
+    "id": "2017_70_MLBDA",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_70_MLBDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_70_MLBDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 729,
+    "contraste": 65.59812572587614,
+    "nitidez_512": 953.3095371145693,
+    "sha256": "7b1d88d1b346d8100914f8218fae44128230396119298361137e213913a01a40",
+    "bytes": 38710
+  }
+}

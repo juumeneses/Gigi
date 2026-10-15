@@ -1,0 +1,21 @@
+{
+  "signature": "ea4f2e45b1b31c9e35d89ca8d09801537b33333d77aaaf2b5b7db41008d522c3",
+  "metadata": {
+    "id": "2021_37_FEN",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_37_FEN_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_37_FEN_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1028,
+    "altura": 999,
+    "contraste": 86.81204017871354,
+    "nitidez_512": 1005.9971016989386,
+    "sha256": "ea4f2e45b1b31c9e35d89ca8d09801537b33333d77aaaf2b5b7db41008d522c3",
+    "bytes": 277949
+  }
+}

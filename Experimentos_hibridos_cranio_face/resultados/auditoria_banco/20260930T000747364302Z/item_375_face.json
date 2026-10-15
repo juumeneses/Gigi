@@ -1,0 +1,21 @@
+{
+  "signature": "7bbb8da7eb0444e2fc7190b778795995fe106c13aa22e5b0b9b33d0a3508c7ab",
+  "metadata": {
+    "id": "2021_101_VTP",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_101_VTP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_101_VTP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 735,
+    "contraste": 65.60854912653069,
+    "nitidez_512": 576.6275047456331,
+    "sha256": "7bbb8da7eb0444e2fc7190b778795995fe106c13aa22e5b0b9b33d0a3508c7ab",
+    "bytes": 40221
+  }
+}

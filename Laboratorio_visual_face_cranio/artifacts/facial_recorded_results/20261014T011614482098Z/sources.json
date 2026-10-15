@@ -1,0 +1,34 @@
+{
+  "files": {
+    "genero_faces_curado.csv": {
+      "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/genero_faces_curado.csv",
+      "sha256": "20de18ed10b6143e0b9078ecdde4ef7d60c3940c82bee682d5075a3a8e948954"
+    },
+    "revisao_manual_genero_faces.csv": {
+      "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/revisao_manual_genero_faces.csv",
+      "sha256": "84ecf7f778a58ebda23e13b9b998d47019bf2c44315e3913ff8f2a161e0fb24a"
+    },
+    "predicoes_genero_fairface.csv": {
+      "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/predicoes_genero_fairface.csv",
+      "sha256": "f85815b1a1aaf23412fb9da657a2d413567f48113aeecac7abf82667ce22ab27"
+    },
+    "predicoes_genero_metricas_faces.csv": {
+      "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/predicoes_genero_metricas_faces.csv",
+      "sha256": "a29b64257e3e06c25cfb7f9cd44fb5a2dca36304c4c8a24c0adbab86d99a0591"
+    },
+    "metricas_modelo_genero_faces.csv": {
+      "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/metricas_modelo_genero_faces.csv",
+      "sha256": "ad38c4c3e9f5a52fdc4ab227547139c9f9737de75866652bcc1fe35f62b2ebd2"
+    },
+    "matriz_confusao_genero_faces.csv": {
+      "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/matriz_confusao_genero_faces.csv",
+      "sha256": "2b5abf1ff1c2b3ebb30186704276c7adfa9b523acf00f6272e81fb117f37547e"
+    },
+    "comparacao_genero_fairface_modelo.csv": {
+      "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/comparacao_genero_fairface_modelo.csv",
+      "sha256": "ccca15a8977a6c77a175b40822291cdb1e40a893f49bb6cc9c533eb8a0f05e3c"
+    }
+  },
+  "usage": "RESULTADOS_HISTORICOS",
+  "reference": "curadoria com procedencia preservada"
+}

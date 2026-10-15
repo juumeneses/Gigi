@@ -1,0 +1,21 @@
+{
+  "signature": "30ebd8f542b6006ba89c79d50f1cdbebf0de2a1a87b00f1096f4e83064910ff0",
+  "metadata": {
+    "id": "2017_65_MACV",
+    "ano": "2017",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CD/2017_65_MACV_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CD/2017_65_MACV_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2117,
+    "altura": 1382,
+    "contraste": 95.40621574550691,
+    "nitidez_512": 1116.2189020396706,
+    "sha256": "30ebd8f542b6006ba89c79d50f1cdbebf0de2a1a87b00f1096f4e83064910ff0",
+    "bytes": 187293
+  }
+}

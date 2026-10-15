@@ -1,0 +1,21 @@
+{
+  "signature": "309b6b9ef92e4e5363bf9d04221702f797b005ad86aa987fba7dacec2aa7ef04",
+  "metadata": {
+    "id": "2023_119_PTC",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_119_PTC_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_119_PTC_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 659,
+    "altura": 838,
+    "contraste": 86.31957774469787,
+    "nitidez_512": 595.4667485291162,
+    "sha256": "309b6b9ef92e4e5363bf9d04221702f797b005ad86aa987fba7dacec2aa7ef04",
+    "bytes": 157082
+  }
+}

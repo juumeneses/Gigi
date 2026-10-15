@@ -1,0 +1,21 @@
+{
+  "signature": "55a5996633fadf595e1a3f0911a3e7451b31e8720eefe816fb5fcb702e22172a",
+  "metadata": {
+    "id": "2019_200_RAV",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_200_RAV_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_200_RAV_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1998,
+    "altura": 1304,
+    "contraste": 98.30346851886812,
+    "nitidez_512": 1094.418506736527,
+    "sha256": "55a5996633fadf595e1a3f0911a3e7451b31e8720eefe816fb5fcb702e22172a",
+    "bytes": 200283
+  }
+}

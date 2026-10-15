@@ -1,0 +1,21 @@
+{
+  "signature": "241750c983abc1274ab9710c3b928997421a0fd6382bea57cb71ed9e135e1234",
+  "metadata": {
+    "id": "2022_150_SDS",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_150_SDS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_150_SDS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1118,
+    "altura": 1086,
+    "contraste": 94.64000419153965,
+    "nitidez_512": 731.7453210448917,
+    "sha256": "241750c983abc1274ab9710c3b928997421a0fd6382bea57cb71ed9e135e1234",
+    "bytes": 254863
+  }
+}

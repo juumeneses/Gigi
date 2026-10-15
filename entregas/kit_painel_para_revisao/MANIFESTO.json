@@ -1,0 +1,98 @@
+[
+  {
+    "arquivo": "LEIA_PRIMEIRO.md",
+    "sha256": "1fc676f5a1ca03b66f7d6fe89461863cb43dfc8b269c0dcaf1021959d4fd74c6"
+  },
+  {
+    "arquivo": "MAPA_ARQUIVOS.md",
+    "sha256": "c5036200e0d7d1ba23320b0315f6b238d50879fd4c511a4ac6fc69653a38172d"
+  },
+  {
+    "arquivo": "ROTEIRO.md",
+    "sha256": "cb347be6ce5b0fe33d19916c777fc050a3ae51f876d9ba32e370d56586c06e5f"
+  },
+  {
+    "arquivo": "codigo_referencia/Laboratorio_visual_face_cranio/__init__.py",
+    "sha256": "cd5c846a385c693fb97960f325218d792ade2d6c64f408299ce9ef21d38d0ee3"
+  },
+  {
+    "arquivo": "codigo_referencia/Laboratorio_visual_face_cranio/core.py",
+    "sha256": "9caffdfd2db5c9e48fcc756f20e19b14c6b9fe726b811adefabb576faa3243c2"
+  },
+  {
+    "arquivo": "codigo_referencia/Laboratorio_visual_face_cranio/data.py",
+    "sha256": "312d997f02833473b70f7bd0223844e21ce83e3cfb3d11964357a1f604fa8069"
+  },
+  {
+    "arquivo": "codigo_referencia/Laboratorio_visual_face_cranio/references_io.py",
+    "sha256": "b83d4fcfba418064eacbce57aa9a3c580e171339378c772cba5a740d43482e7f"
+  },
+  {
+    "arquivo": "codigo_referencia/Laboratorio_visual_face_cranio/registered.py",
+    "sha256": "6cda34540bda2da5c32c33296aeeb036e2bf34bc6c943de7801ad9128b033269"
+  },
+  {
+    "arquivo": "codigo_referencia/Laboratorio_visual_face_cranio/registered_ui.py",
+    "sha256": "a4650bf1b1f0a4a5f71a371a3a8f4b4b659842223f02343050d9d4acd74d18c0"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/__init__.py",
+    "sha256": "e501ffbe20d18ea881f869e2e2e86fe0d056ee44804b7a01f72148b3fd3a836f"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/app.py",
+    "sha256": "7bb0431dc156c04256f4ec90de84cddf94bd341dbffc28cc6cffb933858e2591"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/backbone.py",
+    "sha256": "811bcaa1bf0fe119f68538656e65246b006c81305546ac4f9712a829ef73b391"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/cli.py",
+    "sha256": "c77e8eb665477a3be29147beff60aaeadc626598ee70ab85e66c0999f90319ef"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/core.py",
+    "sha256": "6ecd4c05127779ba7e0be14479dc329f09fa77cdbeb3604a8c52be46b6764602"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/data.py",
+    "sha256": "7e4230165fb0a3021c241a7fd1623859aa7086ed6fff06e6c70a6ed58113c52e"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/engine.py",
+    "sha256": "bfb746f8f1a2da741f8b107fdd686b77b68e880f28b9ec9b3d6f55c55b011a14"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/fusion.py",
+    "sha256": "99c2559287e8cb5d84aa43dada4532137cc7a6e34d229cb36264f85748e0d782"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/log_view.py",
+    "sha256": "0282881cca0d333791d37b928ceac8313a6e4706d33e150f1db18f78b5ffda55"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/matching_summary.py",
+    "sha256": "523afa6ef20ec8fbf816581531c006ed8d4b682b4247178d877612edfabba511"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/reporting.py",
+    "sha256": "455205132cae2c735001ba71e93954b5a39b810bfe4bde2c5a67c509c10cf6d2"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/sex_controls.py",
+    "sha256": "821b25358f239239e1cb3027367bb2139e620a63ec4dc112c7345a472b74edee"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/ui_help.py",
+    "sha256": "99a4f6894b899572a899907c59e9831451eb24bbf9bf7a728cd775c5281f8762"
+  },
+  {
+    "arquivo": "codigo_referencia/Treinamento_DINOv2_face_cranio/visuals.py",
+    "sha256": "597743c24ab61393730cbdf6bee1023cabb0dc3570f8a453a687693ad2bd425d"
+  },
+  {
+    "arquivo": "codigo_referencia/requirements.txt",
+    "sha256": "8007846359f2e2ec123af3a0348c3d74756efd7bb17bdc2f61a03ff120643ca1"
+  }
+]

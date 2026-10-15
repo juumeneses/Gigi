@@ -1,0 +1,21 @@
+{
+  "signature": "d9cce2d16d93a35e73ca9bbb1a1f7be9ecd4cd20416f6e966de11ce05d2e149b",
+  "metadata": {
+    "id": "2019_199_RATP",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_199_RATP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_199_RATP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1727,
+    "altura": 1127,
+    "contraste": 101.85548809248526,
+    "nitidez_512": 1095.7798699476048,
+    "sha256": "d9cce2d16d93a35e73ca9bbb1a1f7be9ecd4cd20416f6e966de11ce05d2e149b",
+    "bytes": 230860
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "author": "julia",
+  "confirmed": false,
+  "reference_kind": "CURADORIA_EXPLORATORIA",
+  "documented": false,
+  "manual_only": false,
+  "source": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/curated_sex/20261014T230210006739Z/genero_faces_curado.csv",
+  "source_hash": "20de18ed10b6143e0b9078ecdde4ef7d60c3940c82bee682d5075a3a8e948954",
+  "hash": "268e6ab4a0749e5ab854d26d8f32cfd73c5d0fc811b52d052df2f03c54c1ecc6",
+  "origins": {
+    "FAIRFACE_ALTA_CONFIANCA": 609,
+    "CORRIGIDO_MANUALMENTE": 139,
+    "FAIRFACE_CONFIRMADO_MANUALMENTE": 47
+  }
+}

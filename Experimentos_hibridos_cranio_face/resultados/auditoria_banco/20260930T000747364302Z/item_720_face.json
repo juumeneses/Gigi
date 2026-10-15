@@ -1,0 +1,21 @@
+{
+  "signature": "92f0cd561c036a0f8276312b39bc4f88ac28d4116b82299de6c7b1bad9d22084",
+  "metadata": {
+    "id": "2023_32_CFD",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_32_CFD_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_32_CFD_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 751,
+    "contraste": 76.63065985031496,
+    "nitidez_512": 565.9220705573131,
+    "sha256": "92f0cd561c036a0f8276312b39bc4f88ac28d4116b82299de6c7b1bad9d22084",
+    "bytes": 36178
+  }
+}

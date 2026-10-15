@@ -1,0 +1,264 @@
+{
+  "run": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed42/frontal",
+  "query": {
+    "person": "2022_142_RLM",
+    "year": "2022",
+    "split": "validacao",
+    "views": {
+      "CD": {
+        "key": "470eed832077770f84bf",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_CD.jpg",
+        "filename": "2022_142_RLM_CD.jpg",
+        "person": "2022_142_RLM",
+        "year": "2022",
+        "view": "CD",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "01698b33c3f4d01c0d85eeac3b77be510e59b318f2191f4577e29f8359575be5",
+        "width": 1071,
+        "height": 985,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_CD.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CE": {
+        "key": "9c1d75b827c3249bc0c6",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_CE.jpg",
+        "filename": "2022_142_RLM_CE.jpg",
+        "person": "2022_142_RLM",
+        "year": "2022",
+        "view": "CE",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "b5c5abe30e944ac03ba241c38d48ed9970cd6850580ec4f791ed287687771b7d",
+        "width": 1100,
+        "height": 991,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_CE.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CF": {
+        "key": "6aa5e4aa156d578f3317",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_CF.jpg",
+        "filename": "2022_142_RLM_CF.jpg",
+        "person": "2022_142_RLM",
+        "year": "2022",
+        "view": "CF",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "bf49b9c70976fbf9c22cd27eb25b0a42338fafb40661cf6454d0426b1405a077",
+        "width": 962,
+        "height": 1043,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_CF.jpg",
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/_separados/CF/2022_142_RLM_CF.jpg"
+        ],
+        "selection": "identical_hash"
+      },
+      "FFN": {
+        "key": "937d687a556b779d4a67",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_FFN.jpg",
+        "filename": "2022_142_RLM_FFN.jpg",
+        "person": "2022_142_RLM",
+        "year": "2022",
+        "view": "FFN",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "31bcffca447568b148d3ee2c05a2a3cb006413a0522546f679039aa3163e026c",
+        "width": 524,
+        "height": 749,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_FFN.jpg",
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/_separados/FFN/2022_142_RLM_FFN.jpg"
+        ],
+        "selection": "identical_hash"
+      },
+      "FFS": {
+        "key": "cddc0af067d01df0d9dd",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_FFS.jpg",
+        "filename": "2022_142_RLM_FFS.jpg",
+        "person": "2022_142_RLM",
+        "year": "2022",
+        "view": "FFS",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "5fd462caded044b76ef082fe574287a2f867677d92779a7bd07e97ec1a9ab0c3",
+        "width": 523,
+        "height": 749,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_FFS.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FL": {
+        "key": "df21ea7ab39622e28846",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_FL.jpg",
+        "filename": "2022_142_RLM_FL.jpg",
+        "person": "2022_142_RLM",
+        "year": "2022",
+        "view": "FL",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "9fa347ca2533b02ca286350bb9cb115d051f45fb061d4c5bf0e2a44c08579bc2",
+        "width": 524,
+        "height": 749,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_142_RLM/2022_142_RLM_FL.jpg"
+        ],
+        "selection": "unique"
+      }
+    },
+    "conflicts": {}
+  },
+  "candidate": {
+    "person": "2023_124_RBKC",
+    "year": "2023",
+    "split": "validacao",
+    "views": {
+      "CD": {
+        "key": "c12ba7aed3b0ec45afb9",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_CD.jpg",
+        "filename": "2023_124_RBKC_CD.jpg",
+        "person": "2023_124_RBKC",
+        "year": "2023",
+        "view": "CD",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "6e98ee127ada8522ae07beed896c2894620aa4f2427592131dcc0cb34959b2ce",
+        "width": 1038,
+        "height": 979,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_CD.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CE": {
+        "key": "3de84e3062064fc1cc7d",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_CE.jpg",
+        "filename": "2023_124_RBKC_CE.jpg",
+        "person": "2023_124_RBKC",
+        "year": "2023",
+        "view": "CE",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "996719298514cd7e2c96befa440befbb045182783531da302907bb28f487ab05",
+        "width": 1085,
+        "height": 972,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_CE.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CF": {
+        "key": "32442b414e5a3687dc0d",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_CF.jpg",
+        "filename": "2023_124_RBKC_CF.jpg",
+        "person": "2023_124_RBKC",
+        "year": "2023",
+        "view": "CF",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "34e93e1a3703fad8ffb524ae73144abc95a0d78a9f05fc42e7a4045d43fbe796",
+        "width": 943,
+        "height": 991,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_CF.jpg",
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/_separados/CF/2023_124_RBKC_CF.jpg"
+        ],
+        "selection": "identical_hash"
+      },
+      "FFN": {
+        "key": "c089c95e1338808010ea",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_FFN.jpg",
+        "filename": "2023_124_RBKC_FFN.jpg",
+        "person": "2023_124_RBKC",
+        "year": "2023",
+        "view": "FFN",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "4133700a113d76348e1ec3494fa5d684c22172fb005736d8f16079e23d13a565",
+        "width": 160,
+        "height": 222,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_FFN.jpg",
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/_separados/FFN/2023_124_RBKC_FFN.jpg"
+        ],
+        "selection": "identical_hash"
+      },
+      "FFS": {
+        "key": "a02240876473c5624886",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_FFS.jpg",
+        "filename": "2023_124_RBKC_FFS.jpg",
+        "person": "2023_124_RBKC",
+        "year": "2023",
+        "view": "FFS",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "1cf87b824115b69b8e011379b570476d15fd3d8f2455743b7e94cf6e1a6c6813",
+        "width": 160,
+        "height": 222,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_FFS.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FL": {
+        "key": "06df66e1b97015cc73bb",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_FL.jpg",
+        "filename": "2023_124_RBKC_FL.jpg",
+        "person": "2023_124_RBKC",
+        "year": "2023",
+        "view": "FL",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "c1b222a5f773c004d74a04b55479c3c50f6c6368b6c4e44a63edd77a91d166e5",
+        "width": 160,
+        "height": 222,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2023/2023_124_RBKC/2023_124_RBKC_FL.jpg"
+        ],
+        "selection": "unique"
+      }
+    },
+    "conflicts": {}
+  },
+  "signature": "d62fdc4ebf911bd2bfa12c8baeba57d8a606ef85980405be078fffb5b2600b4f"
+}

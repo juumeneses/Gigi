@@ -1,0 +1,21 @@
+{
+  "signature": "e677b95688bb23d92fbb648a4d47bf193b0ffbd640321216d6216d8ce1892f06",
+  "metadata": {
+    "id": "2022_163_VSGP",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_163_VSGP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_163_VSGP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1024,
+    "altura": 879,
+    "contraste": 91.73333110010596,
+    "nitidez_512": 802.501963423717,
+    "sha256": "e677b95688bb23d92fbb648a4d47bf193b0ffbd640321216d6216d8ce1892f06",
+    "bytes": 230888
+  }
+}

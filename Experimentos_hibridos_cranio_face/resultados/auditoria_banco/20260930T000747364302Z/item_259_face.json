@@ -1,0 +1,21 @@
+{
+  "signature": "2afe2e5def1f59374e145e720af83a197cbfeebb709fb8cb35ef224703df9830",
+  "metadata": {
+    "id": "2019_246_TDAR",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_246_TDAR_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_246_TDAR_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 737,
+    "contraste": 65.68628156529776,
+    "nitidez_512": 541.7715085036532,
+    "sha256": "2afe2e5def1f59374e145e720af83a197cbfeebb709fb8cb35ef224703df9830",
+    "bytes": 38840
+  }
+}

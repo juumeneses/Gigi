@@ -1,0 +1,7 @@
+__pycache__/
+# Saved experiments/checkpoints are shared through Git LFS. Rebuild caches locally.
+artifacts/models/
+artifacts/features/
+artifacts/jobs/
+artifacts/uploads/
+.venv/

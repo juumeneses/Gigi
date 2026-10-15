@@ -1,0 +1,21 @@
+{
+  "signature": "4dac89b96da4b6cf001a6e0b5160f365578fee90e4a05312bd6c9e61801d58da",
+  "metadata": {
+    "id": "2023_97_MEDDO",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_97_MEDDO_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_97_MEDDO_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1082,
+    "altura": 895,
+    "contraste": 90.17485909678292,
+    "nitidez_512": 751.7757246180887,
+    "sha256": "4dac89b96da4b6cf001a6e0b5160f365578fee90e4a05312bd6c9e61801d58da",
+    "bytes": 236000
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "5248bd6041b31f43173a8c6230dca4220763520861f47971e56bbab933c9dfc8",
+  "metadata": {
+    "id": "2022_15_ASDAR",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_15_ASDAR_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_15_ASDAR_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 738,
+    "contraste": 73.84838176872853,
+    "nitidez_512": 1042.9721485214077,
+    "sha256": "5248bd6041b31f43173a8c6230dca4220763520861f47971e56bbab933c9dfc8",
+    "bytes": 36962
+  }
+}

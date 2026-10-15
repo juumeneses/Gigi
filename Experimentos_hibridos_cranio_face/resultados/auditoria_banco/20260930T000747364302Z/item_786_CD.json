@@ -1,0 +1,21 @@
+{
+  "signature": "a5a5b8d6f54c52239c7fa5ebb50ce754c14da73a1e80ccbd98c4ce34c992cf5e",
+  "metadata": {
+    "id": "2023_92_MADA",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_92_MADA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_92_MADA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1152,
+    "altura": 985,
+    "contraste": 95.76154420574551,
+    "nitidez_512": 1060.7223336543764,
+    "sha256": "a5a5b8d6f54c52239c7fa5ebb50ce754c14da73a1e80ccbd98c4ce34c992cf5e",
+    "bytes": 255273
+  }
+}

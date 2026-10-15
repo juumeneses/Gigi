@@ -1,0 +1,21 @@
+{
+  "signature": "cd8be84ca0617451ca95b3b20d677c5af422416a8c2f5f3101021b314e1ed37f",
+  "metadata": {
+    "id": "2021_19_BCLMF",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_19_BCLMF_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_19_BCLMF_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 859,
+    "altura": 992,
+    "contraste": 89.3666198071469,
+    "nitidez_512": 723.8519783718623,
+    "sha256": "cd8be84ca0617451ca95b3b20d677c5af422416a8c2f5f3101021b314e1ed37f",
+    "bytes": 210999
+  }
+}

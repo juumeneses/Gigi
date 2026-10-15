@@ -1,0 +1,21 @@
+{
+  "signature": "f7abfe56e2be9b1ec16df7d2fdddbd8c510f9bfd77dfff688ed1c78a47ef98ed",
+  "metadata": {
+    "id": "2022_96_LMDP",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_96_LMDP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_96_LMDP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1066,
+    "altura": 983,
+    "contraste": 93.88943366269761,
+    "nitidez_512": 706.0390691309099,
+    "sha256": "f7abfe56e2be9b1ec16df7d2fdddbd8c510f9bfd77dfff688ed1c78a47ef98ed",
+    "bytes": 231237
+  }
+}

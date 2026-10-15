@@ -29,7 +29,7 @@ def evaluate_hybrid(components: pd.DataFrame, anatomy_enabled: bool) -> dict:
         g=pd.read_csv(global_path); components=components.merge(g[["face_id","cranio_id","score_global_two_tower"]],on=["face_id","cranio_id"],how="left")
     features=[c for c in ["score_global_two_tower","score_anatomico","score_genero","score_qualidade"] if c in components]
     if not anatomy_enabled:
-        status={"status":"BLOQUEADO_GATE_ANATOMICO","oficial":False,"motivo":"cobertura das regioes centrais abaixo de 80%","features_disponiveis":features}
+        status={"status":"BLOQUEADO_GATE_ANATOMICO","oficial":False,"motivo":"validacao anatomica pendente ou cobertura insuficiente","features_disponiveis":features}
         (LAB_ROOT/"resultados/matching/status_hibrido.json").write_text(json.dumps(status,indent=2,ensure_ascii=False),encoding="utf-8"); return status
     train=components[components.split=="treino"].dropna(subset=features+["label"]); test=components[components.split=="teste"].dropna(subset=features+["label"])
     if train.empty or test.empty:

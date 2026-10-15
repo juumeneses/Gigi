@@ -1,0 +1,21 @@
+{
+  "signature": "74fca01cf67d2aa9c0dcd45a6357be4e020c07d75433ea4462af89318790e113",
+  "metadata": {
+    "id": "2022_156_TIALT",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_156_TIALT_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_156_TIALT_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1069,
+    "altura": 980,
+    "contraste": 90.93661128203993,
+    "nitidez_512": 853.815775615079,
+    "sha256": "74fca01cf67d2aa9c0dcd45a6357be4e020c07d75433ea4462af89318790e113",
+    "bytes": 260765
+  }
+}

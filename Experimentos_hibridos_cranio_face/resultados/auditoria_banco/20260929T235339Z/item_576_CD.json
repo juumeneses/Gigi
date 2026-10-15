@@ -1,0 +1,21 @@
+{
+  "signature": "ae6c2cdb79ca8cc1e69e45e8edf0c2cb2f4efe11985cbe2fa820b450099b66fe",
+  "metadata": {
+    "id": "2022_40_DSGV",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_40_DSGV_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_40_DSGV_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1073,
+    "altura": 1049,
+    "contraste": 92.76878513093463,
+    "nitidez_512": 737.6185531133674,
+    "sha256": "ae6c2cdb79ca8cc1e69e45e8edf0c2cb2f4efe11985cbe2fa820b450099b66fe",
+    "bytes": 258098
+  }
+}

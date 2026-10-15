@@ -1,0 +1,21 @@
+{
+  "signature": "e98b4c9f060014cb15fe74ffe45e67c6c0279f8e1b478a576c88869084c7ad34",
+  "metadata": {
+    "id": "2017_14_CAFM",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_14_CAFM_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_14_CAFM_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 526,
+    "altura": 743,
+    "contraste": 85.54028164449964,
+    "nitidez_512": 804.1908763653374,
+    "sha256": "e98b4c9f060014cb15fe74ffe45e67c6c0279f8e1b478a576c88869084c7ad34",
+    "bytes": 42874
+  }
+}

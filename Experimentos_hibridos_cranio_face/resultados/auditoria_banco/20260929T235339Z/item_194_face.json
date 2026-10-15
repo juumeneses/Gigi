@@ -1,0 +1,21 @@
+{
+  "signature": "f488af8182ca03b8b67501941aba02f4337e1dbbad02ea5f2603a13c7bd4ddd1",
+  "metadata": {
+    "id": "2019_188_PDA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_188_PDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_188_PDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 739,
+    "contraste": 74.9147168394128,
+    "nitidez_512": 930.9249601188515,
+    "sha256": "f488af8182ca03b8b67501941aba02f4337e1dbbad02ea5f2603a13c7bd4ddd1",
+    "bytes": 35879
+  }
+}

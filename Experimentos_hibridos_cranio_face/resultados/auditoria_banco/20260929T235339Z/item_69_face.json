@@ -1,0 +1,21 @@
+{
+  "signature": "4101e1010ce182e7e2a13ab811f9fe061e11c636c1a5661fc2ba762ace50e6fb",
+  "metadata": {
+    "id": "2017_74_MPDC",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_74_MPDC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_74_MPDC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 735,
+    "contraste": 66.49695866074353,
+    "nitidez_512": 1320.9368936886501,
+    "sha256": "4101e1010ce182e7e2a13ab811f9fe061e11c636c1a5661fc2ba762ace50e6fb",
+    "bytes": 49107
+  }
+}

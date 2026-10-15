@@ -1,0 +1,132 @@
+[
+  {
+    "trial": "dinov2_vitb14_204d40abf67f",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T134942442097Z"
+  },
+  {
+    "trial": "dinov2_vitb14_204d40abf67f",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "individual",
+    "seed": 43,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T135045764369Z"
+  },
+  {
+    "trial": "dinov2_vitb14_204d40abf67f",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "individual",
+    "seed": 44,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T135154745236Z"
+  },
+  {
+    "trial": "convnext_tiny_204d40abf67f",
+    "backbone": "convnext_tiny",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T135459433639Z"
+  },
+  {
+    "trial": "convnext_tiny_204d40abf67f",
+    "backbone": "convnext_tiny",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "individual",
+    "seed": 43,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T135549758169Z"
+  },
+  {
+    "trial": "convnext_tiny_204d40abf67f",
+    "backbone": "convnext_tiny",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "individual",
+    "seed": 44,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T135644997500Z"
+  },
+  {
+    "trial": "dinov2_vitb14_5fb1d74bab97",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.001,
+    "margin": 0.1,
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T135802624706Z"
+  },
+  {
+    "trial": "dinov2_vitb14_d3909210d8bc",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.001,
+    "margin": 0.3,
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T135911525206Z"
+  },
+  {
+    "trial": "dinov2_vitb14_bcdb01eea528",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.0003,
+    "margin": 0.2,
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140116333182Z"
+  },
+  {
+    "trial": "dinov2_vitb14_c5feac801fbb",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.0003,
+    "margin": 0.1,
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140323201239Z"
+  },
+  {
+    "trial": "dinov2_vitb14_a2ebe440f674",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.0003,
+    "margin": 0.3,
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 1,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140517041350Z"
+  },
+  {
+    "trial": "convnext_tiny_204d40abf67f",
+    "backbone": "convnext_tiny",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "ensemble",
+    "seed": -1,
+    "n_seeds": 3,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140522734003Z"
+  },
+  {
+    "trial": "dinov2_vitb14_204d40abf67f",
+    "backbone": "dinov2_vitb14",
+    "lr": 0.001,
+    "margin": 0.2,
+    "kind": "ensemble",
+    "seed": -1,
+    "n_seeds": 3,
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z"
+  }
+]

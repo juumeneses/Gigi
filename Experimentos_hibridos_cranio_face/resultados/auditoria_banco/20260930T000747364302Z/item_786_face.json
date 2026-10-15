@@ -1,0 +1,21 @@
+{
+  "signature": "8722669c18e522858cd43adca86db7ffe1ac4bedf1feb4f82da81d48ca2eff93",
+  "metadata": {
+    "id": "2023_92_MADA",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_92_MADA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_92_MADA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 159,
+    "altura": 224,
+    "contraste": 64.95276651411774,
+    "nitidez_512": 1225.485114355461,
+    "sha256": "8722669c18e522858cd43adca86db7ffe1ac4bedf1feb4f82da81d48ca2eff93",
+    "bytes": 7175
+  }
+}

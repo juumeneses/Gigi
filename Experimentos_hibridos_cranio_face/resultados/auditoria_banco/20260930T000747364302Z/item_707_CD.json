@@ -1,0 +1,21 @@
+{
+  "signature": "c4057a95220eb6163632b206ef850af265d5b576806c2d051ef854a152f4701f",
+  "metadata": {
+    "id": "2023_20_APGF",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_20_APGF_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_20_APGF_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 752,
+    "altura": 882,
+    "contraste": 81.22158142613178,
+    "nitidez_512": 746.0075308859356,
+    "sha256": "c4057a95220eb6163632b206ef850af265d5b576806c2d051ef854a152f4701f",
+    "bytes": 211176
+  }
+}

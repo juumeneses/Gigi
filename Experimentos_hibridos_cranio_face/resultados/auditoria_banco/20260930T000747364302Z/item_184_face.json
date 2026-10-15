@@ -1,0 +1,21 @@
+{
+  "signature": "8f21df97ab16bd7d782da3c0835609792d473122cef76fa9ad7a3fe75b387455",
+  "metadata": {
+    "id": "2019_179_OAAP",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_179_OAAP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_179_OAAP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 517,
+    "altura": 733,
+    "contraste": 57.87076132450291,
+    "nitidez_512": 300.61533962749155,
+    "sha256": "8f21df97ab16bd7d782da3c0835609792d473122cef76fa9ad7a3fe75b387455",
+    "bytes": 43357
+  }
+}

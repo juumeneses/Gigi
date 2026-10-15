@@ -1,0 +1,21 @@
+{
+  "signature": "0d032025328284383acb192691274ae885d16dc366fd6774153f756e8b4548d0",
+  "metadata": {
+    "id": "2023_133_RVR",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_133_RVR_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_133_RVR_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1154,
+    "altura": 983,
+    "contraste": 91.4598448896939,
+    "nitidez_512": 786.5801891166046,
+    "sha256": "0d032025328284383acb192691274ae885d16dc366fd6774153f756e8b4548d0",
+    "bytes": 253302
+  }
+}

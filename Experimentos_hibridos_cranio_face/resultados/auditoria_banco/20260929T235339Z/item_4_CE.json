@@ -1,0 +1,21 @@
+{
+  "signature": "5901ae86ff164d51a8e35bc7c8ea76db1a4501da1a81f1faac4f45e2095c1e0a",
+  "metadata": {
+    "id": "2017_14_CAFM",
+    "ano": "2017",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CE/2017_14_CAFM_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CE/2017_14_CAFM_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2025,
+    "altura": 1322,
+    "contraste": 98.90979236271158,
+    "nitidez_512": 1111.8719475112275,
+    "sha256": "5901ae86ff164d51a8e35bc7c8ea76db1a4501da1a81f1faac4f45e2095c1e0a",
+    "bytes": 201047
+  }
+}

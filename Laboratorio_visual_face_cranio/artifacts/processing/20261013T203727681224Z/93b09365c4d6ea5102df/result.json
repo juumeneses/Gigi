@@ -1,0 +1,197 @@
+{
+  "item": {
+    "key": "93b09365c4d6ea5102df",
+    "path": "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_234_SFLL/2019_234_SFLL_FFN.jpg",
+    "filename": "2019_234_SFLL_FFN.jpg",
+    "person": "2019_234_SFLL",
+    "year": "2019",
+    "view": "FFN",
+    "modality": "face"
+  },
+  "fingerprint": "94b80effe0f77daeddc86b7f4e43a340b6e2dda8a1f8e7db74955fd0bd3eca8d",
+  "action": "regions",
+  "points": [
+    {
+      "numero": 1,
+      "x": 253.0,
+      "y": 283.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Relevo anterior nao confirmavel pela frontal."
+    },
+    {
+      "numero": 2,
+      "x": 260.0,
+      "y": 421.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+    },
+    {
+      "numero": 3,
+      "x": 221.0,
+      "y": 400.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+    },
+    {
+      "numero": 4,
+      "x": 301.0,
+      "y": 400.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Largura ossea e externa diferentes; tecido mole."
+    },
+    {
+      "numero": 5,
+      "x": 149.0,
+      "y": 313.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+    },
+    {
+      "numero": 6,
+      "x": 375.0,
+      "y": 311.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+    },
+    {
+      "numero": 7,
+      "x": 253.0,
+      "y": 587.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+    },
+    {
+      "numero": 8,
+      "x": 79.0,
+      "y": 368.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+    },
+    {
+      "numero": 9,
+      "x": 424.0,
+      "y": 362.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+    },
+    {
+      "numero": 10,
+      "x": 215.0,
+      "y": 319.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+    },
+    {
+      "numero": 11,
+      "x": 310.0,
+      "y": 319.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+    }
+  ],
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        135.8,
+        309.0,
+        228.2,
+        323.0
+      ],
+      "margin": [
+        13.200000000000001,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        297.0,
+        307.0,
+        388.0,
+        323.0
+      ],
+      "margin": [
+        13.0,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "PROPOSTA",
+      "required": [
+        2,
+        3,
+        4
+      ],
+      "box": [
+        205.0,
+        395.8,
+        317.0,
+        425.2
+      ],
+      "margin": [
+        16.0,
+        4.2
+      ],
+      "outside_fraction": 0.0
+    },
+    "central": {
+      "status": "PROPOSTA",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "box": [
+        103.8,
+        255.4,
+        420.2,
+        448.6
+      ],
+      "margin": [
+        45.2,
+        27.6
+      ],
+      "outside_fraction": 0.0
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        10.0,
+        317.0,
+        493.0,
+        632.0
+      ],
+      "margin": [
+        69.0,
+        45.0
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "contours": [],
+  "assets": {
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203727681224Z/93b09365c4d6ea5102df/preview.png": "bb6df983eb62f29b0cbeb34399cd6065820f44c50cc0d856531cbb2deaf84b3c"
+  },
+  "status": "PROPOSTA_IA",
+  "reason": "",
+  "preview": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203727681224Z/93b09365c4d6ea5102df/preview.png"
+}

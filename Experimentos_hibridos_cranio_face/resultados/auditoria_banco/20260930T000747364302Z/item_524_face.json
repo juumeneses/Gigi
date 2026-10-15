@@ -1,0 +1,21 @@
+{
+  "signature": "fcad5cd0aa8b09ac4b94e10af5aa295ccb0850e7fed45082b25d3b17c572e9fd",
+  "metadata": {
+    "id": "2022_144_ROFP",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_144_ROFP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_144_ROFP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 745,
+    "contraste": 83.57372103334306,
+    "nitidez_512": 1292.3923537226624,
+    "sha256": "fcad5cd0aa8b09ac4b94e10af5aa295ccb0850e7fed45082b25d3b17c572e9fd",
+    "bytes": 49646
+  }
+}

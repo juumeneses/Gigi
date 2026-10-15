@@ -1,0 +1,207 @@
+{
+  "key": "9cc677ec449db6f8a158",
+  "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_106_MCPDS/2022_106_MCPDS_FFN.jpg",
+  "filename": "2022_106_MCPDS_FFN.jpg",
+  "person": "2022_106_MCPDS",
+  "year": "2022",
+  "view": "FFN",
+  "modality": "face",
+  "hash": "25e03160a7e262a314faf80209ffe0e4cecd5425d8015425ad966f41c7912cb1",
+  "split": "treino",
+  "points": [
+    {
+      "numero": 1,
+      "x": 261.0673369169235,
+      "y": 294.55210959911346,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 2,
+      "x": 263.21002757549286,
+      "y": 431.330375790596,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 3,
+      "x": 225.08093130588531,
+      "y": 418.5583189725876,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 4,
+      "x": 299.3664449453354,
+      "y": 416.4302407503128,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 5,
+      "x": 135.66894298791885,
+      "y": 343.99617528915405,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 6,
+      "x": 377.8913151025772,
+      "y": 340.7094271183014,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 7,
+      "x": 248.52735096216202,
+      "y": 597.5398386716843,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 8,
+      "x": 89.34552931785582,
+      "y": 376.78823232650757,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 9,
+      "x": 421.22598242759705,
+      "y": 371.65147972106934,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 10,
+      "x": 230.44277667999268,
+      "y": 329.9891269803047,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 11,
+      "x": 302.7265177965164,
+      "y": 341.87492203712463,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    }
+  ],
+  "width": 519,
+  "height": 734,
+  "status": "PROPOSTA",
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        116.71417624950409,
+        325.9891269803047,
+        249.39754341840745,
+        347.99617528915405
+      ],
+      "margin": [
+        18.954766738414765,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        287.69355833530426,
+        336.7094271183014,
+        392.92427456378937,
+        345.87492203712463
+      ],
+      "margin": [
+        15.032959461212158,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "PROPOSTA",
+      "required": [
+        2,
+        3,
+        4
+      ],
+      "box": [
+        210.2238285779953,
+        412.4302407503128,
+        314.2235476732254,
+        435.330375790596
+      ],
+      "margin": [
+        14.857102727890016,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "central": {
+      "status": "PROPOSTA",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "box": [
+        87.22446856498718,
+        267.19645636081697,
+        426.33578952550886,
+        458.6860290288925
+      ],
+      "margin": [
+        48.44447442293168,
+        27.35565323829651
+      ],
+      "outside_fraction": 0.0
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        22.96943869590757,
+        326.47380793094635,
+        487.6020730495453,
+        642.7175104618073
+      ],
+      "margin": [
+        66.37609062194825,
+        45.177671790122986
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "bank_keys": [
+    "9cc677ec449db6f8a158"
+  ],
+  "origin": "PROPOSTA_MODELO",
+  "anatomical_validation": false
+}

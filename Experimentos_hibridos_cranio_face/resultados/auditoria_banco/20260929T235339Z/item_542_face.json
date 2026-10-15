@@ -1,0 +1,21 @@
+{
+  "signature": "db76a03be409909ef65b1ca6d618a0337df71c79ea62fa018b56e78532ce461b",
+  "metadata": {
+    "id": "2022_160_VFL",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_160_VFL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_160_VFL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 743,
+    "contraste": 74.98773712259124,
+    "nitidez_512": 1429.9203846627474,
+    "sha256": "db76a03be409909ef65b1ca6d618a0337df71c79ea62fa018b56e78532ce461b",
+    "bytes": 60341
+  }
+}

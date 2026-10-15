@@ -1,0 +1,21 @@
+{
+  "signature": "503901b47cc634b7902ac190ca207e73d2d187d494a6fa41b2789b7bc8673668",
+  "metadata": {
+    "id": "2023_130_RMCB",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_130_RMCB_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_130_RMCB_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 991,
+    "altura": 910,
+    "contraste": 89.9197745676543,
+    "nitidez_512": 777.8255129820451,
+    "sha256": "503901b47cc634b7902ac190ca207e73d2d187d494a6fa41b2789b7bc8673668",
+    "bytes": 237017
+  }
+}

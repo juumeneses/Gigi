@@ -1,0 +1,21 @@
+{
+  "signature": "be9abaa76140438ca9ccdfe0c68f9c9747a7f9cd41cd89b7d9a0262afdae00de",
+  "metadata": {
+    "id": "2022_48_EDSF",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_48_EDSF_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_48_EDSF_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 994,
+    "altura": 987,
+    "contraste": 90.72838245991076,
+    "nitidez_512": 642.4897081713304,
+    "sha256": "be9abaa76140438ca9ccdfe0c68f9c9747a7f9cd41cd89b7d9a0262afdae00de",
+    "bytes": 237559
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "sources": [
+    "Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z"
+  ],
+  "view_weights": [
+    [
+      0.5,
+      0,
+      0.2
+    ],
+    [
+      0.5,
+      0.3,
+      0.2
+    ]
+  ],
+  "objective": "recall_1_then_recall_10_then_mrr",
+  "split": "validacao",
+  "input_hashes": [
+    {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z/config.json": "405d35ed4bdd92d5ce5d0db22cdf4d692e9996304e5403e3c7d47bb43e2cab2f",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z/results.json": "506f93651723f0d269c9524f0c3b98a2e6083811a651b52004b9aaad3c580a7e",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z/scores.npz": "71a94cf7a6b2cfe7c80b4f03ca2d1dadb20831a59e638c105036632d0cdbc5ec",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/crop/seed42/frontal/best.pt": "8d490beed8850199cb0efd74b306219d84267b99dc252b5e8f41795d1ceab235",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/crop/seed42/frontal/config.json": "ca7e48ee10c1afd472cfcfbea6f735775dd78b2d665a6d22c6459e3ee3e86a9f",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/crop/seed42/sorriso/best.pt": "1f529b7c7dcb7bdb3061261d15b1f5dac08d811c2b00adb050aef42ed33aeca4",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/crop/seed42/sorriso/config.json": "76c1fc228449861ebca0fe883bccff04acf16fb4cc101eb2260c8cda4e2b19aa",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/crop/seed42/lateral/best.pt": "96d5ef218f8ec617834693e3699d9969a68b866ad81a1e1c0b343f28c9be6f6d",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/crop/seed42/lateral/config.json": "a4bb20b69c2c25587411913dc4f28a999a00bbdba91db0b70b87ea5cf3b837fe"
+    },
+    {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z/config.json": "077025ea893a7b646d9f63bc05b65f450e9f498ebaaf82fa060b570631310b19",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z/results.json": "c8907fd3037c9f08a67e7ea7439078a6c421b483388c514bed9376d8beb638d4",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020309305867Z/scores.npz": "4fe965e186d9a6549ea475f8decf0e28c9f3497015c0c6c1302de57a3814ddad",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed42/frontal/best.pt": "50d40391a40af6d74e41ba9310365a8612f302bf29b66886dc1b6c7519b435df",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed42/frontal/config.json": "b9479525781b8352f24f9a301025525e3e92090bb9eb0e8c6768ba31cdfb3bad",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed42/sorriso/best.pt": "b87f17ce866699f04fed2f5c0bbcc1a5e6db0491102c8d79c1c9481beaa6078f",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed42/sorriso/config.json": "c2088984301597536a1b90abb692dba520bc63ea1654b25795431a156a768fae",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed42/lateral/best.pt": "b87075ff37d0d1a8540aa4a23b36a47f65d5dde3248def3122dd92d445376594",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed42/lateral/config.json": "9fa84606f4cb1ed188e404ac193d8572d39e0d45a5a0c74f5b51a155b130c9e7",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020127098274Z/config.json": "bbd4810728788c8639a45b92836c4abb49caeb781f5a1ca7703f8a66d27e51e9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020127098274Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020127098274Z/results.json": "23da5726a4863606f3537623d66d19c297eefd2cc99de4f0c95957ce8f2b2c1b",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020127098274Z/scores.npz": "0d9999b7b7793eb69db3953664d8fec0659421418fb0c198a88aaa8b56a2d619",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020212974926Z/config.json": "7d654334d67c88efa00f25551cf5fb133be9707513888feb84ffb2ad4ae32460",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020212974926Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020212974926Z/results.json": "6191a8254ed8986361d1c0e31c95d9989eb29c98639b3bc7064d2d83ba3d2037",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020212974926Z/scores.npz": "d39a2c6e8cc262265c03c71ebf6a81374c2560d2dd943cced9717bf1da2bf693",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed43/frontal/best.pt": "8dc4de0cd74d5bf99a47052873f81b19aacb26a0ea5052eb11557c2f73153056",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed43/frontal/config.json": "9ec8f03e32d4b3badb4073bbe95c6cd7758d46de4919272fe28acc160eb6885a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed43/sorriso/best.pt": "8e1d9a2d65b4805d6f8c31f4ff0b5ff8b2dcdad1dae0831b83dd8c05c7027f45",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed43/sorriso/config.json": "4f3c3b0441be6b0314b47345a559d5fcc5d34caa7b66924de21fea4349a99796",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed43/lateral/best.pt": "5177a11b816b64a6d12fceb3977cf3a5a1a758d807d2f0d013fb3f060d8ce2ba",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed43/lateral/config.json": "d6ef772938b8244ab280cb282acd6310a1ea3da0a9c4e56aabc46300e4de80f6",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020308417845Z/config.json": "6b20ac4443782fdf1df3d66a905a5b5b5374214ba256b6687408dc714ce06af8",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020308417845Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020308417845Z/results.json": "a0757b59bb106e490fc7c3526fd87dd01b34258c581089c0f2db645bc87f592d",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T020308417845Z/scores.npz": "b44deb1ecc17c99dd0e004be161475922094d2cb16404e25e8ba12987a3d4e80",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed44/frontal/best.pt": "d581b485a7250f39b6ea3e587ef2ed7a2cb2c7dc68d10b5b88d9ce64be26db0a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed44/frontal/config.json": "003063d66cf26d1a61852923e1b39ce4702a3b667ec71c65e332a79870ff62a0",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed44/sorriso/best.pt": "bf8856e4467e13b41ab55948e9f921f9a1b86137ebfac0c8780b9e26b24918b0",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed44/sorriso/config.json": "b356794a83c45160c8d700be406a558345c86983de3ff20121692a3636c379e8",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed44/lateral/best.pt": "5e0ccb036903176e6e4e15289ceda35940e4c068f6cb1a2c044095048e3ac785",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/triplet/original/seed44/lateral/config.json": "531209d8e6dce579c033581e78b642f39fb9e35ad67192ab2ddaf1d83351b1c4"
+    }
+  ],
+  "code_hash": "24ff676c51fab280f75da2d98b6708e55b81bfb5346b491b869009aea7af161e"
+}

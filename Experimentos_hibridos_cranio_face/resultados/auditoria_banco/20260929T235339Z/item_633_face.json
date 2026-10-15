@@ -1,0 +1,21 @@
+{
+  "signature": "e3e87bc8952afe6bd52470032004ef152d6d0eddd46e3eabe47bebc8bd785cbe",
+  "metadata": {
+    "id": "2022_92_LGRG",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_92_LGRG_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_92_LGRG_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 740,
+    "contraste": 68.65543135213886,
+    "nitidez_512": 1337.3242362290546,
+    "sha256": "e3e87bc8952afe6bd52470032004ef152d6d0eddd46e3eabe47bebc8bd785cbe",
+    "bytes": 56664
+  }
+}

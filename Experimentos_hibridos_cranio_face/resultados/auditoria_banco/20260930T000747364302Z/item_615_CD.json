@@ -1,0 +1,21 @@
+{
+  "signature": "3be0fa84d9a20b1080496e12f1d05a4082276ffd8ad34d5f1a89c0f6486501f3",
+  "metadata": {
+    "id": "2022_76_JAPT",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_76_JAPT_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_76_JAPT_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1050,
+    "altura": 991,
+    "contraste": 87.34979514718866,
+    "nitidez_512": 944.8283173650243,
+    "sha256": "3be0fa84d9a20b1080496e12f1d05a4082276ffd8ad34d5f1a89c0f6486501f3",
+    "bytes": 286446
+  }
+}

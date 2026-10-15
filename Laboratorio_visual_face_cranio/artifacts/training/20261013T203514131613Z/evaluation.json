@@ -1,0 +1,400 @@
+{
+  "checkpoint_epoch": 19,
+  "best_val_loss": 0.00082014175131917,
+  "n_validation": 1,
+  "n_reference_points": 10,
+  "n_evaluated": 10,
+  "failures": 0,
+  "median_diagonal": 0.01714920981166438,
+  "p95_diagonal": 0.0358908227125095,
+  "baseline_median_diagonal": 0.019889942530723265,
+  "points": [
+    {
+      "person": "2017_76_MVXP",
+      "point": 1,
+      "evaluated": true,
+      "error_px": 14.3022382447969,
+      "error_diagonal": 0.01598237931204452,
+      "baseline_px": 3.3746930604425454
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 2,
+      "evaluated": true,
+      "error_px": 26.955587071834106,
+      "error_diagonal": 0.03012216757874417,
+      "baseline_px": 24.438662750171616
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 3,
+      "evaluated": true,
+      "error_px": 28.236684616669788,
+      "error_diagonal": 0.031553760770442085,
+      "baseline_px": 27.62157368787936
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 4,
+      "evaluated": true,
+      "error_px": 25.246851951069495,
+      "error_diagonal": 0.028212700516565468,
+      "baseline_px": 22.66044838941664
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 5,
+      "evaluated": true,
+      "error_px": 10.58878942224767,
+      "error_diagonal": 0.011832696820254248,
+      "baseline_px": 27.359369421772175
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 6,
+      "evaluated": true,
+      "error_px": 8.205485204645846,
+      "error_diagonal": 0.00916941633437889,
+      "baseline_px": 9.783939362021085
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 7,
+      "evaluated": false,
+      "error_px": null,
+      "error_diagonal": null,
+      "baseline_px": null
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 8,
+      "evaluated": true,
+      "error_px": 15.766166061524748,
+      "error_diagonal": 0.017618280578121485,
+      "baseline_px": 16.806307298373124
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 9,
+      "evaluated": true,
+      "error_px": 14.926646272317498,
+      "error_diagonal": 0.01668013904520728,
+      "baseline_px": 11.711256551188763
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 10,
+      "evaluated": true,
+      "error_px": 35.29328477121891,
+      "error_diagonal": 0.0394393279378374,
+      "baseline_px": 18.79173366857378
+    },
+    {
+      "person": "2017_76_MVXP",
+      "point": 11,
+      "evaluated": true,
+      "error_px": 9.810916396311146,
+      "error_diagonal": 0.01096344394218475,
+      "baseline_px": 5.676076425045148
+    }
+  ],
+  "cases": [
+    {
+      "key": "129784c1c2b7c4c84eaf",
+      "person": "2017_76_MVXP",
+      "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_76_MVXP/2017_76_MVXP_FFN.jpg",
+      "points": [
+        {
+          "numero": 1,
+          "x": 260.3374462723732,
+          "y": 287.17850267887115,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 2,
+          "x": 263.1362627148628,
+          "y": 434.53828275203705,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 3,
+          "x": 222.44559869170192,
+          "y": 418.7972649335861,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 4,
+          "x": 302.87722277641296,
+          "y": 415.5068349838257,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 5,
+          "x": 129.39479380846024,
+          "y": 336.9823966920376,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 6,
+          "x": 384.3736111521721,
+          "y": 332.04268902540207,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 7,
+          "x": 248.95192685723308,
+          "y": 607.1289941668512,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 8,
+          "x": 76.75128212571144,
+          "y": 376.4757467508316,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 9,
+          "x": 433.7693842649461,
+          "y": 367.5476213693619,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 10,
+          "x": 228.08564051985744,
+          "y": 324.28776186704636,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        },
+        {
+          "numero": 11,
+          "x": 308.2260072827339,
+          "y": 338.09697845578194,
+          "estado": "PROPOSTA_MODELO",
+          "visibility": "NAO_AVALIADO",
+          "reason": ""
+        }
+      ],
+      "reference_points": [
+        {
+          "numero": 1,
+          "x": 254.0,
+          "y": 300.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Relevo anterior nao confirmavel pela frontal."
+        },
+        {
+          "numero": 2,
+          "x": 258.0,
+          "y": 461.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+        },
+        {
+          "numero": 3,
+          "x": 205.0,
+          "y": 441.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+        },
+        {
+          "numero": 4,
+          "x": 309.0,
+          "y": 440.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Largura ossea e externa diferentes; tecido mole."
+        },
+        {
+          "numero": 5,
+          "x": 119.0,
+          "y": 339.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+        },
+        {
+          "numero": 6,
+          "x": 386.0,
+          "y": 324.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+        },
+        {
+          "numero": 7,
+          "x": null,
+          "y": null,
+          "estado": "DUVIDA",
+          "observacao": "Limite cutaneo inferior do queixo oculto/ambiguo pela barba."
+        },
+        {
+          "numero": 8,
+          "x": 74.0,
+          "y": 392.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+        },
+        {
+          "numero": 9,
+          "x": 442.0,
+          "y": 380.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+        },
+        {
+          "numero": 10,
+          "x": 197.0,
+          "y": 341.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+        },
+        {
+          "numero": 11,
+          "x": 315.0,
+          "y": 331.0,
+          "estado": "PROPOSTA_IA",
+          "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+        }
+      ],
+      "preview": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/training/20261013T203514131613Z/evaluation/129784c1c2b7c4c84eaf.png",
+      "regions": {
+        "olho_direito": {
+          "status": "PROPOSTA",
+          "required": [
+            5,
+            10
+          ],
+          "box": [
+            109.6566244661808,
+            320.28776186704636,
+            247.82380986213687,
+            340.9823966920376
+          ],
+          "margin": [
+            19.73816934227944,
+            4.0
+          ],
+          "outside_fraction": 0.0
+        },
+        "olho_esquerdo": {
+          "status": "PROPOSTA",
+          "required": [
+            6,
+            11
+          ],
+          "box": [
+            292.99648650884626,
+            328.04268902540207,
+            399.60313192605975,
+            342.09697845578194
+          ],
+          "margin": [
+            15.229520773887636,
+            4.0
+          ],
+          "outside_fraction": 0.0
+        },
+        "nariz": {
+          "status": "PROPOSTA",
+          "required": [
+            2,
+            3,
+            4
+          ],
+          "box": [
+            206.3592738747597,
+            411.5068349838257,
+            318.9635475933552,
+            438.53828275203705
+          ],
+          "margin": [
+            16.08632481694221,
+            4.0
+          ],
+          "outside_fraction": 0.0
+        },
+        "central": {
+          "status": "PROPOSTA",
+          "required": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "box": [
+            78.39903033971785,
+            257.706546664238,
+            435.36937462091447,
+            464.0102387666702
+          ],
+          "margin": [
+            50.995763468742375,
+            29.47195601463318
+          ],
+          "outside_fraction": 0.0
+        },
+        "mandibula_queixo": {
+          "status": "PROPOSTA",
+          "required": [
+            7,
+            8,
+            9
+          ],
+          "box": [
+            5.34766169786451,
+            319.631346809864,
+            505.17300469279303,
+            655.045268726349
+          ],
+          "margin": [
+            71.40362042784693,
+            47.91627455949786
+          ],
+          "outside_fraction": 0.0
+        }
+      },
+      "unavailable": 0
+    }
+  ],
+  "regions": [
+    {
+      "person": "2017_76_MVXP",
+      "region": "olho_direito",
+      "iou": 0.18463600702328625
+    },
+    {
+      "person": "2017_76_MVXP",
+      "region": "olho_esquerdo",
+      "iou": 0.2986277080358168
+    },
+    {
+      "person": "2017_76_MVXP",
+      "region": "nariz",
+      "iou": 0.043947486273699966
+    },
+    {
+      "person": "2017_76_MVXP",
+      "region": "central",
+      "iou": 0.7972133273420352
+    }
+  ],
+  "interpretation": "Discordancia em relacao a pseudorrotulos IA; nao precisao anatomica independente"
+}

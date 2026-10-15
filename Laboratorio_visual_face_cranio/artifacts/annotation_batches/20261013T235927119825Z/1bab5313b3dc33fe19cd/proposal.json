@@ -1,0 +1,198 @@
+{
+  "key": "1bab5313b3dc33fe19cd",
+  "path": "/Users/juliameneses/Documents/Gigi/Banco/2022/2022_64_GOC/2022_64_GOC_CF.jpg",
+  "filename": "2022_64_GOC_CF.jpg",
+  "person": "2022_64_GOC",
+  "year": "2022",
+  "view": "CF",
+  "modality": "cranio",
+  "hash": "eed9b9b5d9d5b1850292c7687604e9074bdb570f4c34d8c8c899fb44c650cc95",
+  "split": "treino",
+  "points": [
+    {
+      "numero": 1,
+      "x": 477.86675971746445,
+      "y": 453.0045709013939,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    },
+    {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    },
+    {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    },
+    {
+      "numero": 5,
+      "x": 258.9071614742279,
+      "y": 487.8275436758995,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 6,
+      "x": 677.3813568949699,
+      "y": 477.7151061296463,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 7,
+      "x": 470.4416773915291,
+      "y": 897.3495277166367,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 8,
+      "x": 201.51039572060108,
+      "y": 583.4581128358841,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 9,
+      "x": 740.9735569357872,
+      "y": 551.7033342719078,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 10,
+      "x": 456.7002544403076,
+      "y": 472.37103685736656,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 11,
+      "x": 507.6090190410614,
+      "y": 528.1882610321045,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    }
+  ],
+  "width": 950,
+  "height": 1021,
+  "status": "PROPOSTA",
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        219.34854288101195,
+        468.37103685736656,
+        496.25887303352357,
+        491.8275436758995
+      ],
+      "margin": [
+        39.55861859321595,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        473.65455147027967,
+        467.6204751491547,
+        711.3358244657517,
+        538.2828920125961
+      ],
+      "margin": [
+        33.95446757078171,
+        10.094630980491639
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "REGIAO_INDISPONIVEL",
+      "required": [
+        2,
+        3,
+        4
+      ]
+    },
+    "central": {
+      "status": "REGIAO_INDISPONIVEL",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        93.61776347756386,
+        482.57409558296206,
+        848.8661891788245,
+        966.4787664055824
+      ],
+      "margin": [
+        107.89263224303723,
+        69.12923868894578
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "bank_keys": [
+    "1bab5313b3dc33fe19cd"
+  ],
+  "origin": "PROPOSTA_MODELO",
+  "anatomical_validation": false,
+  "parent_proposal": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/annotation_batches/20261013T235612197956Z/1bab5313b3dc33fe19cd/proposal.json",
+  "parent_proposal_hash": "ebfa13c3fed9987313af022b016a3fc666bde01e6f3513cc878a0805398fda1c",
+  "refinement_status": "SKULL_NOSE_VISUAL_PROPOSAL",
+  "visual_audit": {
+    "author": "Codex AI",
+    "points_examined": [
+      2,
+      3,
+      4
+    ],
+    "evidence": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/annotation_batches/20261013T235612197956Z/cranio_context_3.jpg",
+    "summary": "Região nasal craniana conferida por IA; demais pontos ainda não revisados. Limites nasais indeterminados por artefatos/definição insuficiente."
+  }
+}

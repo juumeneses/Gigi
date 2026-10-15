@@ -1,0 +1,21 @@
+{
+  "signature": "40d540fb73f94690dabf8d9eaf332c508f6fa0235d4f1bcb06bc26d2664f7048",
+  "metadata": {
+    "id": "2021_100_VRDA",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_100_VRDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_100_VRDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 739,
+    "contraste": 66.39403294140612,
+    "nitidez_512": 503.33257272269975,
+    "sha256": "40d540fb73f94690dabf8d9eaf332c508f6fa0235d4f1bcb06bc26d2664f7048",
+    "bytes": 30029
+  }
+}

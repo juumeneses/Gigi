@@ -1,0 +1,21 @@
+{
+  "signature": "bdf7f6163aed717322b632db3a663e255446955f0df3c5732bfaa4e7a211da76",
+  "metadata": {
+    "id": "2023_57_FARR",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_57_FARR_FFN.png",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_57_FARR_FFN.png",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 301,
+    "altura": 427,
+    "contraste": 69.82598840704459,
+    "nitidez_512": 684.1046081240272,
+    "sha256": "bdf7f6163aed717322b632db3a663e255446955f0df3c5732bfaa4e7a211da76",
+    "bytes": 112676
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "8fdb58df6654c645ab2b8e208904245078a350672af14f13c5eb706b023ac955",
+  "metadata": {
+    "id": "2021_87_PMS",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_87_PMS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_87_PMS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1089,
+    "altura": 1002,
+    "contraste": 93.9773482827293,
+    "nitidez_512": 678.5878275172709,
+    "sha256": "8fdb58df6654c645ab2b8e208904245078a350672af14f13c5eb706b023ac955",
+    "bytes": 233634
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "9a824c31a52c56b433967e0799d0d304d13e285413c203f7fe7f1e2eb3fe42b0",
+  "metadata": {
+    "id": "2023_109_MRAB",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_109_MRAB_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_109_MRAB_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 663,
+    "altura": 803,
+    "contraste": 82.16831344499028,
+    "nitidez_512": 631.276951120969,
+    "sha256": "9a824c31a52c56b433967e0799d0d304d13e285413c203f7fe7f1e2eb3fe42b0",
+    "bytes": 173209
+  }
+}

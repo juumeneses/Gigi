@@ -1,0 +1,631 @@
+[
+  {
+    "seed": 42,
+    "delta_mrr": -0.024011411377282084,
+    "ci95": [
+      -0.07276848677384111,
+      0.024160296808262427
+    ],
+    "rows": [
+      {
+        "person": "2017_15_CBL",
+        "rank_a": 10,
+        "rank_b": 10,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2017_17_CG",
+        "rank_a": 17,
+        "rank_b": 13,
+        "delta_rr": 0.018099547511312222
+      },
+      {
+        "person": "2017_27_DL",
+        "rank_a": 4,
+        "rank_b": 1,
+        "delta_rr": 0.75
+      },
+      {
+        "person": "2017_37_GABDJ",
+        "rank_a": 22,
+        "rank_b": 9,
+        "delta_rr": 0.06565656565656565
+      },
+      {
+        "person": "2017_40_GL",
+        "rank_a": 39,
+        "rank_b": 22,
+        "delta_rr": 0.019813519813519816
+      },
+      {
+        "person": "2017_43_HDOY",
+        "rank_a": 67,
+        "rank_b": 95,
+        "delta_rr": -0.004399057344854674
+      },
+      {
+        "person": "2017_60_LF",
+        "rank_a": 39,
+        "rank_b": 37,
+        "delta_rr": 0.0013860013860013884
+      },
+      {
+        "person": "2017_69_MDC",
+        "rank_a": 38,
+        "rank_b": 36,
+        "delta_rr": 0.0014619883040935672
+      },
+      {
+        "person": "2017_75_MTGP",
+        "rank_a": 39,
+        "rank_b": 23,
+        "delta_rr": 0.017837235228539576
+      },
+      {
+        "person": "2017_76_MVXP",
+        "rank_a": 1,
+        "rank_b": 1,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2017_80_PLB",
+        "rank_a": 9,
+        "rank_b": 8,
+        "delta_rr": 0.013888888888888895
+      },
+      {
+        "person": "2017_87_RPDSN",
+        "rank_a": 20,
+        "rank_b": 10,
+        "delta_rr": 0.05
+      },
+      {
+        "person": "2017_9_AVD",
+        "rank_a": 2,
+        "rank_b": 1,
+        "delta_rr": 0.5
+      },
+      {
+        "person": "2019_109_JPS",
+        "rank_a": 23,
+        "rank_b": 13,
+        "delta_rr": 0.03344481605351171
+      },
+      {
+        "person": "2019_112_JS",
+        "rank_a": 27,
+        "rank_b": 26,
+        "delta_rr": 0.0014245014245014287
+      },
+      {
+        "person": "2019_113_JSC",
+        "rank_a": 1,
+        "rank_b": 2,
+        "delta_rr": -0.5
+      },
+      {
+        "person": "2019_118_KSR",
+        "rank_a": 25,
+        "rank_b": 28,
+        "delta_rr": -0.0042857142857142885
+      },
+      {
+        "person": "2019_132_LPLS",
+        "rank_a": 18,
+        "rank_b": 12,
+        "delta_rr": 0.027777777777777776
+      },
+      {
+        "person": "2019_138_LVL",
+        "rank_a": 37,
+        "rank_b": 24,
+        "delta_rr": 0.014639639639639636
+      },
+      {
+        "person": "2019_148_MCBB",
+        "rank_a": 95,
+        "rank_b": 92,
+        "delta_rr": 0.0003432494279176201
+      },
+      {
+        "person": "2019_161_MMC",
+        "rank_a": 24,
+        "rank_b": 22,
+        "delta_rr": 0.0037878787878787915
+      },
+      {
+        "person": "2019_165_MMSA",
+        "rank_a": 5,
+        "rank_b": 4,
+        "delta_rr": 0.04999999999999999
+      },
+      {
+        "person": "2019_177_NRA",
+        "rank_a": 54,
+        "rank_b": 31,
+        "delta_rr": 0.013739545997610514
+      },
+      {
+        "person": "2019_17_APASS",
+        "rank_a": 25,
+        "rank_b": 51,
+        "delta_rr": -0.0203921568627451
+      },
+      {
+        "person": "2019_185_PCM",
+        "rank_a": 41,
+        "rank_b": 79,
+        "delta_rr": -0.01173201605433776
+      },
+      {
+        "person": "2019_192_PZO",
+        "rank_a": 13,
+        "rank_b": 12,
+        "delta_rr": 0.006410256410256401
+      },
+      {
+        "person": "2019_200_RAV",
+        "rank_a": 12,
+        "rank_b": 6,
+        "delta_rr": 0.08333333333333333
+      },
+      {
+        "person": "2019_205_RCS",
+        "rank_a": 25,
+        "rank_b": 6,
+        "delta_rr": 0.12666666666666665
+      },
+      {
+        "person": "2019_236_SGC",
+        "rank_a": 40,
+        "rank_b": 62,
+        "delta_rr": -0.008870967741935486
+      },
+      {
+        "person": "2019_238_SLJMDS",
+        "rank_a": 29,
+        "rank_b": 55,
+        "delta_rr": -0.016300940438871474
+      },
+      {
+        "person": "2019_261_YGA",
+        "rank_a": 19,
+        "rank_b": 44,
+        "delta_rr": -0.02990430622009569
+      },
+      {
+        "person": "2019_269_VSA",
+        "rank_a": 15,
+        "rank_b": 4,
+        "delta_rr": 0.18333333333333335
+      },
+      {
+        "person": "2019_28_BCS",
+        "rank_a": 7,
+        "rank_b": 7,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2019_31_CABMS",
+        "rank_a": 38,
+        "rank_b": 51,
+        "delta_rr": -0.006707946336429307
+      },
+      {
+        "person": "2019_32_CAC",
+        "rank_a": 48,
+        "rank_b": 51,
+        "delta_rr": -0.0012254901960784305
+      },
+      {
+        "person": "2019_47_DMG",
+        "rank_a": 26,
+        "rank_b": 26,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2019_61_EPRA",
+        "rank_a": 48,
+        "rank_b": 28,
+        "delta_rr": 0.01488095238095238
+      },
+      {
+        "person": "2019_6_ACDS",
+        "rank_a": 7,
+        "rank_b": 1,
+        "delta_rr": 0.8571428571428572
+      },
+      {
+        "person": "2019_71_FMF",
+        "rank_a": 1,
+        "rank_b": 5,
+        "delta_rr": -0.8
+      },
+      {
+        "person": "2019_72_FMM",
+        "rank_a": 13,
+        "rank_b": 9,
+        "delta_rr": 0.03418803418803418
+      },
+      {
+        "person": "2019_74_FSST",
+        "rank_a": 14,
+        "rank_b": 14,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2019_82_GNM",
+        "rank_a": 30,
+        "rank_b": 26,
+        "delta_rr": 0.005128205128205131
+      },
+      {
+        "person": "2019_96_JARG",
+        "rank_a": 21,
+        "rank_b": 26,
+        "delta_rr": -0.009157509157509153
+      },
+      {
+        "person": "2021_10_ALMPLM",
+        "rank_a": 1,
+        "rank_b": 1,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2021_17_ASR",
+        "rank_a": 16,
+        "rank_b": 18,
+        "delta_rr": -0.0069444444444444475
+      },
+      {
+        "person": "2021_28_DJTT",
+        "rank_a": 7,
+        "rank_b": 6,
+        "delta_rr": 0.023809523809523808
+      },
+      {
+        "person": "2021_30_EAOM",
+        "rank_a": 6,
+        "rank_b": 8,
+        "delta_rr": -0.04166666666666666
+      },
+      {
+        "person": "2021_42_GBT",
+        "rank_a": 32,
+        "rank_b": 31,
+        "delta_rr": 0.0010080645161290314
+      },
+      {
+        "person": "2021_43_GCA",
+        "rank_a": 2,
+        "rank_b": 1,
+        "delta_rr": 0.5
+      },
+      {
+        "person": "2021_65_LMDOS",
+        "rank_a": 65,
+        "rank_b": 34,
+        "delta_rr": 0.014027149321266967
+      },
+      {
+        "person": "2021_66_LSLB",
+        "rank_a": 20,
+        "rank_b": 31,
+        "delta_rr": -0.01774193548387097
+      },
+      {
+        "person": "2021_73_MGDS",
+        "rank_a": 4,
+        "rank_b": 6,
+        "delta_rr": -0.08333333333333334
+      },
+      {
+        "person": "2021_75_MNDB",
+        "rank_a": 41,
+        "rank_b": 52,
+        "delta_rr": -0.005159474671669793
+      },
+      {
+        "person": "2021_77_MPSF",
+        "rank_a": 2,
+        "rank_b": 3,
+        "delta_rr": -0.16666666666666669
+      },
+      {
+        "person": "2021_84_PAP",
+        "rank_a": 13,
+        "rank_b": 6,
+        "delta_rr": 0.08974358974358973
+      },
+      {
+        "person": "2021_90_RCMS",
+        "rank_a": 3,
+        "rank_b": 4,
+        "delta_rr": -0.08333333333333331
+      },
+      {
+        "person": "2021_99_TSDS",
+        "rank_a": 8,
+        "rank_b": 8,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2022_109_MDD",
+        "rank_a": 20,
+        "rank_b": 9,
+        "delta_rr": 0.0611111111111111
+      },
+      {
+        "person": "2022_117_MMRDS",
+        "rank_a": 3,
+        "rank_b": 2,
+        "delta_rr": 0.16666666666666669
+      },
+      {
+        "person": "2022_122_MSR",
+        "rank_a": 27,
+        "rank_b": 21,
+        "delta_rr": 0.010582010582010581
+      },
+      {
+        "person": "2022_124_NLG",
+        "rank_a": 23,
+        "rank_b": 16,
+        "delta_rr": 0.019021739130434784
+      },
+      {
+        "person": "2022_131_PMCDM",
+        "rank_a": 6,
+        "rank_b": 4,
+        "delta_rr": 0.08333333333333334
+      },
+      {
+        "person": "2022_141_RGP",
+        "rank_a": 1,
+        "rank_b": 5,
+        "delta_rr": -0.8
+      },
+      {
+        "person": "2022_142_RLM",
+        "rank_a": 8,
+        "rank_b": 5,
+        "delta_rr": 0.07500000000000001
+      },
+      {
+        "person": "2022_147_RV",
+        "rank_a": 10,
+        "rank_b": 14,
+        "delta_rr": -0.02857142857142858
+      },
+      {
+        "person": "2022_159_VDC",
+        "rank_a": 16,
+        "rank_b": 9,
+        "delta_rr": 0.048611111111111105
+      },
+      {
+        "person": "2022_165_YTG",
+        "rank_a": 20,
+        "rank_b": 11,
+        "delta_rr": 0.04090909090909091
+      },
+      {
+        "person": "2022_25_CJR",
+        "rank_a": 43,
+        "rank_b": 39,
+        "delta_rr": 0.0023852116875372684
+      },
+      {
+        "person": "2022_28_CMVDC",
+        "rank_a": 1,
+        "rank_b": 8,
+        "delta_rr": -0.875
+      },
+      {
+        "person": "2022_30_DABFA",
+        "rank_a": 31,
+        "rank_b": 21,
+        "delta_rr": 0.015360983102918585
+      },
+      {
+        "person": "2022_34_DDAP",
+        "rank_a": 2,
+        "rank_b": 3,
+        "delta_rr": -0.16666666666666669
+      },
+      {
+        "person": "2022_45_EBF",
+        "rank_a": 5,
+        "rank_b": 3,
+        "delta_rr": 0.1333333333333333
+      },
+      {
+        "person": "2022_52_EMT",
+        "rank_a": 1,
+        "rank_b": 1,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2022_53_FAR",
+        "rank_a": 11,
+        "rank_b": 15,
+        "delta_rr": -0.024242424242424246
+      },
+      {
+        "person": "2022_5_ACMB",
+        "rank_a": 6,
+        "rank_b": 7,
+        "delta_rr": -0.023809523809523808
+      },
+      {
+        "person": "2022_71_IDCZ",
+        "rank_a": 25,
+        "rank_b": 22,
+        "delta_rr": 0.005454545454545455
+      },
+      {
+        "person": "2022_77_JBDA",
+        "rank_a": 15,
+        "rank_b": 4,
+        "delta_rr": 0.18333333333333335
+      },
+      {
+        "person": "2022_7_AMAT",
+        "rank_a": 1,
+        "rank_b": 4,
+        "delta_rr": -0.75
+      },
+      {
+        "person": "2022_83_JPDC",
+        "rank_a": 1,
+        "rank_b": 17,
+        "delta_rr": -0.9411764705882353
+      },
+      {
+        "person": "2022_84_JR",
+        "rank_a": 21,
+        "rank_b": 17,
+        "delta_rr": 0.011204481792717089
+      },
+      {
+        "person": "2022_87_KCSR",
+        "rank_a": 20,
+        "rank_b": 10,
+        "delta_rr": 0.05
+      },
+      {
+        "person": "2022_9_AMF",
+        "rank_a": 7,
+        "rank_b": 6,
+        "delta_rr": 0.023809523809523808
+      },
+      {
+        "person": "2023_110_MSDA",
+        "rank_a": 2,
+        "rank_b": 15,
+        "delta_rr": -0.43333333333333335
+      },
+      {
+        "person": "2023_124_RBKC",
+        "rank_a": 4,
+        "rank_b": 5,
+        "delta_rr": -0.04999999999999999
+      },
+      {
+        "person": "2023_125_RCDS",
+        "rank_a": 44,
+        "rank_b": 36,
+        "delta_rr": 0.005050505050505048
+      },
+      {
+        "person": "2023_137_SLDSV",
+        "rank_a": 23,
+        "rank_b": 28,
+        "delta_rr": -0.007763975155279504
+      },
+      {
+        "person": "2023_139_TDDS",
+        "rank_a": 23,
+        "rank_b": 25,
+        "delta_rr": -0.0034782608695652154
+      },
+      {
+        "person": "2023_14_AGP",
+        "rank_a": 13,
+        "rank_b": 4,
+        "delta_rr": 0.17307692307692307
+      },
+      {
+        "person": "2023_150_VMGS",
+        "rank_a": 1,
+        "rank_b": 1,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2023_26_BECS",
+        "rank_a": 22,
+        "rank_b": 35,
+        "delta_rr": -0.016883116883116885
+      },
+      {
+        "person": "2023_29_CC",
+        "rank_a": 1,
+        "rank_b": 1,
+        "delta_rr": 0.0
+      },
+      {
+        "person": "2023_3_ABLDO",
+        "rank_a": 41,
+        "rank_b": 19,
+        "delta_rr": 0.028241335044929393
+      },
+      {
+        "person": "2023_49_ECBL",
+        "rank_a": 1,
+        "rank_b": 2,
+        "delta_rr": -0.5
+      },
+      {
+        "person": "2023_50_ECS",
+        "rank_a": 15,
+        "rank_b": 10,
+        "delta_rr": 0.03333333333333334
+      },
+      {
+        "person": "2023_52_EDOR",
+        "rank_a": 13,
+        "rank_b": 22,
+        "delta_rr": -0.03146853146853147
+      },
+      {
+        "person": "2023_59_FDMG",
+        "rank_a": 10,
+        "rank_b": 25,
+        "delta_rr": -0.060000000000000005
+      },
+      {
+        "person": "2023_66_GGDA",
+        "rank_a": 58,
+        "rank_b": 53,
+        "delta_rr": 0.0016265452179570587
+      },
+      {
+        "person": "2023_67_GLWDS",
+        "rank_a": 40,
+        "rank_b": 27,
+        "delta_rr": 0.012037037037037034
+      },
+      {
+        "person": "2023_88_LDOS",
+        "rank_a": 24,
+        "rank_b": 23,
+        "delta_rr": 0.0018115942028985518
+      },
+      {
+        "person": "2023_8_ADAN",
+        "rank_a": 12,
+        "rank_b": 15,
+        "delta_rr": -0.016666666666666663
+      },
+      {
+        "person": "2023_95_MDG",
+        "rank_a": 1,
+        "rank_b": 4,
+        "delta_rr": -0.75
+      },
+      {
+        "person": "2023_96_MDSPS",
+        "rank_a": 21,
+        "rank_b": 9,
+        "delta_rr": 0.06349206349206349
+      },
+      {
+        "person": "2023_99_MGDSN",
+        "rank_a": 11,
+        "rank_b": 7,
+        "delta_rr": 0.05194805194805194
+      }
+    ],
+    "conclusion": "ganho inconclusivo"
+  }
+]

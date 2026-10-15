@@ -1,0 +1,2331 @@
+[
+  {
+    "person": "2021_44_GCC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 212.00185373425484,
+      "y": 420.62624114751816,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 219.07176356613635,
+      "y": 420.1938828349114,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_44_GCC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 296.16744697093964,
+      "y": 418.9109382033348,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 289.7708618849516,
+      "y": 418.17390859723093,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_135_SDSB",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 64.20316869020462,
+      "y": 131.59295845031738,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_135_SDSB",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 90.36303734779358,
+      "y": 131.27154922485352,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2022_5_ACMB",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 196.52929544448853,
+      "y": 406.7390066385269,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 205.6827287006378,
+      "y": 405.58587427020075,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_5_ACMB",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 296.0231351852417,
+      "y": 408.10611921548843,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 287.6656526470184,
+      "y": 404.78992355227473,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_48_EA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 110.3221036195755,
+      "y": 243.3606520295143,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 115.25154462218285,
+      "y": 242.20550490021708,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2023_48_EA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 163.90298408269882,
+      "y": 242.01772809028625,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 159.40219012379646,
+      "y": 241.3482108128071,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_16_ARRDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 213.17861199378967,
+      "y": 390.331487596035,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 220.67255150318147,
+      "y": 383.44259002089507,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_16_ARRDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 302.3921775817871,
+      "y": 386.85068303346634,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 295.6119465970993,
+      "y": 380.5877559220791,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_63_LGLA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 198.85377073287964,
+      "y": 462.0323515534401,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 205.63865798521041,
+      "y": 460.34460571718216,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_63_LGLA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 298.6315244436264,
+      "y": 456.6160588860512,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 293.44308125066755,
+      "y": 456.3534955687523,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_27_DL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 206.9371479153633,
+      "y": 421.4435656070709,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 219.2054086544514,
+      "y": 414.0026687893868,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_27_DL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 305.87473452091217,
+      "y": 416.75316256284714,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 295.98097586035726,
+      "y": 410.0451653251648,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 247.6013970375061,
+      "y": 459.90209490060806,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 196.12788677215576,
+      "y": 441.9548969268799,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 201.56753881454466,
+      "y": 437.28572036027913,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 300.73657989501953,
+      "y": 439.7754321694374,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 296.13379739761353,
+      "y": 435.61198127031327,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_99_MGDSN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 94.6403905749321,
+      "y": 186.06382656097412,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_99_MGDSN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 132.14062303304672,
+      "y": 186.17563784122467,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2019_185_PCM",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 227.97673106193542,
+      "y": 395.0549077987671,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 235.50747952461242,
+      "y": 396.31998354411127,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_185_PCM",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 303.28421568870544,
+      "y": 391.84895545244217,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 297.56084685707094,
+      "y": 393.91014403605465,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_73_MGDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 225.71388810873032,
+      "y": 433.3869928121567,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 232.84507904696466,
+      "y": 431.2048499908447,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_73_MGDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 310.60901832580566,
+      "y": 431.1369413137436,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 303.4778273875713,
+      "y": 433.2423331160545,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_113_NLDOS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 70.502107411623,
+      "y": 124.76146072149277,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_113_NLDOS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 97.33213800191879,
+      "y": 123.57910591363907,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2019_23_ASS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 209.9832673072815,
+      "y": 397.19005316495895,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 218.51948391795156,
+      "y": 396.85291517162324,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_23_ASS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 295.3454334139824,
+      "y": 395.3167045712471,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 288.85790878987314,
+      "y": 396.1700178427696,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_64_GOC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 220.77549585700035,
+      "y": 433.36370372772217,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 229.39277987778183,
+      "y": 431.3472778918743,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_64_GOC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 306.9483360648155,
+      "y": 428.7653474807739,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 300.3992002090215,
+      "y": 427.21098156189913,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_4_ABL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 199.61699867248535,
+      "y": 401.6003950238228,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 209.81156710624697,
+      "y": 401.82321758508687,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_4_ABL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 294.0111508369446,
+      "y": 400.0741944909096,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 284.57173562049866,
+      "y": 400.31291115045553,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_77_JBDA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 211.5306729376316,
+      "y": 413.10640144348145,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 218.50849878108505,
+      "y": 410.6677193670273,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_77_JBDA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 294.60002821683884,
+      "y": 412.69166070222855,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 288.95131205785276,
+      "y": 410.00316452479365,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_27_BACS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 238.67703592777252,
+      "y": 419.11807733774185,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 247.00372729897498,
+      "y": 419.21940974259377,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_27_BACS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 321.9439496397972,
+      "y": 416.7452206015587,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 316.28179950737956,
+      "y": 415.2225978844166,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_122_RAGDA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 67.50451564788818,
+      "y": 131.0987189412117,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_122_RAGDA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 93.63081932067871,
+      "y": 130.9164896607399,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2019_258_VPDCA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 222.49639999866486,
+      "y": 411.94573414325714,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 228.54742724275587,
+      "y": 411.26294681835174,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_258_VPDCA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 311.4820947647095,
+      "y": 409.3078202009201,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 307.56672419500353,
+      "y": 409.839175702095,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_40_GL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 211.97462213039398,
+      "y": 467.1250510811806,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 220.35285393190387,
+      "y": 464.87005081415174,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_40_GL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 322.2145142555237,
+      "y": 461.66111040115356,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 315.60012072801595,
+      "y": 463.10621254014967,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_161_MMC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 247.61604425311089,
+      "y": 437.8053329586983,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 259.12162130343916,
+      "y": 434.60946537351606,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_161_MMC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 340.4029559493065,
+      "y": 433.1608756184578,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 331.12426477968694,
+      "y": 430.8979889056683,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_84_RC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 215.32518416643143,
+      "y": 419.85038608312607,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 223.26372031354907,
+      "y": 413.0318093268871,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_84_RC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 309.83156687021255,
+      "y": 414.8198691010475,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 303.40513284635546,
+      "y": 410.7636561419964,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_13_ARDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 220.8336445093155,
+      "y": 412.66561818122864,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 229.32668158268933,
+      "y": 409.83040965271,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_13_ARDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 313.1492648720741,
+      "y": 410.60186648368835,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 306.1332777245045,
+      "y": 408.35335972690586,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_53_JDLN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 248.2013652920723,
+      "y": 415.8074876666069,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 257.82398007678984,
+      "y": 416.0548590230942,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_53_JDLN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 331.1549410223961,
+      "y": 411.52194917201996,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 323.5232120552063,
+      "y": 413.40034459972384,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_196_RAL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 210.5086966753006,
+      "y": 400.211036503315,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 216.16854073476787,
+      "y": 396.16244608211514,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_196_RAL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 293.74169754981995,
+      "y": 397.0030075907707,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 288.74771749734873,
+      "y": 392.8331260471344,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_98_UDSLB",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 198.59132730960846,
+      "y": 458.51720720529556,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 209.74444473981856,
+      "y": 451.9958166415692,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_98_UDSLB",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 310.1225016117096,
+      "y": 453.8076415657997,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 300.7538829703331,
+      "y": 450.2113178527356,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_44_HMDMS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 244.03337907791138,
+      "y": 438.96968364715576,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 254.02040262413024,
+      "y": 436.8469486942292,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_44_HMDMS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 336.5058193206787,
+      "y": 439.50194120407104,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 327.99835481834407,
+      "y": 436.10716917228706,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_72_INR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 224.02015417814255,
+      "y": 391.2908128499985,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 232.67314660549164,
+      "y": 390.8359933972358,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_72_INR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 310.55007845163345,
+      "y": 388.4545564651489,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 303.28156481266024,
+      "y": 385.9903176379204,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_33_ELSO",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 210.40366649627686,
+      "y": 419.6884871125221,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 221.00843977928162,
+      "y": 415.31194049954416,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_33_ELSO",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 316.45139932632446,
+      "y": 415.55717581510544,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 306.6950079059601,
+      "y": 411.91841304898264,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_2_ABR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 227.9189608991146,
+      "y": 444.5479229092598,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 235.70226097404958,
+      "y": 438.2485620260239,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_2_ABR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 320.5772951245308,
+      "y": 437.8555530309677,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 313.5352617233991,
+      "y": 434.54222865700723,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 154.20754539966583,
+      "y": 256.9832729101181,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 126.81394916772842,
+      "y": 248.12176769971848,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 132.1650306403637,
+      "y": 246.25306017923356,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 180.32476389408112,
+      "y": 245.79692387580872,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 175.82985545706748,
+      "y": 244.9688006258011,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_106_MCPDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 227.24288088083267,
+      "y": 446.96003890037537,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 234.65683391332624,
+      "y": 444.20157168149944,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_106_MCPDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 315.5042265057564,
+      "y": 445.37073957920074,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 308.7963642382622,
+      "y": 442.08329938650127,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 257.2654618024826,
+      "y": 449.21037101745605,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 206.38742941617966,
+      "y": 432.02613067626953,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 213.31294405817985,
+      "y": 428.65124767780304,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 308.2332329750061,
+      "y": 430.90558433532715,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 302.9372511899471,
+      "y": 427.83648124933245,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_62_LCMR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 202.58039197325706,
+      "y": 414.85703694820404,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 210.6561189647913,
+      "y": 412.36478393363956,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_62_LCMR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 298.71999901533127,
+      "y": 411.77816820144653,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 291.41338888013365,
+      "y": 410.0574333646298,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_87_RPDSN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 213.14103585481644,
+      "y": 443.90846955776215,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 222.5451298024654,
+      "y": 442.5373122124672,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_87_RPDSN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 325.09453523159027,
+      "y": 441.65955996513367,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 318.3773252689838,
+      "y": 439.85042822742463,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_111_MVDM",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 83.72785672545433,
+      "y": 177.69366085529327,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_111_MVDM",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 122.09471762180328,
+      "y": 177.03686434030533,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 263.74517917633057,
+      "y": 421.2385085821152,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 217.80511736869812,
+      "y": 406.3996832370758,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 226.8299921751022,
+      "y": 406.70418657183643,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 308.05386543273926,
+      "y": 405.1656842827797,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 301.19496057987214,
+      "y": 405.26020660281176,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_57_JHGL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 223.44696071743965,
+      "y": 406.9078763127327,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 231.04207563388348,
+      "y": 404.23645405673983,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_57_JHGL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 306.0025576353073,
+      "y": 403.9243115782738,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 300.3887770448923,
+      "y": 403.57600928139686,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_145_MARP",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 224.60261225700378,
+      "y": 431.200257897377,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 231.55793104410174,
+      "y": 424.6876946127415,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_145_MARP",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 316.11996471881866,
+      "y": 426.54431146383286,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 310.6289235711098,
+      "y": 421.02700051426893,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_52_EDOR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 120.01229682564735,
+      "y": 257.06778633594513,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_52_EDOR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 170.7690578699112,
+      "y": 256.1899662017822,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2019_174_NBDR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 237.1056979894638,
+      "y": 422.83182549476624,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 245.2802941441536,
+      "y": 420.1955191600323,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_174_NBDR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 318.8516595363617,
+      "y": 418.43575924634933,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 313.29293415117263,
+      "y": 416.2717130057812,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 257.93660831451416,
+      "y": 416.11439794301987,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 216.06332576274872,
+      "y": 404.0394136309624,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 224.6250122904778,
+      "y": 402.48491919875147,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 301.68019104003906,
+      "y": 402.5541388988495,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 294.4883743567467,
+      "y": 401.7999842765331,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_23_CASJ",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 215.46855306625366,
+      "y": 440.8758470416069,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 222.73404022073743,
+      "y": 438.6227747030258,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_23_CASJ",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 301.9624477624893,
+      "y": 436.2236362695694,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 294.00500945043564,
+      "y": 437.23887238788603,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_22_CAJN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 199.66403317451477,
+      "y": 417.79540902376175,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 208.28946441793443,
+      "y": 413.84189360547066,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_22_CAJN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 293.4187206029892,
+      "y": 414.25422757864,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 287.0434018578529,
+      "y": 411.5917811071873,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_143_RMOR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 231.7334502339363,
+      "y": 401.39868092536926,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 239.9038623740673,
+      "y": 400.0162021603584,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_143_RMOR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 329.000261425972,
+      "y": 398.6058746576309,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 322.38611826491353,
+      "y": 396.90366420221324,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_37_GABDJ",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 213.6889018714428,
+      "y": 407.17632323503494,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 222.84791819751263,
+      "y": 405.74085060834886,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_37_GABDJ",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 305.2790651321411,
+      "y": 406.3591416478157,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 297.58549141824244,
+      "y": 404.2754079961777,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_3_ABLDO",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 212.73590862751007,
+      "y": 407.0691451430321,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 218.41625086641312,
+      "y": 411.38233092427254,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2023_3_ABLDO",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 296.27035331726074,
+      "y": 405.1377798318863,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 291.2582866358757,
+      "y": 409.3775042517185,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_143_TMMP",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 61.96342468261719,
+      "y": 114.52596300840378,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_143_TMMP",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 88.50092887878418,
+      "y": 113.63169974088669,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2019_273_TSN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 205.73066747188568,
+      "y": 421.2018921971321,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 213.7055757164955,
+      "y": 416.6693537199497,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_273_TSN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 285.479749917984,
+      "y": 417.648157119751,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 278.7808269925117,
+      "y": 414.75537574124337,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_50_DSE",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 236.18569481372833,
+      "y": 433.21389055252075,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 243.5740517144203,
+      "y": 430.2580877764224,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_50_DSE",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 316.49392199516296,
+      "y": 429.8474205136299,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 310.3904967293739,
+      "y": 427.04575868916504,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  }
+]

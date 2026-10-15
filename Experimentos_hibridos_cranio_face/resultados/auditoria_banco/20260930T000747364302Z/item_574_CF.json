@@ -1,0 +1,21 @@
+{
+  "signature": "b7d90ed5b1d5618a4b15ca10d632fc7bb0c231fc70f37c32ce0f3de7ddde3a3d",
+  "metadata": {
+    "id": "2022_39_DMR",
+    "ano": "2022",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CF/2022_39_DMR_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CF/2022_39_DMR_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 906,
+    "altura": 929,
+    "contraste": 88.85819628655372,
+    "nitidez_512": 775.817397694662,
+    "sha256": "b7d90ed5b1d5618a4b15ca10d632fc7bb0c231fc70f37c32ce0f3de7ddde3a3d",
+    "bytes": 218875
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "c4bebbc2b2172d0e2b69213c4c575f922ca0f3d4389c6f533ba9a8d8838bf9f1",
+  "metadata": {
+    "id": "2019_31_CABMS",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_31_CABMS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_31_CABMS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1555,
+    "altura": 1015,
+    "contraste": 99.95793912051901,
+    "nitidez_512": 1032.3500888847304,
+    "sha256": "c4bebbc2b2172d0e2b69213c4c575f922ca0f3d4389c6f533ba9a8d8838bf9f1",
+    "bytes": 237687
+  }
+}

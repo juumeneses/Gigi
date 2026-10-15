@@ -1,0 +1,21 @@
+{
+  "signature": "5edfe83b5543aac7477e81d24d67f791c3f91b478fcf134f189a1d9bf17905e6",
+  "metadata": {
+    "id": "2022_78_JESA",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_78_JESA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_78_JESA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 733,
+    "contraste": 75.55445713117376,
+    "nitidez_512": 871.2200457763113,
+    "sha256": "5edfe83b5543aac7477e81d24d67f791c3f91b478fcf134f189a1d9bf17905e6",
+    "bytes": 44792
+  }
+}

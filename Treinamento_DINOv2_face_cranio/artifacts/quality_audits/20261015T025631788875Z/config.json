@@ -1,0 +1,14 @@
+{
+  "run": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+  "cohort_hash": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+  "code_hash": "4172623bf3ebb14ff45a55d50a3b14ea1afffd921cf9f5a41670a8deda941b27",
+  "threshold_policy": "training_lower_quartile_by_view",
+  "thresholds": {
+    "CD": 594.7009544193193,
+    "CF": 479.61132493161546,
+    "FFN": 890.661145497631,
+    "FFS": 948.3914299184586,
+    "FL": 605.9224847247317
+  },
+  "warning": "Proxies influenciadas pelo conteudo e fundo; nao descartam imagens. Teste final nao examinado."
+}

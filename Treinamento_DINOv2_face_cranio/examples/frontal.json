@@ -1,0 +1,14 @@
+{
+  "manifest": "SUBSTITUIR_PELO_CAMINHO_DO_MANIFESTO/manifest.json",
+  "experiment": "E1",
+  "mode": "matched",
+  "seeds": [42],
+  "epochs": 100,
+  "batch": 32,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "patience": 15,
+  "loss": "infonce",
+  "size": 224,
+  "device": "auto"
+}

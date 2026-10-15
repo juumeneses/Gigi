@@ -24,6 +24,27 @@ python run_pipeline.py --stage relatorios
 O split por identidade e criado uma vez e preservado, inclusive com `--force`.
 As imagens em `dataset/` sao links relativos para o acervo original.
 
+## Execucao auditavel dos cranios
+
+Etapas isoladas nao executam as outras etapas. Execute `dataset` primeiro
+se os manifestos ou splits ainda nao existirem. A etapa `cranios` salva
+checkpoints individuais em `resultados/cranios/runs/<run_id>/`.
+Reexecutar sem `--force` retoma a mesma run quando entradas, configuracao,
+split e codigo sao iguais; saidas ausentes ou corrompidas sao recalculadas.
+`--resume` explicita esse comportamento padrao. `--force` cria outra run.
+Falhas de imagem e ponteiros LFS permanecem nas metricas e denominadores.
+
+```bash
+python run_pipeline.py --stage cranios --resume
+streamlit run revisao_cranios.py
+```
+
+A tela de revisao inicial usa somente treino/validacao e vincula julgamentos
+as coordenadas, hash da imagem e run. O detector ainda e V3: esta entrega
+nao certifica os pontos nem libera o hibrido. A evolucao regional do detector,
+a integracao desta revisao ao app principal e a validacao anatomica continuam
+pendentes. Os resultados legados permanecem disponiveis.
+
 ## Resultados
 
 Abra `resultados/relatorios_html/index.html` no navegador. CSVs auditaveis ficam

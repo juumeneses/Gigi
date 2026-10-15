@@ -1,0 +1,21 @@
+{
+  "signature": "a70fe3b63587e94d0a340212bb0730911874e5f8922e551e6e6bdb6c15a56def",
+  "metadata": {
+    "id": "2021_47_GHDJ",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_47_GHDJ_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_47_GHDJ_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 528,
+    "altura": 763,
+    "contraste": 90.65144087344844,
+    "nitidez_512": 519.3985295214895,
+    "sha256": "a70fe3b63587e94d0a340212bb0730911874e5f8922e551e6e6bdb6c15a56def",
+    "bytes": 40586
+  }
+}

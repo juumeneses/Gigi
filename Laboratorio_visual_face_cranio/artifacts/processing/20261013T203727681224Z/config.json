@@ -1,0 +1,35 @@
+{
+  "version": "landmarks_lab_v1",
+  "action": "regions",
+  "size": 256,
+  "training_run": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/training/20261013T203514131613Z",
+  "checkpoint_hash": null,
+  "reference": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/references/20261013T203431678431Z/references.json",
+  "reference_hash": "00af44d4fffc4e2a27a6869dc6f149611224a4b768d26bbf506f208d5f905a17",
+  "keys": [
+    "86806d78477ad5182d82",
+    "20eee9149e5736ad8a6c",
+    "241fb0e738d4c521e335",
+    "4eeb6a2261e12f903d4b",
+    "d3ea3b0bb3b4ec9c0cf8",
+    "0c1b6b7bee61ad0ec160",
+    "2849daa68fd2ea3cbfc9",
+    "bd9eb08d998024382078",
+    "69736de40b70324a5a74",
+    "93b09365c4d6ea5102df",
+    "1d0be5da836e0c460a1d"
+  ],
+  "paths": [
+    "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_30_EC/2017_30_EC_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_41_GP/2017_41_GP_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_73_MMPCC/2017_73_MMPCC_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_76_MVXP/2017_76_MVXP_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_92_SRAK/2017_92_SRAK_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_99_VDSR/2017_99_VDSR_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_115_KCCSF/2019_115_KCCSF_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_156_MFR/2019_156_MFR_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_233_SFG/2019_233_SFG_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_234_SFLL/2019_234_SFLL_FFN.jpg",
+    "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_260_WRV/2019_260_WRV_FFN.jpg"
+  ]
+}

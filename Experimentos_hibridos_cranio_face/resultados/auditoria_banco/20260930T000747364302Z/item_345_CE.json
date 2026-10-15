@@ -1,0 +1,21 @@
+{
+  "signature": "5368c51f136adcd2846ce3f5f55ec58c1bee7aa7ebcb25110b7450b37eb9d96d",
+  "metadata": {
+    "id": "2019_74_FSST",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_74_FSST_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_74_FSST_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1786,
+    "altura": 1166,
+    "contraste": 101.7111171729442,
+    "nitidez_512": 1191.2876356661677,
+    "sha256": "5368c51f136adcd2846ce3f5f55ec58c1bee7aa7ebcb25110b7450b37eb9d96d",
+    "bytes": 237967
+  }
+}

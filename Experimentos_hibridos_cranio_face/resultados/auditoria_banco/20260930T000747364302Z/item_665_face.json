@@ -1,0 +1,21 @@
+{
+  "signature": "e76e855d028cad2d721207b6523949690a698e0ffd5ad11ded2701ff1dbe7663",
+  "metadata": {
+    "id": "2023_120_PVPDA",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_120_PVPDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_120_PVPDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 158,
+    "altura": 225,
+    "contraste": 79.30785756888118,
+    "nitidez_512": 926.9478128307231,
+    "sha256": "e76e855d028cad2d721207b6523949690a698e0ffd5ad11ded2701ff1dbe7663",
+    "bytes": 6170
+  }
+}

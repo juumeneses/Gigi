@@ -1,0 +1,38 @@
+[
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T174132549658Z/frontal",
+    "person": "2017_76_MVXP",
+    "correct": true,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T174203255594Z"
+  },
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T174132549658Z/frontal",
+    "person": "2017_15_CBL",
+    "correct": false,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T174205055525Z"
+  },
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T174132549658Z/lateral",
+    "person": "2017_43_HDOY",
+    "correct": true,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T174206684386Z"
+  },
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T174132549658Z/lateral",
+    "person": "2017_15_CBL",
+    "correct": false,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T174208870501Z"
+  },
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T174132549658Z/sorriso",
+    "person": "2017_76_MVXP",
+    "correct": true,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T174211097602Z"
+  },
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T174132549658Z/sorriso",
+    "person": "2017_15_CBL",
+    "correct": false,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T174212745339Z"
+  }
+]

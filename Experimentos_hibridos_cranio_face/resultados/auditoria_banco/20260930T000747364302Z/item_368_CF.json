@@ -1,0 +1,21 @@
+{
+  "signature": "3e1a44fe6d0b8a4cf6fa1d3a5d77e31e8b681c20ba4e4fb73917b0c575765b7c",
+  "metadata": {
+    "id": "2019_95_JAMA",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_95_JAMA_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_95_JAMA_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1622,
+    "altura": 1058,
+    "contraste": 101.74372987376064,
+    "nitidez_512": 873.5410390157185,
+    "sha256": "3e1a44fe6d0b8a4cf6fa1d3a5d77e31e8b681c20ba4e4fb73917b0c575765b7c",
+    "bytes": 191749
+  }
+}

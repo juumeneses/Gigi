@@ -1,0 +1,21 @@
+{
+  "signature": "2fbfee06690e492cb119934c8cb43c44e5b7e083aeef024802c753fa05bb3ff7",
+  "metadata": {
+    "id": "2023_145_TPBA",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_145_TPBA_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_145_TPBA_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 912,
+    "altura": 997,
+    "contraste": 92.1117429453218,
+    "nitidez_512": 798.8785521812022,
+    "sha256": "2fbfee06690e492cb119934c8cb43c44e5b7e083aeef024802c753fa05bb3ff7",
+    "bytes": 224060
+  }
+}

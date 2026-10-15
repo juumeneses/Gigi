@@ -1,0 +1,21 @@
+{
+  "signature": "a2d7d2e02ae7fba316acbd50a4e0fec8977599b714e67332a3142cb4a5d78208",
+  "metadata": {
+    "id": "2017_98_UDSLB",
+    "ano": "2017",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CE/2017_98_UDSLB_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CE/2017_98_UDSLB_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2174,
+    "altura": 1419,
+    "contraste": 92.36288833593598,
+    "nitidez_512": 1055.8179886754433,
+    "sha256": "a2d7d2e02ae7fba316acbd50a4e0fec8977599b714e67332a3142cb4a5d78208",
+    "bytes": 172524
+  }
+}

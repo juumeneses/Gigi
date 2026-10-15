@@ -1,0 +1,40 @@
+{
+  "item": {
+    "key": "0c1b6b7bee61ad0ec160",
+    "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_99_VDSR/2017_99_VDSR_FFN.jpg",
+    "filename": "2017_99_VDSR_FFN.jpg",
+    "person": "2017_99_VDSR",
+    "year": "2017",
+    "view": "FFN",
+    "modality": "face"
+  },
+  "fingerprint": "562d86053031e291478fe478055f6c533b78b4f28cda8d5e48a5eae646326102",
+  "action": "normalize",
+  "points": [],
+  "regions": {},
+  "contours": [],
+  "assets": {
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203726962662Z/0c1b6b7bee61ad0ec160/normalizada.png": "c3820859eea5f6268a37224dea436f596776c9b9eb4f000619712728f133b33a",
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203726962662Z/0c1b6b7bee61ad0ec160/preview.png": "716234ddf855e9948f79f760960f8fd07db5aadafeeb9169aacb36707892b1eb"
+  },
+  "status": "OK_TECNICO",
+  "reason": "",
+  "image": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203726962662Z/0c1b6b7bee61ad0ec160/normalizada.png",
+  "transform": [
+    [
+      0.3550624133148405,
+      0.0,
+      34.97364771151179
+    ],
+    [
+      0.0,
+      0.3550624133148405,
+      0.0
+    ]
+  ],
+  "original_size": [
+    524,
+    721
+  ],
+  "preview": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203726962662Z/0c1b6b7bee61ad0ec160/preview.png"
+}

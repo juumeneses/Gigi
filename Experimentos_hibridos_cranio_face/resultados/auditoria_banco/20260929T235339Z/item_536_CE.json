@@ -1,0 +1,21 @@
+{
+  "signature": "f2e7ea86badafc6032f24e1e7be98c577347ccd9289909a58c836b016d01ab71",
+  "metadata": {
+    "id": "2022_155_TCMP",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_155_TCMP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_155_TCMP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1180,
+    "altura": 1067,
+    "contraste": 95.97563362369266,
+    "nitidez_512": 864.2105781829895,
+    "sha256": "f2e7ea86badafc6032f24e1e7be98c577347ccd9289909a58c836b016d01ab71",
+    "bytes": 256608
+  }
+}

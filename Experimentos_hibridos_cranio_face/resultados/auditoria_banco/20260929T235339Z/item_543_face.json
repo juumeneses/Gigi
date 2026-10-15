@@ -1,0 +1,21 @@
+{
+  "signature": "144f5a91ecb6d6b279ff7ac42d0b45e68ac3e0143672ab6e888cc4d064667418",
+  "metadata": {
+    "id": "2022_161_VHDOG",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_161_VHDOG_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_161_VHDOG_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 742,
+    "contraste": 77.30983138809827,
+    "nitidez_512": 766.9895018767136,
+    "sha256": "144f5a91ecb6d6b279ff7ac42d0b45e68ac3e0143672ab6e888cc4d064667418",
+    "bytes": 47203
+  }
+}

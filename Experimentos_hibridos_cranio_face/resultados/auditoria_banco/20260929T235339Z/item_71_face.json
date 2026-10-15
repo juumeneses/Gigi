@@ -1,0 +1,21 @@
+{
+  "signature": "60c073f1f67d4173ebd0bfcd01d1e02094f8324ce8f4d3daea790211153f44a3",
+  "metadata": {
+    "id": "2017_76_MVXP",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_76_MVXP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_76_MVXP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 729,
+    "contraste": 58.94937716930494,
+    "nitidez_512": 578.1708475522303,
+    "sha256": "60c073f1f67d4173ebd0bfcd01d1e02094f8324ce8f4d3daea790211153f44a3",
+    "bytes": 41747
+  }
+}

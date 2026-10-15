@@ -1,0 +1,21 @@
+{
+  "signature": "0b25cd1f73559a0ea637881762cba8e513a60baf490f98f3b000e67d41107c44",
+  "metadata": {
+    "id": "2021_96_TAMMA",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_96_TAMMA_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_96_TAMMA_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 957,
+    "altura": 977,
+    "contraste": 90.9323588350427,
+    "nitidez_512": 674.908696097027,
+    "sha256": "0b25cd1f73559a0ea637881762cba8e513a60baf490f98f3b000e67d41107c44",
+    "bytes": 220963
+  }
+}

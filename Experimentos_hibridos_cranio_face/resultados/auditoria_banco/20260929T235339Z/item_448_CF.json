@@ -1,0 +1,21 @@
+{
+  "signature": "c1812d4c19c04ec06248a8c160a6b4ca6e2bd4f848ac4ddaf7fc5caca176f36d",
+  "metadata": {
+    "id": "2021_74_MLB",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_74_MLB_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_74_MLB_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 957,
+    "altura": 998,
+    "contraste": 91.15165466147282,
+    "nitidez_512": 753.9265577459556,
+    "sha256": "c1812d4c19c04ec06248a8c160a6b4ca6e2bd4f848ac4ddaf7fc5caca176f36d",
+    "bytes": 231204
+  }
+}

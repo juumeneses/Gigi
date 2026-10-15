@@ -1,0 +1,223 @@
+{
+  "key": "c5a30eaab3ad235fcee6",
+  "path": "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_258_VPDCA/2019_258_VPDCA_CF.jpg",
+  "filename": "2019_258_VPDCA_CF.jpg",
+  "person": "2019_258_VPDCA",
+  "year": "2019",
+  "view": "CF",
+  "modality": "cranio",
+  "hash": "c11dc9e20c1f17579c115b222fe5b942e72a213b9cb8a703aff77aeda045a820",
+  "split": "treino",
+  "points": [
+    {
+      "numero": 1,
+      "x": 485.9024087190628,
+      "y": 430.30089542269707,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 2,
+      "x": 469.4852941176471,
+      "y": 557.6170588235294,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    },
+    {
+      "numero": 3,
+      "x": 388.2,
+      "y": 507.1641176470588,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    },
+    {
+      "numero": 4,
+      "x": 545.1647058823529,
+      "y": 501.55823529411765,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    },
+    {
+      "numero": 5,
+      "x": 263.21288055181503,
+      "y": 466.86283296346664,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 6,
+      "x": 682.8294135332109,
+      "y": 453.82707157731056,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 7,
+      "x": 483.18107682466507,
+      "y": 861.9683768749238,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 8,
+      "x": 209.53283724188802,
+      "y": 558.001489698887,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 9,
+      "x": 742.6187219023706,
+      "y": 527.4322637915612,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 10,
+      "x": 457.45505583286285,
+      "y": 441.3670598566532,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 11,
+      "x": 514.0499455332757,
+      "y": 503.4838269352913,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    }
+  ],
+  "width": 960,
+  "height": 969,
+  "status": "PROPOSTA",
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        224.36444549560548,
+        436.2679052352905,
+        496.3034908890724,
+        471.96198758482933
+      ],
+      "margin": [
+        38.84843505620957,
+        5.099154621362686
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        480.2940519332887,
+        443.8957205057144,
+        716.585307133198,
+        513.4151780068875
+      ],
+      "margin": [
+        33.75589359998703,
+        9.931351071596147
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "PROPOSTA",
+      "required": [
+        2,
+        3,
+        4
+      ],
+      "box": [
+        356.8070588235294,
+        490.3464705882353,
+        576.5576470588235,
+        568.8288235294118
+      ],
+      "margin": [
+        31.392941176470586,
+        11.211764705882354
+      ],
+      "outside_fraction": 0.0
+    },
+    "central": {
+      "status": "PROPOSTA",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "box": [
+        179.28957395553584,
+        404.8376627425306,
+        766.7527201294901,
+        583.0802915036959
+      ],
+      "margin": [
+        83.92330659627918,
+        25.46323268016647
+      ],
+      "outside_fraction": 0.0
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        102.9156603097915,
+        460.5250411748887,
+        849.2358988344671,
+        928.8755994915963
+      ],
+      "margin": [
+        106.61717693209651,
+        66.90722261667251
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "bank_keys": [
+    "c5a30eaab3ad235fcee6"
+  ],
+  "origin": "PROPOSTA_MODELO",
+  "anatomical_validation": false,
+  "parent_proposal": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/annotation_batches/20261013T235612197956Z/c5a30eaab3ad235fcee6/proposal.json",
+  "parent_proposal_hash": "0a93abcfdb0879e8da2b260c52673da1265bfc300c020230768dd72627638ec6",
+  "refinement_status": "SKULL_NOSE_VISUAL_PROPOSAL",
+  "visual_audit": {
+    "author": "Codex AI",
+    "points_examined": [
+      2,
+      3,
+      4
+    ],
+    "evidence": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/annotation_batches/20261013T235612197956Z/cranio_context_1.jpg",
+    "summary": "Região nasal craniana conferida por IA; demais pontos ainda não revisados. Proposta reposicionada na abertura óssea."
+  }
+}

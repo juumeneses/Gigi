@@ -1,0 +1,21 @@
+{
+  "signature": "3fca9b80c378e9a398b22cc6bd5e394f8c887a22f3bbb3379dbff4b25aa74c55",
+  "metadata": {
+    "id": "2021_62_LCMR",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_62_LCMR_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_62_LCMR_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1028,
+    "altura": 1003,
+    "contraste": 90.23327997205837,
+    "nitidez_512": 665.5098056597747,
+    "sha256": "3fca9b80c378e9a398b22cc6bd5e394f8c887a22f3bbb3379dbff4b25aa74c55",
+    "bytes": 250810
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "2534e68064ecd0310a3439681aad9eca5eeab21d792a3256f8d3f2e142937960",
+  "metadata": {
+    "id": "2021_10_ALMPLM",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_10_ALMPLM_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_10_ALMPLM_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 749,
+    "contraste": 80.14133123518425,
+    "nitidez_512": 1196.2669932413585,
+    "sha256": "2534e68064ecd0310a3439681aad9eca5eeab21d792a3256f8d3f2e142937960",
+    "bytes": 40532
+  }
+}

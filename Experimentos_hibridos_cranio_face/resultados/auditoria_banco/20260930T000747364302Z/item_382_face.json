@@ -1,0 +1,21 @@
+{
+  "signature": "a942d98af700b8478a783cab35cc59877c166fed4ebede6666cc28215c995c1c",
+  "metadata": {
+    "id": "2021_14_ARCDC",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_14_ARCDC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_14_ARCDC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 729,
+    "contraste": 61.56125408824559,
+    "nitidez_512": 645.5591878882643,
+    "sha256": "a942d98af700b8478a783cab35cc59877c166fed4ebede6666cc28215c995c1c",
+    "bytes": 38553
+  }
+}

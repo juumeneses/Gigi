@@ -1,0 +1,21 @@
+{
+  "signature": "94d5ee1476ae6ae6537e8cd63cdbfa7af74c37a91178a7793b31784f4842dbf1",
+  "metadata": {
+    "id": "2023_39_DADP",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_39_DADP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_39_DADP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1048,
+    "altura": 952,
+    "contraste": 93.98788355469846,
+    "nitidez_512": 958.6639846843041,
+    "sha256": "94d5ee1476ae6ae6537e8cd63cdbfa7af74c37a91178a7793b31784f4842dbf1",
+    "bytes": 244567
+  }
+}

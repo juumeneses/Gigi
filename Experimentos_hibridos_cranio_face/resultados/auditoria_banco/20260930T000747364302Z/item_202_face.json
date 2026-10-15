@@ -1,0 +1,21 @@
+{
+  "signature": "26cb7963a728c5e1ae8d4a102e5cd3f870a7acd28fef6ab48f312d22dedb0f5a",
+  "metadata": {
+    "id": "2019_195_RAGS",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_195_RAGS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_195_RAGS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 755,
+    "contraste": 85.37254270902513,
+    "nitidez_512": 986.1949639250078,
+    "sha256": "26cb7963a728c5e1ae8d4a102e5cd3f870a7acd28fef6ab48f312d22dedb0f5a",
+    "bytes": 38867
+  }
+}

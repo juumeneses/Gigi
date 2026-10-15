@@ -1,0 +1,21 @@
+{
+  "signature": "bb1299022bff488de4e599967b16f9984310b3978d243ebf913c6b608afa8783",
+  "metadata": {
+    "id": "2023_101_MKRDA",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_101_MKRDA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_101_MKRDA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1069,
+    "altura": 963,
+    "contraste": 90.46780774126718,
+    "nitidez_512": 949.0068317563408,
+    "sha256": "bb1299022bff488de4e599967b16f9984310b3978d243ebf913c6b608afa8783",
+    "bytes": 267430
+  }
+}

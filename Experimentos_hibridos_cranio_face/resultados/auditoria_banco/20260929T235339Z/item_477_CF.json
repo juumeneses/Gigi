@@ -1,0 +1,21 @@
+{
+  "signature": "e4fda85a14354d83c67b5b8ceb1096e894984e8a767a99dc7236aac4a7b2c117",
+  "metadata": {
+    "id": "2022_101_MAFDB",
+    "ano": "2022",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CF/2022_101_MAFDB_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CF/2022_101_MAFDB_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 955,
+    "altura": 969,
+    "contraste": 90.68849912831018,
+    "nitidez_512": 572.4044004258155,
+    "sha256": "e4fda85a14354d83c67b5b8ceb1096e894984e8a767a99dc7236aac4a7b2c117",
+    "bytes": 215873
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "745bc7f8709e24dd99ab4dd60dc361c31b9acb07c56c8cf2d7a50df81b977210",
+  "metadata": {
+    "id": "2019_59_ELB",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_59_ELB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_59_ELB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 733,
+    "contraste": 79.20233587765365,
+    "nitidez_512": 439.4474156665764,
+    "sha256": "745bc7f8709e24dd99ab4dd60dc361c31b9acb07c56c8cf2d7a50df81b977210",
+    "bytes": 35896
+  }
+}

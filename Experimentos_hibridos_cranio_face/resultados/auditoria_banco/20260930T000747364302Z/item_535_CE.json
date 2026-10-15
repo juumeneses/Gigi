@@ -1,0 +1,21 @@
+{
+  "signature": "b9dbcd48ec4a6fed838e20256a79f652e9ca1e5a1b2c32d475071ae110143950",
+  "metadata": {
+    "id": "2022_154_SSDR",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_154_SSDR_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_154_SSDR_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1108,
+    "altura": 955,
+    "contraste": 91.19607354481543,
+    "nitidez_512": 953.0792302195846,
+    "sha256": "b9dbcd48ec4a6fed838e20256a79f652e9ca1e5a1b2c32d475071ae110143950",
+    "bytes": 262692
+  }
+}

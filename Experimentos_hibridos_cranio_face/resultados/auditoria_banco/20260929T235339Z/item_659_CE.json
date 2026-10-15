@@ -1,0 +1,21 @@
+{
+  "signature": "90eb2e08166c3acd7d93e02ee5b7cec9c2867f6029cd6ce0e42f43bc3fb38267",
+  "metadata": {
+    "id": "2023_115_PA",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_115_PACD_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_115_PACD_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1072,
+    "altura": 970,
+    "contraste": 90.31200095497789,
+    "nitidez_512": 1117.6146476463769,
+    "sha256": "90eb2e08166c3acd7d93e02ee5b7cec9c2867f6029cd6ce0e42f43bc3fb38267",
+    "bytes": 284828
+  }
+}

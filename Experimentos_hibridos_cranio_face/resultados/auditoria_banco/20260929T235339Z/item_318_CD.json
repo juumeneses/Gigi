@@ -1,0 +1,21 @@
+{
+  "signature": "9c408e8216c82b93d79d6169fe7654f3910ca639d710455a5ebcd678775236fd",
+  "metadata": {
+    "id": "2019_4_ACCP",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_4_ACCP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_4_ACCP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1670,
+    "altura": 1090,
+    "contraste": 101.6379212254502,
+    "nitidez_512": 1189.4186119947606,
+    "sha256": "9c408e8216c82b93d79d6169fe7654f3910ca639d710455a5ebcd678775236fd",
+    "bytes": 255470
+  }
+}

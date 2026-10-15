@@ -1,0 +1,21 @@
+{
+  "signature": "3e0eb226673e94f32f7c70e27689312103784a5965dffaa8877938e9c78ba0f9",
+  "metadata": {
+    "id": "2023_55_EVDSL",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_55_EVDSL_FFN.png",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_55_EVDSL_FFN.png",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 302,
+    "altura": 426,
+    "contraste": 87.56753703252744,
+    "nitidez_512": 1234.3392190051911,
+    "sha256": "3e0eb226673e94f32f7c70e27689312103784a5965dffaa8877938e9c78ba0f9",
+    "bytes": 153278
+  }
+}

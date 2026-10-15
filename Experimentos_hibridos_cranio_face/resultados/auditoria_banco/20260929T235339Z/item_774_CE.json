@@ -1,0 +1,21 @@
+{
+  "signature": "41cad4f1158c97fdccc96451c35bd8e777e790ae353b8ac90e66f931838b9f96",
+  "metadata": {
+    "id": "2023_81_JTDAC",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_81_JTDAC_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_81_JTDAC_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1088,
+    "altura": 971,
+    "contraste": 88.57944685907945,
+    "nitidez_512": 1006.7710660239608,
+    "sha256": "41cad4f1158c97fdccc96451c35bd8e777e790ae353b8ac90e66f931838b9f96",
+    "bytes": 286631
+  }
+}

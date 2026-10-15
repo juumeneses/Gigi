@@ -1,0 +1,21 @@
+{
+  "signature": "713225d2a19d0fc9edd0af9be8ba4c2243e46872f54640d86eae8e6135316be0",
+  "metadata": {
+    "id": "2017_73_MMPCC",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_73_MMPCC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_73_MMPCC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 739,
+    "contraste": 60.655569124905384,
+    "nitidez_512": 464.54271284724786,
+    "sha256": "713225d2a19d0fc9edd0af9be8ba4c2243e46872f54640d86eae8e6135316be0",
+    "bytes": 41255
+  }
+}

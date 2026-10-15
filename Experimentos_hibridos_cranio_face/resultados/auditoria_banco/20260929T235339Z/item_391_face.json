@@ -1,0 +1,21 @@
+{
+  "signature": "49ce20431fc0da8f7d39a68d2a41ec14e37b69b9a19212466dbd68b92b2ea202",
+  "metadata": {
+    "id": "2021_22_CAJN",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_22_CAJN_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_22_CAJN_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 739,
+    "contraste": 85.61880707597334,
+    "nitidez_512": 997.5881299326153,
+    "sha256": "49ce20431fc0da8f7d39a68d2a41ec14e37b69b9a19212466dbd68b92b2ea202",
+    "bytes": 37904
+  }
+}

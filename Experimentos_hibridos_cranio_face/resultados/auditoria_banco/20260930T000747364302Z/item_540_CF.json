@@ -1,0 +1,21 @@
+{
+  "signature": "756fa7cba2638f4bce52f85278016447efa1bd164b0e5ba97e5abaa3b273048a",
+  "metadata": {
+    "id": "2022_159_VDC",
+    "ano": "2022",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CF/2022_159_VDC_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CF/2022_159_VDC_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 877,
+    "altura": 984,
+    "contraste": 88.71005326136029,
+    "nitidez_512": 569.9404805030005,
+    "sha256": "756fa7cba2638f4bce52f85278016447efa1bd164b0e5ba97e5abaa3b273048a",
+    "bytes": 206752
+  }
+}

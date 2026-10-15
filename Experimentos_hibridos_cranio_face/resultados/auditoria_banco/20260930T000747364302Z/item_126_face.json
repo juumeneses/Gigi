@@ -1,0 +1,21 @@
+{
+  "signature": "ee64e3e1238bb3ff437bfd83f2a50d49855cb40ae4dc884f28b771e3239713d9",
+  "metadata": {
+    "id": "2019_126_LHAG",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_126_LHAG_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_126_LHAG_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 733,
+    "contraste": 68.05154700182683,
+    "nitidez_512": 652.0457790951292,
+    "sha256": "ee64e3e1238bb3ff437bfd83f2a50d49855cb40ae4dc884f28b771e3239713d9",
+    "bytes": 38750
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "bc3de5ac5deea2923579142660258ff95de1da9efd910c61502406fb60d4bd3d",
+  "metadata": {
+    "id": "2021_102_WAF",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_102_WAF_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_102_WAF_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 914,
+    "altura": 981,
+    "contraste": 87.7854526833076,
+    "nitidez_512": 992.5782187717837,
+    "sha256": "bc3de5ac5deea2923579142660258ff95de1da9efd910c61502406fb60d4bd3d",
+    "bytes": 245415
+  }
+}

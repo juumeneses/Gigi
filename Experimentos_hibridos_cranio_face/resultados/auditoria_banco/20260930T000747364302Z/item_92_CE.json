@@ -1,0 +1,21 @@
+{
+  "signature": "a2af8b8d29f92cd20197f1dfa97f513fb9b64779d94d55ca038c6dbd355f31fe",
+  "metadata": {
+    "id": "2017_95_TDOES",
+    "ano": "2017",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CE/2017_95_TDOES_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CE/2017_95_TDOES_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2035,
+    "altura": 1328,
+    "contraste": 97.65001812842443,
+    "nitidez_512": 1276.12841504491,
+    "sha256": "a2af8b8d29f92cd20197f1dfa97f513fb9b64779d94d55ca038c6dbd355f31fe",
+    "bytes": 197160
+  }
+}

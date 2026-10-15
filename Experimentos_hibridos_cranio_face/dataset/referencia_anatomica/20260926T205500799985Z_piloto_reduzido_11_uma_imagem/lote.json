@@ -1,0 +1,10 @@
+{
+  "lote": "20260926T205500799985Z_piloto_reduzido_11_uma_imagem",
+  "protocolo": "piloto_cf_11_propostas_visuais_2d_v1",
+  "imagens": 1,
+  "pontos_por_imagem": 11,
+  "treinamento_autorizado": false,
+  "origem": "dataset/referencia_anatomica/20260926T193433785591Z_referencia_artigo_30",
+  "status": "PROPOSTAS_IA_NAO_VALIDADAS",
+  "novos_pontos_sao_proxies_2d": true
+}

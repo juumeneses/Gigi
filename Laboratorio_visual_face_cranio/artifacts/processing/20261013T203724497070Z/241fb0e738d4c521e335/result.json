@@ -1,0 +1,208 @@
+{
+  "item": {
+    "key": "241fb0e738d4c521e335",
+    "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_73_MMPCC/2017_73_MMPCC_FFN.jpg",
+    "filename": "2017_73_MMPCC_FFN.jpg",
+    "person": "2017_73_MMPCC",
+    "year": "2017",
+    "view": "FFN",
+    "modality": "face"
+  },
+  "fingerprint": "117ddf3212b892734e82abe6d49cb88c9a35562bfc93ab7118bad8e3ab7c620c",
+  "action": "apply",
+  "points": [
+    {
+      "numero": 1,
+      "x": 261.7724537849426,
+      "y": 290.8352622687816,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 2,
+      "x": 263.53802305459976,
+      "y": 439.8249633908271,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 3,
+      "x": 223.4505752325058,
+      "y": 424.2067472338676,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 4,
+      "x": 304.62570905685425,
+      "y": 420.85550004243845,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 5,
+      "x": 129.57922631502154,
+      "y": 341.1849300563335,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 6,
+      "x": 386.9057827591896,
+      "y": 336.27229732275003,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 7,
+      "x": 248.79470697045326,
+      "y": 615.0113420486449,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 8,
+      "x": 75.06461572647098,
+      "y": 382.08565503358835,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 9,
+      "x": 437.1388118863105,
+      "y": 372.21035122871393,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 10,
+      "x": 228.39699265360832,
+      "y": 328.9044163823127,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 11,
+      "x": 310.22401237487793,
+      "y": 342.56285637617106,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    }
+  ],
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        109.81567304730419,
+        324.9044163823127,
+        248.16054592132568,
+        345.1849300563335
+      ],
+      "margin": [
+        19.763553267717356,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        294.8876582980156,
+        332.27229732275003,
+        402.24213683605194,
+        346.56285637617106
+      ],
+      "margin": [
+        15.336354076862335,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "PROPOSTA",
+      "required": [
+        2,
+        3,
+        4
+      ],
+      "box": [
+        207.2155484676361,
+        416.85550004243845,
+        320.86073582172395,
+        443.8249633908271
+      ],
+      "margin": [
+        16.23502676486969,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "central": {
+      "status": "PROPOSTA",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "box": [
+        78.11391502618793,
+        261.0373220443725,
+        438.3710940480232,
+        469.6229036152362
+      ],
+      "margin": [
+        51.46531128883362,
+        29.797940224409103
+      ],
+      "outside_fraction": 0.0
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        2.6497764945030724,
+        323.65015306472776,
+        509.5536511182784,
+        663.5715402126311
+      ],
+      "margin": [
+        72.4148392319679,
+        48.5601981639862
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "contours": [],
+  "assets": {
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203724497070Z/241fb0e738d4c521e335/preview.png": "0d83b02cb7fe9eb81f6f9dec1073563b99e2b80f5fd88f6642bceeddc1a9032b"
+  },
+  "status": "PROPOSTA_MODELO",
+  "reason": "",
+  "preview": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203724497070Z/241fb0e738d4c521e335/preview.png"
+}

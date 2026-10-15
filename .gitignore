@@ -1,36 +1,35 @@
 # Ambientes e dependencias locais
 **/.venv/
-.venv-modelo-novo/
+**/.venv-*/
 **/venv/
 **/env/
 **/node_modules/
-
-# Python e caches
+# Python, sistema, editores e caches
 **/__pycache__/
 **/*.py[cod]
 **/.pytest_cache/
 **/.mypy_cache/
 **/.ruff_cache/
 **/.cache/
-
-# Sistema e editores
 **/.DS_Store
 **/Thumbs.db
 **/.idea/
 **/.vscode/
 **/*~
-
-# Logs e arquivos temporarios
+# Temporarios, segredos e downloads externos
 **/*.log
 **/resultados/logs/
 **/resultados/cache/
 **/tmp/
 **/temp/
-
-# Modelos externos baixados pelos scripts
 **/external_models/
-
-# Imagens e relatorios intermediarios regeneraveis
+**/.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+**/*.download
+**/*.lock
+# Derivados regeneraveis dos laboratorios legados
 **/crops_fairface/
 **/curadoria_matching/previews/
 **/resultados/relatorios/
@@ -40,6 +39,6 @@
 **/cranios_normalizados_pb/
 **/backup_originais_auto/
 **/backup_originais_nitidez/
-
-# Segredos locais do Streamlit (manter config.toml versionado)
-**/.streamlit/secrets.toml
+# Pacotes locais de transporte; nao publicar arquivos duplicados gigantes
+/backups/
+/transferencias/

@@ -1,0 +1,21 @@
+{
+  "signature": "faa8be2f696f70130e1f18ba7dcaacda31e409aa6039d2d8f08ac8be402ea544",
+  "metadata": {
+    "id": "2023_52_EDOR",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_52_EDOR_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_52_EDOR_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1092,
+    "altura": 947,
+    "contraste": 86.60333169779383,
+    "nitidez_512": 994.3931233947919,
+    "sha256": "faa8be2f696f70130e1f18ba7dcaacda31e409aa6039d2d8f08ac8be402ea544",
+    "bytes": 279755
+  }
+}

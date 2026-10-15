@@ -1,0 +1,21 @@
+{
+  "signature": "8cd6022a6a9eac999af22766b087084360d8028e09192f6af03202d4f33598cf",
+  "metadata": {
+    "id": "2023_121_PZDO",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_121_PZDO_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_121_PZDO_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 779,
+    "altura": 854,
+    "contraste": 81.92600667784056,
+    "nitidez_512": 815.4428342515188,
+    "sha256": "8cd6022a6a9eac999af22766b087084360d8028e09192f6af03202d4f33598cf",
+    "bytes": 210518
+  }
+}

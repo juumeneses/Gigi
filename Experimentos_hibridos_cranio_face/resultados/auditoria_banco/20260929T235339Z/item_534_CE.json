@@ -1,0 +1,21 @@
+{
+  "signature": "bfacc22678299a44e4bbd2275a9e77964b28a61ad6c461bc82672dfa177e32ab",
+  "metadata": {
+    "id": "2022_153_SPS",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_153_SPS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_153_SPS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1077,
+    "altura": 1011,
+    "contraste": 86.76459034514373,
+    "nitidez_512": 904.3750499380229,
+    "sha256": "bfacc22678299a44e4bbd2275a9e77964b28a61ad6c461bc82672dfa177e32ab",
+    "bytes": 298781
+  }
+}

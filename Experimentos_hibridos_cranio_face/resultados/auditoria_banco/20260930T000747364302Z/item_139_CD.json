@@ -1,0 +1,21 @@
+{
+  "signature": "3e2279c76c6e49f1813d3f10fa8775f1dd51ab0c4aa212b2f1546e0e74dcf150",
+  "metadata": {
+    "id": "2019_138_LVL",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_138_LVL_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_138_LVL_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1907,
+    "altura": 1244,
+    "contraste": 99.77214917390911,
+    "nitidez_512": 968.6068754988131,
+    "sha256": "3e2279c76c6e49f1813d3f10fa8775f1dd51ab0c4aa212b2f1546e0e74dcf150",
+    "bytes": 215897
+  }
+}

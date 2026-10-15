@@ -1,0 +1,21 @@
+{
+  "signature": "91735ced113c40aeaa0d61b585d4ce9716fbdb62fb515ab4aa1150c098bc0787",
+  "metadata": {
+    "id": "2019_275_UMN",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_275_UMN_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_275_UMN_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 747,
+    "contraste": 67.80136338293416,
+    "nitidez_512": 567.4789918124594,
+    "sha256": "91735ced113c40aeaa0d61b585d4ce9716fbdb62fb515ab4aa1150c098bc0787",
+    "bytes": 35635
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "97a26094804831b908d1f2dfb990e9c3154af554b6ef5cf61b858929d908ced1",
+  "metadata": {
+    "id": "2022_69_HRSP",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_69_HRSP_FFN.png",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_69_HRSP_FFN.png",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 742,
+    "contraste": 72.96713373294834,
+    "nitidez_512": 2419.6014969516405,
+    "sha256": "97a26094804831b908d1f2dfb990e9c3154af554b6ef5cf61b858929d908ced1",
+    "bytes": 62609
+  }
+}

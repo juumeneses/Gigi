@@ -1,0 +1,21 @@
+{
+  "signature": "159286c7e385d570d6b08c16b7eea2c874d7eeab8d856bfa32a69b7b0ce8bb95",
+  "metadata": {
+    "id": "2021_30_EAOM",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_30_EAOM_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_30_EAOM_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1192,
+    "altura": 977,
+    "contraste": 92.61847432522742,
+    "nitidez_512": 912.0934044169517,
+    "sha256": "159286c7e385d570d6b08c16b7eea2c874d7eeab8d856bfa32a69b7b0ce8bb95",
+    "bytes": 263724
+  }
+}

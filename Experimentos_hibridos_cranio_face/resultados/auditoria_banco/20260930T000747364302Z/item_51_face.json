@@ -1,0 +1,21 @@
+{
+  "signature": "124dffe5dbba8e33ac799c353b9371c0a40234428d00805a4c84dc4cfa81a7b1",
+  "metadata": {
+    "id": "2017_58_KRL",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_58_KRL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_58_KRL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 733,
+    "contraste": 65.99597604940134,
+    "nitidez_512": 767.0178901861925,
+    "sha256": "124dffe5dbba8e33ac799c353b9371c0a40234428d00805a4c84dc4cfa81a7b1",
+    "bytes": 34014
+  }
+}

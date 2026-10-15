@@ -1,0 +1,21 @@
+{
+  "signature": "aa6baed25937c4e1cbf5ede41564084c3d1e617882f02f8bd803cfb4d08e78c8",
+  "metadata": {
+    "id": "2019_84_HAR",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_84_HARCF_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_84_HARCF_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2221,
+    "altura": 1449,
+    "contraste": 93.03355036936296,
+    "nitidez_512": 1217.593796781437,
+    "sha256": "aa6baed25937c4e1cbf5ede41564084c3d1e617882f02f8bd803cfb4d08e78c8",
+    "bytes": 199360
+  }
+}

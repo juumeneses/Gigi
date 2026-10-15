@@ -1,0 +1,21 @@
+{
+  "signature": "061038a1ff4f7afd73a207ebe979f9be83c3b3a424cce9f717b9c1f1fc89b80d",
+  "metadata": {
+    "id": "2023_153_ZMTS",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_153_ZMTS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_153_ZMTS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 160,
+    "altura": 223,
+    "contraste": 70.69706706885981,
+    "nitidez_512": 931.6526626118248,
+    "sha256": "061038a1ff4f7afd73a207ebe979f9be83c3b3a424cce9f717b9c1f1fc89b80d",
+    "bytes": 6367
+  }
+}

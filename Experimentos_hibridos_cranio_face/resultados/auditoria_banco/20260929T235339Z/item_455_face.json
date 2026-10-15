@@ -1,0 +1,21 @@
+{
+  "signature": "b1737358d3f14dbc3f5d679fee6de67fb68796ffe99549031a5218aa69085dd7",
+  "metadata": {
+    "id": "2021_80_MUCDS",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_80_MUCDS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_80_MUCDS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 735,
+    "contraste": 70.97680500511854,
+    "nitidez_512": 460.0249099372519,
+    "sha256": "b1737358d3f14dbc3f5d679fee6de67fb68796ffe99549031a5218aa69085dd7",
+    "bytes": 33979
+  }
+}

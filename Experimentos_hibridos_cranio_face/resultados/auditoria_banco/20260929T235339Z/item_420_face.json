@@ -1,0 +1,21 @@
+{
+  "signature": "fc6b4836e577ebf500d05f523578fa8117a721ca276314184946498d736bcc35",
+  "metadata": {
+    "id": "2021_49_HCAS",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_49_HCAS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_49_HCAS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 735,
+    "contraste": 84.8222320496876,
+    "nitidez_512": 685.6831765394597,
+    "sha256": "fc6b4836e577ebf500d05f523578fa8117a721ca276314184946498d736bcc35",
+    "bytes": 44013
+  }
+}

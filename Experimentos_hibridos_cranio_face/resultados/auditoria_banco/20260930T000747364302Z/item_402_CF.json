@@ -1,0 +1,21 @@
+{
+  "signature": "22cde890dbc0b4bec8fa599317b551c9f1a38d726082453920f1b0211800204a",
+  "metadata": {
+    "id": "2021_32_ECSL",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_32_ECSL_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_32_ECSL_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 839,
+    "altura": 976,
+    "contraste": 84.2340427841938,
+    "nitidez_512": 883.0376786413275,
+    "sha256": "22cde890dbc0b4bec8fa599317b551c9f1a38d726082453920f1b0211800204a",
+    "bytes": 227560
+  }
+}

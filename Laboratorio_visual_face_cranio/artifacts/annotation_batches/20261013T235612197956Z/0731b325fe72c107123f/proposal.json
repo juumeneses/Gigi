@@ -1,0 +1,210 @@
+{
+  "key": "0731b325fe72c107123f",
+  "path": "/Users/juliameneses/Documents/Gigi/Banco/2021/2021_57_JHGL/2021_57_JHGL_CF.jpg",
+  "filename": "2021_57_JHGL_CF.jpg",
+  "person": "2021_57_JHGL",
+  "year": "2021",
+  "view": "CF",
+  "modality": "cranio",
+  "hash": "c12fd3734d40d1b57f1377e2939a58bdd7a86bf303daa71b91c0eef82797a9fa",
+  "split": "treino",
+  "points": [
+    {
+      "numero": 1,
+      "x": 479.6656049489975,
+      "y": 436.5711360573769,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 2,
+      "x": 452.1757064461708,
+      "y": 631.7351783514024,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 3,
+      "x": 423.0257560610771,
+      "y": 571.0100085735322,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 4,
+      "x": 525.9719225168229,
+      "y": 575.6946383714677,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 5,
+      "x": 253.19236648082736,
+      "y": 473.44721996784216,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 6,
+      "x": 682.039190888405,
+      "y": 459.97039496898657,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 7,
+      "x": 477.5527582168579,
+      "y": 879.2673002481462,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 8,
+      "x": 196.26734998822212,
+      "y": 568.1374397277833,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 9,
+      "x": 744.5894098281861,
+      "y": 536.1290841102601,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 10,
+      "x": 451.61894714832306,
+      "y": 449.6643680930138,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 11,
+      "x": 509.7225555181504,
+      "y": 513.3307796716691,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    }
+  ],
+  "width": 949,
+  "height": 986,
+  "status": "PROPOSTA",
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        213.50705034732823,
+        444.90779771804813,
+        491.3042632818222,
+        478.20379034280785
+      ],
+      "margin": [
+        39.68531613349914,
+        4.756570374965668
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        475.25922844409945,
+        449.29831802845007,
+        716.5025179624558,
+        524.0028566122056
+      ],
+      "margin": [
+        34.463327074050916,
+        10.672076940536511
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "PROPOSTA",
+      "required": [
+        2,
+        3,
+        4
+      ],
+      "box": [
+        402.43652276992793,
+        558.8649746179582,
+        546.5611558079721,
+        643.8802123069764
+      ],
+      "margin": [
+        20.589233291149164,
+        12.145033955574036
+      ],
+      "outside_fraction": 0.0
+    },
+    "central": {
+      "status": "PROPOSTA",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "box": [
+        167.42300159931182,
+        397.5383275985718,
+        767.8085557699205,
+        670.7679868102075
+      ],
+      "margin": [
+        85.76936488151553,
+        39.0328084588051
+      ],
+      "outside_fraction": 0.0
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        86.60293802022932,
+        467.5014408826829,
+        854.253821796179,
+        947.8949434757234
+      ],
+      "margin": [
+        109.6644119679928,
+        68.62764322757721
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "bank_keys": [
+    "0731b325fe72c107123f"
+  ],
+  "origin": "PROPOSTA_MODELO",
+  "anatomical_validation": false,
+  "parent_proposal": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/annotation_batches/20261013T225939396950Z/0731b325fe72c107123f/proposal.json",
+  "parent_proposal_hash": "8f4fc3b2699cdd86eb9a3cf72f817684cb77c635e97e80d435cc2d63e0c730e2",
+  "refinement_status": "UNCHANGED_SKULL"
+}

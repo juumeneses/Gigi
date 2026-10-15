@@ -1,0 +1,21 @@
+{
+  "signature": "5bb171fde3c29f415abf03648fcfe58ac89566274f1d0c0296337ac29d1f758b",
+  "metadata": {
+    "id": "2021_24_CEHDV",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_24_CEHDV_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_24_CEHDV_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 739,
+    "contraste": 73.63666490893249,
+    "nitidez_512": 725.6789404663317,
+    "sha256": "5bb171fde3c29f415abf03648fcfe58ac89566274f1d0c0296337ac29d1f758b",
+    "bytes": 39714
+  }
+}

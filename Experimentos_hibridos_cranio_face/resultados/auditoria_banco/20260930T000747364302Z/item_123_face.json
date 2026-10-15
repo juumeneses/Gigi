@@ -1,0 +1,21 @@
+{
+  "signature": "ce2138086f1d401b7062f9f8083fcb52da566de19035dc1c7bb08c6b508d427e",
+  "metadata": {
+    "id": "2019_123_LFC",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_123_LFC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_123_LFC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 745,
+    "contraste": 77.70884197637557,
+    "nitidez_512": 641.5806004638171,
+    "sha256": "ce2138086f1d401b7062f9f8083fcb52da566de19035dc1c7bb08c6b508d427e",
+    "bytes": 32403
+  }
+}

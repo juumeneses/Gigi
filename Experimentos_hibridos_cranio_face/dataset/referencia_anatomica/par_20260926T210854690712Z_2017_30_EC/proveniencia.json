@@ -1,0 +1,11 @@
+{
+  "id_pessoa": "2017_30_EC",
+  "origem_pareamento": "ID no manifesto_mestre.csv, nao reconhecimento visual",
+  "original_hashes": {
+    "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_30_EC_CF.jpg": "4cc85b685250c03e7cc38b37dab6775a18d95550c0a3fa1357d6099f28f0b70c",
+    "Treinamento_faces/dados_originais/faces/2017/images/2017_30_EC_FFN.jpg": "57bd20d60e3bb13b991f2e024b56ab74146e98717ce942834882ea07e2baba8f"
+  },
+  "treinamento_autorizado": false,
+  "validado": false,
+  "nota": "Escalas de exibicao independentes. Nao e sobreposicao, ajuste geometrico ou prova de identidade."
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "db7c802a12e682bb8f3ff9786d72641048c6dcdb945563bb1fd1f6f107af1112",
+  "metadata": {
+    "id": "2019_197_RAMC",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_197_RAMC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_197_RAMC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 514,
+    "altura": 741,
+    "contraste": 67.03136372606824,
+    "nitidez_512": 959.6699202808638,
+    "sha256": "db7c802a12e682bb8f3ff9786d72641048c6dcdb945563bb1fd1f6f107af1112",
+    "bytes": 39518
+  }
+}

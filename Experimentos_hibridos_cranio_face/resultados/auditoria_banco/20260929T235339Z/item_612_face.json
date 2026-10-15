@@ -1,0 +1,21 @@
+{
+  "signature": "c096441292722feaf4f2d118082882081275ad245a07cf48a6cd49d7afb7e702",
+  "metadata": {
+    "id": "2022_73_IRSM",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_73_IRSM_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_73_IRSM_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 738,
+    "contraste": 81.00276692002761,
+    "nitidez_512": 490.91114556392034,
+    "sha256": "c096441292722feaf4f2d118082882081275ad245a07cf48a6cd49d7afb7e702",
+    "bytes": 43707
+  }
+}

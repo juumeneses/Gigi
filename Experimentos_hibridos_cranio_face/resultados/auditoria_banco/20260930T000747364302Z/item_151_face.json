@@ -1,0 +1,21 @@
+{
+  "signature": "9e874bbe8b5b6ed6136540923c1c418bc8a228b53b6a6185e43f4bba834a8b65",
+  "metadata": {
+    "id": "2019_149_MCARP",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_149_MCARP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_149_MCARP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 733,
+    "contraste": 74.92255004255591,
+    "nitidez_512": 676.8679675360676,
+    "sha256": "9e874bbe8b5b6ed6136540923c1c418bc8a228b53b6a6185e43f4bba834a8b65",
+    "bytes": 40365
+  }
+}

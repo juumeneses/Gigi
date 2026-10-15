@@ -1,0 +1,21 @@
+{
+  "signature": "4d17836da86f60516a02a09a40b2372ab1e94cbe2baa2b0ea98874ca6474ed50",
+  "metadata": {
+    "id": "2023_73_ILLUBB",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_73_ILLUBB_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_73_ILLUBB_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1122,
+    "altura": 981,
+    "contraste": 91.39122351915745,
+    "nitidez_512": 1029.8664119941352,
+    "sha256": "4d17836da86f60516a02a09a40b2372ab1e94cbe2baa2b0ea98874ca6474ed50",
+    "bytes": 274885
+  }
+}

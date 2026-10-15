@@ -1,0 +1,21 @@
+{
+  "signature": "9b2ac29ee628d49637e16bf417e310b12a97235188b82e1381b9532be4f42956",
+  "metadata": {
+    "id": "2021_50_HDDSS",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_50_HDDSS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_50_HDDSS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 752,
+    "contraste": 90.23732972434789,
+    "nitidez_512": 1181.6331180610553,
+    "sha256": "9b2ac29ee628d49637e16bf417e310b12a97235188b82e1381b9532be4f42956",
+    "bytes": 43276
+  }
+}

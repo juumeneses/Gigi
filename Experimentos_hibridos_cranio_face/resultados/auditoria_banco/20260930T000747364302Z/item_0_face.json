@@ -1,0 +1,21 @@
+{
+  "signature": "3ca309d0cffacd99d5dd3a03cb01ed832fbdccf12d442086267539bb9eb57d54",
+  "metadata": {
+    "id": "2017_10_AWS",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_10_AWS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_10_AWS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 287,
+    "altura": 400,
+    "contraste": 62.40221193259919,
+    "nitidez_512": 699.3757866670107,
+    "sha256": "3ca309d0cffacd99d5dd3a03cb01ed832fbdccf12d442086267539bb9eb57d54",
+    "bytes": 16231
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "b4fe49775622c2a690283e1c74c66782eac18a0c3198f969c22cf47cc61f9270",
+  "metadata": {
+    "id": "2019_176_NCC",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_176_NCC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_176_NCC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 749,
+    "contraste": 72.35808157745106,
+    "nitidez_512": 961.553193913927,
+    "sha256": "b4fe49775622c2a690283e1c74c66782eac18a0c3198f969c22cf47cc61f9270",
+    "bytes": 38103
+  }
+}

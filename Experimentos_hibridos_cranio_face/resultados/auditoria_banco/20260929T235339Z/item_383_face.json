@@ -1,0 +1,21 @@
+{
+  "signature": "0897c1a48eb8e9210fa5d64f9078a04003f09bcb8a0f7729a7127dce2b59d35c",
+  "metadata": {
+    "id": "2021_15_ARDC",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_15_ARDC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_15_ARDC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 735,
+    "contraste": 76.06969348233049,
+    "nitidez_512": 630.5116733224326,
+    "sha256": "0897c1a48eb8e9210fa5d64f9078a04003f09bcb8a0f7729a7127dce2b59d35c",
+    "bytes": 40826
+  }
+}

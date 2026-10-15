@@ -1,0 +1,21 @@
+{
+  "signature": "a8e0aa6b36674a916e3b952a66cdf39e84cb1ffd7033e1b53505a01c2bbc628d",
+  "metadata": {
+    "id": "2023_117_PQMFC",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_117_PQMFC_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_117_PQMFC_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1120,
+    "altura": 961,
+    "contraste": 90.61159725159985,
+    "nitidez_512": 1068.2716250512474,
+    "sha256": "a8e0aa6b36674a916e3b952a66cdf39e84cb1ffd7033e1b53505a01c2bbc628d",
+    "bytes": 276574
+  }
+}

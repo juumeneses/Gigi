@@ -1,0 +1,21 @@
+{
+  "signature": "8a7e84fe2ce84f070af6ca949c7e500a677b5324fb4ca5f048acab7c9d3d9971",
+  "metadata": {
+    "id": "2017_92_SRAK",
+    "ano": "2017",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CE/2017_92_SRAK_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CE/2017_92_SRAK_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2129,
+    "altura": 1390,
+    "contraste": 95.64056280695576,
+    "nitidez_512": 1360.2009028817365,
+    "sha256": "8a7e84fe2ce84f070af6ca949c7e500a677b5324fb4ca5f048acab7c9d3d9971",
+    "bytes": 205509
+  }
+}

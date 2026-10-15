@@ -1,0 +1,21 @@
+{
+  "signature": "cb94f4eb43244339c06a1a80d301cd170e7c04423597e0bf637e3d1ca0c84bb1",
+  "metadata": {
+    "id": "2021_23_CASJ",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_23_CASJ_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_23_CASJ_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 755,
+    "contraste": 80.33082555253718,
+    "nitidez_512": 843.6764934962533,
+    "sha256": "cb94f4eb43244339c06a1a80d301cd170e7c04423597e0bf637e3d1ca0c84bb1",
+    "bytes": 43544
+  }
+}

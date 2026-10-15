@@ -1,0 +1,5619 @@
+[
+  {
+    "person": "2023_113_NLDOS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 454.0487108826638,
+      "y": 581.5608624815942,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 501.88235294117646,
+      "y": 482.1882352941176,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_113_NLDOS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 426.84618568420416,
+      "y": 523.8202984929086,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 434.9647058823529,
+      "y": 432.0,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_113_NLDOS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 521.3492364883424,
+      "y": 527.4437269568444,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 568.8,
+      "y": 432.0,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_44_GCC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 212.00185373425484,
+      "y": 420.62624114751816,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 219.07176356613635,
+      "y": 420.1938828349114,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_44_GCC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 296.16744697093964,
+      "y": 418.9109382033348,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 289.7708618849516,
+      "y": 418.17390859723093,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_135_SDSB",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 64.20316869020462,
+      "y": 131.59295845031738,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_135_SDSB",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 90.36303734779358,
+      "y": 131.27154922485352,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2022_5_ACMB",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 196.52929544448853,
+      "y": 406.7390066385269,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 205.6827287006378,
+      "y": 405.58587427020075,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_5_ACMB",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 296.0231351852417,
+      "y": 408.10611921548843,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 287.6656526470184,
+      "y": 404.78992355227473,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_48_EA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 110.3221036195755,
+      "y": 243.3606520295143,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 115.25154462218285,
+      "y": 242.20550490021708,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2023_48_EA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 163.90298408269882,
+      "y": 242.01772809028625,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 159.40219012379646,
+      "y": 241.3482108128071,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_57_JHGL",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 452.1757064461708,
+      "y": 631.7351783514024,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 473.48235294117643,
+      "y": 591.9094117647059,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_57_JHGL",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 423.0257560610771,
+      "y": 571.0100085735322,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 410.02941176470586,
+      "y": 545.0094117647059,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_57_JHGL",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 525.9719225168229,
+      "y": 575.6946383714677,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 536.935294117647,
+      "y": 545.0094117647059,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_16_ARRDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 213.17861199378967,
+      "y": 390.331487596035,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 220.67255150318147,
+      "y": 383.44259002089507,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_16_ARRDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 302.3921775817871,
+      "y": 386.85068303346634,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 295.6119465970993,
+      "y": 380.5877559220791,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_27_BACS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 717.0490008592606,
+      "y": 627.5900584459305,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 693.7264705882353,
+      "y": 611.0682352941176,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_27_BACS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 694.9835851192474,
+      "y": 570.7079529762268,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 611.8264705882353,
+      "y": 550.8476470588234,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_27_BACS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 792.2582222223282,
+      "y": 575.4218108654022,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 770.8088235294118,
+      "y": 550.8476470588234,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_63_LGLA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 198.85377073287964,
+      "y": 462.0323515534401,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 205.63865798521041,
+      "y": 460.34460571718216,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_63_LGLA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 298.6315244436264,
+      "y": 456.6160588860512,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 293.44308125066755,
+      "y": 456.3534955687523,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_143_RMOR",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 441.6757956147194,
+      "y": 620.5315440893172,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 462.5,
+      "y": 533.0264705882353,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_143_RMOR",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 413.4622660279274,
+      "y": 560.3780376911162,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 403.16470588235296,
+      "y": 492.5705882352941,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_143_RMOR",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 511.94600522518147,
+      "y": 565.0275254249572,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 527.2294117647059,
+      "y": 492.5705882352941,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_63_LGLA",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 825.969731748104,
+      "y": 715.2987028956412,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 834.8025,
+      "y": 695.02,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_63_LGLA",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 799.9126451611518,
+      "y": 651.9594426155089,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 767.5425,
+      "y": 633.365,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_63_LGLA",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 905.0595035552977,
+      "y": 657.0164270997046,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 904.865,
+      "y": 641.7725,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_27_DL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 206.9371479153633,
+      "y": 421.4435656070709,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 219.2054086544514,
+      "y": 414.0026687893868,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_27_DL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 305.87473452091217,
+      "y": 416.75316256284714,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 295.98097586035726,
+      "y": 410.0451653251648,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_62_LCMR",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 403.09180268645287,
+      "y": 630.0592290759087,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 384.4,
+      "y": 609.9599999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_62_LCMR",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 378.8061198890209,
+      "y": 571.4095677137375,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 316.74117647058824,
+      "y": 559.8423529411764,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_62_LCMR",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 475.1828339099884,
+      "y": 578.3808628320694,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 459.5764705882353,
+      "y": 557.3364705882352,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_40_GL",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 1081.2369074821474,
+      "y": 913.0621622800829,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 1128.0349999999999,
+      "y": 803.7,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_40_GL",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 1051.757342785597,
+      "y": 843.2447500228884,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 1055.195,
+      "y": 761.21,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_40_GL",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 1173.2692056894305,
+      "y": 846.6974925994875,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1213.0149999999999,
+      "y": 764.245,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 247.6013970375061,
+      "y": 459.90209490060806,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 196.12788677215576,
+      "y": 441.9548969268799,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 201.56753881454466,
+      "y": 437.28572036027913,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 300.73657989501953,
+      "y": 439.7754321694374,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 296.13379739761353,
+      "y": 435.61198127031327,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_99_MGDSN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 94.6403905749321,
+      "y": 186.06382656097412,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_99_MGDSN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 132.14062303304672,
+      "y": 186.17563784122467,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2022_64_GOC",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 451.4033792614937,
+      "y": 645.0862961411476,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2022_64_GOC",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 426.61607375741005,
+      "y": 584.8737530708313,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2022_64_GOC",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 523.6105248332024,
+      "y": 592.1617260575294,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2019_185_PCM",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 227.97673106193542,
+      "y": 395.0549077987671,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 235.50747952461242,
+      "y": 396.31998354411127,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_185_PCM",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 303.28421568870544,
+      "y": 391.84895545244217,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 297.56084685707094,
+      "y": 393.91014403605465,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_185_PCM",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 1009.7863309383395,
+      "y": 855.3090559840203,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 1027.5525000000002,
+      "y": 895.485,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_185_PCM",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 983.4269340336325,
+      "y": 788.5269104242326,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 961.9375,
+      "y": 850.7475000000001,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_185_PCM",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 1098.1652587652209,
+      "y": 791.8030363917352,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1099.1325000000002,
+      "y": 850.7475000000001,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_13_ARDS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 448.8630146384239,
+      "y": 652.0164816379547,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 487.5235294117646,
+      "y": 585.8641176470587,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_13_ARDS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 423.2606897056103,
+      "y": 594.1390241384506,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 410.3588235294117,
+      "y": 527.990588235294,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_13_ARDS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 523.0711371898651,
+      "y": 600.1845872402191,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 567.4441176470588,
+      "y": 527.990588235294,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_73_MGDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 225.71388810873032,
+      "y": 433.3869928121567,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 232.84507904696466,
+      "y": 431.2048499908447,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_73_MGDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 310.60901832580566,
+      "y": 431.1369413137436,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 303.4778273875713,
+      "y": 433.2423331160545,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_84_RC",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 759.1081060171127,
+      "y": 992.4459899663925,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 784.7875,
+      "y": 1001.9125,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_84_RC",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 727.5129088759422,
+      "y": 917.2147553563118,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 725.65,
+      "y": 949.0,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_84_RC",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 844.547119140625,
+      "y": 924.3741554021835,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 850.15,
+      "y": 949.0,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_273_TSN",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 915.4206819534301,
+      "y": 787.9991521835327,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 959.0,
+      "y": 822.5375,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_273_TSN",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 884.1006388664244,
+      "y": 719.2468981742859,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 878.9849999999999,
+      "y": 757.91,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_273_TSN",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 997.1425752639769,
+      "y": 724.8696179389954,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1042.0925,
+      "y": 757.91,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_113_NLDOS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 70.502107411623,
+      "y": 124.76146072149277,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_113_NLDOS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 97.33213800191879,
+      "y": 123.57910591363907,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2019_23_ASS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 209.9832673072815,
+      "y": 397.19005316495895,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 218.51948391795156,
+      "y": 396.85291517162324,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_23_ASS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 295.3454334139824,
+      "y": 395.3167045712471,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 288.85790878987314,
+      "y": 396.1700178427696,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_52_EDOR",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 465.3250969648361,
+      "y": 621.0955812931061,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 509.92941176470595,
+      "y": 540.4894117647059,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_52_EDOR",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 434.5215500295162,
+      "y": 561.4527888894081,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 436.82352941176475,
+      "y": 489.8776470588236,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_52_EDOR",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 538.9670895338058,
+      "y": 565.221266746521,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 580.2235294117647,
+      "y": 489.8776470588236,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_64_GOC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 220.77549585700035,
+      "y": 433.36370372772217,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 229.39277987778183,
+      "y": 431.3472778918743,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_64_GOC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 306.9483360648155,
+      "y": 428.7653474807739,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 300.3992002090215,
+      "y": 427.21098156189913,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_5_ACMB",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 458.99067133665085,
+      "y": 653.6923991441727,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 472.3911764705883,
+      "y": 643.8388235294118,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_5_ACMB",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 434.91632175445557,
+      "y": 594.32108938694,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 394.0058823529412,
+      "y": 584.3741176470588,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_5_ACMB",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 532.9540619850159,
+      "y": 601.1702882051468,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 550.7764705882354,
+      "y": 584.3741176470588,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_4_ABL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 199.61699867248535,
+      "y": 401.6003950238228,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 209.81156710624697,
+      "y": 401.82321758508687,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_4_ABL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 294.0111508369446,
+      "y": 400.0741944909096,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 284.57173562049866,
+      "y": 400.31291115045553,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_77_JBDA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 211.5306729376316,
+      "y": 413.10640144348145,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 218.50849878108505,
+      "y": 410.6677193670273,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_77_JBDA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 294.60002821683884,
+      "y": 412.69166070222855,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 288.95131205785276,
+      "y": 410.00316452479365,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_27_BACS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 238.67703592777252,
+      "y": 419.11807733774185,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 247.00372729897498,
+      "y": 419.21940974259377,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_27_BACS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 321.9439496397972,
+      "y": 416.7452206015587,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 316.28179950737956,
+      "y": 415.2225978844166,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_122_RAGDA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 67.50451564788818,
+      "y": 131.0987189412117,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_122_RAGDA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 93.63081932067871,
+      "y": 130.9164896607399,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_99_MGDSN",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 452.24196067452436,
+      "y": 623.7754428982735,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2023_99_MGDSN",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 424.91642203927046,
+      "y": 565.5520279407501,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2023_99_MGDSN",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 524.6441003084183,
+      "y": 567.9306479692459,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2019_258_VPDCA",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 222.49639999866486,
+      "y": 411.94573414325714,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 228.54742724275587,
+      "y": 411.26294681835174,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_258_VPDCA",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 311.4820947647095,
+      "y": 409.3078202009201,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 307.56672419500353,
+      "y": 409.839175702095,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_27_DL",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 867.1272218227386,
+      "y": 746.7500448226929,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 905.7325000000001,
+      "y": 752.2775000000001,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_27_DL",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 840.8916234970093,
+      "y": 683.4329605102539,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 827.6500000000001,
+      "y": 674.1950000000002,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_27_DL",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 948.0766654014587,
+      "y": 687.1024370193481,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 983.815,
+      "y": 671.5025,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_40_GL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 211.97462213039398,
+      "y": 467.1250510811806,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 220.35285393190387,
+      "y": 464.87005081415174,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_40_GL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 322.2145142555237,
+      "y": 461.66111040115356,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 315.60012072801595,
+      "y": 463.10621254014967,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_161_MMC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 247.61604425311089,
+      "y": 437.8053329586983,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 259.12162130343916,
+      "y": 434.60946537351606,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_161_MMC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 340.4029559493065,
+      "y": 433.1608756184578,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 331.12426477968694,
+      "y": 430.8979889056683,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_50_DSE",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 784.3995943665504,
+      "y": 682.2518993020058,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 752.4529411764706,
+      "y": 554.0417647058823,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_50_DSE",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 759.9663703143597,
+      "y": 620.8875150084496,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 680.8,
+      "y": 501.67999999999995,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_50_DSE",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 862.5932398438454,
+      "y": 626.2963843941689,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 821.3499999999999,
+      "y": 501.67999999999995,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_53_JDLN",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 432.10977104306227,
+      "y": 617.5143653154374,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 400.24999999999994,
+      "y": 514.05,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_53_JDLN",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 404.7379014194012,
+      "y": 560.6229014992715,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 328.84999999999997,
+      "y": 468.14999999999986,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_53_JDLN",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 503.5749313235284,
+      "y": 564.9100164771081,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 474.2,
+      "y": 463.04999999999995,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_2_ABR",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 801.3651574552059,
+      "y": 700.2623681426048,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 765.135,
+      "y": 679.1474999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_2_ABR",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 776.8929967582226,
+      "y": 635.681942999363,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 683.3100000000001,
+      "y": 619.1424999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_2_ABR",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 883.2432526946068,
+      "y": 641.0591133236885,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 844.2325000000001,
+      "y": 610.9599999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_84_RC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 215.32518416643143,
+      "y": 419.85038608312607,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 223.26372031354907,
+      "y": 413.0318093268871,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_84_RC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 309.83156687021255,
+      "y": 414.8198691010475,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 303.40513284635546,
+      "y": 410.7636561419964,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 401.5712992548942,
+      "y": 648.015079498291,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 459.37,
+      "y": 568.5224999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 376.9251660704612,
+      "y": 591.564291715622,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 384.7675,
+      "y": 519.645,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 473.10086083412165,
+      "y": 596.463251709938,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 528.8275,
+      "y": 511.9274999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_13_ARDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 220.8336445093155,
+      "y": 412.66561818122864,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 229.32668158268933,
+      "y": 409.83040965271,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_13_ARDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 313.1492648720741,
+      "y": 410.60186648368835,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 306.1332777245045,
+      "y": 408.35335972690586,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_98_UDSLB",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 1047.4233300089836,
+      "y": 886.9480519294739,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 1038.3899999999999,
+      "y": 945.72,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_98_UDSLB",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 1023.8321637511253,
+      "y": 819.680742263794,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 963.77,
+      "y": 894.06,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_98_UDSLB",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 1142.6813877820969,
+      "y": 821.1139025688171,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1115.8799999999999,
+      "y": 891.1899999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_72_INR",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 414.0614928305149,
+      "y": 667.8595953583717,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 450.135,
+      "y": 598.145,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_72_INR",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 388.93305361270905,
+      "y": 609.2034786343575,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 386.89500000000004,
+      "y": 548.0799999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_72_INR",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 490.33947217464447,
+      "y": 614.7954593896866,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 513.375,
+      "y": 545.4449999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 315.34370708465576,
+      "y": 388.4564962387085,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 307.73970651626587,
+      "y": 361.1436777114868,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 351.70476722717285,
+      "y": 361.8958959579468,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2021_53_JDLN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 248.2013652920723,
+      "y": 415.8074876666069,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 257.82398007678984,
+      "y": 416.0548590230942,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_53_JDLN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 331.1549410223961,
+      "y": 411.52194917201996,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 323.5232120552063,
+      "y": 413.40034459972384,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_196_RAL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 210.5086966753006,
+      "y": 400.211036503315,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 216.16854073476787,
+      "y": 396.16244608211514,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_196_RAL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 293.74169754981995,
+      "y": 397.0030075907707,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 288.74771749734873,
+      "y": 392.8331260471344,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_87_RPDSN",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 979.7057426869872,
+      "y": 845.46684974432,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 1016.1025000000001,
+      "y": 814.5225,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_87_RPDSN",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 947.1545321047308,
+      "y": 771.1042612791063,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 938.5400000000001,
+      "y": 740.0625,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_87_RPDSN",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 1069.8507491350176,
+      "y": 777.7802240252496,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1096.7675,
+      "y": 746.2674999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_98_UDSLB",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 198.59132730960846,
+      "y": 458.51720720529556,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 209.74444473981856,
+      "y": 451.9958166415692,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_98_UDSLB",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 310.1225016117096,
+      "y": 453.8076415657997,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 300.7538829703331,
+      "y": 450.2113178527356,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_48_EA",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 367.7105140686035,
+      "y": 551.4211696386337,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 382.4470588235294,
+      "y": 482.41058823529403,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_48_EA",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 341.90876054763794,
+      "y": 500.78800785541534,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 316.4294117647059,
+      "y": 434.60470588235285,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_48_EA",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 435.78068912029266,
+      "y": 503.2192919254303,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 448.4647058823529,
+      "y": 434.60470588235285,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 403.8287854194641,
+      "y": 643.7562829256058,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 370.6025,
+      "y": 513.9175,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 385.52222341299057,
+      "y": 590.6992274522781,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 306.04,
+      "y": 464.85,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 477.83961713314056,
+      "y": 596.9075435400009,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 437.74750000000006,
+      "y": 464.85,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_3_ABLDO",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 386.3271363377571,
+      "y": 562.4366354942323,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 404.12647058823535,
+      "y": 457.95000000000005,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_3_ABLDO",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 358.84027141332626,
+      "y": 507.783272266388,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 330.5470588235295,
+      "y": 408.1058823529412,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_3_ABLDO",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 453.5992782115936,
+      "y": 510.9100359678269,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 477.7058823529412,
+      "y": 408.1058823529412,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_196_RAL",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 911.5707564353942,
+      "y": 784.1831297874451,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 918.875,
+      "y": 829.6875,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_196_RAL",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 886.8548154830931,
+      "y": 718.0877504348755,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 845.4375,
+      "y": 779.75,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_196_RAL",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 998.6113715171813,
+      "y": 722.0582580566406,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 995.25,
+      "y": 779.75,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_44_HMDMS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 244.03337907791138,
+      "y": 438.96968364715576,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 254.02040262413024,
+      "y": 436.8469486942292,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_44_HMDMS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 336.5058193206787,
+      "y": 439.50194120407104,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 327.99835481834407,
+      "y": 436.10716917228706,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_72_INR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 224.02015417814255,
+      "y": 391.2908128499985,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 232.67314660549164,
+      "y": 390.8359933972358,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_72_INR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 310.55007845163345,
+      "y": 388.4545564651489,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 303.28156481266024,
+      "y": 385.9903176379204,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_33_ELSO",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 210.40366649627686,
+      "y": 419.6884871125221,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 221.00843977928162,
+      "y": 415.31194049954416,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_33_ELSO",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 316.45139932632446,
+      "y": 415.55717581510544,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 306.6950079059601,
+      "y": 411.91841304898264,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_2_ABR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 227.9189608991146,
+      "y": 444.5479229092598,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 235.70226097404958,
+      "y": 438.2485620260239,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_2_ABR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 320.5772951245308,
+      "y": 437.8555530309677,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 313.5352617233991,
+      "y": 434.54222865700723,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_73_MGDS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 452.28931263089186,
+      "y": 648.50593572855,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 415.4,
+      "y": 613.28,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_73_MGDS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 423.23616009950644,
+      "y": 586.694331407547,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 351.0,
+      "y": 557.28,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_73_MGDS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 530.0076998472214,
+      "y": 594.2980879545212,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 482.59999999999997,
+      "y": 557.28,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 154.20754539966583,
+      "y": 256.9832729101181,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 126.81394916772842,
+      "y": 248.12176769971848,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 132.1650306403637,
+      "y": 246.25306017923356,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2023_29_CC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 180.32476389408112,
+      "y": 245.79692387580872,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 175.82985545706748,
+      "y": 244.9688006258011,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_44_GCC",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 455.2305156290531,
+      "y": 615.7518598437309,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2021_44_GCC",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 424.90507501363754,
+      "y": 557.709441781044,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2021_44_GCC",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 524.3419342041016,
+      "y": 560.9448564052582,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "reason": "Artefatos/definição insuficiente para confirmar margens nasais"
+    }
+  },
+  {
+    "person": "2017_37_GABDJ",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 975.8745322227478,
+      "y": 830.9980592727662,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 1003.4999999999999,
+      "y": 836.0799999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_37_GABDJ",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 949.5976755619049,
+      "y": 765.0412640571595,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 935.8199999999999,
+      "y": 788.1399999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_37_GABDJ",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 1063.8763208389285,
+      "y": 768.131573200226,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1079.6399999999999,
+      "y": 779.68,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_33_ELSO",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 543.951174646616,
+      "y": 650.9155071973801,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 525.2941176470588,
+      "y": 506.91294117647055,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_33_ELSO",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 517.8543776571751,
+      "y": 593.9849779605865,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 453.3411764705882,
+      "y": 451.31294117647053,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_33_ELSO",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 616.5115060210228,
+      "y": 596.5163808465004,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 597.2470588235294,
+      "y": 451.31294117647053,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_106_MCPDS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 227.24288088083267,
+      "y": 446.96003890037537,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 234.65683391332624,
+      "y": 444.20157168149944,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_106_MCPDS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 315.5042265057564,
+      "y": 445.37073957920074,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 308.7963642382622,
+      "y": 442.08329938650127,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_122_RAGDA",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 376.8643101453781,
+      "y": 523.5824942588806,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 388.0470588235294,
+      "y": 433.7952941176471,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_122_RAGDA",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 348.3763608932495,
+      "y": 476.69405460357666,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 327.78823529411767,
+      "y": 385.12470588235294,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_122_RAGDA",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 442.90298867225647,
+      "y": 478.32509994506836,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 452.94117647058823,
+      "y": 382.8070588235294,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 257.2654618024826,
+      "y": 449.21037101745605,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 206.38742941617966,
+      "y": 432.02613067626953,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 213.31294405817985,
+      "y": 428.65124767780304,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_103_MBS",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 308.2332329750061,
+      "y": 430.90558433532715,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 302.9372511899471,
+      "y": 427.83648124933245,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 457.6911301612854,
+      "y": 628.6170637607574,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 479.26764705882346,
+      "y": 458.73529411764696,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 431.2220562696457,
+      "y": 570.8438694477081,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 399.6882352941176,
+      "y": 401.10882352941167,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 527.6406307220459,
+      "y": 575.6575548648834,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 558.8470588235293,
+      "y": 401.10882352941167,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_106_MCPDS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 459.79436025023455,
+      "y": 632.4637213349341,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 455.7058823529411,
+      "y": 600.1235294117646,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_106_MCPDS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 431.0000522434711,
+      "y": 569.7474998235701,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 384.97058823529414,
+      "y": 540.7058823529411,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_106_MCPDS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 534.785759449005,
+      "y": 576.5428966283797,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 526.4411764705882,
+      "y": 537.8764705882353,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_22_CAJN",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 399.8896288871766,
+      "y": 655.4707288742067,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 422.9124999999999,
+      "y": 596.125,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_22_CAJN",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 378.64537048339855,
+      "y": 597.8474872112275,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 355.63749999999993,
+      "y": 539.1999999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_22_CAJN",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 476.1340014934541,
+      "y": 603.6085481643678,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 492.7749999999999,
+      "y": 536.6125,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_62_LCMR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 202.58039197325706,
+      "y": 414.85703694820404,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 210.6561189647913,
+      "y": 412.36478393363956,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_62_LCMR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 298.71999901533127,
+      "y": 411.77816820144653,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 291.41338888013365,
+      "y": 410.0574333646298,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_77_JBDA",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 434.13634154200554,
+      "y": 616.0161572694778,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 464.1235294117647,
+      "y": 580.8347058823529,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_77_JBDA",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 405.7612951397896,
+      "y": 558.3335748314857,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 400.38235294117646,
+      "y": 535.6847058823529,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2022_77_JBDA",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 505.2728708386421,
+      "y": 563.4944206476212,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 530.5205882352941,
+      "y": 533.0288235294117,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_143_TMMP",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 429.7316207885742,
+      "y": 626.5851787924767,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 507.9764705882353,
+      "y": 555.9247058823529,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_143_TMMP",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 397.4969174861908,
+      "y": 568.1534461379051,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 439.45882352941175,
+      "y": 508.4894117647059,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_143_TMMP",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 498.49343621730804,
+      "y": 570.8337703943253,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 573.8588235294118,
+      "y": 508.4894117647059,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_87_RPDSN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 213.14103585481644,
+      "y": 443.90846955776215,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 222.5451298024654,
+      "y": 442.5373122124672,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_87_RPDSN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 325.09453523159027,
+      "y": 441.65955996513367,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 318.3773252689838,
+      "y": 439.85042822742463,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_111_MVDM",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 83.72785672545433,
+      "y": 177.69366085529327,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_111_MVDM",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 122.09471762180328,
+      "y": 177.03686434030533,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 263.74517917633057,
+      "y": 421.2385085821152,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 217.80511736869812,
+      "y": 406.3996832370758,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 226.8299921751022,
+      "y": 406.70418657183643,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_34_DDAP",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 308.05386543273926,
+      "y": 405.1656842827797,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 301.19496057987214,
+      "y": 405.26020660281176,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_135_SDSB",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 429.3912506103515,
+      "y": 607.9464166164398,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 475.26176470588246,
+      "y": 551.3041176470589,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_135_SDSB",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 399.3573942780494,
+      "y": 549.9203976988792,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 412.50882352941187,
+      "y": 501.62470588235306,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_135_SDSB",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 498.5572035312652,
+      "y": 553.2141112685204,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 538.0147058823529,
+      "y": 501.62470588235306,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_57_JHGL",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 223.44696071743965,
+      "y": 406.9078763127327,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 231.04207563388348,
+      "y": 404.23645405673983,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_57_JHGL",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 306.0025576353073,
+      "y": 403.9243115782738,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 300.3887770448923,
+      "y": 403.57600928139686,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_145_MARP",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 384.00869223475456,
+      "y": 755.236182808876,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 405.9925,
+      "y": 787.965,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_145_MARP",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 354.7882314324379,
+      "y": 686.8310299515724,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 330.805,
+      "y": 733.83,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_145_MARP",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 463.04039764404297,
+      "y": 693.3702811598778,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 484.18750000000006,
+      "y": 730.8225,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_258_VPDCA",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 459.49245938658714,
+      "y": 619.7670659422876,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 469.4852941176471,
+      "y": 557.6170588235294,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_258_VPDCA",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 429.4283464550972,
+      "y": 561.0293374657632,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 388.2,
+      "y": 507.1641176470588,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_258_VPDCA",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 530.0868998765947,
+      "y": 564.5058985948564,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 545.1647058823529,
+      "y": 501.55823529411765,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_161_MMC",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 910.6070292592048,
+      "y": 788.2612503170965,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 908.8200000000002,
+      "y": 832.22,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_161_MMC",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 881.3912629187106,
+      "y": 718.2018578648565,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 836.1000000000001,
+      "y": 765.5600000000001,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_161_MMC",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 997.3820836544036,
+      "y": 723.9839128255842,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 975.48,
+      "y": 762.5300000000001,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_145_MARP",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 224.60261225700378,
+      "y": 431.200257897377,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 231.55793104410174,
+      "y": 424.6876946127415,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_145_MARP",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 316.11996471881866,
+      "y": 426.54431146383286,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 310.6289235711098,
+      "y": 421.02700051426893,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2023_111_MVDM",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 489.54984471201897,
+      "y": 631.4222909212112,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 519.4823529411765,
+      "y": 543.0723529411765,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_111_MVDM",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 470.534161478281,
+      "y": 580.0178311467171,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 453.6764705882353,
+      "y": 489.23117647058825,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_111_MVDM",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 559.2316880822182,
+      "y": 581.3388220667839,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 585.2882352941177,
+      "y": 489.23117647058825,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_52_EDOR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 120.01229682564735,
+      "y": 257.06778633594513,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_52_EDOR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 170.7690578699112,
+      "y": 256.1899662017822,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2019_174_NBDR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 237.1056979894638,
+      "y": 422.83182549476624,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 245.2802941441536,
+      "y": 420.1955191600323,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_174_NBDR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 318.8516595363617,
+      "y": 418.43575924634933,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 313.29293415117263,
+      "y": 416.2717130057812,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 257.93660831451416,
+      "y": 416.11439794301987,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 2
+    },
+    "after": {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 2,
+      "reason": "Pelos dificultam confirmar encontro columela/lábio na imagem"
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 216.06332576274872,
+      "y": 404.0394136309624,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 224.6250122904778,
+      "y": 402.48491919875147,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_79_JFRC",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 301.68019104003906,
+      "y": 402.5541388988495,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 294.4883743567467,
+      "y": 401.7999842765331,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_23_CASJ",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 215.46855306625366,
+      "y": 440.8758470416069,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 222.73404022073743,
+      "y": 438.6227747030258,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_23_CASJ",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 301.9624477624893,
+      "y": 436.2236362695694,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 294.00500945043564,
+      "y": 437.23887238788603,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_22_CAJN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 199.66403317451477,
+      "y": 417.79540902376175,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 208.28946441793443,
+      "y": 413.84189360547066,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2021_22_CAJN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 293.4187206029892,
+      "y": 414.25422757864,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 287.0434018578529,
+      "y": 411.5917811071873,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2022_143_RMOR",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 231.7334502339363,
+      "y": 401.39868092536926,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 239.9038623740673,
+      "y": 400.0162021603584,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2022_143_RMOR",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 329.000261425972,
+      "y": 398.6058746576309,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 322.38611826491353,
+      "y": 396.90366420221324,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 1039.279899775982,
+      "y": 881.7768738269806,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 1065.3825000000002,
+      "y": 851.2574999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 1009.4892671108246,
+      "y": 811.2397938370705,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 993.6800000000001,
+      "y": 767.0849999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_20_CRAU",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 1129.409451007843,
+      "y": 815.8666887283325,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1137.085,
+      "y": 767.0849999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_174_NBDR",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 717.7641065120697,
+      "y": 619.9055075645447,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 683.035294117647,
+      "y": 547.2976470588235,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_174_NBDR",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 699.2328788042068,
+      "y": 567.2368913888931,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 612.7382352941175,
+      "y": 490.60647058823525,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_174_NBDR",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 790.001206278801,
+      "y": 570.954922914505,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 748.7970588235294,
+      "y": 490.60647058823525,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_37_GABDJ",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 213.6889018714428,
+      "y": 407.17632323503494,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 222.84791819751263,
+      "y": 405.74085060834886,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2017_37_GABDJ",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 305.2790651321411,
+      "y": 406.3591416478157,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 297.58549141824244,
+      "y": 404.2754079961777,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_23_ASS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 999.8909118175507,
+      "y": 837.4895198345184,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 981.2705882352941,
+      "y": 951.2182352941177,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_23_ASS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 985.9411064386368,
+      "y": 779.4905858039856,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 915.714705882353,
+      "y": 889.8917647058825,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_23_ASS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 1091.0233790874481,
+      "y": 778.6972935199738,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 1046.8264705882352,
+      "y": 889.8917647058825,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_3_ABLDO",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 212.73590862751007,
+      "y": 407.0691451430321,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 218.41625086641312,
+      "y": 411.38233092427254,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2023_3_ABLDO",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 296.27035331726074,
+      "y": 405.1377798318863,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 291.2582866358757,
+      "y": 409.3775042517185,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2017_44_HMDMS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 779.0065652132035,
+      "y": 799.4875962734222,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 793.5325,
+      "y": 734.8499999999999,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_44_HMDMS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 752.4798291921617,
+      "y": 733.5934455394745,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 728.2475,
+      "y": 690.3375,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2017_44_HMDMS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 856.9639456272126,
+      "y": 739.90167927742,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 855.8499999999999,
+      "y": 690.3375,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2023_143_TMMP",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 61.96342468261719,
+      "y": 114.52596300840378,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 64,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2023_143_TMMP",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 88.50092887878418,
+      "y": 113.63169974088669,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": null,
+      "y": null,
+      "estado": "INDETERMINADO",
+      "visibility": "INDETERMINADO",
+      "method": "mediapipe",
+      "mesh_index": 294,
+      "reason": "Limite alar pouco definido na resolução disponível"
+    }
+  },
+  {
+    "person": "2021_23_CASJ",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 415.7375793457031,
+      "y": 644.8411865234375,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 404.19705882352935,
+      "y": 576.0582352941176,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_23_CASJ",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 391.08856201171875,
+      "y": 586.3779296875,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 340.15294117647056,
+      "y": 524.8229411764705,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_23_CASJ",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 488.3436279296875,
+      "y": 592.2654418945312,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 475.92647058823525,
+      "y": 517.1376470588235,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2019_273_TSN",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 205.73066747188568,
+      "y": 421.2018921971321,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 213.7055757164955,
+      "y": 416.6693537199497,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_273_TSN",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 285.479749917984,
+      "y": 417.648157119751,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 278.7808269925117,
+      "y": 414.75537574124337,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2019_50_DSE",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 236.18569481372833,
+      "y": 433.21389055252075,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 64
+    },
+    "after": {
+      "numero": 3,
+      "x": 243.5740517144203,
+      "y": 430.2580877764224,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 64
+    }
+  },
+  {
+    "person": "2019_50_DSE",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 316.49392199516296,
+      "y": 429.8474205136299,
+      "estado": "MEDIAPIPE_CANDIDATO",
+      "visibility": "NAO_AVALIADO",
+      "method": "mediapipe",
+      "mesh_index": 294
+    },
+    "after": {
+      "numero": 4,
+      "x": 310.3904967293739,
+      "y": 427.04575868916504,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "method": "visual_ia_outer_alar",
+      "mesh_index": 294
+    }
+  },
+  {
+    "person": "2021_4_ABL",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 437.71159315109253,
+      "y": 636.4443836212158,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 434.0705882352942,
+      "y": 526.64,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_4_ABL",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 412.97354793548584,
+      "y": 577.5962710380554,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 370.2588235294118,
+      "y": 486.7576470588235,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_4_ABL",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 509.36163306236267,
+      "y": 582.8917837142944,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 497.8823529411765,
+      "y": 486.7576470588235,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_16_ARRDS",
+    "modality": "cranio",
+    "numero": 2,
+    "before": {
+      "numero": 2,
+      "x": 352.633149176836,
+      "y": 470.84922790527344,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 2,
+      "x": 382.42647058823525,
+      "y": 380.29941176470584,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_16_ARRDS",
+    "modality": "cranio",
+    "numero": 3,
+    "before": {
+      "numero": 3,
+      "x": 330.6482584178448,
+      "y": 426.31027948856354,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 3,
+      "x": 308.12647058823524,
+      "y": 330.0376470588235,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  },
+  {
+    "person": "2021_16_ARRDS",
+    "modality": "cranio",
+    "numero": 4,
+    "before": {
+      "numero": 4,
+      "x": 415.6713282465935,
+      "y": 430.82946997880936,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    "after": {
+      "numero": 4,
+      "x": 454.54117647058814,
+      "y": 330.0376470588235,
+      "estado": "PROPOSTA_AJUSTADA_IA",
+      "visibility": "NAO_AVALIADO",
+      "reason": "",
+      "method": "visual_ia_piriform_aperture"
+    }
+  }
+]

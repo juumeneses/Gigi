@@ -1,0 +1,21 @@
+{
+  "signature": "207e452872daf358658a02e077ad5436f61aabc3c083d3920ab419dec3e74fae",
+  "metadata": {
+    "id": "2021_77_MPSF",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_77_MPSF_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_77_MPSF_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 743,
+    "contraste": 71.65112847435088,
+    "nitidez_512": 960.914620146777,
+    "sha256": "207e452872daf358658a02e077ad5436f61aabc3c083d3920ab419dec3e74fae",
+    "bytes": 42039
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "8895546f453be770d73dccfa5773a615a87d51b02a447c807b013ba18f15443b",
+  "metadata": {
+    "id": "2023_122_RAGDA",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_122_RAGDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_122_RAGDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 160,
+    "altura": 225,
+    "contraste": 75.6460395777302,
+    "nitidez_512": 2627.0776098765423,
+    "sha256": "8895546f453be770d73dccfa5773a615a87d51b02a447c807b013ba18f15443b",
+    "bytes": 7382
+  }
+}

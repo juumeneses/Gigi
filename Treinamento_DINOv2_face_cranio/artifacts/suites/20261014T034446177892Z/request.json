@@ -1,0 +1,18 @@
+{
+  "manifest": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/inventories/20261014T022841853216Z/manifest.json",
+  "experiment": "E6",
+  "seeds": [
+    42
+  ],
+  "mode": "matched",
+  "epochs": 100,
+  "lr": 0.001,
+  "batch": 32,
+  "patience": 15,
+  "weight_decay": 0.0001,
+  "size": 224,
+  "loss": "infonce",
+  "temperature": 0.07,
+  "margin": 0.2,
+  "device": "auto"
+}

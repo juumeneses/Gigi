@@ -1,0 +1,21 @@
+{
+  "signature": "192126fb56cca341525b75f0f1cbc4ce0bcc2b89396dec4d7315086815042ea3",
+  "metadata": {
+    "id": "2023_139_TDDS",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_139_TDDS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_139_TDDS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1090,
+    "altura": 959,
+    "contraste": 90.65901023942995,
+    "nitidez_512": 878.0028786156923,
+    "sha256": "192126fb56cca341525b75f0f1cbc4ce0bcc2b89396dec4d7315086815042ea3",
+    "bytes": 257061
+  }
+}

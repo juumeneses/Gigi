@@ -1,0 +1,175 @@
+{
+  "item": {
+    "key": "7a12724bafb8f64293bd",
+    "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_76_MVXP/2017_76_MVXP_CF.jpg",
+    "filename": "2017_76_MVXP_CF.jpg",
+    "person": "2017_76_MVXP",
+    "year": "2017",
+    "view": "CF",
+    "modality": "cranio"
+  },
+  "fingerprint": "eb070d798e76c3ced2f3476d678025aa2f5367393423d75dafe48b327964f0b2",
+  "action": "regions",
+  "points": [
+    {
+      "numero": 1,
+      "x": 998.0,
+      "y": 519.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Relevo anterior nao confirmavel pela frontal."
+    },
+    {
+      "numero": 2,
+      "x": null,
+      "y": null,
+      "estado": "DUVIDA",
+      "observacao": "Limite inferior nasal artefatual, nao localizado com seguranca."
+    },
+    {
+      "numero": 3,
+      "x": 926.0,
+      "y": 770.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+    },
+    {
+      "numero": 4,
+      "x": 1078.0,
+      "y": 772.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Largura ossea e externa diferentes; tecido mole."
+    },
+    {
+      "numero": 5,
+      "x": 725.0,
+      "y": 594.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+    },
+    {
+      "numero": 6,
+      "x": 1288.0,
+      "y": 586.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+    },
+    {
+      "numero": 7,
+      "x": 989.0,
+      "y": 1224.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+    },
+    {
+      "numero": 8,
+      "x": 656.0,
+      "y": 731.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+    },
+    {
+      "numero": 9,
+      "x": 1366.0,
+      "y": 724.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+    },
+    {
+      "numero": 10,
+      "x": 959.0,
+      "y": 594.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+    },
+    {
+      "numero": 11,
+      "x": 1043.0,
+      "y": 586.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+    }
+  ],
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        678.2,
+        590.0,
+        1005.8,
+        598.0
+      ],
+      "margin": [
+        46.800000000000004,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        994.0,
+        582.0,
+        1337.0,
+        590.0
+      ],
+      "margin": [
+        49.0,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "REGIAO_INDISPONIVEL",
+      "required": [
+        2,
+        3,
+        4
+      ]
+    },
+    "central": {
+      "status": "REGIAO_INDISPONIVEL",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        514.0,
+        624.0,
+        1508.0,
+        1324.0
+      ],
+      "margin": [
+        142.0,
+        100.0
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "contours": [],
+  "assets": {
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203858119023Z/7a12724bafb8f64293bd/preview.png": "f80a04896c394e676815398b9cd8c2619ce93417c0df7607d12e8c1fc2092972"
+  },
+  "status": "PROPOSTA_IA",
+  "reason": "",
+  "preview": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203858119023Z/7a12724bafb8f64293bd/preview.png"
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "bc3fce5a3a27473815bb20c68bdd4cf761ca29594834e76c428ebbc085490190",
+  "metadata": {
+    "id": "2022_18_BCDPC",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_18_BCDPC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_18_BCDPC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 736,
+    "contraste": 68.19888696957663,
+    "nitidez_512": 946.8334879266056,
+    "sha256": "bc3fce5a3a27473815bb20c68bdd4cf761ca29594834e76c428ebbc085490190",
+    "bytes": 34779
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "039eef4bb1cfbd10d03c933c91643617fd8ab900827309ca9bc13f7604180611",
+  "metadata": {
+    "id": "2022_55_FISPT",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_55_FISPT_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_55_FISPT_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 745,
+    "contraste": 77.57174540257196,
+    "nitidez_512": 1447.005017259446,
+    "sha256": "039eef4bb1cfbd10d03c933c91643617fd8ab900827309ca9bc13f7604180611",
+    "bytes": 49351
+  }
+}

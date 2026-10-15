@@ -1,0 +1,21 @@
+{
+  "signature": "99043cd2fce82473d94e57490b729d2c72c71c544d9d2783ec0d5e503167e185",
+  "metadata": {
+    "id": "2023_2_ABB",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_2_ABB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_2_ABB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 767,
+    "contraste": 80.74684931054254,
+    "nitidez_512": 1081.395588810417,
+    "sha256": "99043cd2fce82473d94e57490b729d2c72c71c544d9d2783ec0d5e503167e185",
+    "bytes": 49933
+  }
+}

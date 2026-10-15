@@ -1,0 +1,21 @@
+{
+  "signature": "737401a63820b2eb74802c66cfe498241e56c9903d7f44d6b85602d6f15137a7",
+  "metadata": {
+    "id": "2023_54_EMAT",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_54_EMAT_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_54_EMAT_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 650,
+    "altura": 831,
+    "contraste": 81.95647107347162,
+    "nitidez_512": 766.4520981665612,
+    "sha256": "737401a63820b2eb74802c66cfe498241e56c9903d7f44d6b85602d6f15137a7",
+    "bytes": 180361
+  }
+}

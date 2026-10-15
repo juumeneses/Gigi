@@ -1,0 +1,12 @@
+{
+  "path": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/resultados/genero_faces/genero_faces_curado.csv",
+  "sha256": "20de18ed10b6143e0b9078ecdde4ef7d60c3940c82bee682d5075a3a8e948954",
+  "rows": 795,
+  "origins": {
+    "FAIRFACE_ALTA_CONFIANCA": 609,
+    "CORRIGIDO_MANUALMENTE": 139,
+    "FAIRFACE_CONFIRMADO_MANUALMENTE": 47
+  },
+  "usage": "COMPARACAO_COM_CURADORIA",
+  "documented": false
+}

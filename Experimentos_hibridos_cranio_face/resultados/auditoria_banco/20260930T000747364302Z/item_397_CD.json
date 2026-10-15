@@ -1,0 +1,21 @@
+{
+  "signature": "86f7b5fa7252cb147edd0abaef3dc9bda3c0279cf5bbc0d88c657f1871ffc220",
+  "metadata": {
+    "id": "2021_28_DJTT",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_28_DJTT_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_28_DJTT_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1041,
+    "altura": 1049,
+    "contraste": 92.01002311418432,
+    "nitidez_512": 830.5772155402311,
+    "sha256": "86f7b5fa7252cb147edd0abaef3dc9bda3c0279cf5bbc0d88c657f1871ffc220",
+    "bytes": 270928
+  }
+}

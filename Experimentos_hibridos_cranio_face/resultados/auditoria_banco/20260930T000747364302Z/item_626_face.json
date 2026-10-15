@@ -1,0 +1,21 @@
+{
+  "signature": "546a42dd7ab48c756ddce0fadbcc79dbf7ea37b528d3176ef07d2cb819b2b854",
+  "metadata": {
+    "id": "2022_86_KCDAL",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_86_KCDAL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_86_KCDAL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 751,
+    "contraste": 81.52384218252539,
+    "nitidez_512": 955.3915882973433,
+    "sha256": "546a42dd7ab48c756ddce0fadbcc79dbf7ea37b528d3176ef07d2cb819b2b854",
+    "bytes": 50141
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "f3e71da0fbacdf1a78066adaef20a200eaac90db61c9812c5b220fddedc80843",
+  "metadata": {
+    "id": "2019_225_TMT",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_225_TMT_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_225_TMT_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 526,
+    "altura": 731,
+    "contraste": 67.1690001472722,
+    "nitidez_512": 271.77343641379264,
+    "sha256": "f3e71da0fbacdf1a78066adaef20a200eaac90db61c9812c5b220fddedc80843",
+    "bytes": 33169
+  }
+}

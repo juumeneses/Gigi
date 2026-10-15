@@ -1,0 +1,21 @@
+{
+  "signature": "5fce8b41f6581397e104a93350a7374753d8c04447118152e40b0ef910ef10f2",
+  "metadata": {
+    "id": "2019_205_RCS",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_205_RCS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_205_RCS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1562,
+    "altura": 1019,
+    "contraste": 100.30559329645023,
+    "nitidez_512": 1241.8414810990682,
+    "sha256": "5fce8b41f6581397e104a93350a7374753d8c04447118152e40b0ef910ef10f2",
+    "bytes": 262201
+  }
+}

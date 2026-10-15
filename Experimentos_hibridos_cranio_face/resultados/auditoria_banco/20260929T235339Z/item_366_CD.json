@@ -1,0 +1,21 @@
+{
+  "signature": "2f8c4a388998af604338fafe682a0b7852c3b26a265b669436d1960c681e3c84",
+  "metadata": {
+    "id": "2019_93_IMS",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_93_IMS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_93_IMS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1999,
+    "altura": 1305,
+    "contraste": 94.81128378988709,
+    "nitidez_512": 1034.890753648952,
+    "sha256": "2f8c4a388998af604338fafe682a0b7852c3b26a265b669436d1960c681e3c84",
+    "bytes": 182126
+  }
+}

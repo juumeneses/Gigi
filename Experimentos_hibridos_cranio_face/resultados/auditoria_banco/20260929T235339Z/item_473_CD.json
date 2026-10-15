@@ -1,0 +1,21 @@
+{
+  "signature": "c2f9092415c8e585bb9ad1dc2bb866f964b406c38ab128f1923fdf9b3ac387aa",
+  "metadata": {
+    "id": "2021_98_TSDA",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_98_TSDA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_98_TSDA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 759,
+    "altura": 1230,
+    "contraste": 83.59617325972557,
+    "nitidez_512": 1299.1393450791784,
+    "sha256": "c2f9092415c8e585bb9ad1dc2bb866f964b406c38ab128f1923fdf9b3ac387aa",
+    "bytes": 268378
+  }
+}

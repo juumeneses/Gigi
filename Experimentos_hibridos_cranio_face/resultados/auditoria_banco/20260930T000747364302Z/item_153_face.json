@@ -1,0 +1,21 @@
+{
+  "signature": "d2570b46ad97320eb44ff30be6c7c86a8972aa2daeec78b4a10253346c7cf9c0",
+  "metadata": {
+    "id": "2019_150_MCC",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_150_MCC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_150_MCC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 753,
+    "contraste": 84.27381512208386,
+    "nitidez_512": 688.8730541556008,
+    "sha256": "d2570b46ad97320eb44ff30be6c7c86a8972aa2daeec78b4a10253346c7cf9c0",
+    "bytes": 38581
+  }
+}

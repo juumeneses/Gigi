@@ -1,0 +1,207 @@
+{
+  "key": "575a5e745994b2b64e32",
+  "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_84_RC/2017_84_RC_FFN.jpg",
+  "filename": "2017_84_RC_FFN.jpg",
+  "person": "2017_84_RC",
+  "year": "2017",
+  "view": "FFN",
+  "modality": "face",
+  "hash": "8d7bc275f5eff4e914f6b0b52b279d20d8cb9a35ede9a3f2f21a8b570e0304f5",
+  "split": "treino",
+  "points": [
+    {
+      "numero": 1,
+      "x": 262.08819472789764,
+      "y": 295.8010016381741,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 2,
+      "x": 264.8638024330139,
+      "y": 443.7716075778008,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 3,
+      "x": 224.78900679945946,
+      "y": 427.14673608541494,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 4,
+      "x": 304.4646363854408,
+      "y": 424.1100242733956,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 5,
+      "x": 128.39347803592682,
+      "y": 346.88320040702826,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 6,
+      "x": 388.82768416404724,
+      "y": 340.76581537723547,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 7,
+      "x": 251.64345318078995,
+      "y": 618.2503417134286,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 8,
+      "x": 77.30366373062132,
+      "y": 385.2354416251183,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 9,
+      "x": 437.3740425109864,
+      "y": 376.1124730110169,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 10,
+      "x": 229.8773174881935,
+      "y": 332.29580685496336,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    },
+    {
+      "numero": 11,
+      "x": 311.1317610144615,
+      "y": 345.0838245451451,
+      "estado": "PROPOSTA_MODELO",
+      "visibility": "NAO_AVALIADO",
+      "reason": ""
+    }
+  ],
+  "width": 523,
+  "height": 745,
+  "status": "PROPOSTA",
+  "regions": {
+    "olho_direito": {
+      "status": "PROPOSTA",
+      "required": [
+        5,
+        10
+      ],
+      "box": [
+        108.09671014547348,
+        328.29580685496336,
+        250.17408537864685,
+        350.88320040702826
+      ],
+      "margin": [
+        20.29676789045334,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "olho_esquerdo": {
+      "status": "PROPOSTA",
+      "required": [
+        6,
+        11
+      ],
+      "box": [
+        295.5925763845444,
+        336.76581537723547,
+        404.3668687939644,
+        349.0838245451451
+      ],
+      "margin": [
+        15.539184629917145,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "nariz": {
+      "status": "PROPOSTA",
+      "required": [
+        2,
+        3,
+        4
+      ],
+      "box": [
+        208.85388088226318,
+        420.1100242733956,
+        320.3997623026371,
+        447.7716075778008
+      ],
+      "margin": [
+        15.935125917196274,
+        4.0
+      ],
+      "outside_fraction": 0.0
+    },
+    "central": {
+      "status": "PROPOSTA",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "box": [
+        76.30663681030273,
+        266.2068804502488,
+        440.9145253896713,
+        473.36572876572615
+      ],
+      "margin": [
+        52.086841225624084,
+        29.59412118792534
+      ],
+      "outside_fraction": 0.0
+    },
+    "mandibula_queixo": {
+      "status": "PROPOSTA",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "box": [
+        5.289587974548311,
+        327.6848992705346,
+        509.3881182670594,
+        666.6779154539109
+      ],
+      "margin": [
+        72.01407575607301,
+        48.427573740482345
+      ],
+      "outside_fraction": 0.0
+    }
+  },
+  "bank_keys": [
+    "575a5e745994b2b64e32"
+  ],
+  "origin": "PROPOSTA_MODELO",
+  "anatomical_validation": false
+}

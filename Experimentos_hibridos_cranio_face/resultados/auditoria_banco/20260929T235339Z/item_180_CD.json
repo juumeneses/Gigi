@@ -1,0 +1,21 @@
+{
+  "signature": "1b7e4b05f1a5c1ad588fe27b31af272c4ea7166cc44c004d04ef81ee499d8d2f",
+  "metadata": {
+    "id": "2019_175_NCA",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_175_NCA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_175_NCA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1907,
+    "altura": 1244,
+    "contraste": 99.71273678574127,
+    "nitidez_512": 1258.5335875375793,
+    "sha256": "1b7e4b05f1a5c1ad588fe27b31af272c4ea7166cc44c004d04ef81ee499d8d2f",
+    "bytes": 215031
+  }
+}

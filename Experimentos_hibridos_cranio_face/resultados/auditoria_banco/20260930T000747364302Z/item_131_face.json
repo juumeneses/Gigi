@@ -1,0 +1,21 @@
+{
+  "signature": "f29ae14f1c13f62662bedb68b8cb50d652207a0ac0ee95f16e4f0b92baa090bb",
+  "metadata": {
+    "id": "2019_130_LMMA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_130_LMMA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_130_LMMA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 743,
+    "contraste": 78.91554246466974,
+    "nitidez_512": 1308.4668347824006,
+    "sha256": "f29ae14f1c13f62662bedb68b8cb50d652207a0ac0ee95f16e4f0b92baa090bb",
+    "bytes": 43980
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "6376ed6cc8d45904c659fe447367819b41c1710d2b1e6efb98c56504d1ec45e2",
+  "metadata": {
+    "id": "2021_93_RFDS",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_93_RFDS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_93_RFDS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 990,
+    "altura": 1007,
+    "contraste": 92.97033247735861,
+    "nitidez_512": 566.5867273758062,
+    "sha256": "6376ed6cc8d45904c659fe447367819b41c1710d2b1e6efb98c56504d1ec45e2",
+    "bytes": 218512
+  }
+}

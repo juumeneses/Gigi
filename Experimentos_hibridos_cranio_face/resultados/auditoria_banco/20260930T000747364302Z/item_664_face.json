@@ -1,0 +1,21 @@
+{
+  "signature": "980a61eb6cb518f23c2026d7ff952cb8c12c6d56d2d0bcbce11ace2de13966c4",
+  "metadata": {
+    "id": "2023_11_ADOFVDM",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_11_ADOFVDM_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_11_ADOFVDM_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 741,
+    "contraste": 74.0424791493777,
+    "nitidez_512": 534.9860361582455,
+    "sha256": "980a61eb6cb518f23c2026d7ff952cb8c12c6d56d2d0bcbce11ace2de13966c4",
+    "bytes": 47661
+  }
+}

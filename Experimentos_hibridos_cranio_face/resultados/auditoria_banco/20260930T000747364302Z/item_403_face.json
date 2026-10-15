@@ -1,0 +1,21 @@
+{
+  "signature": "7fc74cfba96b108f71a7262282dde6b1383d2783680379e16d378038e318d800",
+  "metadata": {
+    "id": "2021_33_ELSO",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_33_ELSO_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_33_ELSO_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 737,
+    "contraste": 72.95753555221268,
+    "nitidez_512": 839.732012131623,
+    "sha256": "7fc74cfba96b108f71a7262282dde6b1383d2783680379e16d378038e318d800",
+    "bytes": 48700
+  }
+}

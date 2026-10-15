@@ -1,0 +1,21 @@
+{
+  "signature": "db15e01511807e2fb11cedd1e1edbcf08bf030b339058fdf50dc2fd7ce210ec2",
+  "metadata": {
+    "id": "2023_69_HMR",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_69_HMR_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_69_HMR_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 873,
+    "altura": 956,
+    "contraste": 87.96409282549426,
+    "nitidez_512": 724.6885664897592,
+    "sha256": "db15e01511807e2fb11cedd1e1edbcf08bf030b339058fdf50dc2fd7ce210ec2",
+    "bytes": 216446
+  }
+}

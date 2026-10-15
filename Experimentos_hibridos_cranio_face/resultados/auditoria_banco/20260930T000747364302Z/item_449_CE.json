@@ -1,0 +1,21 @@
+{
+  "signature": "b05472558653ce17dfdf3807cf3dd172fb327a902bee9ddd44505f127f7c7ccf",
+  "metadata": {
+    "id": "2021_75_MNDB",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_75_MNDB_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_75_MNDB_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 868,
+    "altura": 934,
+    "contraste": 92.72137068448819,
+    "nitidez_512": 657.2585225373657,
+    "sha256": "b05472558653ce17dfdf3807cf3dd172fb327a902bee9ddd44505f127f7c7ccf",
+    "bytes": 197707
+  }
+}

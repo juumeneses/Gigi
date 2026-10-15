@@ -1,0 +1,21 @@
+{
+  "signature": "445dd9ec0ac25414dd307d3b02fbc48738ded8fc90ae2e809ca9033b76353c52",
+  "metadata": {
+    "id": "2019_202_RBD",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_202_RBD_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_202_RBD_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 741,
+    "contraste": 78.26286525503478,
+    "nitidez_512": 885.7968133393924,
+    "sha256": "445dd9ec0ac25414dd307d3b02fbc48738ded8fc90ae2e809ca9033b76353c52",
+    "bytes": 36040
+  }
+}

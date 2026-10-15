@@ -1,0 +1,21 @@
+{
+  "signature": "69264029d3cc48d8506dcdef58ed8bfb064436fe697239e180a4cfbf6d31074e",
+  "metadata": {
+    "id": "2017_78_NECB",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_78_NECB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_78_NECB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 739,
+    "contraste": 66.37798689146983,
+    "nitidez_512": 550.09437918769,
+    "sha256": "69264029d3cc48d8506dcdef58ed8bfb064436fe697239e180a4cfbf6d31074e",
+    "bytes": 37358
+  }
+}

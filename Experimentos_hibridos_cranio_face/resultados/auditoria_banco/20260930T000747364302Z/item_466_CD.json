@@ -1,0 +1,21 @@
+{
+  "signature": "f0e10040cd529954474157bb64454eb5e5280700e19bd661d98dff6aecb437c9",
+  "metadata": {
+    "id": "2021_91_RDCSA",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_91_RDCSA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_91_RDCSA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1016,
+    "altura": 969,
+    "contraste": 88.06059683788475,
+    "nitidez_512": 785.2638209890017,
+    "sha256": "f0e10040cd529954474157bb64454eb5e5280700e19bd661d98dff6aecb437c9",
+    "bytes": 263302
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "365660f886214461ff5971b5f670414e630d952090509a43f99ce10acbe37fa0",
+  "metadata": {
+    "id": "2017_7_ANSL",
+    "ano": "2017",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CD/2017_7_ANSL_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CD/2017_7_ANSL_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1920,
+    "altura": 1253,
+    "contraste": 96.72417554875533,
+    "nitidez_512": 1309.9160507110778,
+    "sha256": "365660f886214461ff5971b5f670414e630d952090509a43f99ce10acbe37fa0",
+    "bytes": 169907
+  }
+}

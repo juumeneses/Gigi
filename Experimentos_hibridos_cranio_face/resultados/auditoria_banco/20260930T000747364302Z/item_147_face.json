@@ -1,0 +1,21 @@
+{
+  "signature": "91526b2098a82319d64556a04557030c9368877b2d5cc7569ceb1390cbfde8a6",
+  "metadata": {
+    "id": "2019_145_MARP",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_145_MARP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_145_MARP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 743,
+    "contraste": 70.6600873473023,
+    "nitidez_512": 448.3240929159929,
+    "sha256": "91526b2098a82319d64556a04557030c9368877b2d5cc7569ceb1390cbfde8a6",
+    "bytes": 35261
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "proposal": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/annotation_batches/20261014T000115868507Z/134cff9bce70e6216517/proposal.json",
+  "proposal_hash": "fe6cd1e9b91dbcfd85f58e44b8efbf30752c5681e85e35f9136d2dd1c01c6546",
+  "image_hash": "5f95b51579d5fc1a135da2184f3f93a2f33092e3bd22fe9da84348ac8ad8d517",
+  "base_review_hash": null,
+  "points": [
+    {
+      "numero": 1,
+      "x": 248.43479257822037,
+      "y": 247.59386041760445,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 2,
+      "x": 256.58363938331604,
+      "y": 431.8311930298805,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 3,
+      "x": 219.2054086544514,
+      "y": 414.0026687893868,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 4,
+      "x": 295.98097586035726,
+      "y": 410.0451653251648,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 5,
+      "x": 132.4113109111786,
+      "y": 312.3113198876381,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 6,
+      "x": 374.57032138109207,
+      "y": 303.40255227684975,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 7,
+      "x": 269.5953113436699,
+      "y": 610.0685074925423,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 8,
+      "x": 71.81357103586197,
+      "y": 374.0012109875679,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 9,
+      "x": 443.0656068325043,
+      "y": 358.3758618235588,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 10,
+      "x": 208.3339574933052,
+      "y": 314.908215880394,
+      "visibility": "NAO_AVALIADO"
+    },
+    {
+      "numero": 11,
+      "x": 300.7002711892128,
+      "y": 309.71520602703094,
+      "visibility": "NAO_AVALIADO"
+    }
+  ]
+}

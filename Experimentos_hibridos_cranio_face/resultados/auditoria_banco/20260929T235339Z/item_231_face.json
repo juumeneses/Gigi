@@ -1,0 +1,21 @@
+{
+  "signature": "be8158ef04b07b9c044ef16996674216cb2a4df05f9b3f6aea7e4a4c07c08081",
+  "metadata": {
+    "id": "2019_220_RMSA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_220_RMSA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_220_RMSA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 743,
+    "contraste": 73.3579548181182,
+    "nitidez_512": 874.4459200465825,
+    "sha256": "be8158ef04b07b9c044ef16996674216cb2a4df05f9b3f6aea7e4a4c07c08081",
+    "bytes": 41123
+  }
+}

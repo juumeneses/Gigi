@@ -1,0 +1,21 @@
+{
+  "signature": "cfe34eaa4fc03a3c4f7766feb28caec9eb85068c618cda41f822ca35a4385f7d",
+  "metadata": {
+    "id": "2021_35_FCDA",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_35_FCDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_35_FCDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 206,
+    "altura": 301,
+    "contraste": 76.50120126816851,
+    "nitidez_512": 1028.3014578016503,
+    "sha256": "cfe34eaa4fc03a3c4f7766feb28caec9eb85068c618cda41f822ca35a4385f7d",
+    "bytes": 9416
+  }
+}

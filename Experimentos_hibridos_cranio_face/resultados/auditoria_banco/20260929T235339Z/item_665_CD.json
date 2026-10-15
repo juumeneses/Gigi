@@ -1,0 +1,21 @@
+{
+  "signature": "38d5291c9db3ca1b1845817573400532d75d3ad7c58e375817a48f3621402487",
+  "metadata": {
+    "id": "2023_120_PVPDA",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_120_PVPDA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_120_PVPDA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1143,
+    "altura": 970,
+    "contraste": 95.51986299088624,
+    "nitidez_512": 1148.525883637382,
+    "sha256": "38d5291c9db3ca1b1845817573400532d75d3ad7c58e375817a48f3621402487",
+    "bytes": 261481
+  }
+}

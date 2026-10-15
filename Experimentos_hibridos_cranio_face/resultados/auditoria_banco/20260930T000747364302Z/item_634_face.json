@@ -1,0 +1,21 @@
+{
+  "signature": "665bad645e626bda57ef2a0a97a252085a7fab98f5bf400d743cd3a99edf3869",
+  "metadata": {
+    "id": "2022_93_LHDA",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_93_LHDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_93_LHDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 744,
+    "contraste": 84.56919605427285,
+    "nitidez_512": 1610.4853265215024,
+    "sha256": "665bad645e626bda57ef2a0a97a252085a7fab98f5bf400d743cd3a99edf3869",
+    "bytes": 62124
+  }
+}

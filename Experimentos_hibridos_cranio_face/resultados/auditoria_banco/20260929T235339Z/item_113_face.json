@@ -1,0 +1,21 @@
+{
+  "signature": "2d0921be76f64f80e5e546cc27c4fac6ab466056c681fbc27c26e23604634400",
+  "metadata": {
+    "id": "2019_114_JWAR",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_114_JWAR_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_114_JWAR_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 745,
+    "contraste": 73.84109028675324,
+    "nitidez_512": 691.0207356770833,
+    "sha256": "2d0921be76f64f80e5e546cc27c4fac6ab466056c681fbc27c26e23604634400",
+    "bytes": 32880
+  }
+}

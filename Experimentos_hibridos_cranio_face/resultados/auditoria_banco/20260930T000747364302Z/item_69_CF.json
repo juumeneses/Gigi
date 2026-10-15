@@ -1,0 +1,21 @@
+{
+  "signature": "bfb8344a9d4869b71dd16df9a95f63ff785e77f44ac5f3470a4468fd5e8238e3",
+  "metadata": {
+    "id": "2017_74_MPDC",
+    "ano": "2017",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CF/2017_74_MPDC_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CF/2017_74_MPDC_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2255,
+    "altura": 1472,
+    "contraste": 96.41611727546534,
+    "nitidez_512": 835.2364918600299,
+    "sha256": "bfb8344a9d4869b71dd16df9a95f63ff785e77f44ac5f3470a4468fd5e8238e3",
+    "bytes": 199104
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "67e3399a541c7a5787f7a33fc364abd14584ffaa2875cc04a893395af7e91c82",
+  "metadata": {
+    "id": "2021_84_PAP",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_84_PAP_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_84_PAP_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 789,
+    "altura": 892,
+    "contraste": 84.1361711395673,
+    "nitidez_512": 527.4366829111564,
+    "sha256": "67e3399a541c7a5787f7a33fc364abd14584ffaa2875cc04a893395af7e91c82",
+    "bytes": 192030
+  }
+}

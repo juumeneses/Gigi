@@ -1,0 +1,21 @@
+{
+  "signature": "451db4b9406d71638571a5495fd7ad46ef53f46c8b6f11781e2da5dc7804b349",
+  "metadata": {
+    "id": "2017_21_CVCL",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_21_CVCL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_21_CVCL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 735,
+    "contraste": 57.89225511897406,
+    "nitidez_512": 1430.4315957789759,
+    "sha256": "451db4b9406d71638571a5495fd7ad46ef53f46c8b6f11781e2da5dc7804b349",
+    "bytes": 54423
+  }
+}

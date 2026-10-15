@@ -1,0 +1,86 @@
+{
+  "proposal": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/annotation_batches/20261014T000115868507Z/575a5e745994b2b64e32/proposal.json",
+  "proposal_hash": "e17c0b26985b33dcd1c2b06c73082c3cc8c3f49d715a2c2505ae7ea4706346a3",
+  "image_hash": "8d7bc275f5eff4e914f6b0b52b279d20d8cb9a35ede9a3f2f21a8b570e0304f5",
+  "points": [
+    {
+      "numero": 1,
+      "x": 255.93774512410164,
+      "y": 273.95300447940826,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 2,
+      "x": 263.9778270509978,
+      "y": 425.3603104212861,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 3,
+      "x": 223.26372031354907,
+      "y": 413.0318093268871,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 4,
+      "x": 303.40513284635546,
+      "y": 410.7636561419964,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 5,
+      "x": 153.37643378973007,
+      "y": 323.59151512384415,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 6,
+      "x": 364.08158951997757,
+      "y": 312.7692161500454,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 7,
+      "x": 271.1911646723747,
+      "y": 596.3351812958717,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 8,
+      "x": 92.1439740806818,
+      "y": 380.72051644325256,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 9,
+      "x": 426.94963842630386,
+      "y": 361.1090224981308,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 10,
+      "x": 218.3445919752121,
+      "y": 324.537795484066,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    },
+    {
+      "numero": 11,
+      "x": 296.92859321832657,
+      "y": 319.98201727867126,
+      "visibility": "VISIVEL",
+      "estado": "REVISADO_USUARIO"
+    }
+  ],
+  "author": "Usuário do painel",
+  "reason": ""
+}

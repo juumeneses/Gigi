@@ -1,0 +1,21 @@
+{
+  "signature": "0ffc00086d04fb0b1f1555be9af365abf34dd68f82decf2d510ad78de103d967",
+  "metadata": {
+    "id": "2019_132_LPLS",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_132_LPLS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_132_LPLS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1622,
+    "altura": 1058,
+    "contraste": 101.73306162311155,
+    "nitidez_512": 1352.7919629491018,
+    "sha256": "0ffc00086d04fb0b1f1555be9af365abf34dd68f82decf2d510ad78de103d967",
+    "bytes": 243357
+  }
+}

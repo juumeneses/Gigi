@@ -1,0 +1,21 @@
+{
+  "signature": "eac8a0e959d52f4b1928b27041d19f1ce5681089ea10eba701ef2e553bb8adf0",
+  "metadata": {
+    "id": "2022_79_JFRC",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_79_JFRC_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_79_JFRC_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1088,
+    "altura": 985,
+    "contraste": 91.79091167720867,
+    "nitidez_512": 903.2198812611285,
+    "sha256": "eac8a0e959d52f4b1928b27041d19f1ce5681089ea10eba701ef2e553bb8adf0",
+    "bytes": 266420
+  }
+}

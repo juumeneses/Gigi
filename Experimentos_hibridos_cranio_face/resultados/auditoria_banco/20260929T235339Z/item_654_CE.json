@@ -1,0 +1,21 @@
+{
+  "signature": "e2e26ab4ca487047ac90a337df09fc24ecdc99912fdca7f2737bcd23bbb23ba8",
+  "metadata": {
+    "id": "2023_110_MSDA",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_110_MSDA_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_110_MSDA_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1118,
+    "altura": 1073,
+    "contraste": 95.92360011959343,
+    "nitidez_512": 762.4869668109046,
+    "sha256": "e2e26ab4ca487047ac90a337df09fc24ecdc99912fdca7f2737bcd23bbb23ba8",
+    "bytes": 246995
+  }
+}

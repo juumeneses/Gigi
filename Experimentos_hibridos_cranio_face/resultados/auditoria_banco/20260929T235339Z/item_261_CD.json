@@ -1,0 +1,21 @@
+{
+  "signature": "cd97dabe2289ef7b958cdeb0ebca618d80a5d1e277865c3c6d55ff492a6fe297",
+  "metadata": {
+    "id": "2019_248_MADC",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_248_MADC_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_248_MADC_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1926,
+    "altura": 1075,
+    "contraste": 100.96712217599078,
+    "nitidez_512": 3365.1717386310556,
+    "sha256": "cd97dabe2289ef7b958cdeb0ebca618d80a5d1e277865c3c6d55ff492a6fe297",
+    "bytes": 299150
+  }
+}

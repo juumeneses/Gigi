@@ -1,0 +1,21 @@
+{
+  "signature": "94750f3b90068439a4041ed936fbbfa17958c90bf4155065a98b77115a33b646",
+  "metadata": {
+    "id": "2017_7_ANSL",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_7_ANSL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_7_ANSL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 284,
+    "altura": 413,
+    "contraste": 80.67559930366046,
+    "nitidez_512": 666.6734451909825,
+    "sha256": "94750f3b90068439a4041ed936fbbfa17958c90bf4155065a98b77115a33b646",
+    "bytes": 14475
+  }
+}

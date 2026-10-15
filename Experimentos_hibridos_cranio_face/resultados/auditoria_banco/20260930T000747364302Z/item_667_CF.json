@@ -1,0 +1,21 @@
+{
+  "signature": "035479c22076aed1e024b938be19e441abe2e4c3494ee9fb1c48fec996753a32",
+  "metadata": {
+    "id": "2023_122_RAGDA",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_122_RAGDA_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_122_RAGDA_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 789,
+    "altura": 812,
+    "contraste": 80.87089185680081,
+    "nitidez_512": 673.5802624157309,
+    "sha256": "035479c22076aed1e024b938be19e441abe2e4c3494ee9fb1c48fec996753a32",
+    "bytes": 200932
+  }
+}

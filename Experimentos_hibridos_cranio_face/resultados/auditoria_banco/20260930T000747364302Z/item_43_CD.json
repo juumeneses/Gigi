@@ -1,0 +1,21 @@
+{
+  "signature": "92a56bbf6d459b05f94364db7608537cc24ea6cd6383f4095747665b2bd875bc",
+  "metadata": {
+    "id": "2017_50_J",
+    "ano": "2017",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CD/2017_50_JCF_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CD/2017_50_JCF_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1903,
+    "altura": 1242,
+    "contraste": 99.4699609920149,
+    "nitidez_512": 1226.827450046979,
+    "sha256": "92a56bbf6d459b05f94364db7608537cc24ea6cd6383f4095747665b2bd875bc",
+    "bytes": 187632
+  }
+}

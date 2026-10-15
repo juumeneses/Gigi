@@ -1,0 +1,21 @@
+{
+  "signature": "6c10b5c94019ad3bec70412950c570e5cd923f9f6229d0f9242213bfa7a10d89",
+  "metadata": {
+    "id": "2019_189_PEOS",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_189_PEOS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_189_PEOS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 749,
+    "contraste": 72.56207725170322,
+    "nitidez_512": 1212.233819046611,
+    "sha256": "6c10b5c94019ad3bec70412950c570e5cd923f9f6229d0f9242213bfa7a10d89",
+    "bytes": 36631
+  }
+}

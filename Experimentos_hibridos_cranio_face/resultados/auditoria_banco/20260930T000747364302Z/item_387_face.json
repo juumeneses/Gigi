@@ -1,0 +1,21 @@
+{
+  "signature": "c85af6e0dbb5ba641f7e01435a193a61ee32e6581eab23033acb268a896dbf6a",
+  "metadata": {
+    "id": "2021_19_BCLMF",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_19_BCLMF_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_19_BCLMF_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 741,
+    "contraste": 81.26710517914175,
+    "nitidez_512": 621.8649178708707,
+    "sha256": "c85af6e0dbb5ba641f7e01435a193a61ee32e6581eab23033acb268a896dbf6a",
+    "bytes": 37381
+  }
+}

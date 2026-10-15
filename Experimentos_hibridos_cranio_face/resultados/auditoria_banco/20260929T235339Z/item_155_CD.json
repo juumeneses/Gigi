@@ -1,0 +1,21 @@
+{
+  "signature": "23bfbe5dace6ef61ca52ae1373366feabcae83eb9c9698b0a23bcb2f212c3b50",
+  "metadata": {
+    "id": "2019_152_MEJP",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_152_MEJP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_152_MEJP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1904,
+    "altura": 1243,
+    "contraste": 100.45456428790537,
+    "nitidez_512": 1166.8836734307288,
+    "sha256": "23bfbe5dace6ef61ca52ae1373366feabcae83eb9c9698b0a23bcb2f212c3b50",
+    "bytes": 249433
+  }
+}

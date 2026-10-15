@@ -1,0 +1,21 @@
+{
+  "signature": "b42573914e07cd9c1d11ee73b714ae52e59d5347fbca87ca21cea2a924053f11",
+  "metadata": {
+    "id": "2021_100_VRDA",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_100_VRDA_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_100_VRDA_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1162,
+    "altura": 989,
+    "contraste": 93.24839585154744,
+    "nitidez_512": 772.2833421016801,
+    "sha256": "b42573914e07cd9c1d11ee73b714ae52e59d5347fbca87ca21cea2a924053f11",
+    "bytes": 250548
+  }
+}

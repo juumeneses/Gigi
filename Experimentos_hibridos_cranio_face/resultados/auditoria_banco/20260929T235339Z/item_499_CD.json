@@ -1,0 +1,21 @@
+{
+  "signature": "dcdb5fa688c1b0d58d7850af5c60dc56ba062718cd777fc938bab8e1685d3275",
+  "metadata": {
+    "id": "2022_121_MSLF",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_121_MSLF_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_121_MSLF_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1047,
+    "altura": 990,
+    "contraste": 89.92333026049506,
+    "nitidez_512": 781.1605963364023,
+    "sha256": "dcdb5fa688c1b0d58d7850af5c60dc56ba062718cd777fc938bab8e1685d3275",
+    "bytes": 263588
+  }
+}

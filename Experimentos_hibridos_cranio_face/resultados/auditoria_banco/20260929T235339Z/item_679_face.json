@@ -1,0 +1,21 @@
+{
+  "signature": "474cdbfacb85b55ed677aa1328bb9aa67169035e902a740c86ac33e2175f1dab",
+  "metadata": {
+    "id": "2023_133_RVR",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_133_RVR_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_133_RVR_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 161,
+    "altura": 227,
+    "contraste": 66.94756350420107,
+    "nitidez_512": 2098.6386305347346,
+    "sha256": "474cdbfacb85b55ed677aa1328bb9aa67169035e902a740c86ac33e2175f1dab",
+    "bytes": 6252
+  }
+}

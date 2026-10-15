@@ -1,0 +1,21 @@
+{
+  "signature": "329d17db0c9bcefd9d6c65af48162ab1b2be68d12d7fd322ea423581dcfec128",
+  "metadata": {
+    "id": "2023_72_ILDP",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_72_ILDP_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_72_ILDP_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 884,
+    "altura": 948,
+    "contraste": 89.35034736105783,
+    "nitidez_512": 703.3861210926684,
+    "sha256": "329d17db0c9bcefd9d6c65af48162ab1b2be68d12d7fd322ea423581dcfec128",
+    "bytes": 211480
+  }
+}

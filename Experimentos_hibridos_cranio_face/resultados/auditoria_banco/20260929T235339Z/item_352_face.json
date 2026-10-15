@@ -1,0 +1,21 @@
+{
+  "signature": "935c23be52d445b2c8df38c3a0297bc84c8446b077c6f3690db9f8c8fc2272ea",
+  "metadata": {
+    "id": "2019_80_GMCA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_80_GMCA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_80_GMCA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 739,
+    "contraste": 68.98204949845963,
+    "nitidez_512": 355.0996255485805,
+    "sha256": "935c23be52d445b2c8df38c3a0297bc84c8446b077c6f3690db9f8c8fc2272ea",
+    "bytes": 30851
+  }
+}

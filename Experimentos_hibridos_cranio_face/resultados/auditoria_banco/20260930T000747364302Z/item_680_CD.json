@@ -1,0 +1,21 @@
+{
+  "signature": "0ab37e31f3968e2d846d2e750c16168ef3c667dc3a286f0090369253ec111ef5",
+  "metadata": {
+    "id": "2023_134_SARH",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_134_SARH_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_134_SARH_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1001,
+    "altura": 988,
+    "contraste": 88.3333414881002,
+    "nitidez_512": 729.2020027055788,
+    "sha256": "0ab37e31f3968e2d846d2e750c16168ef3c667dc3a286f0090369253ec111ef5",
+    "bytes": 261762
+  }
+}

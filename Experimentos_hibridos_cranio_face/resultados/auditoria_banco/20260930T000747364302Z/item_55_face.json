@@ -1,0 +1,21 @@
+{
+  "signature": "9c3be084f813d3ad3d628f1eb444374baaa6ae0b9cdc8d164183167516ae166d",
+  "metadata": {
+    "id": "2017_61_LGDMED",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_61_LGDMED_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_61_LGDMED_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 745,
+    "contraste": 73.06232686705546,
+    "nitidez_512": 1405.8922987691747,
+    "sha256": "9c3be084f813d3ad3d628f1eb444374baaa6ae0b9cdc8d164183167516ae166d",
+    "bytes": 38938
+  }
+}

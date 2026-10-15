@@ -1,0 +1,40 @@
+{
+  "item": {
+    "key": "8bc2c55aa142a7d8a1a7",
+    "path": "/Users/juliameneses/Documents/Gigi/Banco/2019/2019_156_MFR/2019_156_MFR_CF.jpg",
+    "filename": "2019_156_MFR_CF.jpg",
+    "person": "2019_156_MFR",
+    "year": "2019",
+    "view": "CF",
+    "modality": "cranio"
+  },
+  "fingerprint": "833f6dafde7f681e9da84aaf2c3aee03b2705307a0bc7d78441d0c2829ee7c6a",
+  "action": "normalize",
+  "points": [],
+  "regions": {},
+  "contours": [],
+  "assets": {
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/8bc2c55aa142a7d8a1a7/normalizada.png": "af65291127a113bd60f8e798498fa52108c2a5510af46c0c6a92913da381543b",
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/8bc2c55aa142a7d8a1a7/preview.png": "9183b96fd965515d25b2c5a33db5ebe9a7fb3505e53e227492a4561c2f5af50d"
+  },
+  "status": "OK_TECNICO",
+  "reason": "",
+  "image": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/8bc2c55aa142a7d8a1a7/normalizada.png",
+  "transform": [
+    [
+      0.13424226533822758,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.13424226533822758,
+      44.501310959622444
+    ]
+  ],
+  "original_size": [
+    1907,
+    1244
+  ],
+  "preview": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/8bc2c55aa142a7d8a1a7/preview.png"
+}

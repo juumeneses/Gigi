@@ -1,0 +1,21 @@
+{
+  "signature": "1fbf1ca1fc243d56d6eea64cc42083dad10c5deb349fb1a80f7efb1d4c112a96",
+  "metadata": {
+    "id": "2022_138_RCCA",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_138_RCCA_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_138_RCCA_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1133,
+    "altura": 1014,
+    "contraste": 92.86318261028292,
+    "nitidez_512": 696.3351165252974,
+    "sha256": "1fbf1ca1fc243d56d6eea64cc42083dad10c5deb349fb1a80f7efb1d4c112a96",
+    "bytes": 249604
+  }
+}

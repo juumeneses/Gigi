@@ -1,0 +1,12 @@
+numero,cranio,face,cranio_x,cranio_y,face_x,face_y,estado,validado,cuidado
+1,Glabella (g),Glabella cutanea (g′),1119,699,251,322,PROPOSTA_IA,False,Relevo anterior nao confirmavel pela frontal.
+2,Nasospinale (ns),Subnasale (sn),1123,954,249,467,PROPOSTA_IA,False,Relacao de nivel/posicao; nao sao pontos identicos.
+3,Alare osseo direito,Alare cutaneo direito,1053,889,207,447,PROPOSTA_IA,False,"Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+4,Alare osseo esquerdo,Alare cutaneo esquerdo,1199,895,291,445,PROPOSTA_IA,False,Largura ossea e externa diferentes; tecido mole.
+5,Ectoconchion direito,Exocanthion direito,827,789,116,364,PROPOSTA_IA,False,Borda orbital versus comissura palpebral; sem coincidencia obrigatoria.
+6,Ectoconchion esquerdo,Exocanthion esquerdo,1404,777,382,350,PROPOSTA_IA,False,Borda orbital versus comissura palpebral; plano precisa de revisao.
+7,Menton projetado,Menton cutaneo projetado,1127,1301,261,644,PROPOSTA_IA,False,"Limite inferior mediano aparente; pose altera projecao, nao e pogonion."
+8,Zygion direito proposto,Zygion cutaneo direito proposto,768,906,67,405,PROPOSTA_IA,False,Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel.
+9,Zygion esquerdo proposto,Zygion cutaneo esquerdo proposto,1476,894,449,399,PROPOSTA_IA,False,Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face.
+10,Margem orbital medial direita (proxy),Endocanthion direito,1063,789,204,363,PROPOSTA_IA,False,Crista lacrimal nao confirmada: nao rotular como mo anatomico validado.
+11,Margem orbital medial esquerda (proxy),Endocanthion esquerdo,1173,777,304,356,PROPOSTA_IA,False,Margem ossea versus comissura palpebral; apenas relacao regional.

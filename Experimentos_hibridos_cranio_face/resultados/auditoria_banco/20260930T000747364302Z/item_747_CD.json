@@ -1,0 +1,21 @@
+{
+  "signature": "5c864869a2b3420fbfef6a8c5ff26fc43122b6adf8a2732854d4d1e13bfcdbd3",
+  "metadata": {
+    "id": "2023_57_FARR",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_57_FARR_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_57_FARR_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 672,
+    "altura": 834,
+    "contraste": 77.92343395478201,
+    "nitidez_512": 795.7415978796282,
+    "sha256": "5c864869a2b3420fbfef6a8c5ff26fc43122b6adf8a2732854d4d1e13bfcdbd3",
+    "bytes": 195462
+  }
+}

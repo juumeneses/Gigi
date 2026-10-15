@@ -1,0 +1,21 @@
+{
+  "signature": "a3e60d56d5dee8774927dfc77dae9a505e2529e21cc2ec3d0c159d65054db434",
+  "metadata": {
+    "id": "2021_17_ASR",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_17_ASR_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_17_ASR_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 838,
+    "altura": 1011,
+    "contraste": 87.5490975533356,
+    "nitidez_512": 1047.392070194439,
+    "sha256": "a3e60d56d5dee8774927dfc77dae9a505e2529e21cc2ec3d0c159d65054db434",
+    "bytes": 234956
+  }
+}

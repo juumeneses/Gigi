@@ -1,0 +1,21 @@
+{
+  "signature": "4975ef357dc4938935c15398ccc761e0bab3e4c81c12f7a8f1d685cf9836371d",
+  "metadata": {
+    "id": "2022_118_MRAB",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_118_MRAB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_118_MRAB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 747,
+    "contraste": 75.53085447619208,
+    "nitidez_512": 805.0994711192835,
+    "sha256": "4975ef357dc4938935c15398ccc761e0bab3e4c81c12f7a8f1d685cf9836371d",
+    "bytes": 33527
+  }
+}

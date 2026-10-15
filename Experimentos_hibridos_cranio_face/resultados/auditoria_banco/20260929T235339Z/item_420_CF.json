@@ -1,0 +1,21 @@
+{
+  "signature": "be347ab47647dc9f4ab80c412ddc197ec0c1e64d2d59b9009c730020e33a0068",
+  "metadata": {
+    "id": "2021_49_HCAS",
+    "ano": "2021",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CF/2021_49_HCAS_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CF/2021_49_HCAS_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1000,
+    "altura": 1000,
+    "contraste": 90.7923164256738,
+    "nitidez_512": 974.9382855281583,
+    "sha256": "be347ab47647dc9f4ab80c412ddc197ec0c1e64d2d59b9009c730020e33a0068",
+    "bytes": 256183
+  }
+}

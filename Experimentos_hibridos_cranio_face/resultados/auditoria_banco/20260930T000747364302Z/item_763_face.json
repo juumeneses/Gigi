@@ -1,0 +1,21 @@
+{
+  "signature": "898efa975a476289cbccb894432ec471269171333e6bcf9964ad19268c107a58",
+  "metadata": {
+    "id": "2023_71_IFP",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_71_IFP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_71_IFP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 305,
+    "altura": 432,
+    "contraste": 74.63623845452543,
+    "nitidez_512": 1077.703474522533,
+    "sha256": "898efa975a476289cbccb894432ec471269171333e6bcf9964ad19268c107a58",
+    "bytes": 16271
+  }
+}

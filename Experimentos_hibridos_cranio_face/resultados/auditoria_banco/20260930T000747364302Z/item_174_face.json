@@ -1,0 +1,21 @@
+{
+  "signature": "f647a4e208183e20d4c8b87a94e5ef13b1af7b898e0fada084ab218f375660e7",
+  "metadata": {
+    "id": "2019_16_AOF",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_16_AOF_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_16_AOF_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 739,
+    "contraste": 73.75017867598646,
+    "nitidez_512": 608.1816783454863,
+    "sha256": "f647a4e208183e20d4c8b87a94e5ef13b1af7b898e0fada084ab218f375660e7",
+    "bytes": 40416
+  }
+}

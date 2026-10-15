@@ -1,0 +1,21 @@
+{
+  "signature": "87c704df8c7ce79d61c1e4658106921a7ace005bcd92f2d75358dda9cfff2042",
+  "metadata": {
+    "id": "2019_2_AAS",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_2_AAS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_2_AAS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 741,
+    "contraste": 71.45575114303044,
+    "nitidez_512": 1040.9772907070048,
+    "sha256": "87c704df8c7ce79d61c1e4658106921a7ace005bcd92f2d75358dda9cfff2042",
+    "bytes": 41213
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T220937546027Z/lateral",
+    "person": "2021_10_ALMPLM",
+    "correct": true,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T221019938726Z"
+  },
+  {
+    "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T220937546027Z/lateral",
+    "person": "2017_15_CBL",
+    "correct": false,
+    "path": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/explanations/20261014T221022593010Z"
+  }
+]

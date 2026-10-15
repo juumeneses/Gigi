@@ -1,0 +1,21 @@
+{
+  "signature": "19d229826f314feeaadd1f2b64b3c31d07cf332e54567b1832d4df329acbbffd",
+  "metadata": {
+    "id": "2019_206_RCSV",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_206_RCSV_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_206_RCSV_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 737,
+    "contraste": 81.52155249719924,
+    "nitidez_512": 1174.9768132146553,
+    "sha256": "19d229826f314feeaadd1f2b64b3c31d07cf332e54567b1832d4df329acbbffd",
+    "bytes": 42390
+  }
+}

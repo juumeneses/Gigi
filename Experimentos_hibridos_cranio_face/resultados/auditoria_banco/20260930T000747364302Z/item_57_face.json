@@ -1,0 +1,21 @@
+{
+  "signature": "17b70bd15bfd6e6c84b16ad961afb06e395673d3b3d22451debeb0ffff3fe6d5",
+  "metadata": {
+    "id": "2017_63_LGLA",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_63_LGLA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_63_LGLA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 741,
+    "contraste": 78.60230012632651,
+    "nitidez_512": 886.9745934414141,
+    "sha256": "17b70bd15bfd6e6c84b16ad961afb06e395673d3b3d22451debeb0ffff3fe6d5",
+    "bytes": 37870
+  }
+}

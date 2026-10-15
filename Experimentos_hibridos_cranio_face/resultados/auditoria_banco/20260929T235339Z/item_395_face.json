@@ -1,0 +1,21 @@
+{
+  "signature": "8b9e54ee2164dc78379ca3ed6e22cdbefc58bb2b30f9ac5a35cc3b9b7804e9be",
+  "metadata": {
+    "id": "2021_26_CNA",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_26_CNA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_26_CNA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 517,
+    "altura": 745,
+    "contraste": 78.75558678847925,
+    "nitidez_512": 641.0372981861236,
+    "sha256": "8b9e54ee2164dc78379ca3ed6e22cdbefc58bb2b30f9ac5a35cc3b9b7804e9be",
+    "bytes": 40591
+  }
+}

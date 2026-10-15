@@ -1,0 +1,21 @@
+{
+  "signature": "0a4d640235c6b2feb57a1fd3ce68330518128b83cd6f85bf86c2afde9704d6cc",
+  "metadata": {
+    "id": "2021_72_MDRP",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_72_MDRP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_72_MDRP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 733,
+    "contraste": 75.00986161754352,
+    "nitidez_512": 1580.192090162604,
+    "sha256": "0a4d640235c6b2feb57a1fd3ce68330518128b83cd6f85bf86c2afde9704d6cc",
+    "bytes": 43264
+  }
+}

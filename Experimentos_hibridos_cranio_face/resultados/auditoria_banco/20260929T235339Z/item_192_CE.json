@@ -1,0 +1,21 @@
+{
+  "signature": "9d2db5e2e7e39ec35a14b0c34bcf29fa17a4e5c5777e3588cafd3bffc782643b",
+  "metadata": {
+    "id": "2019_186_PCP",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_186_PCP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_186_PCP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2084,
+    "altura": 1360,
+    "contraste": 97.02216212191006,
+    "nitidez_512": 1235.2700341504492,
+    "sha256": "9d2db5e2e7e39ec35a14b0c34bcf29fa17a4e5c5777e3588cafd3bffc782643b",
+    "bytes": 209694
+  }
+}

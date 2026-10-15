@@ -1,0 +1,21 @@
+{
+  "signature": "011d3323044253c2e3914488c004575b4e071f5e2d5036cd2afa8a1f8d46f390",
+  "metadata": {
+    "id": "2023_47_DSV",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_47_DSV_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_47_DSV_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1112,
+    "altura": 967,
+    "contraste": 98.56616133651774,
+    "nitidez_512": 1141.084973293536,
+    "sha256": "011d3323044253c2e3914488c004575b4e071f5e2d5036cd2afa8a1f8d46f390",
+    "bytes": 224548
+  }
+}

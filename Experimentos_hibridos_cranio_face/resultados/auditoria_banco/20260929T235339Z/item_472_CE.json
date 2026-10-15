@@ -1,0 +1,21 @@
+{
+  "signature": "e434e01df8c8dab6a1fcc58b1348b03aff91a3d92692428a24f03d5ebf8a06d1",
+  "metadata": {
+    "id": "2021_97_TLDAO",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_97_TLDAO_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_97_TLDAO_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1129,
+    "altura": 1004,
+    "contraste": 93.3115436485379,
+    "nitidez_512": 889.1528522971734,
+    "sha256": "e434e01df8c8dab6a1fcc58b1348b03aff91a3d92692428a24f03d5ebf8a06d1",
+    "bytes": 262021
+  }
+}

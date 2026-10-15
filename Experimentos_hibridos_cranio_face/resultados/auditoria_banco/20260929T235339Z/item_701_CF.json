@@ -1,0 +1,21 @@
+{
+  "signature": "0b1f057b6025358e1ca95fa3bd39d6922f1a70c83ea165ef3d3cc5784a0a0f3c",
+  "metadata": {
+    "id": "2023_153_ZMTS",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_153_ZMTS_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_153_ZMTS_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 790,
+    "altura": 812,
+    "contraste": 82.95207516111924,
+    "nitidez_512": 527.545364768222,
+    "sha256": "0b1f057b6025358e1ca95fa3bd39d6922f1a70c83ea165ef3d3cc5784a0a0f3c",
+    "bytes": 186589
+  }
+}

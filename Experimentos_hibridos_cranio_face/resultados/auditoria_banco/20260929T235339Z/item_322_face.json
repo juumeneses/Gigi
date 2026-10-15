@@ -1,0 +1,21 @@
+{
+  "signature": "656c2eb069d486f05c3124715167a1ea404218f0a813ffd48a99f9fda462e10c",
+  "metadata": {
+    "id": "2019_53_ECDM",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_53_ECDM_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_53_ECDM_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 751,
+    "contraste": 75.81051779148282,
+    "nitidez_512": 1018.9934261490822,
+    "sha256": "656c2eb069d486f05c3124715167a1ea404218f0a813ffd48a99f9fda462e10c",
+    "bytes": 44234
+  }
+}

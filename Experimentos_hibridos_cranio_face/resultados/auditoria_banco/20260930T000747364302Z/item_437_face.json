@@ -1,0 +1,21 @@
+{
+  "signature": "8d372892fe22ba1a4a40ff8c1ce40b3acd5eee844deaceab1d68f473e1f6e6c0",
+  "metadata": {
+    "id": "2021_64_LLDC",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_64_LLDC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_64_LLDC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 737,
+    "contraste": 72.59793183840507,
+    "nitidez_512": 748.8199838179664,
+    "sha256": "8d372892fe22ba1a4a40ff8c1ce40b3acd5eee844deaceab1d68f473e1f6e6c0",
+    "bytes": 36123
+  }
+}

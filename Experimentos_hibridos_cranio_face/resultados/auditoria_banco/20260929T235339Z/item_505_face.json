@@ -1,0 +1,21 @@
+{
+  "signature": "b029d1007df7b5328a37cb5fba4f156493cb704f78d7bd2cf9aad16d39c62198",
+  "metadata": {
+    "id": "2022_127_NTOV",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_127_NTOV_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_127_NTOV_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 526,
+    "altura": 752,
+    "contraste": 80.12021507677363,
+    "nitidez_512": 720.6256628655892,
+    "sha256": "b029d1007df7b5328a37cb5fba4f156493cb704f78d7bd2cf9aad16d39c62198",
+    "bytes": 35724
+  }
+}

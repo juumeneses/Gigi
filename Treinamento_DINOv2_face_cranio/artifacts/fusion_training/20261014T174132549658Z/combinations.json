@@ -1,0 +1,16 @@
+{
+  "checkpoints": {
+    "frontal": "f17fc05dfb32656685b13a53005d8130c7252b0b7801363bcdbb73b0003f3043",
+    "sorriso": "d9c5036974efbdd5fdd4d55037a998bbc4d1f09d9f7f16ffb285ebc6c99e2428",
+    "lateral": "2f5fc8021b49cdceb5cad18b12d9874d6e02b62ff1f53554bf5e1dc8c651086c"
+  },
+  "outputs": {
+    "111": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261014T174200894534Z",
+    "001": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261014T174201370621Z",
+    "010": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261014T174201682514Z",
+    "011": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261014T174201963726Z",
+    "100": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261014T174202297462Z",
+    "101": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261014T174202594554Z",
+    "110": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261014T174202897673Z"
+  }
+}

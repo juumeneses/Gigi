@@ -152,7 +152,7 @@ def _symmetry_axis(image: np.ndarray, box) -> tuple[float, float]:
     return float(best_x), confidence
 
 
-def _multi_threshold_candidates(image: np.ndarray, mask: np.ndarray, box) -> list[dict]:
+def _multi_threshold_candidates(image: np.ndarray, mask: np.ndarray, box, *, nested=False) -> list[dict]:
     x0,y0,x1,y1=box; bw,bh=x1-x0+1,y1-y0+1; gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
     roi=gray[y0:y1+1,x0:x1+1]; fg=mask[y0:y1+1,x0:x1+1]>0; vals=roi[fg]
     if not len(vals): return []
@@ -160,8 +160,17 @@ def _multi_threshold_candidates(image: np.ndarray, mask: np.ndarray, box) -> lis
     for percentile in (14,20,26,32,38):
         dark=((roi<=np.percentile(vals,percentile))&fg).astype(np.uint8)*255
         k=max(3,int(min(bw,bh)*.008)|1); dark=cv2.morphologyEx(dark,cv2.MORPH_CLOSE,cv2.getStructuringElement(cv2.MORPH_ELLIPSE,(k,k)))
-        contours,_=cv2.findContours(dark,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
-        for c in contours:
+        contours,hierarchy=cv2.findContours(dark,cv2.RETR_TREE if nested else cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
+        for index,c in enumerate(contours):
+            if nested:
+                # A dark outline can enclose bone and cavities. Odd depths are
+                # bright holes, not dark cavity candidates.
+                depth, parent = 0, hierarchy[0,index,3]
+                while parent >= 0:
+                    depth += 1
+                    parent = hierarchy[0,parent,3]
+                if depth % 2:
+                    continue
             area=cv2.contourArea(c)
             if not bw*bh*.001 <= area <= bw*bh*.13: continue
             x,y,w,h=cv2.boundingRect(c); cx=x+w/2+x0; cy=y+h/2+y0
@@ -381,7 +390,9 @@ def run_cranios(manifest: pd.DataFrame, config: dict, force: bool = False) -> tu
         split_df=pd.read_csv(split_path); train_ids=set(split_df.loc[split_df["split"].eq("treino"),"id_pessoa"].astype(str))
     else:
         train_ids=set(manifest.loc[manifest.get("split",pd.Series(index=manifest.index,dtype=object)).eq("treino"),"id_pessoa"].astype(str)) if "split" in manifest else set()
-    prior_source=[(result[0],result[1]) for rec,_,result in cached if not train_ids or str(rec["id_pessoa"]) in train_ids]
+    if not train_ids:
+        raise RuntimeError("Split de treino ausente ou vazio; prior orbital nao pode usar todos os dados.")
+    prior_source=[(result[0],result[1]) for rec,_,result in cached if str(rec["id_pessoa"]) in train_ids]
     prior=_orbital_prior(prior_source)
     rows, pts, rows_v1, rows_v2 = [], [], [], []
     for index,(rec,im,v2) in enumerate(cached,1):

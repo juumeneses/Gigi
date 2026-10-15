@@ -1,0 +1,21 @@
+{
+  "signature": "e7d4af30ffaa77d278c730fe35a95ddb69a93bec2da77acbf2b3c9f5eb277f7c",
+  "metadata": {
+    "id": "2021_88_PZDO",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_88_PZDO_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_88_PZDO_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 739,
+    "contraste": 71.82186384487719,
+    "nitidez_512": 759.7200081203159,
+    "sha256": "e7d4af30ffaa77d278c730fe35a95ddb69a93bec2da77acbf2b3c9f5eb277f7c",
+    "bytes": 33812
+  }
+}

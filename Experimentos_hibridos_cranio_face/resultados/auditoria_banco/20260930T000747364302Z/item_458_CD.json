@@ -1,0 +1,21 @@
+{
+  "signature": "082d4b8d6c4fb8778fc38c258f07ae1ef4e42f97c24b502908f6b82e237bdabe",
+  "metadata": {
+    "id": "2021_83_PAAC",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_83_PAAC_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_83_PAAC_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1092,
+    "altura": 1057,
+    "contraste": 95.37261066557348,
+    "nitidez_512": 749.7300471982742,
+    "sha256": "082d4b8d6c4fb8778fc38c258f07ae1ef4e42f97c24b502908f6b82e237bdabe",
+    "bytes": 244989
+  }
+}

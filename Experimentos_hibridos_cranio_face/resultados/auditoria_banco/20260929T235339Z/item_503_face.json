@@ -1,0 +1,21 @@
+{
+  "signature": "83ae7674b4e67eaca5864bdd20f529a67c7e46a18769585e808d1d8091ac7009",
+  "metadata": {
+    "id": "2022_125_NPDAF",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_125_NPDAF_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_125_NPDAF_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 525,
+    "altura": 754,
+    "contraste": 90.17028148106341,
+    "nitidez_512": 1052.3862279699752,
+    "sha256": "83ae7674b4e67eaca5864bdd20f529a67c7e46a18769585e808d1d8091ac7009",
+    "bytes": 47419
+  }
+}

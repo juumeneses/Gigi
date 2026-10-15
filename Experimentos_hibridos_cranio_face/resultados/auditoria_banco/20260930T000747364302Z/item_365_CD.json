@@ -1,0 +1,21 @@
+{
+  "signature": "80a364cbb6dc2c58e03369e841b1eae72adbb2b104e28f4dff734eb8d0250d34",
+  "metadata": {
+    "id": "2019_92_ILO",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_92_ILO_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_92_ILO_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1568,
+    "altura": 1024,
+    "contraste": 99.15272748139878,
+    "nitidez_512": 1031.2509239333833,
+    "sha256": "80a364cbb6dc2c58e03369e841b1eae72adbb2b104e28f4dff734eb8d0250d34",
+    "bytes": 255779
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "3f666d56dce9549cb9bfd0e94f2f1192ea3d4c68b116b3d694b39680e5c11b44",
+  "metadata": {
+    "id": "2017_62_LGDSR",
+    "ano": "2017",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CF/2017_62_LGDSR_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CF/2017_62_LGDSR_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2286,
+    "altura": 1604,
+    "contraste": 94.94814170801135,
+    "nitidez_512": 575.5619124303621,
+    "sha256": "3f666d56dce9549cb9bfd0e94f2f1192ea3d4c68b116b3d694b39680e5c11b44",
+    "bytes": 205787
+  }
+}

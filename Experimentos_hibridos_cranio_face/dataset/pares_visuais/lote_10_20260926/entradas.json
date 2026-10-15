@@ -1,0 +1,512 @@
+[
+  {
+    "id_pessoa": "2017_41_GP",
+    "ano": 2017,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_41_GP_CF.jpg",
+        "hash": "dc8988e7aad9674914d3814169d9b4d0f6920940bbe84e0ea8e54e43b2299c47",
+        "box": [
+          541,
+          48,
+          1346,
+          1206
+        ],
+        "size": [
+          403,
+          580
+        ],
+        "offset": [
+          98,
+          10
+        ],
+        "original_size": [
+          1848,
+          1206
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_41_GP_FFN.jpg",
+        "hash": "9bc89669f2c9311386e6e7c5981c217e8a31baac2d041e494ea7d9e0994fe27c",
+        "box": [
+          0,
+          0,
+          517,
+          727
+        ],
+        "size": [
+          412,
+          580
+        ],
+        "offset": [
+          94,
+          10
+        ],
+        "original_size": [
+          517,
+          727
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2017_73_MMPCC",
+    "ano": 2017,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_73_MMPCC_CF.jpg",
+        "hash": "c85af94b4935b8a0b24e47a9772eb347c8b8dfee57103c7d27632f489c20ef10",
+        "box": [
+          562,
+          89,
+          1364,
+          1239
+        ],
+        "size": [
+          404,
+          580
+        ],
+        "offset": [
+          98,
+          10
+        ],
+        "original_size": [
+          1907,
+          1244
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_73_MMPCC_FFN.jpg",
+        "hash": "713225d2a19d0fc9edd0af9be8ba4c2243e46872f54640d86eae8e6135316be0",
+        "box": [
+          0,
+          0,
+          521,
+          739
+        ],
+        "size": [
+          409,
+          580
+        ],
+        "offset": [
+          95,
+          10
+        ],
+        "original_size": [
+          521,
+          739
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2017_76_MVXP",
+    "ano": 2017,
+    "split": "validacao",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_76_MVXP_CF.jpg",
+        "hash": "a7fa75e8986781e5b1c70539dc8bd903327c3f56f8803b9912f5a668ca0f7144",
+        "box": [
+          645,
+          41,
+          1422,
+          1295
+        ],
+        "size": [
+          359,
+          580
+        ],
+        "offset": [
+          120,
+          10
+        ],
+        "original_size": [
+          2065,
+          1348
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_76_MVXP_FFN.jpg",
+        "hash": "60c073f1f67d4173ebd0bfcd01d1e02094f8324ce8f4d3daea790211153f44a3",
+        "box": [
+          0,
+          0,
+          519,
+          729
+        ],
+        "size": [
+          413,
+          580
+        ],
+        "offset": [
+          93,
+          10
+        ],
+        "original_size": [
+          519,
+          729
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2017_92_SRAK",
+    "ano": 2017,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_92_SRAK_CF.jpg",
+        "hash": "7b9698598f4b943b023d4a33a9d45d0fe34a9dc90c52cca74ad2d561cd814cf9",
+        "box": [
+          670,
+          79,
+          1469,
+          1319
+        ],
+        "size": [
+          374,
+          580
+        ],
+        "offset": [
+          113,
+          10
+        ],
+        "original_size": [
+          2129,
+          1390
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_92_SRAK_FFN.jpg",
+        "hash": "63946bcd6dbfd8faa9a93e91a0c246c62bd4c9924e6c80491e8ef59a7fb1c698",
+        "box": [
+          0,
+          0,
+          516,
+          729
+        ],
+        "size": [
+          411,
+          580
+        ],
+        "offset": [
+          94,
+          10
+        ],
+        "original_size": [
+          516,
+          729
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2017_99_VDSR",
+    "ano": 2017,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2017/CF/2017_99_VDSR_CF.jpg",
+        "hash": "5f59310d7359395017177f7e0b607c7799eedd444163f3893e51e2b1b9737c67",
+        "box": [
+          527,
+          79,
+          1330,
+          1244
+        ],
+        "size": [
+          400,
+          580
+        ],
+        "offset": [
+          100,
+          10
+        ],
+        "original_size": [
+          1907,
+          1244
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_99_VDSR_FFN.jpg",
+        "hash": "f9ab7e9acd265999b3cf8d4d82a90b8dcd7e380ddbaf057cac3c00ecfe0d2037",
+        "box": [
+          0,
+          0,
+          524,
+          721
+        ],
+        "size": [
+          422,
+          580
+        ],
+        "offset": [
+          89,
+          10
+        ],
+        "original_size": [
+          524,
+          721
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2019_115_KCCSF",
+    "ano": 2019,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_115_KCCSF_CF.jpg",
+        "hash": "19360a53adf441894d678a78b7bab8bb9053c1bedebc0ac8c8b2d53c19bd5ce9",
+        "box": [
+          556,
+          37,
+          1332,
+          1231
+        ],
+        "size": [
+          377,
+          580
+        ],
+        "offset": [
+          111,
+          10
+        ],
+        "original_size": [
+          1901,
+          1241
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_115_KCCSF_FFN.jpg",
+        "hash": "02ebdd0bfc94b4d2bf376a969da88bbbf8265827218a14c7a49835c567162f01",
+        "box": [
+          0,
+          0,
+          524,
+          765
+        ],
+        "size": [
+          397,
+          580
+        ],
+        "offset": [
+          101,
+          10
+        ],
+        "original_size": [
+          524,
+          765
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2019_156_MFR",
+    "ano": 2019,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_156_MFR_CF.jpg",
+        "hash": "baa7dd62741c6e4f0f9179fd15170fb1a702798d315c9d06b0726ccf419729df",
+        "box": [
+          564,
+          68,
+          1310,
+          1238
+        ],
+        "size": [
+          370,
+          580
+        ],
+        "offset": [
+          115,
+          10
+        ],
+        "original_size": [
+          1907,
+          1244
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_156_MFR_FFN.jpg",
+        "hash": "1e1d9df12557698373d238fb4f3ceb7522f3463bf2fde8dc5291803509244c36",
+        "box": [
+          0,
+          0,
+          521,
+          753
+        ],
+        "size": [
+          401,
+          580
+        ],
+        "offset": [
+          99,
+          10
+        ],
+        "original_size": [
+          521,
+          753
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2019_233_SFG",
+    "ano": 2019,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_233_SFG_CF.jpg",
+        "hash": "9bc3919436aff143b9b9e7ceacdaae6626afb6f74be5995d864bfeb1f882117b",
+        "box": [
+          211,
+          0,
+          1190,
+          966
+        ],
+        "size": [
+          580,
+          572
+        ],
+        "offset": [
+          10,
+          14
+        ],
+        "original_size": [
+          1498,
+          977
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_233_SFG_FFN.jpg",
+        "hash": "eb744f4e87bc583ca3c6f68698adb47df83bc611ed7a66b27d47029bae6a46e8",
+        "box": [
+          0,
+          0,
+          515,
+          745
+        ],
+        "size": [
+          401,
+          580
+        ],
+        "offset": [
+          99,
+          10
+        ],
+        "original_size": [
+          515,
+          745
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2019_234_SFLL",
+    "ano": 2019,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_234_SFLL_CF.jpg",
+        "hash": "5105398d8057862089536bd312b4daf9f93985726547c6f42c141ee1492d5ceb",
+        "box": [
+          535,
+          0,
+          1409,
+          1244
+        ],
+        "size": [
+          407,
+          580
+        ],
+        "offset": [
+          96,
+          10
+        ],
+        "original_size": [
+          1907,
+          1244
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_234_SFLL_FFN.jpg",
+        "hash": "bfffd5a071bc999a1b4655fe9e55344eac6be8fdeaeb8b254ee5c8ba12feb388",
+        "box": [
+          0,
+          0,
+          518,
+          737
+        ],
+        "size": [
+          408,
+          580
+        ],
+        "offset": [
+          96,
+          10
+        ],
+        "original_size": [
+          518,
+          737
+        ]
+      }
+    }
+  },
+  {
+    "id_pessoa": "2019_260_WRV",
+    "ano": 2019,
+    "split": "treino",
+    "views": {
+      "cranio": {
+        "path": "Treinamento_cranios/dados_originais/cranios/2019/CF/2019_260_WRV_CF.jpg",
+        "hash": "99287aec7e06d47c85fa1c51e9d7337314b59f38287b7432bb10ae00329efcbd",
+        "box": [
+          1,
+          0,
+          799,
+          1220
+        ],
+        "size": [
+          379,
+          580
+        ],
+        "offset": [
+          110,
+          10
+        ],
+        "original_size": [
+          811,
+          1221
+        ]
+      },
+      "face": {
+        "path": "Treinamento_faces/dados_originais/faces/2019/images/2019_260_WRV_FFN.jpg",
+        "hash": "f4e39c2eac37c36dc0fdac42c0f4d55830556d7b21c5d66eaefdc2ae12ecc804",
+        "box": [
+          0,
+          0,
+          519,
+          757
+        ],
+        "size": [
+          398,
+          580
+        ],
+        "offset": [
+          101,
+          10
+        ],
+        "original_size": [
+          519,
+          757
+        ]
+      }
+    }
+  }
+]

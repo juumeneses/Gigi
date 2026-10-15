@@ -1,0 +1,21 @@
+{
+  "signature": "e986ee46c0a04cf3bb75c5263e5f763938d3d97b48b3424b7ef94276b3e825f2",
+  "metadata": {
+    "id": "2023_140_TDGP",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_140_TDGP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_140_TDGP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1070,
+    "altura": 989,
+    "contraste": 91.08784692580386,
+    "nitidez_512": 751.5770827086066,
+    "sha256": "e986ee46c0a04cf3bb75c5263e5f763938d3d97b48b3424b7ef94276b3e825f2",
+    "bytes": 252881
+  }
+}

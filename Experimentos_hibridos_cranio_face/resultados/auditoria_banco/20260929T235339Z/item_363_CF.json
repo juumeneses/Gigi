@@ -1,0 +1,21 @@
+{
+  "signature": "2bfa3e6656d3eef2eab2968cc707b5559581f9ef075f828355e10179466f8fff",
+  "metadata": {
+    "id": "2019_90_IFO",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_90_IFO_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_90_IFO_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1498,
+    "altura": 977,
+    "contraste": 101.5702326968383,
+    "nitidez_512": 774.2959029608276,
+    "sha256": "2bfa3e6656d3eef2eab2968cc707b5559581f9ef075f828355e10179466f8fff",
+    "bytes": 183268
+  }
+}

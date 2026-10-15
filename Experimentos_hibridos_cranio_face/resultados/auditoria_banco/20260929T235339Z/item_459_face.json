@@ -1,0 +1,21 @@
+{
+  "signature": "fa56cf815d4b3153b58dbbf57a6982c234fb0f20935b0cfc67f967d8dfe8dd73",
+  "metadata": {
+    "id": "2021_84_PAP",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_84_PAP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_84_PAP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 730,
+    "contraste": 71.56328099620137,
+    "nitidez_512": 272.6313709707577,
+    "sha256": "fa56cf815d4b3153b58dbbf57a6982c234fb0f20935b0cfc67f967d8dfe8dd73",
+    "bytes": 32701
+  }
+}

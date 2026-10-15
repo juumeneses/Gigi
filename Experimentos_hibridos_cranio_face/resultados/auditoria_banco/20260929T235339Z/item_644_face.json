@@ -1,0 +1,21 @@
+{
+  "signature": "a9e6fad569a7a8c2b31621d6fee5e9b6d23b07a55077bd78e18de55b2abb4855",
+  "metadata": {
+    "id": "2023_101_MKRDA",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_101_MKRDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_101_MKRDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 227,
+    "altura": 319,
+    "contraste": 77.76298148053613,
+    "nitidez_512": 813.5048491147451,
+    "sha256": "a9e6fad569a7a8c2b31621d6fee5e9b6d23b07a55077bd78e18de55b2abb4855",
+    "bytes": 13263
+  }
+}

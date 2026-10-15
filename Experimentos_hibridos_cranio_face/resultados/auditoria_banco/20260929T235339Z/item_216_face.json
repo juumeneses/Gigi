@@ -1,0 +1,21 @@
+{
+  "signature": "1e7ba0f7ae90a61aa48cbd64a526e3f66426cda50e3b164669466bf37c837216",
+  "metadata": {
+    "id": "2019_207_RDAM",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_207_RDAM_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_207_RDAM_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 729,
+    "contraste": 60.5886956115954,
+    "nitidez_512": 962.0960317103129,
+    "sha256": "1e7ba0f7ae90a61aa48cbd64a526e3f66426cda50e3b164669466bf37c837216",
+    "bytes": 30716
+  }
+}

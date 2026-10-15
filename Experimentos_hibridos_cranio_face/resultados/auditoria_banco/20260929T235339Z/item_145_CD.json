@@ -1,0 +1,21 @@
+{
+  "signature": "03f2f035c0e5d2e6be7eacc52b3580792f9a4bd0c5d938181a60ce560c28a5ed",
+  "metadata": {
+    "id": "2019_143_MAM",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_143_MAM_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_143_MAM_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1808,
+    "altura": 1180,
+    "contraste": 100.8894737245008,
+    "nitidez_512": 1208.909910647455,
+    "sha256": "03f2f035c0e5d2e6be7eacc52b3580792f9a4bd0c5d938181a60ce560c28a5ed",
+    "bytes": 217139
+  }
+}

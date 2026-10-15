@@ -1,0 +1,272 @@
+{
+  "status": "OK_TECNICO",
+  "regions": {
+    "olho_direito": {
+      "status": "OK_TECNICO",
+      "raw": [
+        145.33329606056213,
+        320.86772805452347,
+        231.43725901842117,
+        347.6152693629265
+      ],
+      "box": [
+        145.33329606056213,
+        320.86772805452347,
+        231.43725901842117,
+        347.6152693629265
+      ],
+      "margin": [
+        12.300566136837006,
+        4.0
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "MEDIAPIPE",
+      "required": [
+        33,
+        133,
+        159,
+        145
+      ],
+      "crop_bounds": [
+        145,
+        320,
+        232,
+        348
+      ],
+      "transform": {
+        "scale": 2.942528735632184,
+        "offset": [
+          0,
+          87
+        ],
+        "size": [
+          256,
+          82
+        ],
+        "input_size": [
+          87,
+          28
+        ]
+      },
+      "arquivo": "olho_direito.jpg"
+    },
+    "olho_esquerdo": {
+      "status": "OK_TECNICO",
+      "raw": [
+        281.94597429037094,
+        314.55072325468063,
+        368.6553683280945,
+        346.8612374663353
+      ],
+      "box": [
+        281.94597429037094,
+        314.55072325468063,
+        368.6553683280945,
+        346.8612374663353
+      ],
+      "margin": [
+        12.387056291103363,
+        4.615787744522095
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "MEDIAPIPE",
+      "required": [
+        263,
+        362,
+        386,
+        374
+      ],
+      "crop_bounds": [
+        281,
+        314,
+        369,
+        347
+      ],
+      "transform": {
+        "scale": 2.909090909090909,
+        "offset": [
+          0,
+          80
+        ],
+        "size": [
+          256,
+          96
+        ],
+        "input_size": [
+          88,
+          33
+        ]
+      },
+      "arquivo": "olho_esquerdo.jpg"
+    },
+    "nariz": {
+      "status": "OK_TECNICO",
+      "raw": [
+        203.77340650558472,
+        304.0609101653099,
+        315.85155749320984,
+        460.3514252901077
+      ],
+      "box": [
+        203.77340650558472,
+        304.0609101653099,
+        315.85155749320984,
+        460.3514252901077
+      ],
+      "margin": [
+        16.01116442680359,
+        22.32721644639969
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "MEDIAPIPE",
+      "required": [
+        64,
+        294,
+        168,
+        2
+      ],
+      "crop_bounds": [
+        203,
+        304,
+        316,
+        461
+      ],
+      "transform": {
+        "scale": 1.6305732484076434,
+        "offset": [
+          36,
+          0
+        ],
+        "size": [
+          184,
+          256
+        ],
+        "input_size": [
+          113,
+          157
+        ]
+      },
+      "arquivo": "nariz.jpg"
+    },
+    "central": {
+      "status": "OK_TECNICO",
+      "raw": [
+        117.90697222948074,
+        304.0609101653099,
+        395.9952020049095,
+        460.3514252901077
+      ],
+      "box": [
+        117.90697222948074,
+        304.0609101653099,
+        395.9952020049095,
+        460.3514252901077
+      ],
+      "margin": [
+        39.726889967918396,
+        22.32721644639969
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "MEDIAPIPE",
+      "required": [
+        33,
+        263,
+        64,
+        294,
+        168,
+        2
+      ],
+      "crop_bounds": [
+        117,
+        304,
+        396,
+        461
+      ],
+      "transform": {
+        "scale": 0.9175627240143369,
+        "offset": [
+          0,
+          56
+        ],
+        "size": [
+          256,
+          144
+        ],
+        "input_size": [
+          279,
+          157
+        ]
+      },
+      "arquivo": "central.jpg"
+    },
+    "mandibula_queixo": {
+      "status": "OK_TECNICO",
+      "raw": [
+        43.5869796872139,
+        322.0706636309624,
+        472.00001206994057,
+        618.1172452270985
+      ],
+      "box": [
+        43.5869796872139,
+        322.0706636309624,
+        472.00001206994057,
+        618.1172452270985
+      ],
+      "margin": [
+        61.20186176896095,
+        42.29236879944801
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "MEDIAPIPE",
+      "required": [
+        172,
+        397,
+        152,
+        234,
+        454
+      ],
+      "crop_bounds": [
+        43,
+        322,
+        473,
+        619
+      ],
+      "transform": {
+        "scale": 0.5953488372093023,
+        "offset": [
+          0,
+          39
+        ],
+        "size": [
+          256,
+          177
+        ],
+        "input_size": [
+          430,
+          297
+        ]
+      },
+      "arquivo": "mandibula_queixo.jpg"
+    }
+  },
+  "fingerprint": "99efa19cc2b6496b5ac5dcae16c72c2489e55d6f9dc14f67d9e1ca2d042beaa7",
+  "assets": {
+    "olho_direito.jpg": "639a4d09f022505a5b27d098a590cd2c669d4efaf42685b55758fca882203f6f",
+    "olho_esquerdo.jpg": "c48c94245413622122a0ecffc4a6cbe6fbfc6560bcaeea6a7073025d84670466",
+    "nariz.jpg": "9bc221f4f93f35bc162d5d559c78831fda5cb63d325753b0798d967c71f2b1ec",
+    "central.jpg": "c48123af7c706f6dcc7110fab77beeab56af3f0773714b077dc0eed61ffae5e1",
+    "mandibula_queixo.jpg": "b2fdce03c375de137d00a41ac8f100af875791eeaaefdc4a9cd018bf3a6f473c"
+  },
+  "payload_hash": "8ea25e0741e8d7341ffecc61f2bc568a977e5eceb6ca4ae9b6935cb06ae8367b"
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "9599f3ac8cdb6962823827f75b561bc90f5dc367928f2f06f33c59f57a93c15f",
+  "metadata": {
+    "id": "2021_43_GCA",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_43_GCA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_43_GCA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1127,
+    "altura": 1003,
+    "contraste": 92.09906248353555,
+    "nitidez_512": 818.3681694540328,
+    "sha256": "9599f3ac8cdb6962823827f75b561bc90f5dc367928f2f06f33c59f57a93c15f",
+    "bytes": 258728
+  }
+}

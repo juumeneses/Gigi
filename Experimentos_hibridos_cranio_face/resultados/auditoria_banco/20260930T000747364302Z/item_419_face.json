@@ -1,0 +1,21 @@
+{
+  "signature": "efdc9d6aae10c6c0af0bda0b1b0ee483483025261940e013e0eb09f0744a19ea",
+  "metadata": {
+    "id": "2021_48_GHDOG",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_48_GHDOG_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_48_GHDOG_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 725,
+    "contraste": 76.23796297817456,
+    "nitidez_512": 998.9992160559992,
+    "sha256": "efdc9d6aae10c6c0af0bda0b1b0ee483483025261940e013e0eb09f0744a19ea",
+    "bytes": 41184
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "run": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/lateral",
+  "query": {
+    "person": "2017_75_MTGP",
+    "year": "2017",
+    "split": "validacao",
+    "views": {
+      "CD": {
+        "key": "6e1972118042b116844b",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CD.jpg",
+        "filename": "2017_75_MTGP_CD.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "CD",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "291eb27ce13f379f6216e7a852e6709e958e76ed947a3b4ad63046476b6985f3",
+        "width": 2120,
+        "height": 1384,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CD.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CE": {
+        "key": "a0997b592219511a9bf2",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CE.jpg",
+        "filename": "2017_75_MTGP_CE.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "CE",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "5d3824f5600d6855fbeaa11f2091aaac0339f9a25143cebc1b2a5b566498d7ce",
+        "width": 2120,
+        "height": 1384,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CE.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CF": {
+        "key": "4af8b10459fa81f0945d",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CF.jpg",
+        "filename": "2017_75_MTGP_CF.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "CF",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "6299b18a08a6405ecfcbea3200232dcc7f01d96f22d7467bbbf899e32f2cc960",
+        "width": 2120,
+        "height": 1384,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CF.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FFN": {
+        "key": "6a8bb67942241d6402d1",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFN.jpg",
+        "filename": "2017_75_MTGP_FFN.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "FFN",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "6bc31594be399c16817c68bed5bdf74665b37b16a7a2bc15c639865b806a0330",
+        "width": 520,
+        "height": 741,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFN.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FFS": {
+        "key": "87fef1917569117e203f",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFS.jpg",
+        "filename": "2017_75_MTGP_FFS.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "FFS",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "5d70b3bf43d304fbbef35971163eb5bcd9973d20013f88c32fd360d2b2b5b4c1",
+        "width": 519,
+        "height": 741,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFS.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FL": {
+        "key": "045e5bdb1d7247c5dc03",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FL.jpg",
+        "filename": "2017_75_MTGP_FL.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "FL",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "5f3a4765de1088825e5608b383dec2506d1d3aa54518ca35ed6257fc891d3327",
+        "width": 520,
+        "height": 741,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FL.jpg"
+        ],
+        "selection": "unique"
+      }
+    },
+    "conflicts": {}
+  },
+  "candidate": {
+    "person": "2017_75_MTGP",
+    "year": "2017",
+    "split": "validacao",
+    "views": {
+      "CD": {
+        "key": "6e1972118042b116844b",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CD.jpg",
+        "filename": "2017_75_MTGP_CD.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "CD",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "291eb27ce13f379f6216e7a852e6709e958e76ed947a3b4ad63046476b6985f3",
+        "width": 2120,
+        "height": 1384,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CD.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CE": {
+        "key": "a0997b592219511a9bf2",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CE.jpg",
+        "filename": "2017_75_MTGP_CE.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "CE",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "5d3824f5600d6855fbeaa11f2091aaac0339f9a25143cebc1b2a5b566498d7ce",
+        "width": 2120,
+        "height": 1384,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CE.jpg"
+        ],
+        "selection": "unique"
+      },
+      "CF": {
+        "key": "4af8b10459fa81f0945d",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CF.jpg",
+        "filename": "2017_75_MTGP_CF.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "CF",
+        "modality": "cranio",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "6299b18a08a6405ecfcbea3200232dcc7f01d96f22d7467bbbf899e32f2cc960",
+        "width": 2120,
+        "height": 1384,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_CF.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FFN": {
+        "key": "6a8bb67942241d6402d1",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFN.jpg",
+        "filename": "2017_75_MTGP_FFN.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "FFN",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "6bc31594be399c16817c68bed5bdf74665b37b16a7a2bc15c639865b806a0330",
+        "width": 520,
+        "height": 741,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFN.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FFS": {
+        "key": "87fef1917569117e203f",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFS.jpg",
+        "filename": "2017_75_MTGP_FFS.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "FFS",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "5d70b3bf43d304fbbef35971163eb5bcd9973d20013f88c32fd360d2b2b5b4c1",
+        "width": 519,
+        "height": 741,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FFS.jpg"
+        ],
+        "selection": "unique"
+      },
+      "FL": {
+        "key": "045e5bdb1d7247c5dc03",
+        "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FL.jpg",
+        "filename": "2017_75_MTGP_FL.jpg",
+        "person": "2017_75_MTGP",
+        "year": "2017",
+        "view": "FL",
+        "modality": "face",
+        "identity_origin": "parent",
+        "split": "validacao",
+        "status": "OK",
+        "error": "",
+        "hash": "5f3a4765de1088825e5608b383dec2506d1d3aa54518ca35ed6257fc891d3327",
+        "width": 520,
+        "height": 741,
+        "aliases": [
+          "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_75_MTGP/2017_75_MTGP_FL.jpg"
+        ],
+        "selection": "unique"
+      }
+    },
+    "conflicts": {}
+  },
+  "signature": "636321c52e1af99db1612ce71ceddce9cf58aa931b670587b67bbc4429cb575b"
+}

@@ -1,0 +1,2248 @@
+{
+  "signature": "b3bbedcf922aa493792dccb4fd2b76f5e20aee42d2a1654098ceac61fb06fda2",
+  "rows": [
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Configuracao da consulta",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.5, 0.3, 0.2]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_15_CBL",
+      "Score do primeiro": 1.4852898716926575,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.4852898716926575
+    },
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Neutra",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.5, 0.0, 0.0]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_15_CBL",
+      "Score do primeiro": 1.393951416015625,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.393951416015625
+    },
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Sorrindo",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.0, 0.3, 0.0]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_15_CBL",
+      "Score do primeiro": 1.3998569250106812,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.3998569250106812
+    },
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Lateral",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.0, 0.0, 0.2]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_75_MTGP",
+      "Score do primeiro": 2.090942859649658,
+      "Posicao do correto": 2,
+      "Referencia conhecida": true,
+      "Top-1": "Nao",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.8417853116989136
+    },
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Neutra + Sorrindo",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.5, 0.3, 0.0]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_15_CBL",
+      "Score do primeiro": 1.3961659669876099,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.3961659669876099
+    },
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Neutra + Lateral",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.5, 0.0, 0.2]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_15_CBL",
+      "Score do primeiro": 1.5219039916992188,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.5219039916992188
+    },
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Sorrindo + Lateral",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.0, 0.3, 0.2]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_15_CBL",
+      "Score do primeiro": 1.57662832736969,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.57662832736969
+    },
+    {
+      "Fonte": "Modelo selecionado",
+      "Combinacao": "Neutra + Sorrindo + Lateral",
+      "Execucao": "20261015T140524199932Z",
+      "Pesos": "[0.5, 0.3, 0.2]",
+      "Pessoa de referencia": "2017_15_CBL",
+      "Ano": "2017",
+      "Primeiro colocado": "2017_15_CBL",
+      "Score do primeiro": 1.4852898716926575,
+      "Posicao do correto": 1,
+      "Referencia conhecida": true,
+      "Top-1": "Sim",
+      "Top-3": "Sim",
+      "Top-5": "Sim",
+      "Top-10": "Sim",
+      "Candidatos com score": 50,
+      "Score do correto": 1.4852898716926575
+    }
+  ],
+  "entries": [
+    {
+      "source": "Modelo selecionado",
+      "combination": "Configuracao da consulta",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2017_15_CBL",
+          "score": 1.4852898716926575,
+          "rank": 1
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 1.146513432264328,
+          "rank": 2
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 0.8342025838792324,
+          "rank": 3
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 0.732534458860755,
+          "rank": 4
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 0.7290905602276325,
+          "rank": 5
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.669911615550518,
+          "rank": 6
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.6628741584718227,
+          "rank": 7
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": 0.6238282844424248,
+          "rank": 8
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.6041267141699791,
+          "rank": 9
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.590798880904913,
+          "rank": 10
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": 0.5644708070904016,
+          "rank": 11
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.5385950356721878,
+          "rank": 12
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": 0.31130871176719666,
+          "rank": 13
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.23905772157013416,
+          "rank": 14
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": 0.12633970100432634,
+          "rank": 15
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": 0.12192862341180444,
+          "rank": 16
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": 0.0005350075662136078,
+          "rank": 17
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": -0.0012199878692626953,
+          "rank": 18
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": -0.030554811470210552,
+          "rank": 19
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": -0.03468956984579563,
+          "rank": 20
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": -0.045715294778347015,
+          "rank": 21
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": -0.07245568931102753,
+          "rank": 22
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": -0.1221428569406271,
+          "rank": 23
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": -0.16225992143154144,
+          "rank": 24
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": -0.22511801752261817,
+          "rank": 25
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": -0.25631318986415863,
+          "rank": 26
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.2751459702849388,
+          "rank": 27
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": -0.2853849530220032,
+          "rank": 28
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.2948964685201645,
+          "rank": 29
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": -0.33181509654968977,
+          "rank": 30
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.36236363649368286,
+          "rank": 31
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": -0.40528328623622656,
+          "rank": 32
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.40713342279195786,
+          "rank": 33
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": -0.41211701929569244,
+          "rank": 34
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -0.42281216382980347,
+          "rank": 35
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": -0.42397469095885754,
+          "rank": 36
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.42653223127126694,
+          "rank": 37
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.44718071818351746,
+          "rank": 38
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -0.7061695754528046,
+          "rank": 39
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -0.7198288887739182,
+          "rank": 40
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.7292968481779099,
+          "rank": 41
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.7369888871908188,
+          "rank": 42
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.7634674459695816,
+          "rank": 43
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": -0.8185901418328285,
+          "rank": 44
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -0.8372754603624344,
+          "rank": 45
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -0.8804228901863098,
+          "rank": 46
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -0.8965637534856796,
+          "rank": 47
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -0.8986378461122513,
+          "rank": 48
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -0.9156850278377533,
+          "rank": 49
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -1.0067889243364334,
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "source": "Modelo selecionado",
+      "combination": "Neutra",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.5,
+        0.0,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2017_15_CBL",
+          "score": 1.393951416015625,
+          "rank": 1
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 1.3709551095962524,
+          "rank": 2
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 1.0644384622573853,
+          "rank": 3
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 0.9882075190544128,
+          "rank": 4
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": 0.922673225402832,
+          "rank": 5
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.8706275820732117,
+          "rank": 6
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 0.8538529872894287,
+          "rank": 7
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.7885420918464661,
+          "rank": 8
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.7131190299987793,
+          "rank": 9
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.6807878017425537,
+          "rank": 10
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": 0.5760455131530762,
+          "rank": 11
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.5474388003349304,
+          "rank": 12
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": 0.5206254720687866,
+          "rank": 13
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": 0.3900875747203827,
+          "rank": 14
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.26374250650405884,
+          "rank": 15
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.21489578485488892,
+          "rank": 16
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": 0.16411937773227692,
+          "rank": 17
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": 0.15498322248458862,
+          "rank": 18
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": 0.10454827547073364,
+          "rank": 19
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": 0.07853486388921738,
+          "rank": 20
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": 0.009954297915101051,
+          "rank": 21
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": 0.006753216031938791,
+          "rank": 22
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": -0.019738495349884033,
+          "rank": 23
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": -0.02095373533666134,
+          "rank": 24
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.08099836111068726,
+          "rank": 25
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -0.10706859827041626,
+          "rank": 26
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": -0.11732232570648193,
+          "rank": 27
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": -0.12879039347171783,
+          "rank": 28
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": -0.14666545391082764,
+          "rank": 29
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.16715531051158905,
+          "rank": 30
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": -0.1946459263563156,
+          "rank": 31
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.2753475606441498,
+          "rank": 32
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.2921315133571625,
+          "rank": 33
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.29436007142066956,
+          "rank": 34
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": -0.31395450234413147,
+          "rank": 35
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": -0.33783629536628723,
+          "rank": 36
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.39727771282196045,
+          "rank": 37
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -0.51119464635849,
+          "rank": 38
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.5274907946586609,
+          "rank": 39
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -0.546989917755127,
+          "rank": 40
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -0.59043288230896,
+          "rank": 41
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.6606583595275879,
+          "rank": 42
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -0.6834485530853271,
+          "rank": 43
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.6923854947090149,
+          "rank": 44
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": -0.6951930522918701,
+          "rank": 45
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -0.708853542804718,
+          "rank": 46
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -0.7162604331970215,
+          "rank": 47
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -0.960782527923584,
+          "rank": 48
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": -0.9638177752494812,
+          "rank": 49
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -1.0630799531936646,
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "source": "Modelo selecionado",
+      "combination": "Sorrindo",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.0,
+        0.3,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2017_15_CBL",
+          "score": 1.3998569250106812,
+          "rank": 1
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 0.8959795832633972,
+          "rank": 2
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.8923943638801575,
+          "rank": 3
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": 0.6727563738822937,
+          "rank": 4
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.585699737071991,
+          "rank": 5
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.4492511451244354,
+          "rank": 6
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": 0.39672577381134033,
+          "rank": 7
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": 0.3836289346218109,
+          "rank": 8
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.34923896193504333,
+          "rank": 9
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.230845108628273,
+          "rank": 10
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 0.19322055578231812,
+          "rank": 11
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 0.18439273536205292,
+          "rank": 12
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": 0.1662246733903885,
+          "rank": 13
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.0527670793235302,
+          "rank": 14
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": 0.042463790625333786,
+          "rank": 15
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 0.031135447323322296,
+          "rank": 16
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": -0.04822235926985741,
+          "rank": 17
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.12713973224163055,
+          "rank": 18
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": -0.18589647114276886,
+          "rank": 19
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": -0.24524414539337158,
+          "rank": 20
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": -0.2575112283229828,
+          "rank": 21
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.2652563750743866,
+          "rank": 22
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.26542824506759644,
+          "rank": 23
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": -0.27461013197898865,
+          "rank": 24
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": -0.2789245545864105,
+          "rank": 25
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -0.3115476071834564,
+          "rank": 26
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.338862806558609,
+          "rank": 27
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": -0.3817995488643646,
+          "rank": 28
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -0.4168567657470703,
+          "rank": 29
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": -0.4505668580532074,
+          "rank": 30
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.5328294038772583,
+          "rank": 31
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": -0.5912524461746216,
+          "rank": 32
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": -0.6019453406333923,
+          "rank": 33
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.604651689529419,
+          "rank": 34
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": -0.6063279509544373,
+          "rank": 35
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -0.6492334008216858,
+          "rank": 36
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.728066623210907,
+          "rank": 37
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -0.7769389152526855,
+          "rank": 38
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -0.7883555293083191,
+          "rank": 39
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -0.8390822410583496,
+          "rank": 40
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.8761072158813477,
+          "rank": 41
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": -0.8876902461051941,
+          "rank": 42
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": -0.9089592099189758,
+          "rank": 43
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": -0.9445146918296814,
+          "rank": 44
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -0.9989566802978516,
+          "rank": 45
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": -1.004489541053772,
+          "rank": 46
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -1.0457412004470825,
+          "rank": 47
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -1.0591397285461426,
+          "rank": 48
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -1.1071833372116089,
+          "rank": 49
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": -1.3923133611679077,
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "source": "Modelo selecionado",
+      "combination": "Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.0,
+        0.0,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2017_75_MTGP",
+          "score": 2.090942859649658,
+          "rank": 1
+        },
+        {
+          "person": "2017_15_CBL",
+          "score": 1.8417853116989136,
+          "rank": 2
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 1.4813365936279297,
+          "rank": 3
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 1.4106632471084595,
+          "rank": 4
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": 1.4063445329666138,
+          "rank": 5
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": 0.9930796027183533,
+          "rank": 6
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.9781104922294617,
+          "rank": 7
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 0.9612099528312683,
+          "rank": 8
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 0.7077674865722656,
+          "rank": 9
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.649130642414093,
+          "rank": 10
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": 0.5695820450782776,
+          "rank": 11
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.4567817151546478,
+          "rank": 12
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": 0.4050638973712921,
+          "rank": 13
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": 0.3790372312068939,
+          "rank": 14
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": 0.37225142121315,
+          "rank": 15
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.3592863082885742,
+          "rank": 16
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": 0.31182336807250977,
+          "rank": 17
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.30876240134239197,
+          "rank": 18
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.2738097012042999,
+          "rank": 19
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": 0.09578436613082886,
+          "rank": 20
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": 0.0921039953827858,
+          "rank": 21
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": 0.09192753583192825,
+          "rank": 22
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": 0.08815609663724899,
+          "rank": 23
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": 0.035302698612213135,
+          "rank": 24
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": -0.02715195156633854,
+          "rank": 25
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": -0.07941770553588867,
+          "rank": 26
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": -0.2111024409532547,
+          "rank": 27
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": -0.23955507576465607,
+          "rank": 28
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -0.32668372988700867,
+          "rank": 29
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.534178614616394,
+          "rank": 30
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.5975168347358704,
+          "rank": 31
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.6405571103096008,
+          "rank": 32
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.6587094664573669,
+          "rank": 33
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.7191376686096191,
+          "rank": 34
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -0.7349510788917542,
+          "rank": 35
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": -0.7541546821594238,
+          "rank": 36
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.7750915884971619,
+          "rank": 37
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.823420524597168,
+          "rank": 38
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.8907797932624817,
+          "rank": 39
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.9299983382225037,
+          "rank": 40
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -1.0625343322753906,
+          "rank": 41
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": -1.075620174407959,
+          "rank": 42
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -1.2810940742492676,
+          "rank": 43
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -1.3790678977966309,
+          "rank": 44
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -1.5380878448486328,
+          "rank": 45
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -1.5556468963623047,
+          "rank": 46
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": -1.5567623376846313,
+          "rank": 47
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -1.6581381559371948,
+          "rank": 48
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -1.7434988021850586,
+          "rank": 49
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": -1.7968062162399292,
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "source": "Modelo selecionado",
+      "combination": "Neutra + Sorrindo",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.0
+      ],
+      "ranking": [
+        {
+          "person": "2017_15_CBL",
+          "score": 1.3961659669876099,
+          "rank": 1
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 1.19283926486969,
+          "rank": 2
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.7601402699947357,
+          "rank": 3
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 0.7344212979078293,
+          "rank": 4
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": 0.7254429310560226,
+          "rank": 5
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 0.6900874152779579,
+          "rank": 6
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.6751068532466888,
+          "rank": 7
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.6653367877006531,
+          "rank": 8
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.6613079756498337,
+          "rank": 9
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": 0.5776745676994324,
+          "rank": 10
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 0.5453339396044612,
+          "rank": 11
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.42871617525815964,
+          "rank": 12
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": 0.3876655846834183,
+          "rank": 13
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": 0.25704964995384216,
+          "rank": 14
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.1846267133951187,
+          "rank": 15
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": 0.15919876843690872,
+          "rank": 16
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": 0.11622647382318974,
+          "rank": 17
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": -0.004368506371974945,
+          "rank": 18
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": -0.057402532547712326,
+          "rank": 19
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": -0.06638795882463455,
+          "rank": 20
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": -0.09034527093172073,
+          "rank": 21
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": -0.094090536236763,
+          "rank": 22
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.1501595675945282,
+          "rank": 23
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": -0.18363246321678162,
+          "rank": 24
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -0.18374822288751602,
+          "rank": 25
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.20394320785999298,
+          "rank": 26
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": -0.22150873532518744,
+          "rank": 27
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.23025959730148315,
+          "rank": 28
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": -0.3433733731508255,
+          "rank": 29
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": -0.3452203944325447,
+          "rank": 30
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.37537212669849396,
+          "rank": 31
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.38378606736660004,
+          "rank": 32
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": -0.38977967761456966,
+          "rank": 33
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.398836612701416,
+          "rank": 34
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": -0.42359453439712524,
+          "rank": 35
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": -0.4346869960427284,
+          "rank": 36
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -0.4981899857521057,
+          "rank": 37
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": -0.5390923619270325,
+          "rank": 38
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": -0.5520073920488358,
+          "rank": 39
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -0.6341525018215179,
+          "rank": 40
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -0.664653867483139,
+          "rank": 41
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.7057659029960632,
+          "rank": 42
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.7218347191810608,
+          "rank": 43
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -0.7343855500221252,
+          "rank": 44
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.7414516806602478,
+          "rank": 45
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -0.8243327438831329,
+          "rank": 46
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -0.8439516127109528,
+          "rank": 47
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -0.8628565073013306,
+          "rank": 48
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -1.0390337109565735,
+          "rank": 49
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": -1.1245036125183105,
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "source": "Modelo selecionado",
+      "combination": "Neutra + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.5,
+        0.0,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2017_15_CBL",
+          "score": 1.5219039916992188,
+          "rank": 1
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 1.2538850903511047,
+          "rank": 2
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 1.1089091897010803,
+          "rank": 3
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 1.0331340432167053,
+          "rank": 4
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": 1.0088733732700348,
+          "rank": 5
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 0.9625325053930283,
+          "rank": 6
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.8073427379131317,
+          "rank": 7
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.6704878807067871,
+          "rank": 8
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.6514621749520302,
+          "rank": 9
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": 0.6363615375012159,
+          "rank": 10
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.6120239794254303,
+          "rank": 11
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.5645083636045456,
+          "rank": 12
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": 0.3868457777425647,
+          "rank": 13
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.3188965767621994,
+          "rank": 14
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": 0.2908472465351224,
+          "rank": 15
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": 0.16439269110560417,
+          "rank": 16
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": 0.1564025729894638,
+          "rank": 17
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": 0.14863880164921284,
+          "rank": 18
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": 0.1435435563325882,
+          "rank": 19
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": 0.10294460505247116,
+          "rank": 20
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": 0.014362353831529617,
+          "rank": 21
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": 0.0015965104103088379,
+          "rank": 22
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": -0.002900741994380951,
+          "rank": 23
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": -0.06362058594822884,
+          "rank": 24
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": -0.11276779882609844,
+          "rank": 25
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": -0.15382306277751923,
+          "rank": 26
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": -0.16615527868270874,
+          "rank": 27
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": -0.21416673623025417,
+          "rank": 28
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": -0.2161241825670004,
+          "rank": 29
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.27931072935462,
+          "rank": 30
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.30759936571121216,
+          "rank": 31
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.3796931654214859,
+          "rank": 32
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.3809763044118881,
+          "rank": 33
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.43639227747917175,
+          "rank": 34
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.46317389607429504,
+          "rank": 35
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": -0.4691995121538639,
+          "rank": 36
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -0.4704969972372055,
+          "rank": 37
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": -0.5727087259292603,
+          "rank": 38
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": -0.5971749201416969,
+          "rank": 39
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.642492949962616,
+          "rank": 40
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -0.6687202751636505,
+          "rank": 41
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.6773667633533478,
+          "rank": 42
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -0.7216006517410278,
+          "rank": 43
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.7298240959644318,
+          "rank": 44
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -0.8301607966423035,
+          "rank": 45
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -0.8526810631155968,
+          "rank": 46
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -0.8542044460773468,
+          "rank": 47
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -0.9198803305625916,
+          "rank": 48
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -0.9507945477962494,
+          "rank": 49
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -1.1600270569324493,
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "source": "Modelo selecionado",
+      "combination": "Sorrindo + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.0,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2017_15_CBL",
+          "score": 1.57662832736969,
+          "rank": 1
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 0.9220717549324036,
+          "rank": 2
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 0.680197648704052,
+          "rank": 3
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": 0.6716110557317734,
+          "rank": 4
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.6449605152010918,
+          "rank": 5
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 0.6112159304320812,
+          "rank": 6
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.5297512710094452,
+          "rank": 7
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.4951343983411789,
+          "rank": 8
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.4691956490278244,
+          "rank": 9
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 0.3937426581978798,
+          "rank": 10
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.39305566996335983,
+          "rank": 11
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": 0.24272510409355164,
+          "rank": 12
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.2143729366362095,
+          "rank": 13
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": 0.20626838877797127,
+          "rank": 14
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": 0.10199195146560669,
+          "rank": 15
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": 0.08887402433902025,
+          "rank": 16
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": 0.001754075288772583,
+          "rank": 17
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": -0.040155887603759766,
+          "rank": 18
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": -0.07746484875679016,
+          "rank": 19
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": -0.12904098629951477,
+          "rank": 20
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": -0.19597886502742767,
+          "rank": 21
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": -0.23349851742386818,
+          "rank": 22
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": -0.30478134751319885,
+          "rank": 23
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": -0.31798045337200165,
+          "rank": 24
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": -0.34967569075524807,
+          "rank": 25
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": -0.3925275504589081,
+          "rank": 26
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.41698913276195526,
+          "rank": 27
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.42263762652873993,
+          "rank": 28
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.43259575963020325,
+          "rank": 29
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": -0.4419795125722885,
+          "rank": 30
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": -0.45698925107717514,
+          "rank": 31
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": -0.4591814987361431,
+          "rank": 32
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.46929357945919037,
+          "rank": 33
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": -0.5101130865514278,
+          "rank": 34
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.5587043911218643,
+          "rank": 35
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.6190138757228851,
+          "rank": 36
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": -0.6733625084161758,
+          "rank": 37
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": -0.6932442467659712,
+          "rank": 38
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -0.7300475537776947,
+          "rank": 39
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -0.7385557293891907,
+          "rank": 40
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.7662082016468048,
+          "rank": 41
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.8133194148540497,
+          "rank": 42
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -0.8653492331504822,
+          "rank": 43
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -0.9284631311893463,
+          "rank": 44
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -0.9582904875278473,
+          "rank": 45
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.9994440972805023,
+          "rank": 46
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -1.0527953207492828,
+          "rank": 47
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -1.0884221494197845,
+          "rank": 48
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -1.1479215025901794,
+          "rank": 49
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -1.1704128980636597,
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "source": "Modelo selecionado",
+      "combination": "Neutra + Sorrindo + Lateral",
+      "model": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T140524199932Z",
+      "weights": [
+        0.5,
+        0.3,
+        0.2
+      ],
+      "ranking": [
+        {
+          "person": "2017_15_CBL",
+          "score": 1.4852898716926575,
+          "rank": 1
+        },
+        {
+          "person": "2019_47_DMG",
+          "score": 1.146513432264328,
+          "rank": 2
+        },
+        {
+          "person": "2017_76_MVXP",
+          "score": 0.8342025838792324,
+          "rank": 3
+        },
+        {
+          "person": "2017_80_PLB",
+          "score": 0.732534458860755,
+          "rank": 4
+        },
+        {
+          "person": "2017_69_MDC",
+          "score": 0.7290905602276325,
+          "rank": 5
+        },
+        {
+          "person": "2017_40_GL",
+          "score": 0.669911615550518,
+          "rank": 6
+        },
+        {
+          "person": "2022_109_MDD",
+          "score": 0.6628741584718227,
+          "rank": 7
+        },
+        {
+          "person": "2017_75_MTGP",
+          "score": 0.6238282844424248,
+          "rank": 8
+        },
+        {
+          "person": "2023_3_ABLDO",
+          "score": 0.6041267141699791,
+          "rank": 9
+        },
+        {
+          "person": "2019_113_JSC",
+          "score": 0.590798880904913,
+          "rank": 10
+        },
+        {
+          "person": "2023_88_LDOS",
+          "score": 0.5644708070904016,
+          "rank": 11
+        },
+        {
+          "person": "2017_9_AVD",
+          "score": 0.5385950356721878,
+          "rank": 12
+        },
+        {
+          "person": "2021_84_PAP",
+          "score": 0.31130871176719666,
+          "rank": 13
+        },
+        {
+          "person": "2019_236_SGC",
+          "score": 0.23905772157013416,
+          "rank": 14
+        },
+        {
+          "person": "2021_43_GCA",
+          "score": 0.12633970100432634,
+          "rank": 15
+        },
+        {
+          "person": "2022_7_AMAT",
+          "score": 0.12192862341180444,
+          "rank": 16
+        },
+        {
+          "person": "2019_177_NRA",
+          "score": 0.0005350075662136078,
+          "rank": 17
+        },
+        {
+          "person": "2022_117_MMRDS",
+          "score": -0.0012199878692626953,
+          "rank": 18
+        },
+        {
+          "person": "2017_87_RPDSN",
+          "score": -0.030554811470210552,
+          "rank": 19
+        },
+        {
+          "person": "2019_82_GNM",
+          "score": -0.03468956984579563,
+          "rank": 20
+        },
+        {
+          "person": "2023_8_ADAN",
+          "score": -0.045715294778347015,
+          "rank": 21
+        },
+        {
+          "person": "2022_141_RGP",
+          "score": -0.07245568931102753,
+          "rank": 22
+        },
+        {
+          "person": "2022_142_RLM",
+          "score": -0.1221428569406271,
+          "rank": 23
+        },
+        {
+          "person": "2019_138_LVL",
+          "score": -0.16225992143154144,
+          "rank": 24
+        },
+        {
+          "person": "2019_132_LPLS",
+          "score": -0.22511801752261817,
+          "rank": 25
+        },
+        {
+          "person": "2019_31_CABMS",
+          "score": -0.25631318986415863,
+          "rank": 26
+        },
+        {
+          "person": "2021_28_DJTT",
+          "score": -0.2751459702849388,
+          "rank": 27
+        },
+        {
+          "person": "2019_192_PZO",
+          "score": -0.2853849530220032,
+          "rank": 28
+        },
+        {
+          "person": "2023_49_ECBL",
+          "score": -0.2948964685201645,
+          "rank": 29
+        },
+        {
+          "person": "2023_110_MSDA",
+          "score": -0.33181509654968977,
+          "rank": 30
+        },
+        {
+          "person": "2022_30_DABFA",
+          "score": -0.36236363649368286,
+          "rank": 31
+        },
+        {
+          "person": "2021_65_LMDOS",
+          "score": -0.40528328623622656,
+          "rank": 32
+        },
+        {
+          "person": "2021_10_ALMPLM",
+          "score": -0.40713342279195786,
+          "rank": 33
+        },
+        {
+          "person": "2023_96_MDSPS",
+          "score": -0.41211701929569244,
+          "rank": 34
+        },
+        {
+          "person": "2021_42_GBT",
+          "score": -0.42281216382980347,
+          "rank": 35
+        },
+        {
+          "person": "2022_131_PMCDM",
+          "score": -0.42397469095885754,
+          "rank": 36
+        },
+        {
+          "person": "2021_99_TSDS",
+          "score": -0.42653223127126694,
+          "rank": 37
+        },
+        {
+          "person": "2023_26_BECS",
+          "score": -0.44718071818351746,
+          "rank": 38
+        },
+        {
+          "person": "2022_159_VDC",
+          "score": -0.7061695754528046,
+          "rank": 39
+        },
+        {
+          "person": "2022_34_DDAP",
+          "score": -0.7198288887739182,
+          "rank": 40
+        },
+        {
+          "person": "2021_73_MGDS",
+          "score": -0.7292968481779099,
+          "rank": 41
+        },
+        {
+          "person": "2019_96_JARG",
+          "score": -0.7369888871908188,
+          "rank": 42
+        },
+        {
+          "person": "2022_84_JR",
+          "score": -0.7634674459695816,
+          "rank": 43
+        },
+        {
+          "person": "2019_165_MMSA",
+          "score": -0.8185901418328285,
+          "rank": 44
+        },
+        {
+          "person": "2021_77_MPSF",
+          "score": -0.8372754603624344,
+          "rank": 45
+        },
+        {
+          "person": "2022_45_EBF",
+          "score": -0.8804228901863098,
+          "rank": 46
+        },
+        {
+          "person": "2022_124_NLG",
+          "score": -0.8965637534856796,
+          "rank": 47
+        },
+        {
+          "person": "2022_53_FAR",
+          "score": -0.8986378461122513,
+          "rank": 48
+        },
+        {
+          "person": "2022_165_YTG",
+          "score": -0.9156850278377533,
+          "rank": 49
+        },
+        {
+          "person": "2022_52_EMT",
+          "score": -1.0067889243364334,
+          "rank": 50
+        }
+      ]
+    }
+  ],
+  "note": "Mesma consulta e candidatos. Diagnostico separado: nao altera o ranking principal. Vistas com peso zero na consulta usam pesos diagnosticos 50/30/20 no respectivo componente."
+}

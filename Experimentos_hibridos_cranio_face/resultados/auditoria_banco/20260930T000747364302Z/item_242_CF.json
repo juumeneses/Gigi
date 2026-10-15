@@ -1,0 +1,21 @@
+{
+  "signature": "cbc7aef3e075d52fa08d7da2c60187105cad9cd93eb0b5c32f4ef88ae78123f8",
+  "metadata": {
+    "id": "2019_230_SA",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_230_SACF_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_230_SACF_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1498,
+    "altura": 977,
+    "contraste": 101.37613465526604,
+    "nitidez_512": 782.5593305570875,
+    "sha256": "cbc7aef3e075d52fa08d7da2c60187105cad9cd93eb0b5c32f4ef88ae78123f8",
+    "bytes": 197182
+  }
+}

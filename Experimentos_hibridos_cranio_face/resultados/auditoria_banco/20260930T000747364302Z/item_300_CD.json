@@ -1,0 +1,21 @@
+{
+  "signature": "7bd7a98a5bc15f2f7657920d2e625ebb90b7ca95335d62eea98c4518940d7b20",
+  "metadata": {
+    "id": "2019_33_CAMR",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_33_CAMR_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_33_CAMR_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2036,
+    "altura": 1329,
+    "contraste": 97.94962307152124,
+    "nitidez_512": 1047.7603153068862,
+    "sha256": "7bd7a98a5bc15f2f7657920d2e625ebb90b7ca95335d62eea98c4518940d7b20",
+    "bytes": 231331
+  }
+}

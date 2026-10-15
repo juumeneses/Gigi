@@ -1,0 +1,21 @@
+{
+  "signature": "af00c4a147727b045f8fe9cc9bc6350e863c02e09cf2e2bb89459cd11e79453a",
+  "metadata": {
+    "id": "2019_246_TDAR",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_246_TDAR_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_246_TDAR_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1893,
+    "altura": 1235,
+    "contraste": 100.0820663721155,
+    "nitidez_512": 1060.0591917965685,
+    "sha256": "af00c4a147727b045f8fe9cc9bc6350e863c02e09cf2e2bb89459cd11e79453a",
+    "bytes": 203876
+  }
+}

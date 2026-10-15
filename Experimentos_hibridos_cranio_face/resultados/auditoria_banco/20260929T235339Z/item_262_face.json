@@ -1,0 +1,21 @@
+{
+  "signature": "fbd6a19492ea45f82af619185437543e3f860abe5129c02d639d9d0fdb75f110",
+  "metadata": {
+    "id": "2019_249_ACAB",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_249_ACAB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_249_ACAB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 779,
+    "contraste": 72.81312401414573,
+    "nitidez_512": 1181.5974946746703,
+    "sha256": "fbd6a19492ea45f82af619185437543e3f860abe5129c02d639d9d0fdb75f110",
+    "bytes": 39775
+  }
+}

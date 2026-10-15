@@ -1,0 +1,21 @@
+{
+  "signature": "3fdc5b19252cd16e83c28d6848ca840217497a36752537e54c4ad8a53fefadb1",
+  "metadata": {
+    "id": "2023_26_BECS",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_26_BECS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_26_BECS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 743,
+    "contraste": 75.65239231928791,
+    "nitidez_512": 1030.1451974381057,
+    "sha256": "3fdc5b19252cd16e83c28d6848ca840217497a36752537e54c4ad8a53fefadb1",
+    "bytes": 52345
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "243741ffc25a1e1f26662796c743951116ae3e3493f5e38e89b6430a227fc6dc",
+  "metadata": {
+    "id": "2019_116_KDF",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_116_KDF_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_116_KDF_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2103,
+    "altura": 1372,
+    "contraste": 95.3160583847288,
+    "nitidez_512": 1278.3614801646706,
+    "sha256": "243741ffc25a1e1f26662796c743951116ae3e3493f5e38e89b6430a227fc6dc",
+    "bytes": 205546
+  }
+}

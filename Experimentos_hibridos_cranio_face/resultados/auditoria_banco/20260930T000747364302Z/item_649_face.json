@@ -1,0 +1,21 @@
+{
+  "signature": "8565ac201fd663ba734a5863293da1cf419ff5db9b91064905c36465df5d3e8e",
+  "metadata": {
+    "id": "2023_106_MMA",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_106_MMA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_106_MMA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 227,
+    "altura": 326,
+    "contraste": 69.83504551046497,
+    "nitidez_512": 898.453847868374,
+    "sha256": "8565ac201fd663ba734a5863293da1cf419ff5db9b91064905c36465df5d3e8e",
+    "bytes": 10582
+  }
+}

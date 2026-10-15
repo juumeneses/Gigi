@@ -1,0 +1,21 @@
+{
+  "signature": "30e3a8147fc2c0c5413e59ed6097f2cadca621f258aeb720f26bb61842797f8c",
+  "metadata": {
+    "id": "2022_76_JAPT",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_76_JAPT_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_76_JAPT_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 739,
+    "contraste": 78.62846853517021,
+    "nitidez_512": 2190.590023196067,
+    "sha256": "30e3a8147fc2c0c5413e59ed6097f2cadca621f258aeb720f26bb61842797f8c",
+    "bytes": 53378
+  }
+}

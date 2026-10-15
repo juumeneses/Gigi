@@ -1,0 +1,21 @@
+{
+  "signature": "8716fba2c4d2e2ebb70255d1f24072f484c07fd9cf0bd9d052f5f25d86ab96a3",
+  "metadata": {
+    "id": "2019_229_RWPMC",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_229_RWPMC_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_229_RWPMC_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1575,
+    "altura": 1028,
+    "contraste": 101.71185967364059,
+    "nitidez_512": 1414.539325639805,
+    "sha256": "8716fba2c4d2e2ebb70255d1f24072f484c07fd9cf0bd9d052f5f25d86ab96a3",
+    "bytes": 239077
+  }
+}

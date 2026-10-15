@@ -1,0 +1,21 @@
+{
+  "signature": "20ec439581dd3e17777b8e2b7e906d64547a77e78f3c273e32149d7c5af32d7c",
+  "metadata": {
+    "id": "2023_49_ECBL",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_49_ECBL_FFN.png",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_49_ECBL_FFN.png",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 300,
+    "altura": 425,
+    "contraste": 66.06963324732243,
+    "nitidez_512": 549.7959524044597,
+    "sha256": "20ec439581dd3e17777b8e2b7e906d64547a77e78f3c273e32149d7c5af32d7c",
+    "bytes": 136752
+  }
+}

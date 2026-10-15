@@ -1,0 +1,21 @@
+{
+  "signature": "561d6e0b93e3369d544531f448d5229ac17d2b1cfd858ff5ca0d4f2987395987",
+  "metadata": {
+    "id": "2017_43_HDOY",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_43_HDOY_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_43_HDOY_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 741,
+    "contraste": 65.05663946342304,
+    "nitidez_512": 596.6566155062784,
+    "sha256": "561d6e0b93e3369d544531f448d5229ac17d2b1cfd858ff5ca0d4f2987395987",
+    "bytes": 37324
+  }
+}

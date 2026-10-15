@@ -1,0 +1,21 @@
+{
+  "signature": "a8f8e0cfe69afa3a5b3b465da3b35e8e8661ea68f1f7f5f45f1f9106bf5d1ed0",
+  "metadata": {
+    "id": "2017_75_MTGP",
+    "ano": "2017",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CD/2017_75_MTGP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CD/2017_75_MTGP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2120,
+    "altura": 1384,
+    "contraste": 95.92406672310213,
+    "nitidez_512": 1290.3552348428143,
+    "sha256": "a8f8e0cfe69afa3a5b3b465da3b35e8e8661ea68f1f7f5f45f1f9106bf5d1ed0",
+    "bytes": 189100
+  }
+}

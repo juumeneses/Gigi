@@ -1,0 +1,21 @@
+{
+  "signature": "897188c7fdb2acf62c83fc86d562427eb4837261fe4e8b216655451223c5b06a",
+  "metadata": {
+    "id": "2021_11_AMDS",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_11_AMDS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_11_AMDS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 734,
+    "contraste": 78.54013485248113,
+    "nitidez_512": 651.3458409860003,
+    "sha256": "897188c7fdb2acf62c83fc86d562427eb4837261fe4e8b216655451223c5b06a",
+    "bytes": 42090
+  }
+}

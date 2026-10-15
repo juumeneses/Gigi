@@ -1,0 +1,21 @@
+{
+  "signature": "7ed8bfe969d28f192ff39b9c32dd4971673047623de48fc35e7530db3237d814",
+  "metadata": {
+    "id": "2019_43_DASM",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_43_DASM_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_43_DASM_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2076,
+    "altura": 1355,
+    "contraste": 93.74332791530603,
+    "nitidez_512": 1363.09391373503,
+    "sha256": "7ed8bfe969d28f192ff39b9c32dd4971673047623de48fc35e7530db3237d814",
+    "bytes": 213040
+  }
+}

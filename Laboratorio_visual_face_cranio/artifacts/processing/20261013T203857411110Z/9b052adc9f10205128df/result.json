@@ -1,0 +1,40 @@
+{
+  "item": {
+    "key": "9b052adc9f10205128df",
+    "path": "/Users/juliameneses/Documents/Gigi/Banco/2017/2017_41_GP/2017_41_GP_CF.jpg",
+    "filename": "2017_41_GP_CF.jpg",
+    "person": "2017_41_GP",
+    "year": "2017",
+    "view": "CF",
+    "modality": "cranio"
+  },
+  "fingerprint": "1d549a9c6987b36dfff1bdf439b87984c47d2744815c18f4588dcafffaf2e3a3",
+  "action": "normalize",
+  "points": [],
+  "regions": {},
+  "contours": [],
+  "assets": {
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/9b052adc9f10205128df/normalizada.png": "2938ded99a8d7dd630da906a638f3b6bd36ae5bd3977bcc4876bd0b9465318c1",
+    "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/9b052adc9f10205128df/preview.png": "fb012467a33bdfc7298c839a3aca1681c5023a770c04f89995d6419931d0437f"
+  },
+  "status": "OK_TECNICO",
+  "reason": "",
+  "image": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/9b052adc9f10205128df/normalizada.png",
+  "transform": [
+    [
+      0.13852813852813853,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.13852813852813853,
+      44.467532467532465
+    ]
+  ],
+  "original_size": [
+    1848,
+    1206
+  ],
+  "preview": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/processing/20261013T203857411110Z/9b052adc9f10205128df/preview.png"
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "78a617e26fe1f41b754e5d7c26a99d78390cd0c7b13d6fa8fa0dce1bfb8a97e1",
+  "metadata": {
+    "id": "2019_199_RATP",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_199_RATP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_199_RATP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 741,
+    "contraste": 69.56800873130892,
+    "nitidez_512": 451.8061476346984,
+    "sha256": "78a617e26fe1f41b754e5d7c26a99d78390cd0c7b13d6fa8fa0dce1bfb8a97e1",
+    "bytes": 36870
+  }
+}

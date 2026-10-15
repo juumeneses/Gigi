@@ -1,0 +1,21 @@
+{
+  "signature": "3eb4ecfff27e2a1c3e2464f23862f5fe81964cf1e0c4f7bfc1d95e92732bdffc",
+  "metadata": {
+    "id": "2022_125_NPDAF",
+    "ano": "2022",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CF/2022_125_NPDAF_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CF/2022_125_NPDAF_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 973,
+    "altura": 964,
+    "contraste": 90.42002279076938,
+    "nitidez_512": 827.695346479179,
+    "sha256": "3eb4ecfff27e2a1c3e2464f23862f5fe81964cf1e0c4f7bfc1d95e92732bdffc",
+    "bytes": 239787
+  }
+}

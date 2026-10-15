@@ -1,0 +1,21 @@
+{
+  "signature": "1e0c47a1b28218c69e54c3db25ed059c108a45a014ada02f6be05e18ef9b2515",
+  "metadata": {
+    "id": "2023_87_LBL",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_87_LBL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_87_LBL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 160,
+    "altura": 224,
+    "contraste": 71.25267817299958,
+    "nitidez_512": 952.899294825184,
+    "sha256": "1e0c47a1b28218c69e54c3db25ed059c108a45a014ada02f6be05e18ef9b2515",
+    "bytes": 6096
+  }
+}

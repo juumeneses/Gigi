@@ -1,0 +1,21 @@
+{
+  "signature": "d5261feea9e9ddab39b52390f1dd3746581a6f2ee0a39303bdf1479b6a083573",
+  "metadata": {
+    "id": "2022_88_KCX",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_88_KCX_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_88_KCX_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 517,
+    "altura": 747,
+    "contraste": 75.23778200659163,
+    "nitidez_512": 633.8086589493118,
+    "sha256": "d5261feea9e9ddab39b52390f1dd3746581a6f2ee0a39303bdf1479b6a083573",
+    "bytes": 40630
+  }
+}

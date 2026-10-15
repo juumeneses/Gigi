@@ -1,0 +1,14 @@
+{
+  "seeds": [
+    42
+  ],
+  "delta_mrr": -0.024011411377282084,
+  "seed_std": 0.0,
+  "ci95": [
+    -0.07276848677384111,
+    0.024160296808262427
+  ],
+  "n_identities": 103,
+  "conclusion": "ganho inconclusivo",
+  "confirmed_three_seeds": false
+}

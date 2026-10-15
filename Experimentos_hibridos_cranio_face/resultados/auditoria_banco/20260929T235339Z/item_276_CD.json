@@ -1,0 +1,21 @@
+{
+  "signature": "2b342cdc401f418cb3501660a4cfbaaea2919367179fa2ff56d4774e38fd838c",
+  "metadata": {
+    "id": "2019_261_YGA",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_261_YGA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_261_YGA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2041,
+    "altura": 1332,
+    "contraste": 98.66484555789171,
+    "nitidez_512": 1142.0870017776947,
+    "sha256": "2b342cdc401f418cb3501660a4cfbaaea2919367179fa2ff56d4774e38fd838c",
+    "bytes": 216641
+  }
+}

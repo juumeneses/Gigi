@@ -1,0 +1,21 @@
+{
+  "signature": "133232f27fa60b3d8d9e3570c318f953917604ddeddadfbf8b0e6298e875c8af",
+  "metadata": {
+    "id": "2022_90_LEB",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_90_LEB_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_90_LEB_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1122,
+    "altura": 1099,
+    "contraste": 95.96506231080396,
+    "nitidez_512": 605.5614209081637,
+    "sha256": "133232f27fa60b3d8d9e3570c318f953917604ddeddadfbf8b0e6298e875c8af",
+    "bytes": 239961
+  }
+}

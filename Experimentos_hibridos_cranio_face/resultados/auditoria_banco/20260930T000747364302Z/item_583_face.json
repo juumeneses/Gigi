@@ -1,0 +1,21 @@
+{
+  "signature": "33e9888aa479195cd71198e68c938fa60bd544dffd524b97d12b1bfbe22024fd",
+  "metadata": {
+    "id": "2022_47_ECGS",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_47_ECGS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_47_ECGS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 743,
+    "contraste": 73.62345897687922,
+    "nitidez_512": 1075.518341642593,
+    "sha256": "33e9888aa479195cd71198e68c938fa60bd544dffd524b97d12b1bfbe22024fd",
+    "bytes": 39947
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "manifest": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/inventories/20261014T022841853216Z/manifest.json",
+  "experiment": "E1",
+  "seeds": [
+    42
+  ],
+  "mode": "matched",
+  "ids": [
+    "2017_11_BB",
+    "2017_12_BDSA",
+    "2017_14_CAFM",
+    "2017_16_CFDC",
+    "2017_18_CHPM",
+    "2017_1_AALF",
+    "2017_20_CRAU",
+    "2017_22_DA",
+    "2017_15_CBL",
+    "2017_17_CG",
+    "2017_27_DL",
+    "2017_37_GABDJ"
+  ],
+  "epochs": 1,
+  "batch": 4,
+  "smoke": true,
+  "device": "cpu"
+}

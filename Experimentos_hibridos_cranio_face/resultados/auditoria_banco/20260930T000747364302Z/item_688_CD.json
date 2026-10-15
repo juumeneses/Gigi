@@ -1,0 +1,21 @@
+{
+  "signature": "b796e3de85479f476f1b01cec422f5532e9d509614805906484b4628081b2901",
+  "metadata": {
+    "id": "2023_141_TFDOF",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_141_TFDOF_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_141_TFDOF_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1066,
+    "altura": 1050,
+    "contraste": 93.20435819093136,
+    "nitidez_512": 838.1415393667278,
+    "sha256": "b796e3de85479f476f1b01cec422f5532e9d509614805906484b4628081b2901",
+    "bytes": 266109
+  }
+}

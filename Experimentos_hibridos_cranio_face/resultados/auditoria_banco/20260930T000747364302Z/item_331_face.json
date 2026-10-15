@@ -1,0 +1,21 @@
+{
+  "signature": "265cb94c1c4496b21274533595060195d124c4e00878e28803ae96b28e16c08d",
+  "metadata": {
+    "id": "2019_61_EPRA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_61_EPRA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_61_EPRA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 735,
+    "contraste": 72.2872330701941,
+    "nitidez_512": 1008.3296865435639,
+    "sha256": "265cb94c1c4496b21274533595060195d124c4e00878e28803ae96b28e16c08d",
+    "bytes": 33463
+  }
+}

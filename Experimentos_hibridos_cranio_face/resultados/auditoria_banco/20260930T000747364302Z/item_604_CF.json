@@ -1,0 +1,21 @@
+{
+  "signature": "97c4b9e935b0cd642b1f6f410a9437507cd8146f1e635b6e8419314d01a1f4a2",
+  "metadata": {
+    "id": "2022_66_GTDS",
+    "ano": "2022",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CF/2022_66_GTDS_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CF/2022_66_GTDS_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 869,
+    "altura": 1011,
+    "contraste": 89.310890057564,
+    "nitidez_512": 865.5060155575137,
+    "sha256": "97c4b9e935b0cd642b1f6f410a9437507cd8146f1e635b6e8419314d01a1f4a2",
+    "bytes": 226722
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "6d6e2b13e2e2cf57577c683121b8d18ea602e5172f6cf677d4146a52812a5f8e",
+  "metadata": {
+    "id": "2019_153_MESL",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_153_MESL_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_153_MESL_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2183,
+    "altura": 1425,
+    "contraste": 94.58035543478948,
+    "nitidez_512": 1046.640250748503,
+    "sha256": "6d6e2b13e2e2cf57577c683121b8d18ea602e5172f6cf677d4146a52812a5f8e",
+    "bytes": 200322
+  }
+}

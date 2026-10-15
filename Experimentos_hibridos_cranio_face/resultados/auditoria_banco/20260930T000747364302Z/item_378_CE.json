@@ -1,0 +1,21 @@
+{
+  "signature": "38d77620c213cb951b26234804bdd241537f6898a57385092e644bdc995e31aa",
+  "metadata": {
+    "id": "2021_10_ALMPLM",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_10_ALMPLM_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_10_ALMPLM_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1138,
+    "altura": 976,
+    "contraste": 94.91747108141831,
+    "nitidez_512": 852.8971309246488,
+    "sha256": "38d77620c213cb951b26234804bdd241537f6898a57385092e644bdc995e31aa",
+    "bytes": 238758
+  }
+}

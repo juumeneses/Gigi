@@ -1,0 +1,21 @@
+{
+  "signature": "d0d1565d74aa45f1220975457c8d9b1ff477428131bbae2082c7549e0c567108",
+  "metadata": {
+    "id": "2022_163_VSGP",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_163_VSGP_FFN.png",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_163_VSGP_FFN.png",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 738,
+    "contraste": 72.71743901813115,
+    "nitidez_512": 749.1461930127232,
+    "sha256": "d0d1565d74aa45f1220975457c8d9b1ff477428131bbae2082c7549e0c567108",
+    "bytes": 48138
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "faf8bfd4646c12100e8d9f82be91155892d6024c9b7ca9714ca66044561f16c7",
+  "metadata": {
+    "id": "2022_37_DGV",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_37_DGV_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_37_DGV_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 744,
+    "contraste": 81.79878401964488,
+    "nitidez_512": 799.653431184216,
+    "sha256": "faf8bfd4646c12100e8d9f82be91155892d6024c9b7ca9714ca66044561f16c7",
+    "bytes": 38726
+  }
+}

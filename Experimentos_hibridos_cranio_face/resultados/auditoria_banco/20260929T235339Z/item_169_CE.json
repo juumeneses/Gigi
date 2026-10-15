@@ -1,0 +1,21 @@
+{
+  "signature": "e7c9a32be58fd60f63c5851d70f3732116211972b6cf30a74e59763111757ddd",
+  "metadata": {
+    "id": "2019_165_MMSA",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_165_MMSA_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_165_MMSA_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 787,
+    "altura": 1241,
+    "contraste": 84.65211160969861,
+    "nitidez_512": 2321.659405594107,
+    "sha256": "e7c9a32be58fd60f63c5851d70f3732116211972b6cf30a74e59763111757ddd",
+    "bytes": 311837
+  }
+}

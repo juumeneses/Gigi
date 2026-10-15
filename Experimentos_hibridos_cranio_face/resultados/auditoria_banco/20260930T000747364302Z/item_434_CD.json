@@ -1,0 +1,21 @@
+{
+  "signature": "3ab52db536c32ca5e37bd5b5d2836100fb056b98e1d2930d079419c0c9e170d8",
+  "metadata": {
+    "id": "2021_61_LCES",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_61_LCES_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_61_LCES_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1016,
+    "altura": 981,
+    "contraste": 91.29302734818711,
+    "nitidez_512": 827.8567957466765,
+    "sha256": "3ab52db536c32ca5e37bd5b5d2836100fb056b98e1d2930d079419c0c9e170d8",
+    "bytes": 256301
+  }
+}

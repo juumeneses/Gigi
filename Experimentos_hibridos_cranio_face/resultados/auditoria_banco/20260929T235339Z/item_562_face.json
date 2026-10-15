@@ -1,0 +1,21 @@
+{
+  "signature": "5f3aec154d21da67416790c3ed65045e21e82577add34b7bff6b9ee1424cf2ea",
+  "metadata": {
+    "id": "2022_28_CMVDC",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_28_CMVDC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_28_CMVDC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 742,
+    "contraste": 77.46271402646663,
+    "nitidez_512": 1218.5765211024973,
+    "sha256": "5f3aec154d21da67416790c3ed65045e21e82577add34b7bff6b9ee1424cf2ea",
+    "bytes": 47438
+  }
+}

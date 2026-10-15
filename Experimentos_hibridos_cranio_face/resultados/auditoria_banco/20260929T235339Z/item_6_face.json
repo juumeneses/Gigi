@@ -1,0 +1,21 @@
+{
+  "signature": "82eea78201b8a7b174a366c649a3ee44b2a12b2a4b7bc8b962ab045a698e86ea",
+  "metadata": {
+    "id": "2017_16_CFDC",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_16_CFDC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_16_CFDC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 739,
+    "contraste": 68.39530417950643,
+    "nitidez_512": 825.4070131376452,
+    "sha256": "82eea78201b8a7b174a366c649a3ee44b2a12b2a4b7bc8b962ab045a698e86ea",
+    "bytes": 36783
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "465bcdffd1c4d0132f40b241aa0a8f2c365c0cdf7356d13d7e9883b6f63addda",
+  "metadata": {
+    "id": "2019_247_TFDSG",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_247_TFDSG_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_247_TFDSG_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2097,
+    "altura": 1369,
+    "contraste": 95.79762090104933,
+    "nitidez_512": 1321.0583364520958,
+    "sha256": "465bcdffd1c4d0132f40b241aa0a8f2c365c0cdf7356d13d7e9883b6f63addda",
+    "bytes": 211045
+  }
+}

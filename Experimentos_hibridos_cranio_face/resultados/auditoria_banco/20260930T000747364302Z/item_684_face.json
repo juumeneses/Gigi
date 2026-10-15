@@ -1,0 +1,21 @@
+{
+  "signature": "56de2d39d073a65cf2909fac9203d6e40a821cfeaaefd9fe2e6623ca5baea7ff",
+  "metadata": {
+    "id": "2023_138_SSRB",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_138_SSRB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_138_SSRB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 160,
+    "altura": 226,
+    "contraste": 73.8790410368231,
+    "nitidez_512": 2362.5290192976827,
+    "sha256": "56de2d39d073a65cf2909fac9203d6e40a821cfeaaefd9fe2e6623ca5baea7ff",
+    "bytes": 7175
+  }
+}

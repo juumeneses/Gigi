@@ -1,137 +1,46 @@
 # Gigi
 
-Repositorio privado para os projetos de treinamento de faces, cranios e matching.
+Repositorio **privado** de laboratorios de faces, cranios e matching.
+Contem fotografias e dados de pesquisa: nao tornar publico.
 
-As imagens originais e as marcacoes sao armazenadas com Git LFS. Ambientes virtuais, modelos externos, logs, crops e arquivos intermediarios nao sao enviados ao GitHub.
+## Laboratorio DINOv2 / ConvNeXt
 
-## Estrutura
+**[Instalacao no Windows, Mac ou Linux](Treinamento_DINOv2_face_cranio/README.md)**
 
-```text
-Gigi/
-  Painel_Geral/
-  Treinamento_faces/
-  Treinamento_cranios/
-  Matching_cranio_face/
-```
+**[Pipeline Top-10](Treinamento_DINOv2_face_cranio/PIPELINE_TOP10.md)**
 
-## Primeiro uso em um computador
-
-Instale Git e Git LFS. Depois clone o repositorio e baixe as imagens:
+Instale Git, Git LFS e Python 3.11. Depois:
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd Gigi
 git lfs install
+git clone https://github.com/juumeneses/Gigi.git
+cd Gigi
 git lfs pull
 ```
 
-### Faces no macOS ou Linux
+Crie um ambiente novo; nao copie `.venv` entre sistemas. O README do laboratorio
+tem os comandos de instalacao e o launcher `rodar_dino.py`.
+
+## Sincronizacao
+
+Antes de trabalhar: `git pull --rebase` e `git lfs pull`.
+Finalize treinamentos antes de sincronizar checkpoints. Depois:
 
 ```bash
-cd Treinamento_faces
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-python -m streamlit run scripts/app_revisao_faces.py
-```
-
-### Painel geral
-
-Na raiz do projeto, abre um painel com Face, Crânio e Matching no topo:
-
-```bash
-cd /Users/giovanni/Documents/GitHub/Gigi
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-python -m pip install --no-compile -r requirements.txt
-python -m streamlit run app.py --server.address 0.0.0.0 --server.port 8500
-```
-
-Depois que a `.venv` da raiz ja existir, basta:
-
-```bash
-cd /Users/giovanni/Documents/GitHub/Gigi
-.venv/bin/python -m streamlit run app.py --server.address 0.0.0.0 --server.port 8500
-```
-
-### Crânios no macOS ou Linux
-
-```bash
-cd Treinamento_cranios
-python -m pip install -r requirements_cranios.txt
-python -m streamlit run scripts/app_revisao_cranios.py
-```
-
-Pipeline de crânios:
-
-```bash
-cd Treinamento_cranios
-python scripts/run_pipeline_cranios.py --root .
-```
-
-Treino de gênero/sexo craniano separado:
-
-```bash
-cd Treinamento_cranios
-python scripts/05_preparar_silhuetas_sexo_cranio.py --root .
-python scripts/06_juntar_genero_faces_cranios.py --root . --faces-root ../Treinamento_faces
-python scripts/07_treinar_sexo_cranio.py --root .
-python scripts/08_exportar_features_cranios_final.py --root .
-```
-
-### Matching crânio-face
-
-```bash
-cd Matching_cranio_face
-python -m pip install -r requirements_matching.txt
-python -m streamlit run scripts/app_matching_cranio_face.py
-```
-
-### Faces no Windows PowerShell
-
-```powershell
-cd Treinamento_faces
-py -m venv .venv
-.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-python -m streamlit run scripts/app_revisao_faces.py
-```
-
-## Trabalhar em dois computadores
-
-Antes de iniciar o trabalho:
-
-```bash
-git pull --rebase
-git lfs pull
-```
-
-Depois de alterar codigo, imagens ou decisoes de curadoria:
-
-```bash
+python -m Treinamento_DINOv2_face_cranio.portable
 git status
 git add .
-git commit -m "Descreva a alteracao"
-git push
+git commit -m "Atualiza laboratorio e resultados"
+git push origin main
 ```
 
-Evite editar os mesmos CSVs de revisao simultaneamente em dois computadores. Finalize o trabalho com `push` e execute `pull --rebase` no outro computador antes de continuar.
+O registro `portable_roots.json` permite resolver caminhos historicos em
+outro computador sem editar os JSONs assinados ou checkpoints.
+Evite editar a mesma curadoria ou execucao simultaneamente em duas maquinas.
 
-## O que e sincronizado
+Codigo, Banco, splits e resultados/checkpoints proprios usam Git/Git LFS.
+Pesos externos, caches, ambientes, jobs/PIDs e uploads temporarios permanecem
+locais. Os pesos podem ser preparados novamente pelo painel, sem novo treino.
 
-- Codigo, configuracoes, documentacao e requirements.
-- Imagens originais e imagens de marcacao/previews.
-- CSVs de revisao, curadoria, metricas e comparacoes.
-- Modelos proprios treinados e datasets finais.
-
-## O que permanece local
-
-- `.venv`, caches e dependencias instaladas.
-- Logs e relatorios temporarios.
-- Modelo FairFace externo, baixado novamente quando necessario.
-- Crops, correcoes, backups e outros derivados regeneraveis.
-
-Este repositorio deve permanecer privado porque contem fotografias de pessoas.
+Os projetos legados de faces, cranios, Modelo_novo, Matching e laboratorios
+permanecem no repositorio; o launcher novo abre especificamente o laboratorio DINO.

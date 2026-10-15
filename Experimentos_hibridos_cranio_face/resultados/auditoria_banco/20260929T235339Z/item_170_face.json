@@ -1,0 +1,21 @@
+{
+  "signature": "dd02be721c8e1d347625ee0aa031e349b552d6f0c789702214e6e7e0d4315b96",
+  "metadata": {
+    "id": "2019_166_MPSSN",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_166_MPSSN_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_166_MPSSN_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 525,
+    "altura": 763,
+    "contraste": 72.64686709345054,
+    "nitidez_512": 735.3386691306248,
+    "sha256": "dd02be721c8e1d347625ee0aa031e349b552d6f0c789702214e6e7e0d4315b96",
+    "bytes": 38454
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "4a26ec407c7389b149243cb5fd0741a4ca62b364c8c413a26c9fa72947cd8348",
+  "metadata": {
+    "id": "2023_95_MDG",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_95_MDG_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_95_MDG_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 628,
+    "altura": 878,
+    "contraste": 79.69551087721358,
+    "nitidez_512": 970.4728074626677,
+    "sha256": "4a26ec407c7389b149243cb5fd0741a4ca62b364c8c413a26c9fa72947cd8348",
+    "bytes": 181607
+  }
+}

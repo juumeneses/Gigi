@@ -1,0 +1,117 @@
+{
+  "full": {
+    "n": 4,
+    "failures": 0,
+    "coverage": 1.0,
+    "mrr": 0.5416666666666666,
+    "mrr_ci95": [
+      0.3333333333333333,
+      0.8333333333333334
+    ],
+    "median_rank": 2.5,
+    "recall_1": 0.25,
+    "recall_3": 1.0,
+    "recall_5": 1.0,
+    "recall_10": 1.0
+  },
+  "gallery": {
+    "n": 4,
+    "failures": 0,
+    "coverage": 1.0,
+    "mrr": 0.5416666666666666,
+    "mrr_ci95": [
+      0.3333333333333333,
+      0.8333333333333334
+    ],
+    "median_rank": 2.5,
+    "recall_1": 0.25,
+    "recall_3": 1.0,
+    "recall_5": 1.0,
+    "recall_10": 1.0
+  },
+  "gallery_size": 4,
+  "gallery_seed": 2026,
+  "galleries": {
+    "2017_15_CBL": [
+      "2017_15_CBL",
+      "2017_17_CG",
+      "2017_27_DL",
+      "2017_37_GABDJ"
+    ],
+    "2017_17_CG": [
+      "2017_15_CBL",
+      "2017_17_CG",
+      "2017_27_DL",
+      "2017_37_GABDJ"
+    ],
+    "2017_27_DL": [
+      "2017_15_CBL",
+      "2017_17_CG",
+      "2017_27_DL",
+      "2017_37_GABDJ"
+    ],
+    "2017_37_GABDJ": [
+      "2017_15_CBL",
+      "2017_17_CG",
+      "2017_27_DL",
+      "2017_37_GABDJ"
+    ]
+  },
+  "rows": [
+    {
+      "person": "2017_15_CBL",
+      "year": "2017",
+      "rank": 1,
+      "gallery_rank": 1,
+      "top_candidate": "2017_15_CBL",
+      "correct_score": 0.25474220514297485
+    },
+    {
+      "person": "2017_17_CG",
+      "year": "2017",
+      "rank": 3,
+      "gallery_rank": 3,
+      "top_candidate": "2017_15_CBL",
+      "correct_score": -0.03087971732020378
+    },
+    {
+      "person": "2017_27_DL",
+      "year": "2017",
+      "rank": 2,
+      "gallery_rank": 2,
+      "top_candidate": "2017_15_CBL",
+      "correct_score": 0.12275981903076172
+    },
+    {
+      "person": "2017_37_GABDJ",
+      "year": "2017",
+      "rank": 3,
+      "gallery_rank": 3,
+      "top_candidate": "2017_15_CBL",
+      "correct_score": 0.1114933043718338
+    }
+  ],
+  "by_year": {
+    "2017": {
+      "n": 4,
+      "failures": 0,
+      "coverage": 1.0,
+      "mrr": 0.5416666666666666,
+      "mrr_ci95": [
+        0.3333333333333333,
+        0.8333333333333334
+      ],
+      "median_rank": 2.5,
+      "recall_1": 0.25,
+      "recall_3": 1.0,
+      "recall_5": 1.0,
+      "recall_10": 1.0
+    }
+  },
+  "split": "validacao",
+  "cohort": "6b897aedde8b70ef1d4c9a5daaeefe6bb261b18b795a3d218de9c2b80e7df3b5",
+  "experiment": "E1",
+  "failed_inputs": [],
+  "smoke": true,
+  "checkpoint_hash": "872e9afea2b03a51f4e16a6ef1837d3e9384d0c95de9dd5fa11fe19c619e752d"
+}

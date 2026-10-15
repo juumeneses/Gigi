@@ -1,0 +1,21 @@
+{
+  "signature": "a2034e45b4a9a744c28706001ed01cd9adc1f3804e9595dd7b59029950826fbc",
+  "metadata": {
+    "id": "2021_12_AMRDO",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_12_AMRDO_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_12_AMRDO_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 765,
+    "contraste": 79.1015666660104,
+    "nitidez_512": 1089.3013658920606,
+    "sha256": "a2034e45b4a9a744c28706001ed01cd9adc1f3804e9595dd7b59029950826fbc",
+    "bytes": 45639
+  }
+}

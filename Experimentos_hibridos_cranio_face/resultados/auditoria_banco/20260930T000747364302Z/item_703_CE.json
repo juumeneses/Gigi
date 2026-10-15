@@ -1,0 +1,21 @@
+{
+  "signature": "2d3d4a84a42cc4c1476a64e33e9f3dc9a83003ee05575bb2b56cc7bd72f17b9a",
+  "metadata": {
+    "id": "2023_16_ALFF",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_16_ALFF_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_16_ALFF_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1063,
+    "altura": 968,
+    "contraste": 92.00783618541783,
+    "nitidez_512": 1067.3129913637003,
+    "sha256": "2d3d4a84a42cc4c1476a64e33e9f3dc9a83003ee05575bb2b56cc7bd72f17b9a",
+    "bytes": 269299
+  }
+}

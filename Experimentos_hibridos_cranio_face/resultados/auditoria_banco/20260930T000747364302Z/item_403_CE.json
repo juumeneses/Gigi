@@ -1,0 +1,21 @@
+{
+  "signature": "1e10d4d548055dc4897ca07ab1c547bd9aa0936479d79de26ceb271ae2ef6b50",
+  "metadata": {
+    "id": "2021_33_ELSO",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_33_ELSO_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_33_ELSO_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1109,
+    "altura": 941,
+    "contraste": 88.12047695466275,
+    "nitidez_512": 1013.1600204348205,
+    "sha256": "1e10d4d548055dc4897ca07ab1c547bd9aa0936479d79de26ceb271ae2ef6b50",
+    "bytes": 282633
+  }
+}

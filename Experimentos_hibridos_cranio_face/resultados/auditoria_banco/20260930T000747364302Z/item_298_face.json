@@ -1,0 +1,21 @@
+{
+  "signature": "8cdeb7b222596c2a49a02effe015d2e07f63fbb4404781ce683e1e4ba55269e7",
+  "metadata": {
+    "id": "2019_31_CABMS",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_31_CABMS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_31_CABMS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 219,
+    "altura": 314,
+    "contraste": 75.51314277081096,
+    "nitidez_512": 501.6995896395527,
+    "sha256": "8cdeb7b222596c2a49a02effe015d2e07f63fbb4404781ce683e1e4ba55269e7",
+    "bytes": 9644
+  }
+}

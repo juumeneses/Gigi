@@ -1,0 +1,21 @@
+{
+  "signature": "b256840ff6df8d31217e3296dd847beafd863f7b373c295a98b3485b95e6ec96",
+  "metadata": {
+    "id": "2019_128_LKPB",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_128_LKPB_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_128_LKPB_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1982,
+    "altura": 1294,
+    "contraste": 99.42146916059384,
+    "nitidez_512": 1035.82831658537,
+    "sha256": "b256840ff6df8d31217e3296dd847beafd863f7b373c295a98b3485b95e6ec96",
+    "bytes": 230012
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "908964632fb2d14710f8c6aeddce119fd6aa83b95d783378164493a621eb9da6",
+  "metadata": {
+    "id": "2019_17_APASS",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_17_APASS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_17_APASS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 747,
+    "contraste": 73.00753455966428,
+    "nitidez_512": 1347.7951686543686,
+    "sha256": "908964632fb2d14710f8c6aeddce119fd6aa83b95d783378164493a621eb9da6",
+    "bytes": 38620
+  }
+}

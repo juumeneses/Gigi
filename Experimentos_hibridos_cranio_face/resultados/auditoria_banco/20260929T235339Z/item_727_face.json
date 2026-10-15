@@ -1,0 +1,21 @@
+{
+  "signature": "1e3e8ee24fa564fad668f30946b8f9ac041d742466839890910e58bac60a2267",
+  "metadata": {
+    "id": "2023_39_DADP",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_39_DADP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_39_DADP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 300,
+    "altura": 428,
+    "contraste": 68.35317378614505,
+    "nitidez_512": 812.9562445395524,
+    "sha256": "1e3e8ee24fa564fad668f30946b8f9ac041d742466839890910e58bac60a2267",
+    "bytes": 14123
+  }
+}

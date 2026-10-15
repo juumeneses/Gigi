@@ -1,0 +1,10 @@
+{
+  "version": "file_inventory_v1",
+  "manifest_sha256": "4b7cfa09214116a7cf2c782922812e641597c0b116557e2ee1cb0c6e2d5a648f",
+  "scope": "Todas as entradas do manifesto mestre; nao inclui arquivos nao catalogados",
+  "thresholds": {
+    "min_dimension": 128,
+    "gray_std": 10
+  },
+  "anatomy_validated": false
+}

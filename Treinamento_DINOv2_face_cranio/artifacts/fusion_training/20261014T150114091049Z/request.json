@@ -1,0 +1,18 @@
+{
+  "manifest": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/inventories/20261014T022841853216Z/manifest.json",
+  "params": {
+    "seed": 42,
+    "epochs": 100,
+    "lr": 0.001,
+    "batch": 32,
+    "patience": 15,
+    "weight_decay": 0.0001,
+    "size": 224,
+    "loss": "infonce",
+    "temperature": 0.07,
+    "margin": 0.2,
+    "device": "auto"
+  },
+  "manifest_hash": "51a6eb2fc551177f000096206444caa957e53d01c8f0fbacb0bde11f00b35541",
+  "source_hash": "d0216f93f3277d6a511b2d0fb315c5feed71203a6e9f0b0ccdd55abf17e6bfd2"
+}

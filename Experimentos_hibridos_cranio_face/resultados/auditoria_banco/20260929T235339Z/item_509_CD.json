@@ -1,0 +1,21 @@
+{
+  "signature": "25ad3d4ed2b9da5eb95bfdd42afe91be2d16df6551ed269e339584432c48a579",
+  "metadata": {
+    "id": "2022_130_PIDS",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_130_PIDS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_130_PIDS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1145,
+    "altura": 1029,
+    "contraste": 92.93358746078079,
+    "nitidez_512": 880.450019660744,
+    "sha256": "25ad3d4ed2b9da5eb95bfdd42afe91be2d16df6551ed269e339584432c48a579",
+    "bytes": 270163
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "650ea4e35cce98f110fddbefe8e5fd78c322831d13398d4336b339f9cb327ceb",
+  "metadata": {
+    "id": "2021_67_LTEM",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_67_LTEM_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_67_LTEM_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 963,
+    "altura": 961,
+    "contraste": 89.31151498199561,
+    "nitidez_512": 699.6474021226084,
+    "sha256": "650ea4e35cce98f110fddbefe8e5fd78c322831d13398d4336b339f9cb327ceb",
+    "bytes": 248406
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "4ab95bd7ce6401e189e7abc55385735f0a33eb65bd419c72ad912a2679158190",
+  "metadata": {
+    "id": "2023_131_RMD",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_131_RMD_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_131_RMD_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1088,
+    "altura": 957,
+    "contraste": 85.66726439985541,
+    "nitidez_512": 886.7714680657278,
+    "sha256": "4ab95bd7ce6401e189e7abc55385735f0a33eb65bd419c72ad912a2679158190",
+    "bytes": 285233
+  }
+}

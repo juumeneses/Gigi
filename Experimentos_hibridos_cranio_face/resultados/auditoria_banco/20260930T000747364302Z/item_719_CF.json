@@ -1,0 +1,21 @@
+{
+  "signature": "33fdf5d963d9ccc184065f7ed087b448dfd5a7dc353f4bda8cd703d7634863bf",
+  "metadata": {
+    "id": "2023_31_CEFDO",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_31_CEFDO_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_31_CEFDO_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 884,
+    "altura": 865,
+    "contraste": 82.45194145539185,
+    "nitidez_512": 580.6549520346995,
+    "sha256": "33fdf5d963d9ccc184065f7ed087b448dfd5a7dc353f4bda8cd703d7634863bf",
+    "bytes": 214536
+  }
+}

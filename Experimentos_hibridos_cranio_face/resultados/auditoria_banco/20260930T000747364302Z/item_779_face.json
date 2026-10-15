@@ -1,0 +1,21 @@
+{
+  "signature": "e9f50f92f78aac563dd4d0428d61d0ec4e31590753220c3fa9854c8f72e514f0",
+  "metadata": {
+    "id": "2023_86_LASOS",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_86_LASOS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_86_LASOS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 161,
+    "altura": 225,
+    "contraste": 71.04522940595464,
+    "nitidez_512": 2745.963604944749,
+    "sha256": "e9f50f92f78aac563dd4d0428d61d0ec4e31590753220c3fa9854c8f72e514f0",
+    "bytes": 8042
+  }
+}

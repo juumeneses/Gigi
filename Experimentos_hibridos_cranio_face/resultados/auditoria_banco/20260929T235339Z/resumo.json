@@ -1,0 +1,19 @@
+{
+  "registros": 795,
+  "entradas": 3180,
+  "status": {
+    "OK_TECNICO": 3161,
+    "ERRO": 19
+  },
+  "realocados": 2381,
+  "entradas_com_conteudo_repetido": 92,
+  "vistas": {
+    "CD/ERRO": 3,
+    "CD/OK_TECNICO": 792,
+    "CE/ERRO": 1,
+    "CE/OK_TECNICO": 794,
+    "CF/OK_TECNICO": 795,
+    "face/ERRO": 15,
+    "face/OK_TECNICO": 780
+  }
+}

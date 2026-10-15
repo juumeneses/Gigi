@@ -1,0 +1,21 @@
+{
+  "signature": "c3eeae8499a540725bec21eab5faaa15d74d5cc6d28ab3053e71aa64fb27ee48",
+  "metadata": {
+    "id": "2022_15_ASDAR",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_15_ASDAR_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_15_ASDAR_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1128,
+    "altura": 1011,
+    "contraste": 92.93461812655332,
+    "nitidez_512": 809.4275582395228,
+    "sha256": "c3eeae8499a540725bec21eab5faaa15d74d5cc6d28ab3053e71aa64fb27ee48",
+    "bytes": 252594
+  }
+}

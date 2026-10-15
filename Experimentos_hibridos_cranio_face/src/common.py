@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import tempfile
 from datetime import datetime
 from pathlib import Path
 
@@ -84,7 +85,16 @@ def sha256_file(path: Path, block: int = 1024 * 1024) -> str:
 
 def save_csv(df: pd.DataFrame, path: str | Path) -> Path:
     p = Path(path); p.parent.mkdir(parents=True, exist_ok=True)
-    df.to_csv(p, index=False, encoding="utf-8-sig")
+    fd, temporary = tempfile.mkstemp(dir=p.parent, suffix=".tmp")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8-sig", newline="") as stream:
+            df.to_csv(stream, index=False)
+            stream.flush()
+            os.fsync(stream.fileno())
+        os.replace(temporary, p)
+    finally:
+        if os.path.exists(temporary):
+            os.unlink(temporary)
     return p
 
 

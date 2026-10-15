@@ -1,0 +1,21 @@
+{
+  "signature": "172588cb9f0500fed1af761f960c0642cb9dc920c7b99ea1667ded8c4e11b2fa",
+  "metadata": {
+    "id": "2022_106_MCPDS",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_106_MCPDS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_106_MCPDS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1074,
+    "altura": 1015,
+    "contraste": 88.80319337805116,
+    "nitidez_512": 847.9261944254079,
+    "sha256": "172588cb9f0500fed1af761f960c0642cb9dc920c7b99ea1667ded8c4e11b2fa",
+    "bytes": 280321
+  }
+}

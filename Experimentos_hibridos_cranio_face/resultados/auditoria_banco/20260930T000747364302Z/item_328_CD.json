@@ -1,0 +1,21 @@
+{
+  "signature": "fc5af0af769d0f6f3bd0d019c26dabf7b931f11016f64b983516a1ec9da09a23",
+  "metadata": {
+    "id": "2019_59_ELB",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_59_ELB_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_59_ELB_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1901,
+    "altura": 1241,
+    "contraste": 98.66016071153521,
+    "nitidez_512": 1436.3051810900106,
+    "sha256": "fc5af0af769d0f6f3bd0d019c26dabf7b931f11016f64b983516a1ec9da09a23",
+    "bytes": 217555
+  }
+}

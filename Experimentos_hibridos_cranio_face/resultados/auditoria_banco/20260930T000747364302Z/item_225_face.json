@@ -1,0 +1,21 @@
+{
+  "signature": "e856f770cf81f3f9225667bf11d2e8eefe549938c3e95f0ad7edab23460456c2",
+  "metadata": {
+    "id": "2019_215_RLM",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_215_RLM_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_215_RLM_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 741,
+    "contraste": 79.87725478715224,
+    "nitidez_512": 957.837994061503,
+    "sha256": "e856f770cf81f3f9225667bf11d2e8eefe549938c3e95f0ad7edab23460456c2",
+    "bytes": 44394
+  }
+}

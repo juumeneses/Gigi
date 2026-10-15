@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "epochs": 100,
+  "lr": 0.001,
+  "input_size": 128,
+  "architecture": "Sequential(\n  (0): Conv2d(3, 16, kernel_size=(5, 5), stride=(2, 2), padding=(2, 2))\n  (1): ReLU()\n  (2): Conv2d(16, 32, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))\n  (3): ReLU()\n  (4): Conv2d(32, 32, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))\n  (5): ReLU()\n  (6): AdaptiveAvgPool2d(output_size=(4, 4))\n  (7): Flatten(start_dim=1, end_dim=-1)\n  (8): Linear(in_features=512, out_features=64, bias=True)\n  (9): ReLU()\n  (10): Linear(in_features=64, out_features=22, bias=True)\n  (11): Sigmoid()\n)",
+  "torch_version": "2.12.1",
+  "source": "dataset/pares_visuais/lote_10_20260926/runs/20260926T211414700889Z",
+  "pseudolabel_hash": "d6c21d02eedbd9640d202aacf20f0ff6e200f1166dfabba65ea7d4539289ee7f",
+  "train_ids": [
+    "2017_41_GP",
+    "2017_73_MMPCC",
+    "2017_92_SRAK",
+    "2017_99_VDSR",
+    "2019_115_KCCSF",
+    "2019_156_MFR",
+    "2019_233_SFG",
+    "2019_234_SFLL",
+    "2019_260_WRV"
+  ],
+  "validation_ids": [
+    "2017_76_MVXP"
+  ],
+  "finalidade": "SMOKE_TEST_PSEUDORROTULOS",
+  "validacao_anatomica": false,
+  "matching_liberado": false,
+  "checkpoint_selection": "Ultima epoca; numero de epocas fixado antes da execucao",
+  "limitations": "9 treino e 1 validacao com rotulos IA; sem teste independente; nao prediz visibilidade."
+}

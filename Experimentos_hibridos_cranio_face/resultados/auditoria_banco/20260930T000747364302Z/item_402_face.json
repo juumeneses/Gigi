@@ -1,0 +1,21 @@
+{
+  "signature": "005afabcfe13f37d42bfcb9e8f81c96b7f150a3ff49ed5075d4fb4d34abe9b00",
+  "metadata": {
+    "id": "2021_32_ECSL",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_32_ECSL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_32_ECSL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 747,
+    "contraste": 76.64995626982588,
+    "nitidez_512": 755.2496693689336,
+    "sha256": "005afabcfe13f37d42bfcb9e8f81c96b7f150a3ff49ed5075d4fb4d34abe9b00",
+    "bytes": 43574
+  }
+}

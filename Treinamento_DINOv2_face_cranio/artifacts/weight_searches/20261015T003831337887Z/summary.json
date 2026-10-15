@@ -1,0 +1,243 @@
+{
+  "weights": [
+    0.4,
+    0.3,
+    0.3
+  ],
+  "best": {
+    "frontal": 0.4,
+    "sorriso": 0.3,
+    "lateral": 0.3,
+    "mrr": 0.23778481719774894,
+    "mrr_sd": 0.017888781477677775,
+    "recall_1": 0.11003236245954694,
+    "recall_1_sd": 0.020210349509379926,
+    "recall_3": 0.2459546925566343,
+    "recall_3_sd": 0.014830342054873262,
+    "recall_5": 0.32038834951456313,
+    "recall_5_sd": 0.01941747572815536,
+    "recall_10": 0.5436893203883495,
+    "recall_10_sd": 0.0,
+    "failures": 0
+  },
+  "equal_weights": {
+    "frontal": 0.3333333333333333,
+    "sorriso": 0.3333333333333333,
+    "lateral": 0.3333333333333333,
+    "mrr": 0.23626044598628207,
+    "mrr_sd": 0.021315573314510734,
+    "recall_1": 0.11326860841423948,
+    "recall_1_sd": 0.022421369677267017,
+    "recall_3": 0.23624595469255663,
+    "recall_3_sd": 0.03409596683771113,
+    "recall_5": 0.3300970873786408,
+    "recall_5_sd": 0.033632054515900546,
+    "recall_10": 0.5501618122977346,
+    "recall_10_sd": 0.0056053424193167525,
+    "failures": 0
+  },
+  "delta_mrr": 0.0015243712114668684,
+  "seeds": [
+    {
+      "seed": 42,
+      "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T003831990262Z",
+      "baseline": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.21472612804452554,
+        "mrr_ci95": [
+          0.1647058471467538,
+          0.27641535095056896
+        ],
+        "median_rank": 9.0,
+        "recall_1": 0.08737864077669903,
+        "recall_3": 0.20388349514563106,
+        "recall_5": 0.3106796116504854,
+        "recall_10": 0.5533980582524272
+      },
+      "selected": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.22091495064496358,
+        "mrr_ci95": [
+          0.1702216495505675,
+          0.2828321623023494
+        ],
+        "median_rank": 9.0,
+        "recall_1": 0.08737864077669903,
+        "recall_3": 0.24271844660194175,
+        "recall_5": 0.32038834951456313,
+        "recall_10": 0.5436893203883495
+      },
+      "gallery": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.6834412081984896,
+        "mrr_ci95": [
+          0.6265264293419633,
+          0.7494619741100322
+        ],
+        "median_rank": 2.0,
+        "recall_1": 0.4854368932038835,
+        "recall_3": 0.912621359223301,
+        "recall_5": 0.9902912621359223,
+        "recall_10": 1.0
+      }
+    },
+    {
+      "seed": 43,
+      "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T003833249454Z",
+      "baseline": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.2367048858960898,
+        "mrr_ci95": [
+          0.18126110382074098,
+          0.298282458240752
+        ],
+        "median_rank": 9.0,
+        "recall_1": 0.1262135922330097,
+        "recall_3": 0.23300970873786409,
+        "recall_5": 0.3106796116504854,
+        "recall_10": 0.5533980582524272
+      },
+      "selected": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.23589675649833608,
+        "mrr_ci95": [
+          0.181851293825686,
+          0.29426462157229677
+        ],
+        "median_rank": 9.0,
+        "recall_1": 0.11650485436893204,
+        "recall_3": 0.23300970873786409,
+        "recall_5": 0.30097087378640774,
+        "recall_10": 0.5436893203883495
+      },
+      "gallery": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.6871474803513637,
+        "mrr_ci95": [
+          0.6213719371243644,
+          0.7524861303744798
+        ],
+        "median_rank": 1.0,
+        "recall_1": 0.5145631067961165,
+        "recall_3": 0.8543689320388349,
+        "recall_5": 0.970873786407767,
+        "recall_10": 1.0
+      }
+    },
+    {
+      "seed": 44,
+      "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T003833929335Z",
+      "baseline": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.2573503240182309,
+        "mrr_ci95": [
+          0.19691142639351356,
+          0.3175596889911395
+        ],
+        "median_rank": 9.0,
+        "recall_1": 0.1262135922330097,
+        "recall_3": 0.27184466019417475,
+        "recall_5": 0.36893203883495146,
+        "recall_10": 0.5436893203883495
+      },
+      "selected": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.2565427444499472,
+        "mrr_ci95": [
+          0.19671980177816184,
+          0.3169171836678342
+        ],
+        "median_rank": 10.0,
+        "recall_1": 0.1262135922330097,
+        "recall_3": 0.2621359223300971,
+        "recall_5": 0.33980582524271846,
+        "recall_10": 0.5436893203883495
+      },
+      "gallery": {
+        "n": 103,
+        "failures": 0,
+        "coverage": 1.0,
+        "mrr": 0.7296501772229926,
+        "mrr_ci95": [
+          0.6668317537370936,
+          0.790335182616736
+        ],
+        "median_rank": 1.0,
+        "recall_1": 0.5631067961165048,
+        "recall_3": 0.8737864077669902,
+        "recall_5": 0.970873786407767,
+        "recall_10": 1.0
+      }
+    }
+  ],
+  "held_out_seed": [
+    {
+      "seed": 42,
+      "weights": [
+        0.55,
+        0.15,
+        0.3
+      ],
+      "mrr": 0.2053623576326289,
+      "failures": 0,
+      "n": 103,
+      "recall_1": 0.08737864077669903,
+      "recall_3": 0.18446601941747573,
+      "recall_5": 0.2912621359223301,
+      "recall_10": 0.5145631067961165
+    },
+    {
+      "seed": 43,
+      "weights": [
+        0.2,
+        0.3,
+        0.5
+      ],
+      "mrr": 0.21533183770661976,
+      "failures": 0,
+      "n": 103,
+      "recall_1": 0.0970873786407767,
+      "recall_3": 0.21359223300970873,
+      "recall_5": 0.30097087378640774,
+      "recall_10": 0.5145631067961165
+    },
+    {
+      "seed": 44,
+      "weights": [
+        0.5,
+        0.25,
+        0.25
+      ],
+      "mrr": 0.23353522684747344,
+      "failures": 0,
+      "n": 103,
+      "recall_1": 0.08737864077669903,
+      "recall_3": 0.2621359223300971,
+      "recall_5": 0.3592233009708738,
+      "recall_10": 0.5533980582524272
+    }
+  ],
+  "outputs": [
+    "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T003831990262Z",
+    "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T003833249454Z",
+    "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T003833929335Z"
+  ],
+  "split": "validacao",
+  "interpretation": "Pesos escolhidos nesta validacao; ganho descritivo sujeito a selecao. Teste final nao utilizado. Seeds excluidas da escolha usam as mesmas identidades de validacao."
+}

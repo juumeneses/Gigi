@@ -1,0 +1,149 @@
+[
+  {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "loss": "infonce",
+    "condition": "crop",
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 3,
+    "subset": "100",
+    "weights": [
+      0.5,
+      0.0,
+      0.0
+    ],
+    "mrr": 0.1764142461059932,
+    "failures": 0,
+    "n": 103,
+    "recall_1": 0.07766990291262135,
+    "recall_3": 0.1553398058252427,
+    "recall_5": 0.20388349514563106,
+    "recall_10": 0.3786407766990291
+  },
+  {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "loss": "infonce",
+    "condition": "crop",
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 3,
+    "subset": "010",
+    "weights": [
+      0.0,
+      0.3,
+      0.0
+    ],
+    "mrr": 0.17188450741201056,
+    "failures": 0,
+    "n": 103,
+    "recall_1": 0.08737864077669903,
+    "recall_3": 0.14563106796116504,
+    "recall_5": 0.22330097087378642,
+    "recall_10": 0.32038834951456313
+  },
+  {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "loss": "infonce",
+    "condition": "crop",
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 3,
+    "subset": "001",
+    "weights": [
+      0.0,
+      0.0,
+      0.2
+    ],
+    "mrr": 0.22685676512180133,
+    "failures": 0,
+    "n": 103,
+    "recall_1": 0.1262135922330097,
+    "recall_3": 0.23300970873786409,
+    "recall_5": 0.27184466019417475,
+    "recall_10": 0.4077669902912621
+  },
+  {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "loss": "infonce",
+    "condition": "crop",
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 3,
+    "subset": "110",
+    "weights": [
+      0.5,
+      0.3,
+      0.0
+    ],
+    "mrr": 0.1761136255203886,
+    "failures": 0,
+    "n": 103,
+    "recall_1": 0.07766990291262135,
+    "recall_3": 0.18446601941747573,
+    "recall_5": 0.24271844660194175,
+    "recall_10": 0.39805825242718446
+  },
+  {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "loss": "infonce",
+    "condition": "crop",
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 3,
+    "subset": "101",
+    "weights": [
+      0.5,
+      0.0,
+      0.2
+    ],
+    "mrr": 0.28131237361946554,
+    "failures": 0,
+    "n": 103,
+    "recall_1": 0.17475728155339806,
+    "recall_3": 0.2815533980582524,
+    "recall_5": 0.36893203883495146,
+    "recall_10": 0.5048543689320388
+  },
+  {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "loss": "infonce",
+    "condition": "crop",
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 3,
+    "subset": "011",
+    "weights": [
+      0.0,
+      0.3,
+      0.2
+    ],
+    "mrr": 0.2566786107715591,
+    "failures": 0,
+    "n": 103,
+    "recall_1": 0.1553398058252427,
+    "recall_3": 0.24271844660194175,
+    "recall_5": 0.32038834951456313,
+    "recall_10": 0.5242718446601942
+  },
+  {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T015657235487Z",
+    "loss": "infonce",
+    "condition": "crop",
+    "kind": "individual",
+    "seed": 42,
+    "n_seeds": 3,
+    "subset": "111",
+    "weights": [
+      0.5,
+      0.3,
+      0.2
+    ],
+    "mrr": 0.2508958181547904,
+    "failures": 0,
+    "n": 103,
+    "recall_1": 0.1262135922330097,
+    "recall_3": 0.2621359223300971,
+    "recall_5": 0.34951456310679613,
+    "recall_10": 0.4563106796116505
+  }
+]

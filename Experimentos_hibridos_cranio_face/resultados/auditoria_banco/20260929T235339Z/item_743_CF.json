@@ -1,0 +1,21 @@
+{
+  "signature": "5d16b70d3b18ee3935f0ead79c04ddcca793782ce3be556a228d827d40fb5ab4",
+  "metadata": {
+    "id": "2023_53_EDSS",
+    "ano": "2023",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CF/2023_53_EDSS_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CF/2023_53_EDSS_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 842,
+    "altura": 785,
+    "contraste": 85.15517140861226,
+    "nitidez_512": 681.5036190098295,
+    "sha256": "5d16b70d3b18ee3935f0ead79c04ddcca793782ce3be556a228d827d40fb5ab4",
+    "bytes": 190357
+  }
+}

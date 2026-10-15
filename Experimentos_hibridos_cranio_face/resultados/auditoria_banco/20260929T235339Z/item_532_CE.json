@@ -1,0 +1,21 @@
+{
+  "signature": "9aac12b2c187e3ab30467ca660e97f96b6bd4d5f583c0579a15cd79d24435c2b",
+  "metadata": {
+    "id": "2022_151_SGDOSPM",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_151_SGDOSPM_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_151_SGDOSPM_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1133,
+    "altura": 943,
+    "contraste": 94.85227559985942,
+    "nitidez_512": 931.7491501147894,
+    "sha256": "9aac12b2c187e3ab30467ca660e97f96b6bd4d5f583c0579a15cd79d24435c2b",
+    "bytes": 236086
+  }
+}

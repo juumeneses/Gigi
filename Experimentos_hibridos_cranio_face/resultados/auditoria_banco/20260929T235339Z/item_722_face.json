@@ -1,0 +1,21 @@
+{
+  "signature": "50ce3bca662ca191528904f69d407b25be2417a17ea4205394804168c495df06",
+  "metadata": {
+    "id": "2023_34_CMBDA",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_34_CMBDA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_34_CMBDA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 302,
+    "altura": 426,
+    "contraste": 79.13143363932423,
+    "nitidez_512": 682.1238590732652,
+    "sha256": "50ce3bca662ca191528904f69d407b25be2417a17ea4205394804168c495df06",
+    "bytes": 16891
+  }
+}

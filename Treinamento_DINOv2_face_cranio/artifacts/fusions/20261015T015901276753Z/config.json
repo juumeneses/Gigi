@@ -1,0 +1,50 @@
+{
+  "bundle": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/hard_crop/seed42",
+  "weights": [
+    0.5,
+    0.3,
+    0.2
+  ],
+  "normalization": [
+    {
+      "mean": 0.17771977186203003,
+      "std": 0.2700634300708771,
+      "n": 241572,
+      "failed_inputs": []
+    },
+    {
+      "mean": 0.29479366540908813,
+      "std": 0.2581596076488495,
+      "n": 241572,
+      "failed_inputs": []
+    },
+    {
+      "mean": -0.036989469081163406,
+      "std": 0.2815515697002411,
+      "n": 241572,
+      "failed_inputs": []
+    }
+  ],
+  "children": {
+    "frontal": {
+      "run": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/hard_crop/seed42/frontal",
+      "checkpoint_hash": "ed46eeae9c8cfa7f20c50c3d4c2da6744c4203bcf013091f9b0ffdbd00229850",
+      "failed_inputs": []
+    },
+    "sorriso": {
+      "run": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/hard_crop/seed42/sorriso",
+      "checkpoint_hash": "d43bbbbba07458f1f0cf347e2e061013ca72ad8da5b29604ab6b5b8bf7f1e151",
+      "failed_inputs": []
+    },
+    "lateral": {
+      "run": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/improvement_pipelines/20261015T014757386011Z/infonce/hard_crop/seed42/lateral",
+      "checkpoint_hash": "43c4148ef3a9b6ac955e0f006f8b6d8c9a8b5ce692d6cb056f13c3110ebda406",
+      "failed_inputs": []
+    }
+  },
+  "cohort": "6a50256af78b8edd7518013c35bd874e08bd821ceeb7e4e8761393131aba0314",
+  "source_hash": "9cd6559fad43465a73d9e22ac8c746c2d3bed3baa9b111e569123ade2c67e514",
+  "split": "validacao",
+  "policy": "fixed_weights_training_impostor_zscore_strict_missing",
+  "smoke": false
+}

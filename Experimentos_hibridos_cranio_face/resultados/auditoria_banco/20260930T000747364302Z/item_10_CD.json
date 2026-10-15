@@ -1,0 +1,21 @@
+{
+  "signature": "05552cce99c14cfbd5dba245bff078d1121d35c414ad779415c3c9605e2ccb07",
+  "metadata": {
+    "id": "2017_20_CRAU",
+    "ano": "2017",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2017/CD/2017_20_CRAU_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2017/CD/2017_20_CRAU_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2153,
+    "altura": 1405,
+    "contraste": 96.02051689152933,
+    "nitidez_512": 1211.6127081773952,
+    "sha256": "05552cce99c14cfbd5dba245bff078d1121d35c414ad779415c3c9605e2ccb07",
+    "bytes": 201280
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "fa414bfd670e1c0c6c6f12c0b2fdfe4e853258a65916fd371d40eac1d64a161b",
+  "metadata": {
+    "id": "2022_51_EMP",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_51_EMP_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_51_EMP_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1058,
+    "altura": 1029,
+    "contraste": 94.0118948486055,
+    "nitidez_512": 743.8035444520299,
+    "sha256": "fa414bfd670e1c0c6c6f12c0b2fdfe4e853258a65916fd371d40eac1d64a161b",
+    "bytes": 247779
+  }
+}

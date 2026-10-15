@@ -1,0 +1,4731 @@
+{
+  "item": {
+    "id": "2017_76_MVXP",
+    "modalidade": "face",
+    "path": "Treinamento_faces/dados_originais/faces/2017/images/2017_76_MVXP_FFN.jpg",
+    "expected_hash": "60c073f1f67d4173ebd0bfcd01d1e02094f8324ce8f4d3daea790211153f44a3",
+    "proposals": [
+      {
+        "numero": 1,
+        "x": 254.0,
+        "y": 300.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relevo anterior nao confirmavel pela frontal."
+      },
+      {
+        "numero": 2,
+        "x": 258.0,
+        "y": 461.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+      },
+      {
+        "numero": 3,
+        "x": 205.0,
+        "y": 441.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+      },
+      {
+        "numero": 4,
+        "x": 309.0,
+        "y": 440.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Largura ossea e externa diferentes; tecido mole."
+      },
+      {
+        "numero": 5,
+        "x": 119.0,
+        "y": 339.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+      },
+      {
+        "numero": 6,
+        "x": 386.0,
+        "y": 324.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+      },
+      {
+        "numero": 7,
+        "x": null,
+        "y": null,
+        "estado": "DUVIDA",
+        "observacao": "Limite cutaneo inferior do queixo oculto/ambiguo pela barba."
+      },
+      {
+        "numero": 8,
+        "x": 74.0,
+        "y": 392.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+      },
+      {
+        "numero": 9,
+        "x": 442.0,
+        "y": 380.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+      },
+      {
+        "numero": 10,
+        "x": 197.0,
+        "y": 341.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+      },
+      {
+        "numero": 11,
+        "x": 315.0,
+        "y": 331.0,
+        "estado": "PROPOSTA_IA",
+        "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+      }
+    ],
+    "ano": 2017,
+    "split": "validacao"
+  },
+  "status": "OK_TECNICO",
+  "reason": "",
+  "points": [
+    {
+      "idx": 0,
+      "x": 262.01861947774887,
+      "y": 502.0382425189018,
+      "z": -0.08509860932826996,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 1,
+      "x": 255.60940620303154,
+      "y": 444.42725747823715,
+      "z": -0.17488430440425873,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 2,
+      "x": 256.68507143855095,
+      "y": 460.85846346616745,
+      "z": -0.08889499306678772,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 3,
+      "x": 239.6383202970028,
+      "y": 382.9638370871544,
+      "z": -0.13564984500408173,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 4,
+      "x": 254.87369906902313,
+      "y": 425.8008672595024,
+      "z": -0.18748925626277924,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 5,
+      "x": 254.12940752506256,
+      "y": 400.7247546315193,
+      "z": -0.17664089798927307,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 6,
+      "x": 252.72836995124817,
+      "y": 339.6363231539726,
+      "z": -0.096065953373909,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 7,
+      "x": 136.9367597401142,
+      "y": 340.10964345932007,
+      "z": 0.04202483221888542,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 8,
+      "x": 251.3292039334774,
+      "y": 296.9863311946392,
+      "z": -0.08017797023057938,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 9,
+      "x": 250.46748384833336,
+      "y": 273.2916160225868,
+      "z": -0.09016255289316177,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 10,
+      "x": 248.17889562249184,
+      "y": 182.9973924458027,
+      "z": -0.06312160193920135,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 11,
+      "x": 262.11714684963226,
+      "y": 509.48905062675476,
+      "z": -0.07990975677967072,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 12,
+      "x": 262.1838113665581,
+      "y": 516.7378948330879,
+      "z": -0.06835821270942688,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 13,
+      "x": 262.2699029445648,
+      "y": 521.4764859080315,
+      "z": -0.050438933074474335,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 14,
+      "x": 262.02109426259995,
+      "y": 521.72346585989,
+      "z": -0.04511435329914093,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 15,
+      "x": 262.1569290161133,
+      "y": 529.9130846858025,
+      "z": -0.04704221338033676,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 16,
+      "x": 262.1759229898453,
+      "y": 539.7760317921638,
+      "z": -0.05295431241393089,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 17,
+      "x": 262.16231167316437,
+      "y": 550.5827082395554,
+      "z": -0.04671456664800644,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 18,
+      "x": 262.54878026247025,
+      "y": 578.4707162976265,
+      "z": -0.01333324983716011,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 19,
+      "x": 256.12487295269966,
+      "y": 453.3791075348854,
+      "z": -0.15734116733074188,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 20,
+      "x": 240.0680357515812,
+      "y": 452.8454761505127,
+      "z": -0.11115780472755432,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 21,
+      "x": 77.0791540145874,
+      "y": 273.0152626633644,
+      "z": 0.19329498708248138,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 22,
+      "x": 181.8181430697441,
+      "y": 352.3797543346882,
+      "z": 0.007044171914458275,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 23,
+      "x": 166.1405202448368,
+      "y": 354.46891620755196,
+      "z": 0.0100615955889225,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 24,
+      "x": 150.93899962306023,
+      "y": 354.69773331284523,
+      "z": 0.019661128520965576,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 25,
+      "x": 130.71482580900192,
+      "y": 346.8477770984173,
+      "z": 0.04810244217514992,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 26,
+      "x": 195.21630343794823,
+      "y": 348.41449642181396,
+      "z": 0.00848646741360426,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 27,
+      "x": 154.23409831523895,
+      "y": 307.08333134651184,
+      "z": -0.008575410582125187,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 28,
+      "x": 173.02855798602104,
+      "y": 308.1880278289318,
+      "z": -0.00964134931564331,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 29,
+      "x": 137.20663502812386,
+      "y": 310.7543554902077,
+      "z": 0.0033678950276225805,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 30,
+      "x": 126.78311191499233,
+      "y": 317.9100607931614,
+      "z": 0.018130004405975342,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 31,
+      "x": 118.0489852130413,
+      "y": 358.12251618504524,
+      "z": 0.06612225621938705,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 32,
+      "x": 204.0666599571705,
+      "y": 604.0318812131882,
+      "z": 0.032068945467472076,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 33,
+      "x": 131.09199848771095,
+      "y": 336.59335112571716,
+      "z": 0.0525469072163105,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 34,
+      "x": 73.45040792226791,
+      "y": 351.0725508034229,
+      "z": 0.21437624096870422,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 35,
+      "x": 99.50843846797943,
+      "y": 346.4389609694481,
+      "z": 0.09886033833026886,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 36,
+      "x": 175.2503579556942,
+      "y": 428.9646352529526,
+      "z": -0.015333282761275768,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 37,
+      "x": 242.893079996109,
+      "y": 498.550454556942,
+      "z": -0.0794297307729721,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 38,
+      "x": 245.11862307786942,
+      "y": 516.6592471003532,
+      "z": -0.06199963763356209,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 39,
+      "x": 224.41667658090591,
+      "y": 506.4303925037384,
+      "z": -0.05792245268821716,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 40,
+      "x": 212.00934273004532,
+      "y": 514.0126422643661,
+      "z": -0.0316275916993618,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 41,
+      "x": 230.38426449894905,
+      "y": 518.136477470398,
+      "z": -0.04755111038684845,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 42,
+      "x": 218.59301286935806,
+      "y": 520.4567159414291,
+      "z": -0.02378411963582039,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 43,
+      "x": 187.77122256159782,
+      "y": 544.5575532317162,
+      "z": 0.025229139253497124,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 44,
+      "x": 241.5542677938938,
+      "y": 444.2803904414177,
+      "z": -0.17136184871196747,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 45,
+      "x": 238.49442833662033,
+      "y": 426.60698479413986,
+      "z": -0.18281447887420654,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 46,
+      "x": 101.98441430926323,
+      "y": 302.2190125286579,
+      "z": 0.026330914348363876,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 47,
+      "x": 206.20085254311562,
+      "y": 381.2884231209755,
+      "z": -0.027834448963403702,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 48,
+      "x": 202.3340321481228,
+      "y": 439.1907523870468,
+      "z": -0.08771642297506332,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 49,
+      "x": 201.19580125808716,
+      "y": 429.0394592285156,
+      "z": -0.0782926008105278,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 50,
+      "x": 128.4605288207531,
+      "y": 428.27944403886795,
+      "z": 0.028891999274492264,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 51,
+      "x": 238.8515088558197,
+      "y": 403.24965101480484,
+      "z": -0.1651296615600586,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 52,
+      "x": 137.23698207736015,
+      "y": 281.5257729291916,
+      "z": -0.03686852008104324,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 53,
+      "x": 115.44271968305111,
+      "y": 288.963371694088,
+      "z": -0.008983973413705826,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 54,
+      "x": 89.31322199106216,
+      "y": 240.45284181833267,
+      "z": 0.12304136157035828,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 55,
+      "x": 212.7028393149376,
+      "y": 293.0947240591049,
+      "z": -0.06795462220907211,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 56,
+      "x": 189.6814935207367,
+      "y": 314.6329705417156,
+      "z": 3.086644574068487e-05,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 57,
+      "x": 175.16907674074173,
+      "y": 527.1870065331459,
+      "z": 0.031471144407987595,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 58,
+      "x": 101.98752325773239,
+      "y": 517.3350092768669,
+      "z": 0.3233749270439148,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 59,
+      "x": 215.350859105587,
+      "y": 448.9720970392227,
+      "z": -0.0747520849108696,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 60,
+      "x": 228.94876554608345,
+      "y": 453.9085240960121,
+      "z": -0.07915990799665451,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 61,
+      "x": 196.88263794779778,
+      "y": 525.3074126243591,
+      "z": 0.026670413091778755,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 62,
+      "x": 200.60513198375702,
+      "y": 524.9671851396561,
+      "z": 0.016880961135029793,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 63,
+      "x": 105.89391700923443,
+      "y": 277.460097938776,
+      "z": 0.0067810420878231525,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 64,
+      "x": 202.05906808376312,
+      "y": 446.97605234384537,
+      "z": -0.06872943043708801,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 65,
+      "x": 168.88773250579834,
+      "y": 281.3467298448086,
+      "z": -0.05726883187890053,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 66,
+      "x": 164.93198999762535,
+      "y": 266.74299734830856,
+      "z": -0.06583181023597717,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 67,
+      "x": 152.0590717792511,
+      "y": 196.06204095482826,
+      "z": -0.01325796265155077,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 68,
+      "x": 99.15578936040401,
+      "y": 258.2297496199608,
+      "z": 0.055901139974594116,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 69,
+      "x": 161.66547507047653,
+      "y": 230.7673735320568,
+      "z": -0.04246283695101738,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 70,
+      "x": 92.68156658113003,
+      "y": 294.18399515748024,
+      "z": 0.05465831980109215,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 71,
+      "x": 85.68850515782833,
+      "y": 284.19414710998535,
+      "z": 0.11868493258953094,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 72,
+      "x": 243.66598623991013,
+      "y": 508.6959686279297,
+      "z": -0.07445960491895676,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 73,
+      "x": 227.38929533958435,
+      "y": 512.788692355156,
+      "z": -0.05408681184053421,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 74,
+      "x": 215.2058676481247,
+      "y": 517.3286218643188,
+      "z": -0.030466528609395027,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 75,
+      "x": 219.35250887274742,
+      "y": 452.07307720184326,
+      "z": -0.068726547062397,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 76,
+      "x": 198.78116914629936,
+      "y": 525.1356911659241,
+      "z": 0.021272482350468636,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 77,
+      "x": 206.20250755548477,
+      "y": 528.164367556572,
+      "z": 0.0022616377100348473,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 78,
+      "x": 202.61980792880058,
+      "y": 524.8306161761284,
+      "z": 0.01563335955142975,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 79,
+      "x": 223.3344067633152,
+      "y": 443.2471938729286,
+      "z": -0.12198865413665771,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 80,
+      "x": 221.27190560102463,
+      "y": 522.6413848400116,
+      "z": -0.016972066834568977,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 81,
+      "x": 232.81894236803055,
+      "y": 521.5461825728416,
+      "z": -0.032366298139095306,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 82,
+      "x": 246.62947922945023,
+      "y": 521.2899039387703,
+      "z": -0.04505814239382744,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 83,
+      "x": 240.46149560809135,
+      "y": 577.8344083428383,
+      "z": -0.01083308644592762,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 84,
+      "x": 242.93668261170387,
+      "y": 549.6976388096809,
+      "z": -0.04344065114855766,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 85,
+      "x": 243.58685499429703,
+      "y": 538.8554188013077,
+      "z": -0.0483827218413353,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 86,
+      "x": 244.74431186914444,
+      "y": 529.2341505289078,
+      "z": -0.04174427315592766,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 87,
+      "x": 246.34908610582352,
+      "y": 521.5205894708633,
+      "z": -0.03965187817811966,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 88,
+      "x": 220.91787216067314,
+      "y": 522.59541285038,
+      "z": -0.013016600161790848,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 89,
+      "x": 217.96226754784584,
+      "y": 526.3330920338631,
+      "z": -0.01638048328459263,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 90,
+      "x": 214.89331778883934,
+      "y": 531.4368084669113,
+      "z": -0.02011227235198021,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 91,
+      "x": 212.38308164477348,
+      "y": 537.7053369283676,
+      "z": -0.013882472179830074,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 92,
+      "x": 190.77106395363808,
+      "y": 495.63218915462494,
+      "z": -0.02281739003956318,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 93,
+      "x": 78.95125141739845,
+      "y": 429.2885248661041,
+      "z": 0.36225903034210205,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 94,
+      "x": 256.42835891246796,
+      "y": 457.0852841734886,
+      "z": -0.11305254697799683,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 95,
+      "x": 212.38158130645752,
+      "y": 523.669714808464,
+      "z": 0.0037152795121073723,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 96,
+      "x": 209.27844858169556,
+      "y": 525.6973924040794,
+      "z": 0.001652577193453908,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 97,
+      "x": 234.59995222091675,
+      "y": 460.7691265940666,
+      "z": -0.07896481454372406,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 98,
+      "x": 208.82989382743835,
+      "y": 457.2198543548584,
+      "z": -0.04388149082660675,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 99,
+      "x": 231.87563171982765,
+      "y": 457.4126064777374,
+      "z": -0.08023294061422348,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 100,
+      "x": 189.6130811870098,
+      "y": 392.609003841877,
+      "z": -0.013952629640698433,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 101,
+      "x": 164.19799974560738,
+      "y": 405.99137181043625,
+      "z": -0.0017131185159087181,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 102,
+      "x": 198.9248149394989,
+      "y": 437.082558631897,
+      "z": -0.058644309639930725,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 103,
+      "x": 112.70689143240452,
+      "y": 214.05557763576508,
+      "z": 0.04996899887919426,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 104,
+      "x": 122.90933118760586,
+      "y": 239.51656445860863,
+      "z": 0.0037494052667170763,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 105,
+      "x": 130.5010662674904,
+      "y": 267.43939912319183,
+      "z": -0.031722139567136765,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 106,
+      "x": 201.53987368941307,
+      "y": 557.3519750833511,
+      "z": 0.010579274035990238,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 107,
+      "x": 205.6843340098858,
+      "y": 269.2120799124241,
+      "z": -0.08370871096849442,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 108,
+      "x": 202.4684748351574,
+      "y": 228.13228341937065,
+      "z": -0.06964448094367981,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 109,
+      "x": 195.88147920370102,
+      "y": 186.7270547747612,
+      "z": -0.051342740654945374,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 110,
+      "x": 138.2267722785473,
+      "y": 352.23058435320854,
+      "z": 0.034530725330114365,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 111,
+      "x": 101.95093511044979,
+      "y": 370.671326816082,
+      "z": 0.08699145913124084,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 112,
+      "x": 203.99023550748825,
+      "y": 344.3077594935894,
+      "z": 0.011963537894189358,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 113,
+      "x": 112.12748242914677,
+      "y": 325.0588789880276,
+      "z": 0.04808937385678291,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 114,
+      "x": 217.14122673869133,
+      "y": 369.021071434021,
+      "z": -0.04181509464979172,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 115,
+      "x": 212.2732011973858,
+      "y": 432.4218766093254,
+      "z": -0.12158356606960297,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 116,
+      "x": 87.1402448862791,
+      "y": 384.71272802352905,
+      "z": 0.12616530060768127,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 117,
+      "x": 113.03466895222664,
+      "y": 382.6844421029091,
+      "z": 0.058143675327301025,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 118,
+      "x": 133.53826144337654,
+      "y": 388.6933026909828,
+      "z": 0.02734014019370079,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 119,
+      "x": 164.3471055328846,
+      "y": 385.015978038311,
+      "z": 0.009909230284392834,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 120,
+      "x": 186.8912354707718,
+      "y": 377.1096214056015,
+      "z": 0.0005794294993393123,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 121,
+      "x": 203.64574545621872,
+      "y": 368.6190989613533,
+      "z": -0.010953320190310478,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 122,
+      "x": 237.14297926425934,
+      "y": 344.66406413912773,
+      "z": -0.08163131773471832,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 123,
+      "x": 92.2721907645464,
+      "y": 422.4028072357178,
+      "z": 0.12116239964962006,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 124,
+      "x": 99.82295268774033,
+      "y": 322.57304576039314,
+      "z": 0.06382820755243301,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 125,
+      "x": 247.57056257128716,
+      "y": 453.01393872499466,
+      "z": -0.1548696756362915,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 126,
+      "x": 207.46005401015282,
+      "y": 399.5538593530655,
+      "z": -0.039314545691013336,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 127,
+      "x": 70.88108628988266,
+      "y": 349.3841230273247,
+      "z": 0.3271459639072418,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 128,
+      "x": 215.98847195506096,
+      "y": 358.95092448592186,
+      "z": -0.01804768294095993,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 129,
+      "x": 198.3618632555008,
+      "y": 437.6829754114151,
+      "z": -0.02466806210577488,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 130,
+      "x": 123.4144347757101,
+      "y": 337.42086866497993,
+      "z": 0.0593375563621521,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 131,
+      "x": 211.46928280591965,
+      "y": 420.1515702009201,
+      "z": -0.11000991612672806,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 132,
+      "x": 87.2957309782505,
+      "y": 472.30805253982544,
+      "z": 0.351773738861084,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 133,
+      "x": 203.59241384267807,
+      "y": 338.2083671092987,
+      "z": 0.019651081413030624,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 134,
+      "x": 224.82227835059166,
+      "y": 409.78462582826614,
+      "z": -0.14392101764678955,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 135,
+      "x": 136.79633116722107,
+      "y": 560.80925989151,
+      "z": 0.15166272222995758,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 136,
+      "x": 139.49223804473877,
+      "y": 580.4422976374626,
+      "z": 0.21345551311969757,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 137,
+      "x": 79.04505349695683,
+      "y": 426.94912415742874,
+      "z": 0.24062779545783997,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 138,
+      "x": 117.30419871211052,
+      "y": 536.1856107115746,
+      "z": 0.19043144583702087,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 139,
+      "x": 79.21606886386871,
+      "y": 314.91227862238884,
+      "z": 0.17567498981952667,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 140,
+      "x": 201.11504593491554,
+      "y": 622.529914855957,
+      "z": 0.05365816503763199,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 141,
+      "x": 249.50856658816338,
+      "y": 456.6266505718231,
+      "z": -0.11050146073102951,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 142,
+      "x": 193.48151019215584,
+      "y": 413.61885488033295,
+      "z": -0.024647271260619164,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 143,
+      "x": 86.99113136529922,
+      "y": 349.74562016129494,
+      "z": 0.13326579332351685,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 144,
+      "x": 151.6406165957451,
+      "y": 343.90804651379585,
+      "z": 0.021888334304094315,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 145,
+      "x": 164.68431043624878,
+      "y": 344.23126262426376,
+      "z": 0.013004714623093605,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 146,
+      "x": 203.47077816724777,
+      "y": 531.3455162644386,
+      "z": 0.008186382241547108,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 147,
+      "x": 98.44987244904041,
+      "y": 458.39835369586945,
+      "z": 0.136144757270813,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 148,
+      "x": 231.60125541687012,
+      "y": 647.4124063253403,
+      "z": 0.06533731520175934,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 149,
+      "x": 182.64847978949547,
+      "y": 622.6166011691093,
+      "z": 0.12927407026290894,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 150,
+      "x": 162.52829334139824,
+      "y": 605.1571521162987,
+      "z": 0.16602200269699097,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 151,
+      "x": 249.04341530799866,
+      "y": 226.7728508412838,
+      "z": -0.0794229730963707,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 152,
+      "x": 266.81899058818817,
+      "y": 649.7397708892822,
+      "z": 0.054429810494184494,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 153,
+      "x": 177.83899837732315,
+      "y": 342.6306291818619,
+      "z": 0.010456766933202744,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 154,
+      "x": 190.49405819177628,
+      "y": 340.34880208969116,
+      "z": 0.013811863958835602,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 155,
+      "x": 199.14561215043068,
+      "y": 339.38536736369133,
+      "z": 0.01950986310839653,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 156,
+      "x": 89.18264615535736,
+      "y": 318.9213793873787,
+      "z": 0.09777382016181946,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 157,
+      "x": 187.61268165707588,
+      "y": 328.989571005106,
+      "z": 0.00741863576695323,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 158,
+      "x": 173.2490922510624,
+      "y": 325.69588217139244,
+      "z": 0.0014756300952285528,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 159,
+      "x": 159.5297512114048,
+      "y": 325.45505064725876,
+      "z": 0.003924260847270489,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 160,
+      "x": 146.44449645280838,
+      "y": 328.0351742506027,
+      "z": 0.013247473165392876,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 161,
+      "x": 138.63036328554153,
+      "y": 331.61849096417427,
+      "z": 0.025347784161567688,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 162,
+      "x": 71.72733123600483,
+      "y": 307.29163920879364,
+      "z": 0.26758337020874023,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 163,
+      "x": 142.9535804092884,
+      "y": 342.20740878582,
+      "z": 0.032728858292102814,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 164,
+      "x": 257.43428161740303,
+      "y": 476.05151081085205,
+      "z": -0.07973675429821014,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 165,
+      "x": 205.01952946186066,
+      "y": 484.65557277202606,
+      "z": -0.04302385449409485,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 166,
+      "x": 215.3021522462368,
+      "y": 446.04401153326035,
+      "z": -0.08816073089838028,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 167,
+      "x": 234.41810193657875,
+      "y": 477.75169229507446,
+      "z": -0.0751696527004242,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 168,
+      "x": 252.1398506462574,
+      "y": 318.02577289938927,
+      "z": -0.07532831281423569,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 169,
+      "x": 157.52608805894852,
+      "y": 585.1462141871452,
+      "z": 0.12110791355371475,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 170,
+      "x": 178.3912002146244,
+      "y": 604.1302560567856,
+      "z": 0.089436836540699,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 171,
+      "x": 230.2643611729145,
+      "y": 634.8912527561188,
+      "z": 0.022013744339346886,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 172,
+      "x": 120.46674174070358,
+      "y": 553.3294259905815,
+      "z": 0.27115198969841003,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 173,
+      "x": 198.39972746372223,
+      "y": 334.29097133874893,
+      "z": 0.014386404305696487,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 174,
+      "x": 227.51688596606255,
+      "y": 374.2299411892891,
+      "z": -0.08718093484640121,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 175,
+      "x": 265.83399528265,
+      "y": 636.9822396039963,
+      "z": 0.01271731685847044,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 176,
+      "x": 204.86807262897491,
+      "y": 637.562277495861,
+      "z": 0.09115570783615112,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 177,
+      "x": 87.5476950109005,
+      "y": 466.3274356126785,
+      "z": 0.24019964039325714,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 178,
+      "x": 232.49227076768875,
+      "y": 521.64981508255,
+      "z": -0.027589332312345505,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 179,
+      "x": 229.6242116689682,
+      "y": 527.6813575029373,
+      "z": -0.030638907104730606,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 180,
+      "x": 227.51705610752106,
+      "y": 535.3521185517311,
+      "z": -0.03508870676159859,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 181,
+      "x": 226.01659405231476,
+      "y": 545.0600296854973,
+      "z": -0.030041499063372612,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 182,
+      "x": 218.49720776081085,
+      "y": 569.3322842717171,
+      "z": -0.0041236537508666515,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 183,
+      "x": 209.21410417556763,
+      "y": 522.6863574385643,
+      "z": -0.0028328686021268368,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 184,
+      "x": 205.93093085289001,
+      "y": 521.4760948419571,
+      "z": -0.0026236032135784626,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 185,
+      "x": 203.21258077025414,
+      "y": 520.0057298541069,
+      "z": -0.0026576993986964226,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 186,
+      "x": 180.2390292584896,
+      "y": 510.31984877586365,
+      "z": 0.0036819265224039555,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 187,
+      "x": 119.46959678828716,
+      "y": 467.5522111058235,
+      "z": 0.06907036155462265,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 188,
+      "x": 227.34792003035545,
+      "y": 355.4618764221668,
+      "z": -0.05939600244164467,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 189,
+      "x": 215.13375860452652,
+      "y": 323.96634900569916,
+      "z": -0.0070219808258116245,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 190,
+      "x": 204.9093551337719,
+      "y": 327.33373206853867,
+      "z": 0.006836182903498411,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 191,
+      "x": 212.58746793866158,
+      "y": 523.7816900610924,
+      "z": 0.0013740533031523228,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 192,
+      "x": 121.35749414563179,
+      "y": 510.894194483757,
+      "z": 0.12465296685695648,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 193,
+      "x": 230.27504914999008,
+      "y": 322.47249832749367,
+      "z": -0.050552330911159515,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 194,
+      "x": 211.20891997218132,
+      "y": 585.6760218143463,
+      "z": 0.01605403609573841,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 195,
+      "x": 253.6601109802723,
+      "y": 379.6547228693962,
+      "z": -0.14825917780399323,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 196,
+      "x": 238.2308328151703,
+      "y": 364.5381506681442,
+      "z": -0.1120738759636879,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 197,
+      "x": 253.20470416545868,
+      "y": 360.1227539777756,
+      "z": -0.12105923891067505,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 198,
+      "x": 216.72835528850555,
+      "y": 403.6362415552139,
+      "z": -0.08283954858779907,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 199,
+      "x": 264.70806097984314,
+      "y": 618.5599424242973,
+      "z": -0.007014209870249033,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 200,
+      "x": 263.57550662755966,
+      "y": 596.9195625185966,
+      "z": -0.009318538010120392,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 201,
+      "x": 236.63275596499443,
+      "y": 595.8527342677116,
+      "z": -0.0017801978392526507,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 202,
+      "x": 173.23407340049744,
+      "y": 551.6858621835709,
+      "z": 0.04662870988249779,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 203,
+      "x": 186.3814297914505,
+      "y": 452.9212995171547,
+      "z": -0.01475553959608078,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 204,
+      "x": 190.65881699323654,
+      "y": 571.0249920487404,
+      "z": 0.032851122319698334,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 205,
+      "x": 151.85405132174492,
+      "y": 451.32040536403656,
+      "z": 0.001952814869582653,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 206,
+      "x": 173.75490733981133,
+      "y": 471.938973069191,
+      "z": -0.005897476803511381,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 207,
+      "x": 140.6474521458149,
+      "y": 481.0197011232376,
+      "z": 0.03333564102649689,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 208,
+      "x": 232.01664805412292,
+      "y": 616.8341243863106,
+      "z": 0.003082769922912121,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 209,
+      "x": 207.18148604035378,
+      "y": 414.0313426852226,
+      "z": -0.057187747210264206,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 210,
+      "x": 160.86715587973595,
+      "y": 565.2674131393433,
+      "z": 0.08063425868749619,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 211,
+      "x": 182.35224804282188,
+      "y": 585.7891268134117,
+      "z": 0.060998253524303436,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 212,
+      "x": 159.6245818734169,
+      "y": 529.0599957704544,
+      "z": 0.048295170068740845,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 213,
+      "x": 105.44608922302723,
+      "y": 488.92284232378006,
+      "z": 0.151429682970047,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 214,
+      "x": 141.03540560603142,
+      "y": 531.2364957332611,
+      "z": 0.08238653093576431,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 215,
+      "x": 99.11189286410809,
+      "y": 502.717698097229,
+      "z": 0.23052296042442322,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 216,
+      "x": 163.3714370727539,
+      "y": 496.1850696802139,
+      "z": 0.013784673064947128,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 217,
+      "x": 217.90471333265305,
+      "y": 386.52979481220245,
+      "z": -0.061520203948020935,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 218,
+      "x": 217.9797147810459,
+      "y": 440.46667063236237,
+      "z": -0.12863418459892273,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 219,
+      "x": 207.81535577774048,
+      "y": 445.0782521367073,
+      "z": -0.09148775041103363,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 220,
+      "x": 224.4364593923092,
+      "y": 428.6897158026695,
+      "z": -0.15414822101593018,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 221,
+      "x": 200.16457387804985,
+      "y": 308.4207773208618,
+      "z": -0.0179526936262846,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 222,
+      "x": 171.62060648202896,
+      "y": 298.46486511826515,
+      "z": -0.023911425843834877,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 223,
+      "x": 147.3916894197464,
+      "y": 297.6854921579361,
+      "z": -0.02016420289874077,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 224,
+      "x": 128.18929240107536,
+      "y": 302.4504584670067,
+      "z": -0.0048087164759635925,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 225,
+      "x": 116.04236005246639,
+      "y": 311.27753672003746,
+      "z": 0.017730487510561943,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 226,
+      "x": 112.95453232526779,
+      "y": 341.6599597334862,
+      "z": 0.0732973963022232,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 227,
+      "x": 73.8136135339737,
+      "y": 388.76969093084335,
+      "z": 0.22948068380355835,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 228,
+      "x": 126.94581355154514,
+      "y": 365.2386369109154,
+      "z": 0.049854688346385956,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 229,
+      "x": 143.45905521512032,
+      "y": 369.596068918705,
+      "z": 0.028950033709406853,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 230,
+      "x": 164.81733012199402,
+      "y": 368.5705633163452,
+      "z": 0.014057612977921963,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 231,
+      "x": 184.83175045251846,
+      "y": 363.8665598630905,
+      "z": 0.007199887651950121,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 232,
+      "x": 200.44505980610847,
+      "y": 357.9996562600136,
+      "z": 0.003055829554796219,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 233,
+      "x": 211.1705917418003,
+      "y": 352.1233236193657,
+      "z": -7.680427370360121e-05,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 234,
+      "x": 74.1177104562521,
+      "y": 389.14207273721695,
+      "z": 0.35600370168685913,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 235,
+      "x": 208.29470613598824,
+      "y": 449.7256813645363,
+      "z": -0.07472323626279831,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 236,
+      "x": 227.5620817244053,
+      "y": 391.5223181247711,
+      "z": -0.11074560880661011,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 237,
+      "x": 229.62199983000755,
+      "y": 441.62444347143173,
+      "z": -0.1550970822572708,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 238,
+      "x": 238.97223195433617,
+      "y": 450.05687087774277,
+      "z": -0.14153112471103668,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 239,
+      "x": 230.0317777991295,
+      "y": 444.26761561632156,
+      "z": -0.13874125480651855,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 240,
+      "x": 213.30889865756035,
+      "y": 454.7650022506714,
+      "z": -0.06325901299715042,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 241,
+      "x": 242.24429967999458,
+      "y": 451.85399329662323,
+      "z": -0.15027828514575958,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 242,
+      "x": 244.0684790611267,
+      "y": 455.5210633277893,
+      "z": -0.11079078912734985,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 243,
+      "x": 209.53477442264557,
+      "y": 338.64557898044586,
+      "z": 0.013975443318486214,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 244,
+      "x": 219.11264035105705,
+      "y": 342.1401019692421,
+      "z": -0.006350688170641661,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 245,
+      "x": 224.79971140623093,
+      "y": 344.9974479675293,
+      "z": -0.029976537451148033,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 246,
+      "x": 134.32756313681602,
+      "y": 334.31141540408134,
+      "z": 0.03725216165184975,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 247,
+      "x": 121.12558360397816,
+      "y": 326.12029749155045,
+      "z": 0.038620173931121826,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 248,
+      "x": 268.20771610736847,
+      "y": 381.68552899360657,
+      "z": -0.13775618374347687,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 249,
+      "x": 375.93039858341217,
+      "y": 330.11388596892357,
+      "z": 0.027229562401771545,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 250,
+      "x": 272.58078467845917,
+      "y": 451.48330610990524,
+      "z": -0.11269184947013855,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 251,
+      "x": 429.65627628564835,
+      "y": 257.7730496227741,
+      "z": 0.16974499821662903,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 252,
+      "x": 330.3951925635338,
+      "y": 345.8357198238373,
+      "z": -0.002657968085259199,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 253,
+      "x": 346.34682047367096,
+      "y": 347.14576944708824,
+      "z": -0.0015158152673393488,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 254,
+      "x": 361.7645444869995,
+      "y": 346.43850472569466,
+      "z": 0.006340647581964731,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 255,
+      "x": 382.57052475214005,
+      "y": 336.5176581144333,
+      "z": 0.03238651528954506,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 256,
+      "x": 316.46119487285614,
+      "y": 342.38425755500793,
+      "z": 0.0007631448679603636,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 257,
+      "x": 351.92548048496246,
+      "y": 296.4565887451172,
+      "z": -0.020803717896342278,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 258,
+      "x": 332.98353910446167,
+      "y": 299.5232202708721,
+      "z": -0.019491463899612427,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 259,
+      "x": 370.0082074999809,
+      "y": 298.3556056022644,
+      "z": -0.010615012608468533,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 260,
+      "x": 381.8725426197052,
+      "y": 304.6492709219456,
+      "z": 0.003097645239904523,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 261,
+      "x": 394.84149795770645,
+      "y": 347.19949758052826,
+      "z": 0.049223966896533966,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 262,
+      "x": 326.3214182853699,
+      "y": 599.7059517502785,
+      "z": 0.025766436010599136,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 263,
+      "x": 381.6927804350853,
+      "y": 325.30275213718414,
+      "z": 0.037110473960638046,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 264,
+      "x": 439.79129362106323,
+      "y": 335.58242359757423,
+      "z": 0.19211331009864807,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 265,
+      "x": 411.9237313270569,
+      "y": 333.75938218832016,
+      "z": 0.08004774898290634,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 266,
+      "x": 339.70932376384735,
+      "y": 422.3453205227852,
+      "z": -0.02521951124072075,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 267,
+      "x": 280.93921583890915,
+      "y": 497.0353342294693,
+      "z": -0.08230607956647873,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 268,
+      "x": 279.3246352672577,
+      "y": 515.3793312907219,
+      "z": -0.06470359116792679,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 269,
+      "x": 299.78736287355423,
+      "y": 503.4724990725517,
+      "z": -0.06377844512462616,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 270,
+      "x": 312.2309213876724,
+      "y": 510.1678109765053,
+      "z": -0.039521101862192154,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 271,
+      "x": 294.1159602999687,
+      "y": 515.800639808178,
+      "z": -0.0528569221496582,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 272,
+      "x": 305.9641165137291,
+      "y": 517.2547972798347,
+      "z": -0.03061974048614502,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 273,
+      "x": 337.5236865878105,
+      "y": 539.2055532932281,
+      "z": 0.015597968362271786,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 274,
+      "x": 269.7593443393707,
+      "y": 443.19027203321457,
+      "z": -0.1725819855928421,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 275,
+      "x": 271.33420461416245,
+      "y": 425.175943672657,
+      "z": -0.18439672887325287,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 276,
+      "x": 402.6998988389969,
+      "y": 288.5407596230507,
+      "z": 0.008848698809742928,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 277,
+      "x": 304.7282708287239,
+      "y": 377.1000620126724,
+      "z": -0.03434741869568825,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 278,
+      "x": 310.77877950668335,
+      "y": 434.81737357378006,
+      "z": -0.09368794411420822,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 279,
+      "x": 311.61971139907837,
+      "y": 424.49839997291565,
+      "z": -0.08457866311073303,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 280,
+      "x": 388.0037602186203,
+      "y": 417.7717158794403,
+      "z": 0.01275728177279234,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 281,
+      "x": 269.72330528497696,
+      "y": 401.8400750756264,
+      "z": -0.16716690361499786,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 282,
+      "x": 362.43982046842575,
+      "y": 271.0775954425335,
+      "z": -0.04868758097290993,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 283,
+      "x": 386.3931083679199,
+      "y": 276.2195928990841,
+      "z": -0.023939110338687897,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 284,
+      "x": 413.8338630795479,
+      "y": 226.312848508358,
+      "z": 0.10216376930475235,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 285,
+      "x": 288.18303483724594,
+      "y": 290.32777950167656,
+      "z": -0.07191362231969833,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 286,
+      "x": 317.1529900431633,
+      "y": 307.78312236070633,
+      "z": -0.008044679649174213,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 287,
+      "x": 349.07523983716965,
+      "y": 520.9498502612114,
+      "z": 0.02046578750014305,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 288,
+      "x": 426.98830354213715,
+      "y": 504.30355793237686,
+      "z": 0.3018195629119873,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 289,
+      "x": 298.32290893793106,
+      "y": 445.64099621772766,
+      "z": -0.0790054202079773,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 290,
+      "x": 284.7163562178612,
+      "y": 451.7234641313553,
+      "z": -0.08129413425922394,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 291,
+      "x": 327.49196058511734,
+      "y": 520.3053733706474,
+      "z": 0.01683121919631958,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 292,
+      "x": 323.6548376083374,
+      "y": 520.2739142775536,
+      "z": 0.007924295030534267,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 293,
+      "x": 394.2793815135956,
+      "y": 264.2045005559921,
+      "z": -0.009205535054206848,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 294,
+      "x": 312.07736098766327,
+      "y": 442.5902028679848,
+      "z": -0.0745687484741211,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 295,
+      "x": 330.2263813018799,
+      "y": 274.48260775208473,
+      "z": -0.06547506898641586,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 296,
+      "x": 331.84195178747177,
+      "y": 259.51316329836845,
+      "z": -0.07416141033172607,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 297,
+      "x": 346.3234956264496,
+      "y": 187.50547179579735,
+      "z": -0.025198571383953094,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 298,
+      "x": 404.08367478847504,
+      "y": 244.69345369935036,
+      "z": 0.03845641016960144,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 299,
+      "x": 337.5126428604126,
+      "y": 222.91033467650414,
+      "z": -0.052015140652656555,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 300,
+      "x": 411.06748670339584,
+      "y": 280.44534426927567,
+      "z": 0.03610648587346077,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 301,
+      "x": 420.824666261673,
+      "y": 269.69437301158905,
+      "z": 0.09852547198534012,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 302,
+      "x": 280.51568734645844,
+      "y": 507.2759208083153,
+      "z": -0.07731287181377411,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 303,
+      "x": 296.95766294002533,
+      "y": 510.1900582909584,
+      "z": -0.059785593301057816,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 304,
+      "x": 309.1946387887001,
+      "y": 513.8089837431908,
+      "z": -0.03786599263548851,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 305,
+      "x": 294.41392439603806,
+      "y": 449.0933709740639,
+      "z": -0.07215257734060287,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 306,
+      "x": 325.54350060224533,
+      "y": 520.2914687991142,
+      "z": 0.011934726499021053,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 307,
+      "x": 318.0799825787544,
+      "y": 523.8194931149483,
+      "z": -0.005993162747472525,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 308,
+      "x": 321.60379779338837,
+      "y": 520.2987686991692,
+      "z": 0.006931626703590155,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 309,
+      "x": 289.0253897309303,
+      "y": 440.606368124485,
+      "z": -0.12592841684818268,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 310,
+      "x": 303.3892884850502,
+      "y": 519.5731238722801,
+      "z": -0.023535555228590965,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 311,
+      "x": 291.77716487646103,
+      "y": 519.3115441203117,
+      "z": -0.03735274076461792,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 312,
+      "x": 278.08585077524185,
+      "y": 520.0902870297432,
+      "z": -0.04788483679294586,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 313,
+      "x": 285.30464351177216,
+      "y": 576.3332360386848,
+      "z": -0.013515818864107132,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 314,
+      "x": 281.4700881242752,
+      "y": 548.2778517007828,
+      "z": -0.046601295471191406,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 315,
+      "x": 280.66173058748245,
+      "y": 537.4339370727539,
+      "z": -0.051794882863759995,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 316,
+      "x": 279.49743711948395,
+      "y": 527.8491683006287,
+      "z": -0.04511711373925209,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 317,
+      "x": 277.88796079158783,
+      "y": 520.2790415883064,
+      "z": -0.04284533113241196,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 318,
+      "x": 303.29515385627747,
+      "y": 519.6236148476601,
+      "z": -0.019682573154568672,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 319,
+      "x": 306.4110626578331,
+      "y": 523.0049024820328,
+      "z": -0.02309955470263958,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 320,
+      "x": 309.4058926105499,
+      "y": 527.7503589391708,
+      "z": -0.02705622836947441,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 321,
+      "x": 311.8697574734688,
+      "y": 533.7103362679482,
+      "z": -0.021194560453295708,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 322,
+      "x": 328.94339096546173,
+      "y": 490.5061385035515,
+      "z": -0.03182283788919449,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 323,
+      "x": 442.3526650071144,
+      "y": 414.50874745845795,
+      "z": 0.3380008339881897,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 324,
+      "x": 311.9890111684799,
+      "y": 520.0196344256401,
+      "z": -0.004231675527989864,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 325,
+      "x": 315.0541559457779,
+      "y": 521.7100392580032,
+      "z": -0.006439665332436562,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 326,
+      "x": 279.62689930200577,
+      "y": 459.06920582056046,
+      "z": -0.08107960969209671,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 327,
+      "x": 306.2824975848198,
+      "y": 453.51372116804123,
+      "z": -0.048552270978689194,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 328,
+      "x": 282.05005395412445,
+      "y": 455.50985276699066,
+      "z": -0.08223897963762283,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 329,
+      "x": 322.45685613155365,
+      "y": 387.0981007218361,
+      "z": -0.022619999945163727,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 330,
+      "x": 349.5603904724121,
+      "y": 398.46235048770905,
+      "z": -0.013478613458573818,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 331,
+      "x": 315.0032681822777,
+      "y": 432.4535529613495,
+      "z": -0.06507307291030884,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 332,
+      "x": 387.7187268733978,
+      "y": 201.98291167616844,
+      "z": 0.03311347961425781,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 333,
+      "x": 377.7119033932686,
+      "y": 228.1562470793724,
+      "z": -0.010308468714356422,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 334,
+      "x": 367.03323769569397,
+      "y": 256.48235777020454,
+      "z": -0.04449276253581047,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 335,
+      "x": 324.3572743535042,
+      "y": 552.9227607250214,
+      "z": 0.0024515988770872355,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 336,
+      "x": 291.8025932908058,
+      "y": 265.98756632208824,
+      "z": -0.08781823515892029,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 337,
+      "x": 296.0413738489151,
+      "y": 223.95537185668945,
+      "z": -0.07446279376745224,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 338,
+      "x": 301.2409277558327,
+      "y": 182.05829071998596,
+      "z": -0.05736643821001053,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 339,
+      "x": 375.0032204389572,
+      "y": 343.10925060510635,
+      "z": 0.019715847447514534,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 340,
+      "x": 411.15540343523026,
+      "y": 358.8843998014927,
+      "z": 0.06824598461389542,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 341,
+      "x": 306.9501945376396,
+      "y": 338.8860194385052,
+      "z": 0.005142961163073778,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 342,
+      "x": 397.1301789879799,
+      "y": 311.8959859907627,
+      "z": 0.031104613095521927,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 343,
+      "x": 292.5155788064003,
+      "y": 365.72273325920105,
+      "z": -0.04708748310804367,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 344,
+      "x": 299.449864089489,
+      "y": 428.8765150308609,
+      "z": -0.12632694840431213,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 345,
+      "x": 427.57411605119705,
+      "y": 370.5108593702316,
+      "z": 0.1052381619811058,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 346,
+      "x": 400.957279086113,
+      "y": 371.7679195404053,
+      "z": 0.040416594594717026,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 347,
+      "x": 380.50132620334625,
+      "y": 378.90039986371994,
+      "z": 0.011904171667993069,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 348,
+      "x": 349.54062312841415,
+      "y": 377.2727394104004,
+      "z": -0.00209124106913805,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 349,
+      "x": 326.5522229075432,
+      "y": 370.7708314061165,
+      "z": -0.008588132448494434,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 350,
+      "x": 308.87557715177536,
+      "y": 363.3155477643013,
+      "z": -0.01773463934659958,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 351,
+      "x": 269.08740931749344,
+      "y": 343.2309590578079,
+      "z": -0.08380453288555145,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 352,
+      "x": 425.56867414712906,
+      "y": 408.74686682224274,
+      "z": 0.10038657486438751,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 353,
+      "x": 408.3695999979973,
+      "y": 309.3079976141453,
+      "z": 0.0453176312148571,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 354,
+      "x": 264.71127820014954,
+      "y": 452.34026223421097,
+      "z": -0.15581220388412476,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 355,
+      "x": 304.2508229613304,
+      "y": 395.45505237579346,
+      "z": -0.045497827231884,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 356,
+      "x": 443.3459817767143,
+      "y": 333.7765890955925,
+      "z": 0.3018670082092285,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 357,
+      "x": 295.0768883228302,
+      "y": 354.4117553830147,
+      "z": -0.02331126667559147,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 358,
+      "x": 316.26559406518936,
+      "y": 433.02072912454605,
+      "z": -0.031232044100761414,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 359,
+      "x": 388.9062523841858,
+      "y": 325.5659830570221,
+      "z": 0.043329693377017975,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 360,
+      "x": 299.85145980119705,
+      "y": 416.4748104214668,
+      "z": -0.11484737694263458,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 361,
+      "x": 437.6970997452736,
+      "y": 458.1116588115692,
+      "z": 0.32898250222206116,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 362,
+      "x": 306.6637381911278,
+      "y": 332.7816735506058,
+      "z": 0.012614295817911625,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 363,
+      "x": 284.82623666524887,
+      "y": 407.1915970444679,
+      "z": -0.1474580019712448,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 364,
+      "x": 394.292095720768,
+      "y": 550.9131590723991,
+      "z": 0.1370311826467514,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 365,
+      "x": 393.8195046186447,
+      "y": 570.5442414879799,
+      "z": 0.1975124329328537,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 366,
+      "x": 440.7233904004097,
+      "y": 411.96134305000305,
+      "z": 0.2182796746492386,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 367,
+      "x": 412.2111157178879,
+      "y": 524.4738335609436,
+      "z": 0.1729211062192917,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 368,
+      "x": 430.4292753338814,
+      "y": 299.94081366062164,
+      "z": 0.15429848432540894,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 369,
+      "x": 331.38591080904007,
+      "y": 617.9549632072449,
+      "z": 0.047015756368637085,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 370,
+      "x": 263.26557075977325,
+      "y": 456.0335336923599,
+      "z": -0.11107993125915527,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 371,
+      "x": 319.7692707180977,
+      "y": 408.46125823259354,
+      "z": -0.03239328786730766,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 372,
+      "x": 424.5146323442459,
+      "y": 336.4073123037815,
+      "z": 0.1127111092209816,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 373,
+      "x": 360.56687235832214,
+      "y": 335.77767419815063,
+      "z": 0.00892069935798645,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 374,
+      "x": 346.97464245557785,
+      "y": 336.7600973546505,
+      "z": 0.001378808286972344,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 375,
+      "x": 320.8666831254959,
+      "y": 526.6810539364815,
+      "z": -0.0005780794308520854,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 376,
+      "x": 422.871684551239,
+      "y": 445.35725605487823,
+      "z": 0.11608956754207611,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 377,
+      "x": 302.52537202835083,
+      "y": 645.060534954071,
+      "z": 0.06138913333415985,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 378,
+      "x": 351.9921759366989,
+      "y": 616.3487679362297,
+      "z": 0.11897491663694382,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 379,
+      "x": 372.0058228969574,
+      "y": 597.224289894104,
+      "z": 0.15311601758003235,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 380,
+      "x": 333.3677803874016,
+      "y": 335.6736940741539,
+      "z": 0.0005625058547593653,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 381,
+      "x": 320.36646723747253,
+      "y": 333.98630914092064,
+      "z": 0.0053304932080209255,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 382,
+      "x": 311.3914124965668,
+      "y": 333.7222743630409,
+      "z": 0.01197259034961462,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 383,
+      "x": 418.4154322743416,
+      "y": 305.239498257637,
+      "z": 0.07775217294692993,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 384,
+      "x": 322.121615588665,
+      "y": 321.8882456123829,
+      "z": -0.0012756948126479983,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 385,
+      "x": 336.0963234901428,
+      "y": 317.0595355331898,
+      "z": -0.008643432520329952,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 386,
+      "x": 349.97445291280746,
+      "y": 315.49457600712776,
+      "z": -0.007876639254391193,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 387,
+      "x": 363.92772299051285,
+      "y": 316.939738959074,
+      "z": -0.00013317971024662256,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 388,
+      "x": 372.66018694639206,
+      "y": 320.10956847667694,
+      "z": 0.01098120491951704,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 389,
+      "x": 438.40637308359146,
+      "y": 291.65399318933487,
+      "z": 0.2427510768175125,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 390,
+      "x": 369.7014579176903,
+      "y": 333.16257190704346,
+      "z": 0.01861949823796749,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 391,
+      "x": 313.0491780638695,
+      "y": 480.63715159893036,
+      "z": -0.04958896338939667,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 392,
+      "x": 297.8880892395973,
+      "y": 442.75023579597473,
+      "z": -0.09238290786743164,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 393,
+      "x": 281.48951518535614,
+      "y": 476.05329233407974,
+      "z": -0.07792201638221741,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 394,
+      "x": 374.5567692518234,
+      "y": 577.0520154833794,
+      "z": 0.10955162346363068,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 395,
+      "x": 354.1276987195015,
+      "y": 597.7421048283577,
+      "z": 0.08028223365545273,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 396,
+      "x": 301.887279689312,
+      "y": 632.4305781126022,
+      "z": 0.01831917278468609,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 397,
+      "x": 411.25860196352005,
+      "y": 541.7563034892082,
+      "z": 0.251934677362442,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 398,
+      "x": 311.5409204363823,
+      "y": 328.36134508252144,
+      "z": 0.006589001510292292,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 399,
+      "x": 281.0951272845268,
+      "y": 371.8821977376938,
+      "z": -0.09072699397802353,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 400,
+      "x": 329.5971363186836,
+      "y": 633.181164264679,
+      "z": 0.08355114609003067,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 401,
+      "x": 435.7324608564377,
+      "y": 452.049613237381,
+      "z": 0.21912935376167297,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 402,
+      "x": 291.7031688094139,
+      "y": 519.4232586622238,
+      "z": -0.03269486501812935,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 403,
+      "x": 294.6065245270729,
+      "y": 525.1841833591461,
+      "z": -0.036044396460056305,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 404,
+      "x": 296.76558870077133,
+      "y": 532.6389021277428,
+      "z": -0.04093616455793381,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 405,
+      "x": 298.41531121730804,
+      "y": 542.2221500873566,
+      "z": -0.035926345735788345,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 406,
+      "x": 307.50794917345047,
+      "y": 566.0926929116249,
+      "z": -0.010288679972290993,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 407,
+      "x": 315.2569645643234,
+      "y": 518.637824177742,
+      "z": -0.010827225632965565,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 408,
+      "x": 318.37052232027054,
+      "y": 517.1482969522476,
+      "z": -0.011336610652506351,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 409,
+      "x": 321.140456199646,
+      "y": 515.4659307003021,
+      "z": -0.011837443336844444,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 410,
+      "x": 341.66567212343216,
+      "y": 504.4188355207443,
+      "z": -0.006973319686949253,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 411,
+      "x": 401.2485303282738,
+      "y": 456.35603284835815,
+      "z": 0.05202725529670715,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 412,
+      "x": 280.4527968764305,
+      "y": 353.1676003932953,
+      "z": -0.06316422671079636,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 413,
+      "x": 292.2545199394226,
+      "y": 319.77312129735947,
+      "z": -0.011670091189444065,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 414,
+      "x": 303.6093896627426,
+      "y": 321.9056480526924,
+      "z": 0.00013177093933336437,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 415,
+      "x": 311.9909291267395,
+      "y": 520.0159844756126,
+      "z": -0.006431356072425842,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 416,
+      "x": 404.56740242242813,
+      "y": 499.7047947049141,
+      "z": 0.10802307724952698,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 417,
+      "x": 275.3597205877304,
+      "y": 319.6555190384388,
+      "z": -0.05338771268725395,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 418,
+      "x": 317.1996088027954,
+      "y": 581.8794220089912,
+      "z": 0.009953219443559647,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 419,
+      "x": 268.83559995889664,
+      "y": 363.16079422831535,
+      "z": -0.11403142660856247,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 420,
+      "x": 294.0827672481537,
+      "y": 400.4335407614708,
+      "z": -0.08743999153375626,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 421,
+      "x": 291.2406933903694,
+      "y": 593.9721409678459,
+      "z": -0.004620359279215336,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 422,
+      "x": 353.64987963438034,
+      "y": 545.0078875422478,
+      "z": 0.03602762892842293,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 423,
+      "x": 329.8569887280464,
+      "y": 447.17349725961685,
+      "z": -0.022965041920542717,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 424,
+      "x": 337.34670853614807,
+      "y": 565.6007752418518,
+      "z": 0.024366941303014755,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 425,
+      "x": 365.71977657079697,
+      "y": 442.82923114299774,
+      "z": -0.010402570478618145,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 426,
+      "x": 344.85127705335617,
+      "y": 465.2593038082123,
+      "z": -0.016028016805648804,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 427,
+      "x": 380.33434009552,
+      "y": 471.65753585100174,
+      "z": 0.019161028787493706,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 428,
+      "x": 297.9349864125252,
+      "y": 614.6172142624855,
+      "z": -0.0005158674903213978,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 429,
+      "x": 305.16002798080444,
+      "y": 409.9169365167618,
+      "z": -0.06301788985729218,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 430,
+      "x": 368.4801825284958,
+      "y": 557.4384006857872,
+      "z": 0.06927323341369629,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 431,
+      "x": 347.8832906484604,
+      "y": 579.7080493569374,
+      "z": 0.05225951597094536,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 432,
+      "x": 365.5341058373451,
+      "y": 521.3862800002098,
+      "z": 0.03573198243975639,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 433,
+      "x": 419.08476877212524,
+      "y": 476.38387352228165,
+      "z": 0.13278265297412872,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 434,
+      "x": 385.72207045555115,
+      "y": 521.83092212677,
+      "z": 0.06834355741739273,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 435,
+      "x": 427.62450885772705,
+      "y": 489.3912091255188,
+      "z": 0.21044518053531647,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 436,
+      "x": 358.2819653749466,
+      "y": 488.79044473171234,
+      "z": 0.0018355816137045622,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 437,
+      "x": 292.2815569639206,
+      "y": 383.38705748319626,
+      "z": -0.06646612286567688,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 438,
+      "x": 294.149988591671,
+      "y": 437.35591381788254,
+      "z": -0.13289688527584076,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 439,
+      "x": 305.501950442791,
+      "y": 441.16646164655685,
+      "z": -0.09653159976005554,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 440,
+      "x": 286.09725522994995,
+      "y": 426.13622814416885,
+      "z": -0.15746746957302094,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 441,
+      "x": 304.710297703743,
+      "y": 303.5538079440594,
+      "z": -0.024227868765592575,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 442,
+      "x": 331.5699729323387,
+      "y": 290.87611931562424,
+      "z": -0.0328185074031353,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 443,
+      "x": 356.0463684797287,
+      "y": 287.2447666525841,
+      "z": -0.03182164952158928,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 444,
+      "x": 376.41001188755035,
+      "y": 289.8963684439659,
+      "z": -0.018848683685064316,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 445,
+      "x": 390.6513469219208,
+      "y": 297.7153000831604,
+      "z": 0.0020080197136849165,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 446,
+      "x": 398.6913660764694,
+      "y": 329.5294594466686,
+      "z": 0.056241996586322784,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 447,
+      "x": 442.5966478586197,
+      "y": 373.28290951251984,
+      "z": 0.2065688967704773,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 448,
+      "x": 386.59768027067184,
+      "y": 355.1336199045181,
+      "z": 0.03366587311029434,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 449,
+      "x": 369.7721748948097,
+      "y": 360.58664524555206,
+      "z": 0.014809144660830498,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 450,
+      "x": 348.33493888378143,
+      "y": 360.9366493821144,
+      "z": 0.002342333784326911,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 451,
+      "x": 327.98481398820877,
+      "y": 357.407191157341,
+      "z": -0.0020796970929950476,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 452,
+      "x": 311.782985329628,
+      "y": 352.4611829817295,
+      "z": -0.003967126365751028,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 453,
+      "x": 300.1483721137047,
+      "y": 347.24520885944366,
+      "z": -0.005821607541292906,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 454,
+      "x": 443.83762872219086,
+      "y": 373.863338470459,
+      "z": 0.3308367431163788,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 455,
+      "x": 305.58160758018494,
+      "y": 445.83822387456894,
+      "z": -0.07966163754463196,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 456,
+      "x": 281.49619710445404,
+      "y": 389.1578022837639,
+      "z": -0.11439117789268494,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 457,
+      "x": 281.8365109562874,
+      "y": 439.54801297187805,
+      "z": -0.15770722925662994,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 458,
+      "x": 273.3771085739136,
+      "y": 448.7388043999672,
+      "z": -0.142933189868927,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 459,
+      "x": 282.0163659453392,
+      "y": 442.3157613873482,
+      "z": -0.14140751957893372,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 460,
+      "x": 301.0634547472,
+      "y": 451.2813856601715,
+      "z": -0.0673351064324379,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 461,
+      "x": 270.04576975107193,
+      "y": 450.77213072776794,
+      "z": -0.15143312513828278,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 462,
+      "x": 268.6571679711342,
+      "y": 454.45553863048553,
+      "z": -0.11181198060512543,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 463,
+      "x": 300.5644762516022,
+      "y": 333.62522479891777,
+      "z": 0.008062265813350677,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 464,
+      "x": 290.67511224746704,
+      "y": 337.90846288204193,
+      "z": -0.010858681984245777,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 465,
+      "x": 284.24209463596344,
+      "y": 341.13475799560547,
+      "z": -0.03359544649720192,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 466,
+      "x": 377.73853826522827,
+      "y": 322.79925575852394,
+      "z": 0.02235335484147072,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 467,
+      "x": 389.07809525728226,
+      "y": 313.20381957292557,
+      "z": 0.022996829822659492,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 468,
+      "x": 164.09181600809097,
+      "y": 332.4741000831127,
+      "z": 0.020542223006486893,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 469,
+      "x": 179.23567414283752,
+      "y": 331.5467086136341,
+      "z": 0.020542223006486893,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 470,
+      "x": 163.13817313313484,
+      "y": 318.72028452157974,
+      "z": 0.020542223006486893,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 471,
+      "x": 148.67491176724434,
+      "y": 333.40785723924637,
+      "z": 0.020542223006486893,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 472,
+      "x": 164.86643913388252,
+      "y": 346.30645474791527,
+      "z": 0.020542223006486893,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 473,
+      "x": 349.9419404268265,
+      "y": 323.25854113698006,
+      "z": 0.009108345955610275,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 474,
+      "x": 365.49484956264496,
+      "y": 322.7876324057579,
+      "z": 0.009108345955610275,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 475,
+      "x": 349.1401720046997,
+      "y": 309.16851738095284,
+      "z": 0.009108345955610275,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 476,
+      "x": 334.4959419965744,
+      "y": 323.77022936940193,
+      "z": 0.009108345955610275,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "idx": 477,
+      "x": 350.719177544117,
+      "y": 337.5014934539795,
+      "z": 0.009108345955610275,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    }
+  ],
+  "selected": [
+    {
+      "name": "glabela",
+      "indices": [
+        9
+      ],
+      "x": 250.46748384833336,
+      "y": 273.2916160225868,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "nasio",
+      "indices": [
+        168
+      ],
+      "x": 252.1398506462574,
+      "y": 318.02577289938927,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "exocantio_direito",
+      "indices": [
+        33
+      ],
+      "x": 131.09199848771095,
+      "y": 336.59335112571716,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "endocantio_direito",
+      "indices": [
+        133
+      ],
+      "x": 203.59241384267807,
+      "y": 338.2083671092987,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "endocantio_esquerdo",
+      "indices": [
+        362
+      ],
+      "x": 306.6637381911278,
+      "y": 332.7816735506058,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "exocantio_esquerdo",
+      "indices": [
+        263
+      ],
+      "x": 381.6927804350853,
+      "y": 325.30275213718414,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "centro_olho_direito",
+      "indices": [
+        33,
+        133,
+        159,
+        145
+      ],
+      "x": 164.72461849451065,
+      "y": 336.1220078766346,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "centro_olho_esquerdo",
+      "indices": [
+        263,
+        362,
+        386,
+        374
+      ],
+      "x": 346.3264034986496,
+      "y": 327.58477476239204,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "alare_direito",
+      "indices": [
+        64
+      ],
+      "x": 202.05906808376312,
+      "y": 446.97605234384537,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "alare_esquerdo",
+      "indices": [
+        294
+      ],
+      "x": 312.07736098766327,
+      "y": 442.5902028679848,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "pronasale",
+      "indices": [
+        1
+      ],
+      "x": 255.60940620303154,
+      "y": 444.42725747823715,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "subnasale",
+      "indices": [
+        2
+      ],
+      "x": 256.68507143855095,
+      "y": 460.85846346616745,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "labiale_superius",
+      "indices": [
+        0
+      ],
+      "x": 262.01861947774887,
+      "y": 502.0382425189018,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "labiale_inferius",
+      "indices": [
+        17
+      ],
+      "x": 262.16231167316437,
+      "y": 550.5827082395554,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "zigio_direito",
+      "indices": [
+        234
+      ],
+      "x": 74.1177104562521,
+      "y": 389.14207273721695,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "zigio_esquerdo",
+      "indices": [
+        454
+      ],
+      "x": 443.83762872219086,
+      "y": 373.863338470459,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "gonio_direito",
+      "indices": [
+        172
+      ],
+      "x": 120.46674174070358,
+      "y": 553.3294259905815,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "gonio_esquerdo",
+      "indices": [
+        397
+      ],
+      "x": 411.25860196352005,
+      "y": 541.7563034892082,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    },
+    {
+      "name": "mento",
+      "indices": [
+        152
+      ],
+      "x": 266.81899058818817,
+      "y": 649.7397708892822,
+      "detectado": true,
+      "visibilidade": "NAO_AVALIADO"
+    }
+  ],
+  "contours": [
+    {
+      "name": "oval",
+      "edges": [
+        [
+          10,
+          338
+        ],
+        [
+          21,
+          54
+        ],
+        [
+          54,
+          103
+        ],
+        [
+          58,
+          132
+        ],
+        [
+          67,
+          109
+        ],
+        [
+          93,
+          234
+        ],
+        [
+          103,
+          67
+        ],
+        [
+          109,
+          10
+        ],
+        [
+          127,
+          162
+        ],
+        [
+          132,
+          93
+        ],
+        [
+          136,
+          172
+        ],
+        [
+          148,
+          176
+        ],
+        [
+          149,
+          150
+        ],
+        [
+          150,
+          136
+        ],
+        [
+          152,
+          148
+        ],
+        [
+          162,
+          21
+        ],
+        [
+          172,
+          58
+        ],
+        [
+          176,
+          149
+        ],
+        [
+          234,
+          127
+        ],
+        [
+          251,
+          389
+        ],
+        [
+          284,
+          251
+        ],
+        [
+          288,
+          397
+        ],
+        [
+          297,
+          332
+        ],
+        [
+          323,
+          361
+        ],
+        [
+          332,
+          284
+        ],
+        [
+          338,
+          297
+        ],
+        [
+          356,
+          454
+        ],
+        [
+          361,
+          288
+        ],
+        [
+          365,
+          379
+        ],
+        [
+          377,
+          152
+        ],
+        [
+          378,
+          400
+        ],
+        [
+          379,
+          378
+        ],
+        [
+          389,
+          356
+        ],
+        [
+          397,
+          365
+        ],
+        [
+          400,
+          377
+        ],
+        [
+          454,
+          323
+        ]
+      ],
+      "estimado": true
+    },
+    {
+      "name": "olho_direito",
+      "edges": [
+        [
+          7,
+          163
+        ],
+        [
+          33,
+          7
+        ],
+        [
+          33,
+          246
+        ],
+        [
+          144,
+          145
+        ],
+        [
+          145,
+          153
+        ],
+        [
+          153,
+          154
+        ],
+        [
+          154,
+          155
+        ],
+        [
+          155,
+          133
+        ],
+        [
+          157,
+          173
+        ],
+        [
+          158,
+          157
+        ],
+        [
+          159,
+          158
+        ],
+        [
+          160,
+          159
+        ],
+        [
+          161,
+          160
+        ],
+        [
+          163,
+          144
+        ],
+        [
+          173,
+          133
+        ],
+        [
+          246,
+          161
+        ]
+      ],
+      "estimado": true
+    },
+    {
+      "name": "olho_esquerdo",
+      "edges": [
+        [
+          249,
+          390
+        ],
+        [
+          263,
+          249
+        ],
+        [
+          263,
+          466
+        ],
+        [
+          373,
+          374
+        ],
+        [
+          374,
+          380
+        ],
+        [
+          380,
+          381
+        ],
+        [
+          381,
+          382
+        ],
+        [
+          382,
+          362
+        ],
+        [
+          384,
+          398
+        ],
+        [
+          385,
+          384
+        ],
+        [
+          386,
+          385
+        ],
+        [
+          387,
+          386
+        ],
+        [
+          388,
+          387
+        ],
+        [
+          390,
+          373
+        ],
+        [
+          398,
+          362
+        ],
+        [
+          466,
+          388
+        ]
+      ],
+      "estimado": true
+    },
+    {
+      "name": "labios",
+      "edges": [
+        [
+          0,
+          267
+        ],
+        [
+          13,
+          312
+        ],
+        [
+          14,
+          317
+        ],
+        [
+          17,
+          314
+        ],
+        [
+          37,
+          0
+        ],
+        [
+          39,
+          37
+        ],
+        [
+          40,
+          39
+        ],
+        [
+          61,
+          146
+        ],
+        [
+          61,
+          185
+        ],
+        [
+          78,
+          95
+        ],
+        [
+          78,
+          191
+        ],
+        [
+          80,
+          81
+        ],
+        [
+          81,
+          82
+        ],
+        [
+          82,
+          13
+        ],
+        [
+          84,
+          17
+        ],
+        [
+          87,
+          14
+        ],
+        [
+          88,
+          178
+        ],
+        [
+          91,
+          181
+        ],
+        [
+          95,
+          88
+        ],
+        [
+          146,
+          91
+        ],
+        [
+          178,
+          87
+        ],
+        [
+          181,
+          84
+        ],
+        [
+          185,
+          40
+        ],
+        [
+          191,
+          80
+        ],
+        [
+          267,
+          269
+        ],
+        [
+          269,
+          270
+        ],
+        [
+          270,
+          409
+        ],
+        [
+          310,
+          415
+        ],
+        [
+          311,
+          310
+        ],
+        [
+          312,
+          311
+        ],
+        [
+          314,
+          405
+        ],
+        [
+          317,
+          402
+        ],
+        [
+          318,
+          324
+        ],
+        [
+          321,
+          375
+        ],
+        [
+          324,
+          308
+        ],
+        [
+          375,
+          291
+        ],
+        [
+          402,
+          318
+        ],
+        [
+          405,
+          321
+        ],
+        [
+          409,
+          291
+        ],
+        [
+          415,
+          308
+        ]
+      ],
+      "estimado": true
+    }
+  ],
+  "proposals": [
+    {
+      "numero": 1,
+      "x": 254.0,
+      "y": 300.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Relevo anterior nao confirmavel pela frontal."
+    },
+    {
+      "numero": 2,
+      "x": 258.0,
+      "y": 461.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Relacao de nivel/posicao; nao sao pontos identicos."
+    },
+    {
+      "numero": 3,
+      "x": 205.0,
+      "y": 441.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Abertura ossea deve ser interpretada dentro do nariz, nao sobreposta as asas."
+    },
+    {
+      "numero": 4,
+      "x": 309.0,
+      "y": 440.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Largura ossea e externa diferentes; tecido mole."
+    },
+    {
+      "numero": 5,
+      "x": 119.0,
+      "y": 339.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Borda orbital versus comissura palpebral; sem coincidencia obrigatoria."
+    },
+    {
+      "numero": 6,
+      "x": 386.0,
+      "y": 324.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Borda orbital versus comissura palpebral; plano precisa de revisao."
+    },
+    {
+      "numero": 7,
+      "x": null,
+      "y": null,
+      "estado": "DUVIDA",
+      "observacao": "Limite cutaneo inferior do queixo oculto/ambiguo pela barba."
+    },
+    {
+      "numero": 8,
+      "x": 74.0,
+      "y": 392.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Extremo lateral aparente do arco; na face a projecao exata do arco nao e visivel."
+    },
+    {
+      "numero": 9,
+      "x": 442.0,
+      "y": 380.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Extremo lateral aparente do arco; nao confundir com maior largura arbitraria da face."
+    },
+    {
+      "numero": 10,
+      "x": 197.0,
+      "y": 341.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Crista lacrimal nao confirmada: nao rotular como mo anatomico validado."
+    },
+    {
+      "numero": 11,
+      "x": 315.0,
+      "y": 331.0,
+      "estado": "PROPOSTA_IA",
+      "observacao": "Margem ossea versus comissura palpebral; apenas relacao regional."
+    }
+  ],
+  "width": 519,
+  "height": 729,
+  "medidas_globais_liberadas": false,
+  "quantidade_pontos": 478,
+  "discordancia": [
+    {
+      "numero": 1,
+      "indice": 9,
+      "deslocamento_px": 26.940980773660165,
+      "deslocamento_diagonal": 0.030105845420368316,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 2,
+      "indice": 2,
+      "deslocamento_px": 1.3225239930238706,
+      "deslocamento_diagonal": 0.0014778861702626725,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 3,
+      "indice": 64,
+      "deslocamento_px": 6.660501644194709,
+      "deslocamento_diagonal": 0.007442937382527687,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 4,
+      "indice": 294,
+      "deslocamento_px": 4.022350251495808,
+      "deslocamento_diagonal": 0.004494871805725298,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 5,
+      "indice": 33,
+      "deslocamento_px": 12.329168107820204,
+      "deslocamento_diagonal": 0.013777524743221959,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 6,
+      "indice": 263,
+      "deslocamento_px": 4.499922611703656,
+      "deslocamento_diagonal": 0.005028546499094845,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 8,
+      "indice": 234,
+      "deslocamento_px": 2.860350326598072,
+      "deslocamento_diagonal": 0.0031963671072009884,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 9,
+      "indice": 454,
+      "deslocamento_px": 6.405895257399194,
+      "deslocamento_diagonal": 0.007158421366266007,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 10,
+      "indice": 133,
+      "deslocamento_px": 7.159129449142451,
+      "deslocamento_diagonal": 0.00800014098785192,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    },
+    {
+      "numero": 11,
+      "indice": 362,
+      "deslocamento_px": 8.524530578688175,
+      "deslocamento_diagonal": 0.00952594124316739,
+      "tipo": "DISCORDANCIA_ENTRE_METODOS"
+    }
+  ],
+  "fingerprint": "c1ffc37f01d59165a4fe56b0639b1786d7ecbde70f74e82ea14d959de59b7cde",
+  "assets": {},
+  "payload_hash": "7323af7d7fc5f12522891b23ccd7c0f25703bf883dfd53e3c2776047d9541ffa"
+}

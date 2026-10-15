@@ -1,0 +1,21 @@
+{
+  "signature": "1f99a043b98a1a0e0643e4913e0c07a6fa0bd2641a5b536f2fa85ff3be3f4b4d",
+  "metadata": {
+    "id": "2021_34_EVBM",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_34_EVBM_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_34_EVBM_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 738,
+    "altura": 872,
+    "contraste": 84.71352146633632,
+    "nitidez_512": 708.9319986107643,
+    "sha256": "1f99a043b98a1a0e0643e4913e0c07a6fa0bd2641a5b536f2fa85ff3be3f4b4d",
+    "bytes": 196543
+  }
+}

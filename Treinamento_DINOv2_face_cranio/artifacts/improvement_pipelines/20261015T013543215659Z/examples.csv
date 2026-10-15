@@ -1,0 +1,9 @@
+﻿loss,condition,kind,seed,output,person,year,rank,gallery_rank,top_candidate,correct_score
+infonce,historical,individual,42,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z,2017_15_CBL,2017,1,1,2017_15_CBL,1.6853709518909454
+infonce,historical,individual,42,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z,2017_17_CG,2017,17,2,2017_75_MTGP,0.9287247136235237
+infonce,historical,ensemble,-1,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546084318Z,2017_15_CBL,2017,1,1,2017_15_CBL,1.7391948699951172
+infonce,historical,ensemble,-1,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546084318Z,2017_17_CG,2017,12,2,2017_75_MTGP,0.9333909749984741
+triplet,historical,individual,42,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z,2017_15_CBL,2017,1,1,2017_15_CBL,1.7036880552768707
+triplet,historical,individual,42,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z,2017_17_CG,2017,18,2,2017_75_MTGP,0.8895242875441909
+triplet,historical,ensemble,-1,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547800489Z,2017_15_CBL,2017,1,1,2017_15_CBL,1.8000150620937347
+triplet,historical,ensemble,-1,/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547800489Z,2017_17_CG,2017,8,1,2017_75_MTGP,1.2122518941760063

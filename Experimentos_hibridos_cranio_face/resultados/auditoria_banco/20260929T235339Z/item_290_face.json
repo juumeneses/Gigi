@@ -1,0 +1,21 @@
+{
+  "signature": "f0f1a2cd96a42d0bf8d77c274f17d36ed1cfce0ced94ee25f735c5f91a9fab50",
+  "metadata": {
+    "id": "2019_274_VNS",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_274_VNS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_274_VNS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 729,
+    "contraste": 81.77966417319178,
+    "nitidez_512": 440.2594698191297,
+    "sha256": "f0f1a2cd96a42d0bf8d77c274f17d36ed1cfce0ced94ee25f735c5f91a9fab50",
+    "bytes": 42473
+  }
+}

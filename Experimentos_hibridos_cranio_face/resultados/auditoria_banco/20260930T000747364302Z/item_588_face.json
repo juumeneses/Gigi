@@ -1,0 +1,21 @@
+{
+  "signature": "fa989905a2a38bfa43b959fee19238fe8c002fad311a74be74e4c6095c93d2a4",
+  "metadata": {
+    "id": "2022_51_EMP",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_51_EMP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_51_EMP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 747,
+    "contraste": 73.19421129793915,
+    "nitidez_512": 1501.95177662411,
+    "sha256": "fa989905a2a38bfa43b959fee19238fe8c002fad311a74be74e4c6095c93d2a4",
+    "bytes": 50630
+  }
+}

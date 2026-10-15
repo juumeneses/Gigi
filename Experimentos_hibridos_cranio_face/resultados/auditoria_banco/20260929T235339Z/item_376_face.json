@@ -1,0 +1,21 @@
+{
+  "signature": "2d24dc5b2b96ec35e3c1a97ed5107b149e1efcbbef5500d20a52fd159644769d",
+  "metadata": {
+    "id": "2021_102_WAF",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_102_WAF_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_102_WAF_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 521,
+    "altura": 736,
+    "contraste": 75.541315097053,
+    "nitidez_512": 785.6548182093134,
+    "sha256": "2d24dc5b2b96ec35e3c1a97ed5107b149e1efcbbef5500d20a52fd159644769d",
+    "bytes": 37444
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "523423faf1fd58acfade7c6d564441c20a13b9cd3edd2a64d33d65f93f9e6918",
+  "metadata": {
+    "id": "2021_40_FSDL",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_40_FSDL_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_40_FSDL_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1113,
+    "altura": 955,
+    "contraste": 91.27710058505517,
+    "nitidez_512": 762.73178830719,
+    "sha256": "523423faf1fd58acfade7c6d564441c20a13b9cd3edd2a64d33d65f93f9e6918",
+    "bytes": 250673
+  }
+}

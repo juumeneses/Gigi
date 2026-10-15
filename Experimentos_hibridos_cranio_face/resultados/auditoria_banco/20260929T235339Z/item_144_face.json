@@ -1,0 +1,21 @@
+{
+  "signature": "36d23b39bedd5b791aeec49d6a1adb3fe7b5963531b2343487d787510085ebba",
+  "metadata": {
+    "id": "2019_142_MAGO",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_142_MAGO_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_142_MAGO_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 735,
+    "contraste": 51.72013099260368,
+    "nitidez_512": 259.84407377316586,
+    "sha256": "36d23b39bedd5b791aeec49d6a1adb3fe7b5963531b2343487d787510085ebba",
+    "bytes": 34228
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "3fca6c478a239b5186c67c8deb785cee95682a269ca88cf883598f362563c4b1",
+  "metadata": {
+    "id": "2021_96_TAMMA",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_96_TAMMA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_96_TAMMA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 739,
+    "contraste": 74.78647418475119,
+    "nitidez_512": 1271.1039271600746,
+    "sha256": "3fca6c478a239b5186c67c8deb785cee95682a269ca88cf883598f362563c4b1",
+    "bytes": 37348
+  }
+}

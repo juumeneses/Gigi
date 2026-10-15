@@ -1,0 +1,44 @@
+{
+  "version": "landmarks_lab_v1",
+  "architecture": "cnn_coordinates_11_v1",
+  "modality": "face",
+  "view": "FFN",
+  "lr": 0.001,
+  "batch_size": 8,
+  "size": 128,
+  "seed": 42,
+  "reference": "/Users/juliameneses/Documents/Gigi/Laboratorio_visual_face_cranio/artifacts/references/20261013T203431678431Z/references.json",
+  "reference_fingerprint": "5b3e90bfa8fe4f692aa9444e353b0d058844efd830d2c1a7ba72386659c270db",
+  "supported": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "train_ids": [
+    "2017_30_EC",
+    "2017_41_GP",
+    "2017_73_MMPCC",
+    "2017_92_SRAK",
+    "2017_99_VDSR",
+    "2019_115_KCCSF",
+    "2019_156_MFR",
+    "2019_233_SFG",
+    "2019_234_SFLL",
+    "2019_260_WRV"
+  ],
+  "validation_ids": [
+    "2017_76_MVXP"
+  ],
+  "torch_version": "2.12.1",
+  "selection": "menor perda na validacao; referencias IA",
+  "anatomical_validation": false,
+  "fingerprint": "b57f3969e738cb7465f41c4a6af428f852f69a4d6534d3a2ad5126f5c7e0a8a4"
+}

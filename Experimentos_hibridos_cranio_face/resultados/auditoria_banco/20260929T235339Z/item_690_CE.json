@@ -1,0 +1,21 @@
+{
+  "signature": "6784bb9ee11509f49216e0264f7b12ed2c4c2d8bce3c864a3e1cafecc771b0d5",
+  "metadata": {
+    "id": "2023_143_TMMP",
+    "ano": "2023",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CE/2023_143_TMMP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CE/2023_143_TMMP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1127,
+    "altura": 956,
+    "contraste": 90.44085615319449,
+    "nitidez_512": 982.7814813553863,
+    "sha256": "6784bb9ee11509f49216e0264f7b12ed2c4c2d8bce3c864a3e1cafecc771b0d5",
+    "bytes": 266386
+  }
+}

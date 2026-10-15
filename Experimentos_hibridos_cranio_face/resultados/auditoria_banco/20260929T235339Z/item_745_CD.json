@@ -1,0 +1,21 @@
+{
+  "signature": "e2bce70ab5d93c960d808852329a8d7707db81b742a2e5eb701149bfa3de44a8",
+  "metadata": {
+    "id": "2023_55_EVDSL",
+    "ano": "2023",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2023/CD/2023_55_EVDSL_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2023/CD/2023_55_EVDSL_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 640,
+    "altura": 821,
+    "contraste": 82.0295770771787,
+    "nitidez_512": 820.7871817456783,
+    "sha256": "e2bce70ab5d93c960d808852329a8d7707db81b742a2e5eb701149bfa3de44a8",
+    "bytes": 174190
+  }
+}

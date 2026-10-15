@@ -1,0 +1,21 @@
+{
+  "signature": "f7c5f40ba9e8617c0831b8d79b4f789984c7ff763afd768056345e077df63e8b",
+  "metadata": {
+    "id": "2021_14_ARCDC",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_14_ARCDC_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_14_ARCDC_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 885,
+    "altura": 1012,
+    "contraste": 89.9805682075969,
+    "nitidez_512": 615.1418476785742,
+    "sha256": "f7c5f40ba9e8617c0831b8d79b4f789984c7ff763afd768056345e077df63e8b",
+    "bytes": 217322
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "0e8fdf2d3128999bc5821903d75fe0dccf132254326e0776cc4b9be59fe40ea8",
+  "metadata": {
+    "id": "2021_97_TLDAO",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_97_TLDAO_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_97_TLDAO_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 747,
+    "contraste": 88.93641347942658,
+    "nitidez_512": 963.6214312634694,
+    "sha256": "0e8fdf2d3128999bc5821903d75fe0dccf132254326e0776cc4b9be59fe40ea8",
+    "bytes": 41748
+  }
+}

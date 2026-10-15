@@ -1,0 +1,21 @@
+{
+  "signature": "07e1d9a895bb360b385e91f195768e38d8cb6615d8aa9e7e54d1a052c194cd69",
+  "metadata": {
+    "id": "2019_107_JIAL",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_107_JIAL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_107_JIAL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 745,
+    "contraste": 75.16769182346354,
+    "nitidez_512": 1189.2241231107516,
+    "sha256": "07e1d9a895bb360b385e91f195768e38d8cb6615d8aa9e7e54d1a052c194cd69",
+    "bytes": 33768
+  }
+}

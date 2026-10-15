@@ -1,0 +1,21 @@
+{
+  "signature": "5fe4b6980c1acdf7b1ecfbc9456e346f8b8732ae6cf2d7aabbe0a48a4b869076",
+  "metadata": {
+    "id": "2019_196_RAL",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_196_RAL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_196_RAL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 741,
+    "contraste": 89.87931366775283,
+    "nitidez_512": 785.6916683967063,
+    "sha256": "5fe4b6980c1acdf7b1ecfbc9456e346f8b8732ae6cf2d7aabbe0a48a4b869076",
+    "bytes": 36057
+  }
+}

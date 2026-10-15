@@ -1,0 +1,21 @@
+{
+  "signature": "3683c331070ebb731d1c18040125a8f480716b9d1d75a3d4b103c6974bca25db",
+  "metadata": {
+    "id": "2019_150_MCC",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_150_MCC_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_150_MCC_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1763,
+    "altura": 1151,
+    "contraste": 101.19289927876152,
+    "nitidez_512": 1269.9693464633233,
+    "sha256": "3683c331070ebb731d1c18040125a8f480716b9d1d75a3d4b103c6974bca25db",
+    "bytes": 243767
+  }
+}

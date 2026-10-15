@@ -1,0 +1,21 @@
+{
+  "signature": "1c0c4d6098ab7102d47c86fc8fcb7788aa3b486d97b3f3aa8f59e5d94048307b",
+  "metadata": {
+    "id": "2019_16_AOF",
+    "ano": "2019",
+    "vista": "CF",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CF/2019_16_AOF_CF.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CF/2019_16_AOF_CF.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1498,
+    "altura": 977,
+    "contraste": 101.79285328918519,
+    "nitidez_512": 887.2569236526946,
+    "sha256": "1c0c4d6098ab7102d47c86fc8fcb7788aa3b486d97b3f3aa8f59e5d94048307b",
+    "bytes": 189798
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "e8b238932cca651cd6332482a1af6fd8f7e239e829087e66fa591c2b14ce995e",
+  "metadata": {
+    "id": "2021_83_PAAC",
+    "ano": "2021",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2021/images/2021_83_PAAC_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2021/images/2021_83_PAAC_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 733,
+    "contraste": 84.92727749486905,
+    "nitidez_512": 375.274451534807,
+    "sha256": "e8b238932cca651cd6332482a1af6fd8f7e239e829087e66fa591c2b14ce995e",
+    "bytes": 36805
+  }
+}

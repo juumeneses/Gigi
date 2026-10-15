@@ -1,0 +1,21 @@
+{
+  "signature": "e348091e277c018c01021eb2e6eea70615dc681672b88d42962dd9f4c2a1f85e",
+  "metadata": {
+    "id": "2022_130_PIDS",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_130_PIDS_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_130_PIDS_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 523,
+    "altura": 743,
+    "contraste": 76.22924302347907,
+    "nitidez_512": 603.00316167749,
+    "sha256": "e348091e277c018c01021eb2e6eea70615dc681672b88d42962dd9f4c2a1f85e",
+    "bytes": 50296
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "status": "ATENCAO",
+  "regions": {
+    "olho_direito": {
+      "status": "OK_TECNICO",
+      "raw": [
+        678.2,
+        590.0,
+        1005.8,
+        598.0
+      ],
+      "box": [
+        678.2,
+        590.0,
+        1005.8,
+        598.0
+      ],
+      "margin": [
+        46.800000000000004,
+        4.0
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "PROPOSTAS_IA_ANTERIORES",
+      "required": [
+        5,
+        10
+      ],
+      "crop_bounds": [
+        678,
+        590,
+        1006,
+        598
+      ],
+      "transform": {
+        "scale": 0.7804878048780488,
+        "offset": [
+          0,
+          125
+        ],
+        "size": [
+          256,
+          6
+        ],
+        "input_size": [
+          328,
+          8
+        ]
+      },
+      "arquivo": "olho_direito.jpg"
+    },
+    "olho_esquerdo": {
+      "status": "OK_TECNICO",
+      "raw": [
+        994.0,
+        582.0,
+        1337.0,
+        590.0
+      ],
+      "box": [
+        994.0,
+        582.0,
+        1337.0,
+        590.0
+      ],
+      "margin": [
+        49.0,
+        4.0
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "PROPOSTAS_IA_ANTERIORES",
+      "required": [
+        6,
+        11
+      ],
+      "crop_bounds": [
+        994,
+        582,
+        1337,
+        590
+      ],
+      "transform": {
+        "scale": 0.7463556851311953,
+        "offset": [
+          0,
+          125
+        ],
+        "size": [
+          256,
+          6
+        ],
+        "input_size": [
+          343,
+          8
+        ]
+      },
+      "arquivo": "olho_esquerdo.jpg"
+    },
+    "nariz": {
+      "status": "REGIAO_INDISPONIVEL",
+      "reason": "PONTOS_NECESSARIOS_AUSENTES",
+      "origem": "PROPOSTAS_IA_ANTERIORES",
+      "required": [
+        2,
+        3,
+        4
+      ]
+    },
+    "central": {
+      "status": "REGIAO_INDISPONIVEL",
+      "reason": "PONTOS_NECESSARIOS_AUSENTES",
+      "origem": "PROPOSTAS_IA_ANTERIORES",
+      "required": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "mandibula_queixo": {
+      "status": "OK_TECNICO",
+      "raw": [
+        514.0,
+        624.0,
+        1508.0,
+        1324.0
+      ],
+      "box": [
+        514.0,
+        624.0,
+        1508.0,
+        1324.0
+      ],
+      "margin": [
+        142.0,
+        100.0
+      ],
+      "outside_fraction": 0.0,
+      "visibilidade": "NAO_AVALIADO",
+      "reason": "",
+      "origem": "PROPOSTAS_IA_ANTERIORES",
+      "required": [
+        7,
+        8,
+        9
+      ],
+      "crop_bounds": [
+        514,
+        624,
+        1508,
+        1324
+      ],
+      "transform": {
+        "scale": 0.2575452716297787,
+        "offset": [
+          0,
+          38
+        ],
+        "size": [
+          256,
+          180
+        ],
+        "input_size": [
+          994,
+          700
+        ]
+      },
+      "arquivo": "mandibula_queixo.jpg"
+    }
+  },
+  "fingerprint": "bd638d0badce4d045a759957ad105afc34f687b2f7c205865ec54e0716beb468",
+  "assets": {
+    "olho_direito.jpg": "b2a54c27e37451d793e134b1964b97ddf8d752e8b7e74f1c4e9eedf4cb87b4e0",
+    "olho_esquerdo.jpg": "e7a9a1b474f217c5837643d688cb7d514b8a8d09ff3bee2c0ad5bcea13649060",
+    "mandibula_queixo.jpg": "3951dd7b420d38227e06f0fdc2c6a96e8e26413ece76b5d4dc6cc1ffbbc80090"
+  },
+  "payload_hash": "5ae4d81d8b20a3d0ede4123972e2d873cc91ce018a51783daf3df5bd119336d1"
+}

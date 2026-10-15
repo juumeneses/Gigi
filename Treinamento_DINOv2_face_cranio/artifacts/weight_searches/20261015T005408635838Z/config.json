@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T002026528833Z",
+    "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T002205365442Z",
+    "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T002355056126Z"
+  ],
+  "step": 0.05,
+  "objective": "mean_full_validation_recall_1",
+  "split": "validacao",
+  "source_hash": "38291d2ca496bb8b63684c3df6df2362ada0f183dccf4a02db7a7a8cc10fe630",
+  "input_hashes": [
+    {
+      "scores": "86be301ee08846a2c440c84aa847aa34ef985e692c41179decc3aaa025bca7bd",
+      "config": "67d17f301126427cc0b51663cac7c6f21de5eabb138dc75773e3879ec9a472d5"
+    },
+    {
+      "scores": "c3bcc399b538e1dc7581dbf70d92f7e599b803887f059b05ef1d25d6b2108ad2",
+      "config": "81125b39b0a4d9dc969128d35bac8127f91cd48b10072979c11659704048d5ff"
+    },
+    {
+      "scores": "9fed7e47d8dbc4b278695ed0d901b6c79ef934490b36742b49048a29121d0b6b",
+      "config": "7daf113f70e1d21a97f45ee9c7bc18a17e25e21c17ae8c4c5527cff35ba92b5b"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "02f9e69198b878a33d576b5766479bae2f1d07e569027671a5624920df7e7c8d",
+  "metadata": {
+    "id": "2017_15_CBL",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_15_CBL_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_15_CBL_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 518,
+    "altura": 729,
+    "contraste": 69.82527561384978,
+    "nitidez_512": 289.28930326605627,
+    "sha256": "02f9e69198b878a33d576b5766479bae2f1d07e569027671a5624920df7e7c8d",
+    "bytes": 30956
+  }
+}

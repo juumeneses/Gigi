@@ -1,0 +1,21 @@
+{
+  "signature": "3c4673a0cffe704769bd5e277f314d178ee1e49fd0cec0b1988ac42ed792eba9",
+  "metadata": {
+    "id": "2019_118_KSR",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_118_KSR_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_118_KSR_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 517,
+    "altura": 741,
+    "contraste": 68.12650485952865,
+    "nitidez_512": 532.3410618835643,
+    "sha256": "3c4673a0cffe704769bd5e277f314d178ee1e49fd0cec0b1988ac42ed792eba9",
+    "bytes": 36123
+  }
+}

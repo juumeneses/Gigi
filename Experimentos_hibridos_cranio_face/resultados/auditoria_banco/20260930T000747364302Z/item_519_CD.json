@@ -1,0 +1,21 @@
+{
+  "signature": "9c36c78c2c41d4feaf1caefc6268a54a78ef6a8efdfd9894f21630df70ec1e1e",
+  "metadata": {
+    "id": "2022_13_ARDS",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_13_ARDS_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_13_ARDS_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1100,
+    "altura": 976,
+    "contraste": 90.80174722228591,
+    "nitidez_512": 845.9764201328351,
+    "sha256": "9c36c78c2c41d4feaf1caefc6268a54a78ef6a8efdfd9894f21630df70ec1e1e",
+    "bytes": 265546
+  }
+}

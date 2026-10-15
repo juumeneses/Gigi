@@ -1,0 +1,21 @@
+{
+  "signature": "bef93576cd4afbdc914f164b82e86abbafff6c7ca8b916a0d61bf01f2d6785df",
+  "metadata": {
+    "id": "2019_95_JAMA",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_95_JAMA_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_95_JAMA_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 526,
+    "altura": 757,
+    "contraste": 76.22045970349944,
+    "nitidez_512": 738.2125400056321,
+    "sha256": "bef93576cd4afbdc914f164b82e86abbafff6c7ca8b916a0d61bf01f2d6785df",
+    "bytes": 40171
+  }
+}

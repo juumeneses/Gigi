@@ -1,0 +1,21 @@
+{
+  "signature": "abf1668edc1c83ab9d6383c82c27f07505ac9ef54a4c18aaa6cc11dd20b90e70",
+  "metadata": {
+    "id": "2022_7_AMAT",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_7_AMAT_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_7_AMAT_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1075,
+    "altura": 1038,
+    "contraste": 91.37962898259467,
+    "nitidez_512": 745.9135555416834,
+    "sha256": "abf1668edc1c83ab9d6383c82c27f07505ac9ef54a4c18aaa6cc11dd20b90e70",
+    "bytes": 263317
+  }
+}

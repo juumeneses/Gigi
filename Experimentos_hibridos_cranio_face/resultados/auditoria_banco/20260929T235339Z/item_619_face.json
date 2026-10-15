@@ -1,0 +1,21 @@
+{
+  "signature": "0c0dad05f98ed2bccfc142eceb692ab865070adccf11920bfb7352d3b9af0e12",
+  "metadata": {
+    "id": "2022_7_AMAT",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_7_AMAT_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_7_AMAT_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 737,
+    "contraste": 79.56065510686255,
+    "nitidez_512": 608.2571826100019,
+    "sha256": "0c0dad05f98ed2bccfc142eceb692ab865070adccf11920bfb7352d3b9af0e12",
+    "bytes": 41014
+  }
+}

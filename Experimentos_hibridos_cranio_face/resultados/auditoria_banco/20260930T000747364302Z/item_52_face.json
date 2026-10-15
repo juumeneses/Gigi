@@ -1,0 +1,21 @@
+{
+  "signature": "09aead41fad9e1643913d662519a4cd2d5972adff6df7231a44d3cc96ce32340",
+  "metadata": {
+    "id": "2017_59_LDMR",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_59_LDMR_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_59_LDMR_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 723,
+    "contraste": 70.3786288875399,
+    "nitidez_512": 338.3143947007018,
+    "sha256": "09aead41fad9e1643913d662519a4cd2d5972adff6df7231a44d3cc96ce32340",
+    "bytes": 36070
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "signature": "d5697e7679d999bfee9a167c8f781e574e16175f8e880eae9cc817262d2f2be5",
+  "metadata": {
+    "id": "2017_65_MACV",
+    "ano": "2017",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2017/images/2017_65_MACV_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2017/images/2017_65_MACV_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 526,
+    "altura": 745,
+    "contraste": 76.93073789969814,
+    "nitidez_512": 999.4765524762222,
+    "sha256": "d5697e7679d999bfee9a167c8f781e574e16175f8e880eae9cc817262d2f2be5",
+    "bytes": 45874
+  }
+}

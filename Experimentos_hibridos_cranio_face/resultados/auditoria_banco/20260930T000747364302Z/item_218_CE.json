@@ -1,0 +1,21 @@
+{
+  "signature": "4ce1e3e9f8396a249f6c47def47a691db5235189e9823be6a7063f11b7d0c468",
+  "metadata": {
+    "id": "2019_209_REML",
+    "ano": "2019",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CE/2019_209_REML_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CE/2019_209_REML_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1965,
+    "altura": 1283,
+    "contraste": 98.61300055826075,
+    "nitidez_512": 1078.7775191769697,
+    "sha256": "4ce1e3e9f8396a249f6c47def47a691db5235189e9823be6a7063f11b7d0c468",
+    "bytes": 207960
+  }
+}

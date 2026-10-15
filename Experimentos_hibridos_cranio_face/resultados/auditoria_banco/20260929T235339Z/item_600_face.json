@@ -1,0 +1,21 @@
+{
+  "signature": "51b78a114c6375aedfc8f61d208fc695b546eaaebe9c26f55a0c967cb9c8dc17",
+  "metadata": {
+    "id": "2022_62_GADMB",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_62_GADMB_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_62_GADMB_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 520,
+    "altura": 735,
+    "contraste": 63.87401918343336,
+    "nitidez_512": 1062.9189911121264,
+    "sha256": "51b78a114c6375aedfc8f61d208fc695b546eaaebe9c26f55a0c967cb9c8dc17",
+    "bytes": 38731
+  }
+}

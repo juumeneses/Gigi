@@ -1,0 +1,170 @@
+{
+  "infonce/historical/42": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/config.json": "cec6298ff4c2edefbb2e14708f9b97ef6ce289ee1dc21b59b5be44c5194a76ad",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/results.json": "1af262ac15f74d99ba00a6552e802e08ed3d36490104a12a2f1f5880e38da850",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/scores.npz": "bf8b77fc98803a098b7ebbde9ab3b5cd1272e3036ae5fbc5c6a7fbea6bd884a6",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/frontal/best.pt": "3979739f7538d072c715bb95c09cecedac21d91d9c859ce5f494795471496a9a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/frontal/config.json": "32cf9f81247514fde5a41d968edff001f3c2dace16705c407c630c8d7e053e93",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/sorriso/best.pt": "eeda1ab9a2ac3a485adfb92094d2bd369687f8e3725179b7ee6f7df4b5e6010a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/sorriso/config.json": "eab8a2768346381be49a95429d5ba2b7dade11dd16b9c997596f5220b51eaa89",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/lateral/best.pt": "047328b70b1dbc6f3f5619ed3c531c6e39eecca50c10a58398659d92a309b3cf",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/lateral/config.json": "b6f73cc90391e1539f05e1f673a766753d3a9945efee85a6cde60d41852ab392"
+    }
+  },
+  "infonce/historical/43": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/config.json": "60706ae2a3456f1213bbf09272f75b5f573140d112fd42add8ab851c9df5b9fd",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/results.json": "0980e6722c025ed58049c591610994fb866b844fa99aead064c94aba0a85f9c8",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/scores.npz": "5f20f6a907aea34580587ad0d24e1a707390ddf8b1af66050df12cf4df78059a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/frontal/best.pt": "5a6f168019160def613ba96e62dc6b7a453c1a8a620f99d692af182221a576c9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/frontal/config.json": "63a3f77633e7e8db900a5b99d55ab1836cd4d7747f1f9c073e44ba3fd4102f25",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/sorriso/best.pt": "c283159f5e9ff208cbf03fa650a6634ad73f927d784bd7d3511308365794272b",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/sorriso/config.json": "978063274b26c7d959045548891f296fc103d43f201eceb08981c77ca36be98d",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/lateral/best.pt": "ea8a41cedf313a0724d31e9594f802f45741c30f0e6b3e8620d79ea8b5f6a476",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/lateral/config.json": "3fbef64f52d45844afd9836d62b8e603ad36c7aad85ee3e0800889084c091c83"
+    }
+  },
+  "infonce/historical/44": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/config.json": "82add3330f3a6ac7bd17ace918d58dc10472cfedd9d2469ceee1eb34b03782e9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/results.json": "32a7d415a3f6340690aeaf5e8a9550e636d96d22c932747060c27c5e8309c212",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/scores.npz": "7807b596748790e5e499804ab5ae24f4c27208e7121191565e6b3e566b151f52",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/frontal/best.pt": "cfda2daf6674969627ab39b6e4911628cd47c0475dec130308eaa16715b05da3",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/frontal/config.json": "766db7c208e9ffbca194b0ff315fd59c2a665272034f0ed8452a66edd2ad64de",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/sorriso/best.pt": "f08bd9ebbbbe7aa5750233edfc381e5cbfb013733f12e7ca128af893c47f08af",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/sorriso/config.json": "afedac56094f222667d6a2c060931588a09f64f660cccc3db99ce0eeabfbd800",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/lateral/best.pt": "0754ef53dc306556539c864c6257df8ad565e28be0a0f82507eca5b72aced922",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/lateral/config.json": "9d9f34a60e332d5d9b83b128359c666715573ebdefe1e8726f18ca9a1426ae7c"
+    }
+  },
+  "infonce/historical/ensemble": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546084318Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546084318Z/config.json": "3781ac9d98a1fe4a8edbd9e681979a8fa7ca4f79fd9108131f9598421bdcdd14",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546084318Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546084318Z/results.json": "f0191050954afaa93bc476045c5d3ed04a901d4514e1ed2c83304e19985995c8",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546084318Z/scores.npz": "c2fbc1b153bff3e3147564882e7c3b600206da4a473c331aed42b8ed88b73a3e",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/frontal/best.pt": "3979739f7538d072c715bb95c09cecedac21d91d9c859ce5f494795471496a9a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/frontal/config.json": "32cf9f81247514fde5a41d968edff001f3c2dace16705c407c630c8d7e053e93",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/sorriso/best.pt": "eeda1ab9a2ac3a485adfb92094d2bd369687f8e3725179b7ee6f7df4b5e6010a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/sorriso/config.json": "eab8a2768346381be49a95429d5ba2b7dade11dd16b9c997596f5220b51eaa89",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/lateral/best.pt": "047328b70b1dbc6f3f5619ed3c531c6e39eecca50c10a58398659d92a309b3cf",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001936338349Z/lateral/config.json": "b6f73cc90391e1539f05e1f673a766753d3a9945efee85a6cde60d41852ab392",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/config.json": "cec6298ff4c2edefbb2e14708f9b97ef6ce289ee1dc21b59b5be44c5194a76ad",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/results.json": "1af262ac15f74d99ba00a6552e802e08ed3d36490104a12a2f1f5880e38da850",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013544943284Z/scores.npz": "bf8b77fc98803a098b7ebbde9ab3b5cd1272e3036ae5fbc5c6a7fbea6bd884a6",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/config.json": "60706ae2a3456f1213bbf09272f75b5f573140d112fd42add8ab851c9df5b9fd",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/results.json": "0980e6722c025ed58049c591610994fb866b844fa99aead064c94aba0a85f9c8",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545316514Z/scores.npz": "5f20f6a907aea34580587ad0d24e1a707390ddf8b1af66050df12cf4df78059a",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/frontal/best.pt": "5a6f168019160def613ba96e62dc6b7a453c1a8a620f99d692af182221a576c9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/frontal/config.json": "63a3f77633e7e8db900a5b99d55ab1836cd4d7747f1f9c073e44ba3fd4102f25",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/sorriso/best.pt": "c283159f5e9ff208cbf03fa650a6634ad73f927d784bd7d3511308365794272b",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/sorriso/config.json": "978063274b26c7d959045548891f296fc103d43f201eceb08981c77ca36be98d",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/lateral/best.pt": "ea8a41cedf313a0724d31e9594f802f45741c30f0e6b3e8620d79ea8b5f6a476",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002118832190Z/lateral/config.json": "3fbef64f52d45844afd9836d62b8e603ad36c7aad85ee3e0800889084c091c83",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/config.json": "82add3330f3a6ac7bd17ace918d58dc10472cfedd9d2469ceee1eb34b03782e9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/results.json": "32a7d415a3f6340690aeaf5e8a9550e636d96d22c932747060c27c5e8309c212",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013545693226Z/scores.npz": "7807b596748790e5e499804ab5ae24f4c27208e7121191565e6b3e566b151f52",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/frontal/best.pt": "cfda2daf6674969627ab39b6e4911628cd47c0475dec130308eaa16715b05da3",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/frontal/config.json": "766db7c208e9ffbca194b0ff315fd59c2a665272034f0ed8452a66edd2ad64de",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/sorriso/best.pt": "f08bd9ebbbbe7aa5750233edfc381e5cbfb013733f12e7ca128af893c47f08af",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/sorriso/config.json": "afedac56094f222667d6a2c060931588a09f64f660cccc3db99ce0eeabfbd800",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/lateral/best.pt": "0754ef53dc306556539c864c6257df8ad565e28be0a0f82507eca5b72aced922",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T002257791310Z/lateral/config.json": "9d9f34a60e332d5d9b83b128359c666715573ebdefe1e8726f18ca9a1426ae7c"
+    }
+  },
+  "triplet/historical/42": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/config.json": "51684045ee837b3df78faefe835e6bc81b3f9b2859723e8a3a2b28d85acaaf98",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/results.json": "23da5726a4863606f3537623d66d19c297eefd2cc99de4f0c95957ce8f2b2c1b",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/scores.npz": "0d9999b7b7793eb69db3953664d8fec0659421418fb0c198a88aaa8b56a2d619",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/frontal/best.pt": "1b8688e29f69e015c7729625ef310d068ffc6fc668043623b615b323bec27979",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/frontal/config.json": "a27a724356431d321bcc7dad4dbdfbd20bb309dbf9c2fbf2c70e581c71d2ff07",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/sorriso/best.pt": "68487b84bb5aebafd3bb00ca80c2e8cc84d32b297e2671768b425dff3b556094",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/sorriso/config.json": "7fb88ebc434ac2667d0d89e8cd6cc5dacc1725f8e52ab69646aef7477dbb3811",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/lateral/best.pt": "a4a37e578dc21c4e01c1e08cea934bb4c49f4f7e3af1fb9a7cb0c30e659757ea",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/lateral/config.json": "6ced45d70e17873b611bb0f8a9a9992ffadc5666aead383b94fb92bdd91dcd7d"
+    }
+  },
+  "triplet/historical/43": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/config.json": "332a54e22d4f1bffdc35805d9de443adbdf81d4e475b19bda85680c10bde9e04",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/results.json": "9c7b30f44ae5f49b92188c1a0462c8d09e2d28596e82dae100490acc49b841be",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/scores.npz": "974ccb33563c6af2d1fe553a3fead087adcc9e64baa2c5e255a98a614aa9c204",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/frontal/best.pt": "2a5b91078238bc8b92e07f9408b5d9afee9d63639412d333ade1fd1f850edb54",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/frontal/config.json": "e3db1ada5f0e6d3aa5d9f2eb1b569b32c47f05da524d731b8840941a1129e885",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/sorriso/best.pt": "92a02f105850b5854824df0d12a9b88a99cb9497bb092b8da42a40337472e379",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/sorriso/config.json": "532581f1420bf3864e4559567161278478fb090bc3e62ddef76d84e04a741b5f",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/lateral/best.pt": "ca3180bdd3b202dbda231fd396fb5933f5458fd63fbeb3a71a1644692b25b392",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/lateral/config.json": "3023a55f1f78dc7896e95c5a4c7ed43fb79892b8a9969899cdd63e153d795e51"
+    }
+  },
+  "triplet/historical/44": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/config.json": "a8bd602ddbbcd44ee0afd4d33e474eec760a1a51e6f75144734939291475f186",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/results.json": "3dafdd4347a587770b1bb87acdab32e9212f96aaedf0a551c119bf8b1021ae31",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/scores.npz": "37693ce18b1c211cd51350f22a253d9e593fddbae3a7d2891fb296a22895de42",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/frontal/best.pt": "57dd83016bbac89ae3e96917028ff6520715b199cdf18fec6c29b7a93bf2aaa4",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/frontal/config.json": "b60aaa986a172fd908735f16237cf853532ba518b3b0dfd7e80705b6f5304433",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/sorriso/best.pt": "ac64e9be72910c1e5262b7ccec3770b6bf0040535cc5d2eb086ebe7466f90afc",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/sorriso/config.json": "08b88b422f0f1ea94b2ea2ae210fed16d7e745c8842cc5e03f994da20b179a05",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/lateral/best.pt": "fa5df0511f9156af20cb76d52a7e4f8b5a79a65828b5a2b143478046002328c1",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/lateral/config.json": "b8a19154733564cd5d675adb7619421783e9cfd5de856bf58a18a52b7bdcf186"
+    }
+  },
+  "triplet/historical/ensemble": {
+    "output": "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547800489Z",
+    "hashes": {
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547800489Z/config.json": "cbb3759023093e18b738ed91b0ff81f38c510001469aade77b90b5ec28970898",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547800489Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547800489Z/results.json": "85cbfebecf2bbde95a24c89769a465cb3e0a260a0a92eca94fdc874024c57e8b",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547800489Z/scores.npz": "0cae3a6dfb86d36706ec9c22a9ebac82355fb1782b6c26f95856d619943fc201",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/frontal/best.pt": "1b8688e29f69e015c7729625ef310d068ffc6fc668043623b615b323bec27979",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/frontal/config.json": "a27a724356431d321bcc7dad4dbdfbd20bb309dbf9c2fbf2c70e581c71d2ff07",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/sorriso/best.pt": "68487b84bb5aebafd3bb00ca80c2e8cc84d32b297e2671768b425dff3b556094",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/sorriso/config.json": "7fb88ebc434ac2667d0d89e8cd6cc5dacc1725f8e52ab69646aef7477dbb3811",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/lateral/best.pt": "a4a37e578dc21c4e01c1e08cea934bb4c49f4f7e3af1fb9a7cb0c30e659757ea",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001439654422Z/lateral/config.json": "6ced45d70e17873b611bb0f8a9a9992ffadc5666aead383b94fb92bdd91dcd7d",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/config.json": "51684045ee837b3df78faefe835e6bc81b3f9b2859723e8a3a2b28d85acaaf98",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/results.json": "23da5726a4863606f3537623d66d19c297eefd2cc99de4f0c95957ce8f2b2c1b",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013546621665Z/scores.npz": "0d9999b7b7793eb69db3953664d8fec0659421418fb0c198a88aaa8b56a2d619",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/config.json": "332a54e22d4f1bffdc35805d9de443adbdf81d4e475b19bda85680c10bde9e04",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/results.json": "9c7b30f44ae5f49b92188c1a0462c8d09e2d28596e82dae100490acc49b841be",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547009886Z/scores.npz": "974ccb33563c6af2d1fe553a3fead087adcc9e64baa2c5e255a98a614aa9c204",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/frontal/best.pt": "2a5b91078238bc8b92e07f9408b5d9afee9d63639412d333ade1fd1f850edb54",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/frontal/config.json": "e3db1ada5f0e6d3aa5d9f2eb1b569b32c47f05da524d731b8840941a1129e885",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/sorriso/best.pt": "92a02f105850b5854824df0d12a9b88a99cb9497bb092b8da42a40337472e379",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/sorriso/config.json": "532581f1420bf3864e4559567161278478fb090bc3e62ddef76d84e04a741b5f",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/lateral/best.pt": "ca3180bdd3b202dbda231fd396fb5933f5458fd63fbeb3a71a1644692b25b392",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261015T001654691091Z/lateral/config.json": "3023a55f1f78dc7896e95c5a4c7ed43fb79892b8a9969899cdd63e153d795e51",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/config.json": "a8bd602ddbbcd44ee0afd4d33e474eec760a1a51e6f75144734939291475f186",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/cohort.json": "56affa3cffccc42bbebec125077a4d838a041f849d009f2d5f73b6056d39f8a9",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/results.json": "3dafdd4347a587770b1bb87acdab32e9212f96aaedf0a551c119bf8b1021ae31",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusions/20261015T013547391339Z/scores.npz": "37693ce18b1c211cd51350f22a253d9e593fddbae3a7d2891fb296a22895de42",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/frontal/best.pt": "57dd83016bbac89ae3e96917028ff6520715b199cdf18fec6c29b7a93bf2aaa4",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/frontal/config.json": "b60aaa986a172fd908735f16237cf853532ba518b3b0dfd7e80705b6f5304433",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/sorriso/best.pt": "ac64e9be72910c1e5262b7ccec3770b6bf0040535cc5d2eb086ebe7466f90afc",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/sorriso/config.json": "08b88b422f0f1ea94b2ea2ae210fed16d7e745c8842cc5e03f994da20b179a05",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/lateral/best.pt": "fa5df0511f9156af20cb76d52a7e4f8b5a79a65828b5a2b143478046002328c1",
+      "/Users/juliameneses/Documents/Gigi/Treinamento_DINOv2_face_cranio/artifacts/fusion_training/20261014T235511901981Z/lateral/config.json": "b8a19154733564cd5d675adb7619421783e9cfd5de856bf58a18a52b7bdcf186"
+    }
+  }
+}

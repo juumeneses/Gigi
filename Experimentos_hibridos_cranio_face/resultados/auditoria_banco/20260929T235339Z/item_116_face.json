@@ -1,0 +1,21 @@
+{
+  "signature": "0de7737e5137faf65776a5071d25aebed018559becadca4af81517d9fd4b3151",
+  "metadata": {
+    "id": "2019_117_KRMV",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_117_KRMV_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_117_KRMV_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 524,
+    "altura": 745,
+    "contraste": 69.93959208373688,
+    "nitidez_512": 689.9017798246866,
+    "sha256": "0de7737e5137faf65776a5071d25aebed018559becadca4af81517d9fd4b3151",
+    "bytes": 34696
+  }
+}

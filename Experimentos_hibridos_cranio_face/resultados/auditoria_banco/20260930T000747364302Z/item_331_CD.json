@@ -1,0 +1,21 @@
+{
+  "signature": "118731bdb328f6859afaa8f8be140d5aec8bd97bbc342c4555c100f973e759e5",
+  "metadata": {
+    "id": "2019_61_EPRA",
+    "ano": "2019",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2019/CD/2019_61_EPRA_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2019/CD/2019_61_EPRA_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 2111,
+    "altura": 1378,
+    "contraste": 96.72680960542301,
+    "nitidez_512": 1071.5049588323354,
+    "sha256": "118731bdb328f6859afaa8f8be140d5aec8bd97bbc342c4555c100f973e759e5",
+    "bytes": 208300
+  }
+}

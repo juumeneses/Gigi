@@ -1,0 +1,21 @@
+{
+  "signature": "b429730a3099a52902dadedf246b691d1f35272151e2c0e8f0897ec6b7d88bb5",
+  "metadata": {
+    "id": "2021_15_ARDC",
+    "ano": "2021",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CD/2021_15_ARDC_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CD/2021_15_ARDC_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1001,
+    "altura": 936,
+    "contraste": 87.51674171865251,
+    "nitidez_512": 742.4968197831994,
+    "sha256": "b429730a3099a52902dadedf246b691d1f35272151e2c0e8f0897ec6b7d88bb5",
+    "bytes": 250185
+  }
+}

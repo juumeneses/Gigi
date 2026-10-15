@@ -1,0 +1,21 @@
+{
+  "signature": "b83355cda8e9d85be05c0539f30afca860a78d33850feccd356d61dd177d3e81",
+  "metadata": {
+    "id": "2019_187_PCTNP",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_187_PCTNP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_187_PCTNP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 517,
+    "altura": 745,
+    "contraste": 65.9303965257011,
+    "nitidez_512": 609.0421955190824,
+    "sha256": "b83355cda8e9d85be05c0539f30afca860a78d33850feccd356d61dd177d3e81",
+    "bytes": 30466
+  }
+}

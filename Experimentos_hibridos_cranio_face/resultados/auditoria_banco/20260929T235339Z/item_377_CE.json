@@ -1,0 +1,21 @@
+{
+  "signature": "55c0617dc4723b2cf89fffa8e988b6504f8e3c1b559c047f56c957be9a617289",
+  "metadata": {
+    "id": "2021_103_YDMR",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_103_YDMR_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_103_YDMR_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1080,
+    "altura": 1038,
+    "contraste": 92.3740815907958,
+    "nitidez_512": 746.6083064389737,
+    "sha256": "55c0617dc4723b2cf89fffa8e988b6504f8e3c1b559c047f56c957be9a617289",
+    "bytes": 262695
+  }
+}

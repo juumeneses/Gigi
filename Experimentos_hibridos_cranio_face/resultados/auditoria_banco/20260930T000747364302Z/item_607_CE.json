@@ -1,0 +1,21 @@
+{
+  "signature": "d6599a4461eddadf342fdec557adccba233a3648035de5c5e0d300d284511fb0",
+  "metadata": {
+    "id": "2022_69_HRSP",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_69_HRSP_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_69_HRSP_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1084,
+    "altura": 1067,
+    "contraste": 94.86301973737079,
+    "nitidez_512": 830.8389697359473,
+    "sha256": "d6599a4461eddadf342fdec557adccba233a3648035de5c5e0d300d284511fb0",
+    "bytes": 256596
+  }
+}

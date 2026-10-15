@@ -1,0 +1,21 @@
+{
+  "signature": "e37861698d7c7a69f03295a51bc394d95669ac9ece2a2ff929f660754ecf650f",
+  "metadata": {
+    "id": "2022_146_RSV",
+    "ano": "2022",
+    "vista": "CD",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CD/2022_146_RSV_CD.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CD/2022_146_RSV_CD.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1039,
+    "altura": 975,
+    "contraste": 90.11629413148302,
+    "nitidez_512": 870.7821946366624,
+    "sha256": "e37861698d7c7a69f03295a51bc394d95669ac9ece2a2ff929f660754ecf650f",
+    "bytes": 259944
+  }
+}

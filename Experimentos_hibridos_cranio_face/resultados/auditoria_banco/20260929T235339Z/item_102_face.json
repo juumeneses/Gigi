@@ -1,0 +1,21 @@
+{
+  "signature": "0efecc9632b531f41bfc1532f6ac6bcfbdddbac63543887f73c9066a7b973694",
+  "metadata": {
+    "id": "2019_104_JGDO",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_104_JGDO_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_104_JGDO_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 519,
+    "altura": 753,
+    "contraste": 71.40875855066328,
+    "nitidez_512": 910.8815722796481,
+    "sha256": "0efecc9632b531f41bfc1532f6ac6bcfbdddbac63543887f73c9066a7b973694",
+    "bytes": 46421
+  }
+}

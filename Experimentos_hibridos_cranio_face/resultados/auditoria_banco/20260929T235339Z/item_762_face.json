@@ -1,0 +1,21 @@
+{
+  "signature": "68c5671d8c6e753f1bfe35a11c7f5ff59de41ab503a26720087fe0ff3a6da54d",
+  "metadata": {
+    "id": "2023_70_HRF",
+    "ano": "2023",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2023/images/2023_70_HRF_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2023/images/2023_70_HRF_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 303,
+    "altura": 431,
+    "contraste": 75.34064711825746,
+    "nitidez_512": 1071.8370257686809,
+    "sha256": "68c5671d8c6e753f1bfe35a11c7f5ff59de41ab503a26720087fe0ff3a6da54d",
+    "bytes": 13885
+  }
+}

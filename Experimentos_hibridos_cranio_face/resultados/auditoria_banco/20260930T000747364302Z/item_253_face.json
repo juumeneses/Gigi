@@ -1,0 +1,21 @@
+{
+  "signature": "505d49ed99dc8ba87c6c6f6f9fca6a47e63c2cc28d478f61b27ec8cd557b3300",
+  "metadata": {
+    "id": "2019_240_SRGP",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_240_SRGP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_240_SRGP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 516,
+    "altura": 749,
+    "contraste": 86.07132813985285,
+    "nitidez_512": 342.5061199761713,
+    "sha256": "505d49ed99dc8ba87c6c6f6f9fca6a47e63c2cc28d478f61b27ec8cd557b3300",
+    "bytes": 34423
+  }
+}

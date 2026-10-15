@@ -1,0 +1,8 @@
+# Versions available in the existing Treinamento_faces environment.
+torch>=2.2,<3
+torchvision>=0.17,<1
+numpy>=1.26,<3
+Pillow>=10,<13
+opencv-python>=4.9,<5
+pandas>=2,<4
+streamlit>=1.58,<2

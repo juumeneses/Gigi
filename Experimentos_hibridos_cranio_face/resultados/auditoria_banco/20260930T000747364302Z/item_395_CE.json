@@ -1,0 +1,21 @@
+{
+  "signature": "08188e477dc7478baafc0bba3080024e9a77483c725e322eaeaeb1ec2e9c519e",
+  "metadata": {
+    "id": "2021_26_CNA",
+    "ano": "2021",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2021/CE/2021_26_CNA_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2021/CE/2021_26_CNA_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1099,
+    "altura": 981,
+    "contraste": 88.31950360206028,
+    "nitidez_512": 810.6308012684163,
+    "sha256": "08188e477dc7478baafc0bba3080024e9a77483c725e322eaeaeb1ec2e9c519e",
+    "bytes": 273171
+  }
+}

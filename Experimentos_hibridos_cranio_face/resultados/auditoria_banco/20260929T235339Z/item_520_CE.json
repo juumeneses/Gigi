@@ -1,0 +1,21 @@
+{
+  "signature": "9dbc86b0516efcacfdf5784c6ce05d1bfe9c9192a9774f6666cefe895e4fd7c8",
+  "metadata": {
+    "id": "2022_140_RFFS",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_140_RFFS_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_140_RFFS_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1156,
+    "altura": 1009,
+    "contraste": 92.61607445103716,
+    "nitidez_512": 1006.707787091381,
+    "sha256": "9dbc86b0516efcacfdf5784c6ce05d1bfe9c9192a9774f6666cefe895e4fd7c8",
+    "bytes": 277897
+  }
+}

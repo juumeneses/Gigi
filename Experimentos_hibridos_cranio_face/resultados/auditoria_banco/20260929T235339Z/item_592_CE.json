@@ -1,0 +1,21 @@
+{
+  "signature": "6f221ecd29051dd5e02544b46ff2243eb79cdb2e7f4ddaeaf90021ebabde3f05",
+  "metadata": {
+    "id": "2022_55_FISPT",
+    "ano": "2022",
+    "vista": "CE",
+    "caminho_manifesto": "Treinamento_cranios/cranios_normalizados_pb/2022/CE/2022_55_FISPT_CE.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_cranios/cranios_normalizados_variantes/atual/2022/CE/2022_55_FISPT_CE.jpg",
+    "realocado": true
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 1108,
+    "altura": 999,
+    "contraste": 92.11969478659952,
+    "nitidez_512": 832.084922879584,
+    "sha256": "6f221ecd29051dd5e02544b46ff2243eb79cdb2e7f4ddaeaf90021ebabde3f05",
+    "bytes": 261695
+  }
+}

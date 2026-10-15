@@ -1,0 +1,21 @@
+{
+  "signature": "1e1708adc0228b887469163d2f466c7c71726c3cd1209020300175e31a9d3a1a",
+  "metadata": {
+    "id": "2019_4_ACCP",
+    "ano": "2019",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2019/images/2019_4_ACCP_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2019/images/2019_4_ACCP_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 517,
+    "altura": 735,
+    "contraste": 70.51183570226075,
+    "nitidez_512": 292.6855510777604,
+    "sha256": "1e1708adc0228b887469163d2f466c7c71726c3cd1209020300175e31a9d3a1a",
+    "bytes": 32032
+  }
+}

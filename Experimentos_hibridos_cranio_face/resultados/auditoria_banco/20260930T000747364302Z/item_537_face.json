@@ -1,0 +1,21 @@
+{
+  "signature": "71e540a22213bd9908852a4ca4ba75c2bede82d58a91130de8e73dbf3e23dd1f",
+  "metadata": {
+    "id": "2022_156_TIALT",
+    "ano": "2022",
+    "vista": "face",
+    "caminho_manifesto": "Treinamento_faces/dados_originais/faces/2022/images/2022_156_TIALT_FFN.jpg",
+    "caminho": "/Users/juliameneses/Documents/Gigi/Treinamento_faces/dados_originais/faces/2022/images/2022_156_TIALT_FFN.jpg",
+    "realocado": false
+  },
+  "result": {
+    "status": "OK_TECNICO",
+    "motivo": "",
+    "largura": 522,
+    "altura": 736,
+    "contraste": 71.03994370078952,
+    "nitidez_512": 989.0328319795835,
+    "sha256": "71e540a22213bd9908852a4ca4ba75c2bede82d58a91130de8e73dbf3e23dd1f",
+    "bytes": 37120
+  }
+}

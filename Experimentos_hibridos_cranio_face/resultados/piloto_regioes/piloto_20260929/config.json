@@ -1,0 +1,251 @@
+{
+  "version": "regional_audit_v1",
+  "code_hash": "9ed2bdef087fccfb6bca77d936c7a39d36c12d6cb958809b02db8e6b029e6fad",
+  "mediapipe": "0.10.21",
+  "opencv": "4.11.0",
+  "numpy": "1.26.4",
+  "python": "3.11.15",
+  "mapping": {
+    "version": 1,
+    "nota": "Pontos automaticos derivados do MediaPipe; nao sao marcacoes periciais validadas.",
+    "landmarks": {
+      "glabela": {
+        "indices": [
+          9
+        ],
+        "regra": "media",
+        "regiao_cranio": "frontal",
+        "peso": 0.5,
+        "incerteza": "alta"
+      },
+      "nasio": {
+        "indices": [
+          168
+        ],
+        "regra": "media",
+        "regiao_cranio": "nasio",
+        "peso": 0.65,
+        "incerteza": "media"
+      },
+      "exocantio_direito": {
+        "indices": [
+          33
+        ],
+        "regra": "media",
+        "regiao_cranio": "orbita_direita",
+        "peso": 0.9,
+        "incerteza": "baixa"
+      },
+      "endocantio_direito": {
+        "indices": [
+          133
+        ],
+        "regra": "media",
+        "regiao_cranio": "orbita_direita",
+        "peso": 0.9,
+        "incerteza": "baixa"
+      },
+      "endocantio_esquerdo": {
+        "indices": [
+          362
+        ],
+        "regra": "media",
+        "regiao_cranio": "orbita_esquerda",
+        "peso": 0.9,
+        "incerteza": "baixa"
+      },
+      "exocantio_esquerdo": {
+        "indices": [
+          263
+        ],
+        "regra": "media",
+        "regiao_cranio": "orbita_esquerda",
+        "peso": 0.9,
+        "incerteza": "baixa"
+      },
+      "centro_olho_direito": {
+        "indices": [
+          33,
+          133,
+          159,
+          145
+        ],
+        "regra": "media",
+        "regiao_cranio": "orbita_direita",
+        "peso": 1.0,
+        "incerteza": "baixa"
+      },
+      "centro_olho_esquerdo": {
+        "indices": [
+          263,
+          362,
+          386,
+          374
+        ],
+        "regra": "media",
+        "regiao_cranio": "orbita_esquerda",
+        "peso": 1.0,
+        "incerteza": "baixa"
+      },
+      "alare_direito": {
+        "indices": [
+          64
+        ],
+        "regra": "media",
+        "regiao_cranio": "nasal",
+        "peso": 0.8,
+        "incerteza": "media"
+      },
+      "alare_esquerdo": {
+        "indices": [
+          294
+        ],
+        "regra": "media",
+        "regiao_cranio": "nasal",
+        "peso": 0.8,
+        "incerteza": "media"
+      },
+      "pronasale": {
+        "indices": [
+          1
+        ],
+        "regra": "media",
+        "regiao_cranio": "nasal",
+        "peso": 0.7,
+        "incerteza": "media"
+      },
+      "subnasale": {
+        "indices": [
+          2
+        ],
+        "regra": "media",
+        "regiao_cranio": "nasal",
+        "peso": 0.75,
+        "incerteza": "media"
+      },
+      "labiale_superius": {
+        "indices": [
+          0
+        ],
+        "regra": "media",
+        "regiao_cranio": "maxilar",
+        "peso": 0.65,
+        "incerteza": "alta"
+      },
+      "labiale_inferius": {
+        "indices": [
+          17
+        ],
+        "regra": "media",
+        "regiao_cranio": "mandibular",
+        "peso": 0.65,
+        "incerteza": "alta"
+      },
+      "zigio_direito": {
+        "indices": [
+          234
+        ],
+        "regra": "media",
+        "regiao_cranio": "zigomatico_direito",
+        "peso": 0.6,
+        "incerteza": "alta"
+      },
+      "zigio_esquerdo": {
+        "indices": [
+          454
+        ],
+        "regra": "media",
+        "regiao_cranio": "zigomatico_esquerdo",
+        "peso": 0.6,
+        "incerteza": "alta"
+      },
+      "gonio_direito": {
+        "indices": [
+          172
+        ],
+        "regra": "media",
+        "regiao_cranio": "mandibular",
+        "peso": 0.55,
+        "incerteza": "alta"
+      },
+      "gonio_esquerdo": {
+        "indices": [
+          397
+        ],
+        "regra": "media",
+        "regiao_cranio": "mandibular",
+        "peso": 0.55,
+        "incerteza": "alta"
+      },
+      "mento": {
+        "indices": [
+          152
+        ],
+        "regra": "media",
+        "regiao_cranio": "mentoniana",
+        "peso": 0.9,
+        "incerteza": "media"
+      }
+    },
+    "zonas": {
+      "orbital_direita": [
+        33,
+        133,
+        159,
+        145
+      ],
+      "orbital_esquerda": [
+        263,
+        362,
+        386,
+        374
+      ],
+      "nasal": [
+        64,
+        294,
+        168,
+        2
+      ],
+      "zigomatica": [
+        234,
+        454,
+        33,
+        263
+      ],
+      "maxilar_labial": [
+        0,
+        17,
+        61,
+        291
+      ],
+      "mandibular": [
+        172,
+        397,
+        152,
+        234,
+        454
+      ],
+      "mentoniana": [
+        172,
+        397,
+        152
+      ]
+    }
+  },
+  "static_image_mode": true,
+  "refine_landmarks": true,
+  "max_num_faces": 1,
+  "min_detection_confidence": 0.5,
+  "variants": [
+    "original",
+    "brilho_090",
+    "brilho_110",
+    "escala_090",
+    "escala_110",
+    "rotacao_-3",
+    "rotacao_3"
+  ],
+  "box_margin": 0.2,
+  "minimum_margin": 4,
+  "matching_liberado": false
+}
