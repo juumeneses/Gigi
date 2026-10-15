@@ -158,6 +158,9 @@ def export_report(run, result, people):
 
 
 def selection_key(metrics, objective='recall_1'):
+    if objective == 'gallery_recall_1':
+        metrics = metrics['gallery']
+        return metrics['recall_1'], metrics['mrr'], metrics['recall_3'], metrics['recall_5']
     if objective not in ('recall_1', 'recall_10', 'mrr'):
         raise ValueError('Criterio de selecao invalido')
     return (metrics[objective], metrics['mrr' if objective != 'mrr' else 'recall_1'])
@@ -192,9 +195,9 @@ def training_batches(model, data, experiment, usable, batch, seed, epoch, hard=F
 def train(manifest, experiment='E1', cohort_experiment=None, mode='matched', ids=None, epochs=100,
           lr=.001, weight_decay=.0001, batch=32, patience=15, seed=42, loss='infonce',
           temperature=.07, margin=.2, size=224, device='auto', run_dir=None, resume=False,
-          smoke=False, stop=None, log=print, backbone='dinov2_vits14', selection_metric='recall_1',
+          smoke=False, stop=None, log=print, backbone='dinov2_vits14', selection_metric='gallery_recall_1',
           preprocessing='original', negative_sampling='random', hard_k=8, hard_warmup=5):
-    selection_key(dict(mrr=0., recall_1=0., recall_10=0.), selection_metric)
+    selection_key(dict(mrr=0., recall_1=0., recall_10=0., gallery=dict(mrr=0., recall_1=0., recall_3=0., recall_5=0.)), selection_metric)
     if experiment not in EXPERIMENTS or loss not in ('infonce', 'triplet'):
         raise ValueError('Experimento ou loss invalido')
     if any('CE' in EXPERIMENTS[e][1] for e in (experiment, cohort_experiment or experiment)):
@@ -274,7 +277,8 @@ def train(manifest, experiment='E1', cohort_experiment=None, mode='matched', ids
                 history.append(dict(epoch=epoch+1, loss=float(np.mean(losses)), val_mrr=mrr,
                                     val_recall_1=result['full']['recall_1'],val_recall_3=result['full']['recall_3'],
                                     val_recall_5=result['full']['recall_5'],val_recall_10=result['full']['recall_10']))
-                current = selection_key(result['full'], selection_metric)
+                history[-1].update({f'gallery_{k}': v for k, v in result['gallery'].items() if k in ('recall_1','recall_3','recall_5','mrr')})
+                current = selection_key(result if selection_metric == 'gallery_recall_1' else result['full'], selection_metric)
                 if current > best:
                     best, bad = current, 0
                     checkpoint(run/'best.pt', dict(model=model.state_dict(), epoch=epoch+1, config=config))
@@ -284,7 +288,7 @@ def train(manifest, experiment='E1', cohort_experiment=None, mode='matched', ids
                            epoch=epoch+1, best=best, bad=bad, history=history))
                 save(run/'history.json', history)
                 save(run/'status.json', dict(state='RODANDO', phase='train', epoch=epoch+1, epochs=epochs))
-                log(f'Epoca {epoch+1}/{epochs}: loss {history[-1]["loss"]:.5f}; Recall@1 {result["full"]["recall_1"]:.1%}; Recall@10 {result["full"]["recall_10"]:.1%}; MRR {mrr:.4f}; selecao {selection_metric}', flush=True)
+                log(f'Epoca {epoch+1}/{epochs}: loss {history[-1]["loss"]:.5f}; Gallery-{result["gallery_size"]}: Top-1 {result["gallery"]["recall_1"]:.1%}; Top-3 {result["gallery"]["recall_3"]:.1%}; Top-5 {result["gallery"]["recall_5"]:.1%}; selecao {selection_metric}', flush=True)
                 if bad >= patience:
                     break
             state = torch.load(run/'best.pt', map_location='cpu', weights_only=True)

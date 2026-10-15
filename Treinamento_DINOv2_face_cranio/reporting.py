@@ -17,6 +17,11 @@ def started(run):
     return None
 
 
+def newest_first(paths):
+    """Order by the run timestamp, including runs nested under trial/seed folders."""
+    return sorted(paths, key=lambda p: (started(p) or datetime.min.replace(tzinfo=timezone.utc), str(p)), reverse=True)
+
+
 def metadata(run):
     run = Path(run)
     cfg = load(run/'config.json')
@@ -53,6 +58,8 @@ def metadata(run):
             result['Melhor epoca (Recall@1)'] = max(history, key=lambda r: (r['val_recall_1'], r['val_mrr']))['epoch']
         if history and configs[0].get('selection_metric') == 'recall_10':
             result['Melhor epoca (Recall@10)'] = max(history, key=lambda r: (r['val_recall_10'], r['val_mrr']))['epoch']
+        if history and configs[0].get('selection_metric') == 'gallery_recall_1':
+            result['Melhor epoca (Top-1 em 10)'] = max(history, key=lambda r: (r['gallery_recall_1'], r['gallery_mrr'], r['gallery_recall_3'], r['gallery_recall_5']))['epoch']
     else:
         result['Epocas executadas'] = None
         result['Melhor epoca (MRR)'] = None

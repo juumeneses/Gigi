@@ -15,7 +15,7 @@ def controls(manifest,launch,busy):
     if not manifest:
         return
     with st.expander('Pipeline de melhorias: executar e comparar',expanded=False):
-        st.caption('Prioridade: Recall@1. Mesmas pessoas, vistas e galerias entre cenarios; normalizacao ajustada somente no treino. Teste final reservado.')
+        st.caption('Novos checkpoints por Top-1 em galerias de ate 10; MRR desempata. Este painel legado compara os cenarios na galeria completa. Para selecionar tambem configuracoes em Gallery-10, use Pipeline Top-1 / 3 / 5. Teste final reservado.')
         a,b = st.columns(2)
         backbone = a.selectbox('Extrator do pipeline',list(MODELS),index=1,key='pipeline_backbone',format_func=lambda k:MODELS[k][0])
         losses = b.multiselect('Losses do pipeline',['infonce','triplet'],default=['infonce','triplet'])

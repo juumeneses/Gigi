@@ -8,6 +8,12 @@ from Treinamento_DINOv2_face_cranio.tests.test_pipeline import FakeExtractor, fi
 
 
 class RetrievalPipelineTest(unittest.TestCase):
+    def test_gallery_top1_beats_full_top10(self):
+        a=dict(full=dict(recall_10=.9),gallery=dict(recall_1=.4,mrr=.6,recall_3=.8,recall_5=.9))
+        b=dict(full=dict(recall_10=.6),gallery=dict(recall_1=.6,mrr=.5,recall_3=.7,recall_5=.8))
+        self.assertGreater(engine.selection_key(b,'gallery_recall_1'),engine.selection_key(a,'gallery_recall_1'))
+        self.assertGreater(pipeline.key(b['gallery']),pipeline.key(a['gallery']))
+
     def test_top10_selection_and_mrr_tiebreak(self):
         self.assertGreater(engine.selection_key(dict(recall_1=.1,recall_10=.8,mrr=.2),'recall_10'),
                            engine.selection_key(dict(recall_1=.5,recall_10=.7,mrr=.6),'recall_10'))
@@ -40,13 +46,13 @@ class RetrievalPipelineTest(unittest.TestCase):
                 run=pipeline.run_pipeline(**args)
                 self.assertEqual(core.load(run/'status.json')['state'],'CONCLUIDO')
                 result=core.load(run/'summary.json')
-                self.assertEqual(result['primary_metric'],'recall_10')
+                self.assertEqual(result['primary_metric'],'gallery_recall_1')
                 self.assertEqual(len(core.load(run/'backbone_comparison.json')),2)
                 self.assertEqual(len(core.load(run/'parameter_screening.json')['rows']),4)
                 recommendation=core.load(run/'recommended.json')
                 self.assertEqual(recommendation['metrics']['n_seeds'],3)
                 self.assertTrue(Path(recommendation['output']).exists())
-                self.assertTrue(all(core.load(p)['selection_metric']=='recall_10' for p in run.glob('trials/*/seed*/*/config.json')))
+                self.assertTrue(all(core.load(p)['selection_metric']=='gallery_recall_1' for p in run.glob('trials/*/seed*/*/config.json')))
                 self.assertTrue(all('val_recall_10' in core.load(p)[0] for p in run.glob('trials/*/seed*/*/history.json')))
                 baseline=next(r for r in result['rows'] if r['backbone']=='dinov2_vitb14' and r['kind']=='ensemble')
                 self.assertTrue(baseline['confirmed'])

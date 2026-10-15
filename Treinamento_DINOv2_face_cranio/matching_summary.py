@@ -2,6 +2,7 @@
 from zoneinfo import ZoneInfo
 
 from .core import load
+from .portable import Path
 from .reporting import started
 
 
@@ -28,6 +29,7 @@ def query_summary(result, ranking=None):
 
 
 def history_label(path):
+    path = Path(path)
     result = load(path)
     summary = query_summary(result)
     date = started(path.parent)
@@ -35,3 +37,16 @@ def history_label(path):
     position = summary['Posicao do correto'] or 'sem score'
     outcome = f'correto em {position} | Top-1: {summary["Top-1"]}' if summary['Referencia conhecida'] else 'sem referencia conhecida'
     return f'{when} | {summary["Pessoa de referencia"]} | {len(result["candidates"])} cranios | {outcome}'
+
+
+def history_rows(paths):
+    rows=[]
+    for path in paths:
+        result=load(path)
+        summary=query_summary(result)
+        date=started(path.parent)
+        rows.append({'Rodada':path.parent.name,
+                     'Data':date.astimezone(ZoneInfo('America/Sao_Paulo')).strftime('%d/%m/%Y %H:%M:%S') if date else path.parent.name,
+                     **summary,'Modelo':str(result['model']),
+                     'Pesos neutra / sorriso / lateral':str(result.get('weights','Nao se aplica'))})
+    return rows

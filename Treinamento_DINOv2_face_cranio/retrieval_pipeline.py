@@ -11,7 +11,7 @@ from .weight_search import rank_metrics
 
 
 def key(metrics):
-    return metrics['recall_10'],metrics['mrr'],metrics['recall_1']
+    return metrics['recall_1'],metrics['mrr'],metrics['recall_3'],metrics['recall_5']
 
 
 def trial_id(model,lr,margin):
@@ -30,9 +30,10 @@ def summarize(run,records,phase,baseline_model='dinov2_vitb14'):
             n_seeds=len(members) if kind=='individual' else first['n_seeds'],
             confirmed=kind=='ensemble' or len(members)>=3,outputs=[m['output'] for m in members])
         for name in ('recall_1','recall_3','recall_5','recall_10','mrr'):
-            values=[e['full'][name] for e in evaluations]
+            values=[e['gallery'][name] for e in evaluations]
             row[name]=float(np.mean(values));row[name+'_sd']=float(np.std(values,ddof=1)) if len(values)>1 else None
-        row['failures']=sum(e['full']['failures'] for e in evaluations)
+        row['gallery_size']=evaluations[0]['gallery_size']
+        row['failures']=sum(e['gallery']['failures'] for e in evaluations)
         rows.append(row)
         for m,e in zip(members,evaluations):
             model=Path(m['output']);cfg=load(model/'config.json')
@@ -49,7 +50,7 @@ def summarize(run,records,phase,baseline_model='dinov2_vitb14'):
     baseline_ensemble=next((r for r in rows if r['backbone']==baseline_model and r['lr']==.001 and r['margin']==.2 and r['kind']=='ensemble'),None)
     for row in rows:
         base=baseline_ensemble if row['kind']=='ensemble' else baseline
-        row['delta_recall_10']=row['recall_10']-base['recall_10'] if base else None
+        row['delta_recall_1']=row['recall_1']-base['recall_1'] if base else None
         row['ci95']=None;row['conclusion']='triagem de uma seed' if not row['confirmed'] else 'baseline pendente'
         if base and row['confirmed']:
             evaluations=[load(Path(p)/'results.json')['combinado'] for p in row['outputs']]
@@ -57,16 +58,16 @@ def summarize(run,records,phase,baseline_model='dinov2_vitb14'):
             reference=evaluations[0]
             if any(e['galleries']!=reference['galleries'] or [r['person'] for r in e['rows']]!=[r['person'] for r in reference['rows']] for e in evaluations+baselines):
                 raise ValueError('Comparacao usa galerias ou identidades diferentes')
-            hits=lambda es:np.mean([[float(r['rank'] is not None and r['rank']<=10) for r in e['rows']] for e in es],axis=0)
+            hits=lambda es:np.mean([[float(r['gallery_rank'] is not None and r['gallery_rank']==1) for r in e['rows']] for e in es],axis=0)
             delta=hits(evaluations)-hits(baselines);rng=np.random.default_rng(42)
             interval=np.round(np.quantile(delta[rng.integers(0,len(delta),(2000,len(delta)))].mean(1),[.025,.975]),12).tolist()
             row.update(ci95=interval,conclusion='ganho inconclusivo' if interval[0]<=0<=interval[1] else 'melhora' if interval[0]>0 else 'piora')
     rows.sort(key=lambda r:(r['confirmed'],*key(r)),reverse=True)
-    summary=dict(phase=phase,primary_metric='recall_10',rows=rows,subsets=subsets,examples=examples,
+    summary=dict(phase=phase,primary_metric='gallery_recall_1',evaluation_scope='gallery',rows=rows,subsets=subsets,examples=examples,
         note='Validacao exploratoria: triagem e escolha de parametros usam as mesmas pessoas. Seeds nao sao novas identidades. Teste final reservado; nenhuma acuracia prometida.')
     save(run/'summary.json',summary);csv_write(run/'results.csv',rows);csv_write(run/'subsets.csv',subsets)
-    fields=('backbone','lr','margin','kind','n_seeds','confirmed','recall_1','recall_3','recall_5','recall_10','mrr','delta_recall_10','conclusion')
-    document='<meta charset="utf-8"><h1>Pipeline Top-10</h1><p>'+html.escape(summary['note'])+'</p><table border="1"><tr>'+''.join('<th>'+f+'</th>' for f in fields)+'</tr>'
+    fields=('backbone','lr','margin','kind','n_seeds','confirmed','gallery_size','recall_1','recall_3','recall_5','mrr','delta_recall_1','conclusion')
+    document='<meta charset="utf-8"><h1>Pipeline Top-1 / 3 / 5 - galeria de 10</h1><p>'+html.escape(summary['note'])+'</p><table border="1"><tr>'+''.join('<th>'+f+'</th>' for f in fields)+'</tr>'
     for row in rows:document+='<tr>'+''.join('<td>'+html.escape(str(row.get(f,'')))+'</td>' for f in fields)+'</tr>'
     atomic(run/'report.html',(document+'</table>').encode())
     return rows
@@ -90,7 +91,7 @@ def run_pipeline(manifest,run_dir=None,backbones=('dinov2_vitb14','convnext_tiny
     run=Path(run_dir) if run_dir else new_run('retrieval_pipelines');run.mkdir(parents=True,exist_ok=True)
     request=dict(manifest=str(Path(manifest).resolve()),manifest_hash=sha(manifest),backbones=models,seeds=seeds,
         learning_rates=rates,margins=margins,tune=tune,weights=list(weights),epochs=epochs,patience=patience,batch=batch,size=size,device=device,
-        smoke=smoke,input_hashes=inputs,cohort=c['fingerprint'],selection_metric='recall_10',loss='triplet',
+        smoke=smoke,input_hashes=inputs,cohort=c['fingerprint'],selection_metric='gallery_recall_1',loss='triplet',
         code_hash=digest({name:sha(ROOT/name) for name in ('engine.py','backbone.py','data.py','fusion.py','core.py','preprocessing.py','ensemble.py','weight_search.py','retrieval_pipeline.py')}))
     if (run/'request.json').exists() and load(run/'request.json')!=request:raise ValueError('Retomada incompativel com dados, parametros ou codigo')
     save(run/'request.json',request);save(run/'cohort.json',c)
@@ -123,7 +124,7 @@ def run_pipeline(manifest,run_dir=None,backbones=('dinov2_vitb14','convnext_tiny
             bundle=run/'trials'/tid/f'seed{seed}';keys=seed_keys(model,lr,margin,seed)
             stage(keys[0],lambda:fusion.train_components(manifest,run_dir=bundle,loss='triplet',seed=seed,backbone=model,
                 epochs=epochs,patience=patience,batch=batch,lr=lr,margin=margin,size=size,device=device,
-                selection_metric='recall_10',preprocessing='original',negative_sampling='random',smoke=smoke,stop=stop,log=log))
+                selection_metric='gallery_recall_1',preprocessing='original',negative_sampling='random',smoke=smoke,stop=stop,log=log))
             out=stage(keys[1],lambda:fusion.fuse(bundle,weights,stop,log));outputs.append(str(out.resolve()))
             if not any(r['trial']==tid and r['seed']==seed and r['kind']=='individual' for r in records):
                 records.append(dict(trial=tid,backbone=model,lr=lr,margin=margin,kind='individual',seed=seed,n_seeds=1,output=str(out.resolve())))
@@ -135,10 +136,10 @@ def run_pipeline(manifest,run_dir=None,backbones=('dinov2_vitb14','convnext_tiny
         benchmark=[]
         for model in models:
             outputs=trial(model,.001,.2,seeds)
-            metrics=[load(Path(p)/'results.json')['combinado']['full'] for p in outputs]
-            benchmark.append(dict(backbone=model,**{k:float(np.mean([m[k] for m in metrics])) for k in ('recall_1','recall_10','mrr')}))
+            metrics=[load(Path(p)/'results.json')['combinado']['gallery'] for p in outputs]
+            benchmark.append(dict(backbone=model,**{k:float(np.mean([m[k] for m in metrics])) for k in ('recall_1','recall_3','recall_5','mrr')}))
         chosen=max(benchmark,key=key)['backbone'];save(run/'backbone_comparison.json',benchmark)
-        save(run/'selection.json',dict(backbone=chosen,criterion='mean_seed_recall_10_then_mrr',screening_seed=seeds[0]))
+        save(run/'selection.json',dict(backbone=chosen,criterion='mean_seed_gallery_recall_1_then_mrr',screening_seed=seeds[0]))
         chosen_lr,chosen_margin=.001,.2
         if tune:
             phase='Triagem de parametros (uma seed)';candidates=[]
@@ -146,7 +147,7 @@ def run_pipeline(manifest,run_dir=None,backbones=('dinov2_vitb14','convnext_tiny
             for lr in rates:
                 for margin in margins:
                     out=trial(chosen,lr,margin,[seeds[0]])[0]
-                    candidates.append(dict(lr=lr,margin=margin,**load(Path(out)/'results.json')['combinado']['full']))
+                    candidates.append(dict(lr=lr,margin=margin,**load(Path(out)/'results.json')['combinado']['gallery']))
             best=max(candidates,key=key);chosen_lr,chosen_margin=best['lr'],best['margin']
             save(run/'parameter_screening.json',dict(seed=seeds[0],rows=candidates,chosen=best,note='Triagem provisoria, ainda nao confirmada nas outras seeds'))
             phase='Confirmacao com tres seeds';trial(chosen,chosen_lr,chosen_margin,seeds)
@@ -159,7 +160,7 @@ def run_pipeline(manifest,run_dir=None,backbones=('dinov2_vitb14','convnext_tiny
             records.append(dict(members[0],kind='ensemble',seed=-1,n_seeds=3,output=str(output.resolve())))
         save(run/'records.json',records);rows=summarize(run,records,phase,models[0])
         final=max([r for r in rows if r['kind']=='ensemble'],key=key)
-        save(run/'recommended.json',dict(output=final['outputs'][0],metrics=final,criterion='validation_recall_10_then_mrr',
+        save(run/'recommended.json',dict(output=final['outputs'][0],metrics=final,criterion='validation_gallery_recall_1_then_mrr',
             note='Configuracao escolhida nesta validacao. Nao e teste independente.'))
         status('CONCLUIDO','Concluido')
     except InterruptedError:status('INTERROMPIDO')

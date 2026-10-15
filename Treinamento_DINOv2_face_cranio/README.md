@@ -142,3 +142,31 @@ python -m Treinamento_DINOv2_face_cranio.cli --help
 Os testes funcionais usam dados sinteticos; nao medem qualidade cientifica.
 O bloqueio de jobs possui implementacoes Unix e Windows. Os testes locais
 foram feitos no Mac; confira o Windows no computador de destino.
+
+## Objetivo Atual: Top-1, Top-3 E Top-5
+
+Novos treinos individuais e o pipeline de recuperacao selecionam checkpoints por
+Top-1 em galerias fixas de ate 10 candidatos da validacao; MRR desempata, seguido
+de Top-3 e Top-5. Os splits continuam separados por pessoa e o teste final permanece
+reservado. Top-10 nesse cenario nao distingue modelos quando o correto esta presente.
+
+Em Resultados > Pipeline Top-1 / 3 / 5, a tabela de rodadas permite selecionar uma
+linha para consultar parametros, combinacoes, graficos e usar o modelo no Matching.
+As metricas historicas em Gallery-10 sao lidas sem alterar pesos ou relatorios
+anteriores. O objetivo original de cada rodada continua indicado: reavaliar um
+modelo nao significa que ele foi treinado com o criterio novo. Comparacoes sao
+exploratorias; use as mesmas galerias e identidades e confirme no teste reservado.
+
+### Historico E Matching Em Lote
+
+No Matching, o historico geral mostra consultas salvas de todos os modelos,
+mais recentes primeiro. Abrir uma rodada recupera seu modelo, pesos, candidatos
+e ranking; consultas antigas nao sao recalculadas automaticamente.
+
+Em Teste conhecido > Rodar varios sorteios automaticamente, o padrao e 10 faces
+distintas, cada uma contra 10 cranios incluindo o correto uma vez. O botao
+Rodar lote de Matching usa a inferencia normal e os pesos selecionados, sem novo
+treinamento. Cada consulta e salva no historico e o lote em `artifacts/matching_batches`.
+Resultados dos lotes de Matching mostra contagens Top-1/3/5, erros, rankings e
+parametros. Falhas permanecem no denominador. Lotes interrompidos sao parciais.
+Um lote pequeno e exploratorio e nao substitui a avaliacao por pessoa no teste.

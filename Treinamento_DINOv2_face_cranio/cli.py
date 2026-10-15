@@ -16,6 +16,9 @@ from Treinamento_DINOv2_face_cranio.core import ARTIFACTS, load, new_run, save
 
 
 def execute(action, args, stop=None):
+    if action == 'matching_batch':
+        from Treinamento_DINOv2_face_cranio.matching_batch import run_batch
+        return run_batch(**args,stop=stop)
     if action == 'retrieval_pipeline':
         from Treinamento_DINOv2_face_cranio.retrieval_pipeline import run_pipeline
         return run_pipeline(**args,stop=stop)
@@ -66,7 +69,7 @@ def execute(action, args, stop=None):
 
 def main():
     p = argparse.ArgumentParser(description='DINOv2: etapas isoladas, sem pontos obrigatorios')
-    p.add_argument('action', nargs='?', choices=['inventory', 'prepare', 'extract', 'train', 'suite', 'evaluate', 'compare', 'explain', 'freeze', 'train_components', 'train_combinations', 'all_combinations', 'fuse', 'compare_fusion', 'visual_report', 'search_weights', 'improvement_pipeline', 'blend_models', 'quality_audit', 'matching_breakdown', 'retrieval_pipeline'])
+    p.add_argument('action', nargs='?', choices=['inventory', 'prepare', 'extract', 'train', 'suite', 'evaluate', 'compare', 'explain', 'freeze', 'train_components', 'train_combinations', 'all_combinations', 'fuse', 'compare_fusion', 'visual_report', 'search_weights', 'improvement_pipeline', 'blend_models', 'quality_audit', 'matching_breakdown', 'retrieval_pipeline', 'matching_batch'])
     p.add_argument('--args', type=Path, help='Parametros da etapa em JSON')
     p.add_argument('--request', type=Path, help='Request do job: action e args')
     p.add_argument('--run-dir', type=str)

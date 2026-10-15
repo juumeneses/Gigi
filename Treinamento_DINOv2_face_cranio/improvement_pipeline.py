@@ -168,7 +168,7 @@ def run_pipeline(manifest, run_dir=None, conditions=None, losses=None, seeds=Non
               for person in c['people'] if person['split'] in ('treino','validacao')
               for view,row in person['views'].items() if view in ('FFN','FFS','FL','CF','CD')}
     reference_sources = reference_sources or {}
-    params = dict(params, selection_metric='recall_1')
+    params = dict(params, selection_metric='gallery_recall_1')
     request = dict(manifest=str(Path(manifest).resolve()),manifest_hash=sha(manifest),conditions=conditions,
         losses=losses,seeds=seeds,weights=list(weights),reference_sources=reference_sources,params=params,existing_only=existing_only,
         reference_hashes={str(p):file_signatures(p) for sources in reference_sources.values() for p in sources},

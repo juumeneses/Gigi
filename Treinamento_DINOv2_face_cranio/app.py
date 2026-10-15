@@ -22,7 +22,7 @@ from Treinamento_DINOv2_face_cranio.data import cohort
 from Treinamento_DINOv2_face_cranio.engine import paired_comparison, sample_gallery
 from Treinamento_DINOv2_face_cranio.log_view import log_html
 from Treinamento_DINOv2_face_cranio.visuals import overlay as sensitivity_overlay
-from Treinamento_DINOv2_face_cranio.reporting import metadata, comparison_rows
+from Treinamento_DINOv2_face_cranio.reporting import metadata, comparison_rows, newest_first
 from Treinamento_DINOv2_face_cranio.ui_help import HELP, table, metrics_help
 from Treinamento_DINOv2_face_cranio.matching_summary import query_summary, history_label
 from Treinamento_DINOv2_face_cranio.core import uses_ce
@@ -145,7 +145,11 @@ def progress():
                     st.session_state[snapshot_key] = log.read_text(errors='replace')
                 shown = st.session_state[snapshot_key]
                 st.caption('Leitura pausada. O treinamento continua; reative a rolagem para voltar as linhas mais recentes.')
-            st.iframe(log_html(shown, auto_scroll, digest(str(job))), height=244)
+            if hasattr(st, 'iframe'):
+                st.iframe(log_html(shown, auto_scroll, digest(str(job))), height=244)
+            else:
+                from streamlit.components.v1 import html as component_html
+                component_html(log_html(shown, auto_scroll, digest(str(job))), height=244)
             st.download_button('Baixar log completo', log.read_bytes(), job.name+'.log', 'text/plain', key='download_job_log')
     a, b, c = st.columns(3)
     if a.button('Interromper', icon=':material/stop:', disabled=status['state'] not in ('RODANDO', 'INICIANDO')):
@@ -169,7 +173,7 @@ def all_runs():
     paths = (list((ARTIFACTS/'runs').glob('*/config.json')) + list((ARTIFACTS/'suites').glob('*/*/config.json'))
              + list((ARTIFACTS/'fusion_training').glob('*/*/config.json'))
              + list((ARTIFACTS/'retrieval_pipelines').glob('*/trials/*/seed*/*/config.json')))
-    return sorted([p.parent for p in paths if (p.parent/'evaluation.json').exists()], reverse=True)
+    return newest_first([p.parent for p in paths if (p.parent/'evaluation.json').exists()])
 
 
 def run_label(run):
@@ -201,9 +205,9 @@ def choose_run(key):
     latest = values[0]
     group = load(latest/'config.json')['cohort']
     comparable = [p for p in values if load(p/'config.json')['cohort'] == group]
-    best = max(comparable, key=lambda p: (load(p/'evaluation.json')['full']['recall_1'], load(p/'evaluation.json')['full']['mrr']))
-    return st.selectbox('Modelo / execucao', values, index=values.index(best), key=key,
-                        format_func=lambda p: run_label(p)+(' (melhor Recall@1 nesta coorte)' if p == best else ''))
+    best = max(comparable, key=lambda p: (load(p/'evaluation.json')['gallery']['recall_1'], load(p/'evaluation.json')['gallery']['mrr']))
+    return st.selectbox('Modelo / execucao', values, index=0, key=key,
+                        format_func=lambda p: run_label(p)+(' (melhor Top-1 em Gallery-10 nesta coorte)' if p == best else ''))
 
 
 def bank_page(manifest_path):
@@ -281,7 +285,7 @@ def train_page(manifest_path):
     selection = st.selectbox('O que treinar', list(options), format_func=options.get)
     bundles = sorted((ARTIFACTS/'fusion_training').glob('*/request.json'), reverse=True)
     st.caption('Mesmas pessoas com vistas completas para comparar os modelos. O teste final permanece reservado.')
-    st.caption('Prioridade dos novos treinos: Recall@1 na validacao; MRR desempata a escolha do checkpoint.')
+    st.caption('Novos checkpoints: Top-1 em galerias fixas de ate 10 candidatos da validacao; MRR desempata. Top-3 e Top-5 tambem ficam registrados.')
     try:
         c = cohort(manifest_path, 'E6D', 'matched')
     except ValueError as exc:
@@ -307,7 +311,7 @@ def train_page(manifest_path):
         temperature = a.number_input('Temperatura InfoNCE', .001, 1., .07, format='%.3f')
         margin = b.number_input('Margem triplet', .01, 2., .2)
         device = d.selectbox('Dispositivo', ['auto', 'cpu', 'mps', 'cuda'])
-    params = dict(manifest=str(manifest_path), seed=seed, backbone=backbone, selection_metric='recall_1',
+    params = dict(manifest=str(manifest_path), seed=seed, backbone=backbone, selection_metric='gallery_recall_1',
                   epochs=epochs, lr=lr, batch=batch, patience=patience, weight_decay=wd,
                   size=size, loss=loss, temperature=temperature, margin=margin, device=device)
     a, b = st.columns(2)
@@ -412,7 +416,7 @@ def results_page():
     if load(run/'config.json').get('smoke'):
         st.warning('Teste tecnico com poucos casos. Estes numeros nao medem o desempenho no banco completo.')
     st.caption('Resultados de validacao: pessoas separadas do treino. Nao representam o teste final.')
-    general, simple, technical, weight_results, pipeline_results, retrieval_results = st.tabs(['Visao geral', 'Resumo simples', 'Detalhes tecnicos', 'Pesos das vistas', 'Pipeline de melhorias', 'Pipeline Top-10'])
+    general, simple, technical, weight_results, pipeline_results, retrieval_results = st.tabs(['Visao geral', 'Resumo simples', 'Detalhes tecnicos', 'Pesos das vistas', 'Pipeline de melhorias', 'Pipeline Top-1 / 3 / 5'])
     with general:
         general_results(runs)
     with simple:
@@ -434,7 +438,7 @@ def results_page():
 def general_results(runs):
     a, b = st.columns(2)
     include_smoke = a.checkbox('Incluir testes tecnicos', value=False, key='general_smoke')
-    gallery = b.radio('Galeria dos graficos', ['Completa', 'Gallery reduzida'], horizontal=True, key='general_gallery')
+    gallery = b.radio('Galeria dos graficos', ['Gallery reduzida', 'Completa'], horizontal=True, key='general_gallery')
     rows = comparison_rows(runs, [p.parent for p in (ARTIFACTS/'fusions').glob('*/results.json')],
                           gallery='full' if gallery == 'Completa' else 'gallery', include_smoke=include_smoke)
     frame = pd.DataFrame(rows)
@@ -464,7 +468,20 @@ def general_results(runs):
         details = st.checkbox('Mostrar parametros e todas as colunas', value=False)
         columns = ['Data (Sao Paulo)', 'Extrator', 'Modelo', 'Loss', 'Seed', 'Recall@1 (%)', 'Recall@3 (%)',
                    'Recall@5 (%)', 'Recall@10 (%)', 'MRR', 'Evolucao Top-1', 'Ganho Recall@1 vs melhor anterior (p.p.)']
-        table(frame if details else frame[columns])
+        display = frame if details else frame[columns]
+        event = st.dataframe(display, hide_index=True, on_select='rerun', selection_mode='single-row', key='general_selected_run')
+        if event.selection.rows:
+            row = frame.iloc[min(event.selection.rows[0], len(frame)-1)]
+            selected = ARTIFACTS / row['Execucao']
+            st.subheader('Detalhes da rodada selecionada')
+            st.write(row['Data (Sao Paulo)']+' | '+str(row['Modelo']))
+            for col, k in zip(st.columns(3), (1,3,5)):
+                col.metric(f'Top-{k}', f'{row[f"Recall@{k} (%)"]:.1f}%')
+            st.json(load(selected/'config.json'), expanded=False)
+            if (selected/'results.json').exists():
+                st.json(load(selected/'results.json'), expanded=False)
+            else:
+                st.json(load(selected/'evaluation.json'), expanded=False)
     st.download_button('Baixar historico com parametros', frame.to_csv(index=False).encode(), 'historico_parametros.csv',
                        icon=':material/download:', help='CSV completo das execucoes filtradas, incluindo parametros e referencias.')
     with st.expander('Referencia usada na comparacao'):
@@ -722,6 +739,33 @@ def candidate_sheet(candidates, preferred, key):
 
 def matching_page():
     metrics_help()
+    from Treinamento_DINOv2_face_cranio.matching_summary import history_rows
+    history_paths = newest_first([* (ARTIFACTS/'fusion_comparisons').glob('*/result.json'),
+                                  * (ARTIFACTS/'comparisons').glob('*/result.json')])
+    def open_saved_matching():
+        chosen = st.session_state.get('matching_history_choice')
+        if not chosen:
+            st.session_state.pop('matching_saved_output', None)
+            return
+        chosen = Path(chosen)
+        saved = load(chosen)
+        if not (Path(saved['model'])/'config.json').exists() or uses_ce(Path(saved['model'])):
+            st.warning('Esta rodada permanece na tabela, mas seu modelo esta indisponivel ou usa o protocolo antigo com CE.')
+            st.session_state.pop('matching_saved_output', None)
+            return
+        fusion_saved = chosen.parent.parent.name == 'fusion_comparisons'
+        st.session_state['matching_model_type'] = 'Modelos por vista' if fusion_saved else 'Experimentos anteriores'
+        st.session_state['fusion_model_choice' if fusion_saved else 'matching_run'] = Path(saved['model'])
+        st.session_state['matching_saved_output'] = str(chosen)
+    with st.expander(f'Historico de Matching ({len(history_paths)} rodadas)', expanded=True):
+        st.selectbox('Abrir rodada anterior', [None]+[str(p) for p in history_paths],
+                     format_func=lambda p: 'Nova consulta / resultado atual' if p is None else history_label(p),
+                     key='matching_history_choice', on_change=open_saved_matching)
+        if history_paths:
+            st.dataframe(history_rows(history_paths), hide_index=True, height=260)
+            st.caption('Mais recentes primeiro. Top-1/3/5 nesta tabela descrevem cada consulta, nao Recall agregado. Abrir uma rodada recupera seu modelo, pesos e candidatos; nao executa novamente.')
+        else:
+            st.info('Nenhuma consulta salva ainda. Os resultados aparecerao aqui depois de Comparar.')
     fusion_runs = sorted((ARTIFACTS/'fusions').glob('*/results.json'), reverse=True)
     fusion_runs = [p for p in fusion_runs if not uses_ce(p.parent)]
     st.caption('Protocolo sem CE: neutra/sorrindo com CF; lateral facial com CD. Modelos antigos CE+CD ficam apenas no historico de resultados.')
@@ -733,15 +777,15 @@ def matching_page():
         if use_fusion:
             latest_cohort = load(fusion_runs[0].parent/'config.json')['cohort']
             eligible = [p.parent for p in fusion_runs if load(p.parent/'config.json')['cohort'] == latest_cohort]
-            leader = max(eligible, key=lambda p: (load(p/'results.json')['combinado']['full']['recall_1'], load(p/'results.json')['combinado']['full']['mrr']))
+            leader = max(eligible, key=lambda p: (load(p/'results.json')['combinado']['gallery']['recall_1'], load(p/'results.json')['combinado']['gallery']['mrr']))
             def model_label(path):
                 info, cfg = metadata(path), load(path/'config.json')
                 label = f'{info["Extrator"]} | {info["Data (Sao Paulo)"]} | {info["Loss"]} | seed {info["Seed"]} | {path.name}'
                 for flag, text in [('rank_fusion_members','Mistura RRF'),('ensemble_members','ensemble de seeds'),('weight_search','pesos ajustados')]:
                     if cfg.get(flag): label += ' | '+text
-                return label + (' | melhor Recall@1' if path == leader else '')
+                return label + (' | melhor Top-1 em Gallery-10' if path == leader else '')
             run = selectors[1].selectbox('Execucao dos modelos', [p.parent for p in fusion_runs],
-                index=[p.parent for p in fusion_runs].index(leader),
+                index=0,
                 format_func=model_label,key='fusion_model_choice')
             selected_config = load(run/'config.json')
             fixed_blend = bool(selected_config.get('rank_fusion_members'))
@@ -777,6 +821,8 @@ def matching_page():
     mode = st.segmented_control('Consulta', ['Teste conhecido', 'Enviar imagens'], default='Teste conhecido')
     request = None
     if mode == 'Teste conhecido':
+        from Treinamento_DINOv2_face_cranio.matching_batch import controls as batch_controls
+        batch_controls(run, weights if use_fusion else None, all_subsets, launch, worker_busy)
         people = [p for p in load(run/'cohort.json')['people'] if p['split'] == 'validacao']
         if len(people) < 2: return
         a, b = st.columns(2)
@@ -824,13 +870,20 @@ def matching_page():
             with a: picture(request['query']['views'].get(face_views_used[0]), request['query']['person'],240)
             with b: candidate_sheet(request['candidates'],skull_views_used,'draft_candidates')
         if st.button('Comparar', type='primary', icon=':material/compare:', disabled=worker_busy(), help='Calcula o ranking desta amostra com os modelos selecionados. Nao treina novamente.'):
+            st.session_state.pop('matching_saved_output', None)
             st.session_state['compared_request'] = request_token
             launch('compare_fusion' if use_fusion else 'compare', dict(request, weights=weights, all_subsets=all_subsets) if use_fusion else request)
     with st.expander('Acompanhamento e logs', expanded=True): progress()
+    from Treinamento_DINOv2_face_cranio.matching_batch import results as batch_results
+    batch_results()
     st.subheader('Historico e resultados')
-    browse_history = st.checkbox('Ver historico completo deste modelo', help='Inclui outros sorteios e selecoes de vistas deste modelo. Nao altera a amostra preparada acima.')
+    browse_history = st.checkbox('Ver historico completo deste modelo', value=True, help='Inclui outros sorteios e selecoes de vistas deste modelo. Nao altera a amostra preparada acima.')
     outputs = sorted((ARTIFACTS/('fusion_comparisons' if use_fusion else 'comparisons')).glob('*/result.json'), reverse=True)
     outputs = [p for p in outputs if Path(load(p)['model']) == Path(run)]
+    saved_output = st.session_state.get('matching_saved_output')
+    saved_output = Path(saved_output) if saved_output else None
+    if saved_output in outputs:
+        browse_history = True
     if use_fusion and not browse_history:
         outputs = [p for p in outputs if load(p).get('weights') == weights and load(p).get('all_subsets', False) == all_subsets]
     if request and not browse_history:
@@ -839,7 +892,7 @@ def matching_page():
             st.info('Esta amostra ainda nao tem resultado. Clique em Comparar para calcular o ranking.')
     inspection = None
     if outputs:
-        output = st.selectbox('Resultado do matching', outputs, format_func=history_label)
+        output = st.selectbox('Resultado do matching', outputs, index=outputs.index(saved_output) if saved_output in outputs else 0, format_func=history_label)
         result = load(output)
         reference = query_summary(result)
         st.info(f'Resultado consultado: {reference["Pessoa de referencia"]} | Ano: {reference["Ano"]} | {len(result["candidates"])} cranios')
@@ -881,7 +934,7 @@ def matching_page():
         st.subheader('Resumo do ranking')
         if use_fusion and not np.allclose(weights, [st.session_state.get('match_weight_'+n,0) * st.session_state.get('matching_use_'+n,False) for n in ('frontal','sorriso','lateral')]) and not config.get('rank_fusion_members'):
             st.caption('O historico abaixo usou outra selecao de pesos. Metricas desta consulta salva:')
-            profile(run, weights, key='saved')
+            profile(Path(result['model']), weights, key='saved')
         if valid:
             best = valid[0]
             a, b, c = st.columns(3)
