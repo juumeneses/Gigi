@@ -1,8 +1,0 @@
-streamlit
-numpy
-pandas
-opencv-contrib-python
-mediapipe==0.10.21
-pillow
-scikit-learn
-joblib

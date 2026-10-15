@@ -1,7 +1,0 @@
-data/processed/
-data/domain_normalized/
-checkpoints/
-runs/*/best.pt
-studies/**/best.pt
-__pycache__/
-*.pyc

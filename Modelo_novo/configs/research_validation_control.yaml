@@ -1,7 +1,0 @@
-extends: hard_negatives.yaml
-experiment:
-  variant: validation_control_visual
-training:
-  epochs: 24
-  patience: 8
-  global_hard_negative_mining: false
